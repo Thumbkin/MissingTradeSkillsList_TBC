@@ -1601,7 +1601,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Receta: poción de sangre de mago",
                 ["Taiwanese"] = "配方：魔血藥水",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -1628,7 +1628,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Receta: letargo sin sueños superior",
                 ["Taiwanese"] = "配方：強效昏睡藥水",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -1655,7 +1655,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Receta: poción de acción viva",
                 ["Taiwanese"] = "配方：活力行動藥水",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -1682,7 +1682,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Receta: poción de sangre de trol sublime",
                 ["Taiwanese"] = "配方：極效食人妖之血藥水",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -1709,7 +1709,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Receta: transmutar Fuego elemental",
                 ["Taiwanese"] = "配方：轉化元素火焰",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -1743,7 +1743,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Receta: elixir de poder de Fuego superior",
                 ["Taiwanese"] = "配方：強效火力藥劑",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
     },
@@ -3770,7 +3770,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: yelmo de torio encantado",
                 ["Taiwanese"] = "設計圖：魔法瑟銀頭盔",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 7651,
@@ -3790,7 +3790,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: leotardos de torio encantados",
                 ["Taiwanese"] = "設計圖：魔法瑟銀護腿",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 7650,
@@ -3810,7 +3810,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: peto de torio encantado",
                 ["Taiwanese"] = "設計圖：魔法瑟銀胸甲",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 7649,
@@ -4429,7 +4429,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Malla de placas de torio encantado",
                 ["Taiwanese"] = "魔化瑟銀鎧甲",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -4446,7 +4446,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Malla de placas de torio encantado",
                 ["Taiwanese"] = "魔化瑟銀鎧甲",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -4463,7 +4463,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Malla de placas de torio encantado",
                 ["Taiwanese"] = "魔化瑟銀鎧甲",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -4480,7 +4480,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: cinturón Fauces de Madera pesado",
                 ["Taiwanese"] = "設計圖：重型木喉腰帶",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -4507,7 +4507,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: faja del Alba",
                 ["Taiwanese"] = "設計圖：黎明束腰",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -4536,7 +4536,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: botas Fauces de Madera pesadas",
                 ["Taiwanese"] = "設計圖：重型木喉長靴",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -4563,7 +4563,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: guantes del Alba",
                 ["Taiwanese"] = "設計圖：黎明手套",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -4592,7 +4592,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: yelmo Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵頭盔",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -4619,7 +4619,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: guanteletes Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵護手",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -4646,7 +4646,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: amnistía negra",
                 ["Taiwanese"] = "設計圖：黑色赦免者",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -4673,7 +4673,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: Furianegra",
                 ["Taiwanese"] = "設計圖：黑色怒火",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -4700,7 +4700,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: mano de ébano",
                 ["Taiwanese"] = "設計圖：黑手",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -4727,7 +4727,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: guardanegro",
                 ["Taiwanese"] = "設計圖：黑色衛士",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -4754,7 +4754,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: ocaso",
                 ["Taiwanese"] = "設計圖：夜幕",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -4781,7 +4781,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: peto alma de sangre",
                 ["Taiwanese"] = "設計圖：血魂胸甲",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -4808,7 +4808,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: hombreras alma de sangre",
                 ["Taiwanese"] = "設計圖：血魂護肩",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -4835,7 +4835,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: guanteletes alma de sangre",
                 ["Taiwanese"] = "設計圖：血魂護手",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -4862,7 +4862,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: peto Almanegra",
                 ["Taiwanese"] = "設計圖：黑暗之魂胸甲",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -4889,7 +4889,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: leotardos Almanegra",
                 ["Taiwanese"] = "設計圖：黑暗之魂護腿",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -4916,7 +4916,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: hombreras Almanegra",
                 ["Taiwanese"] = "設計圖：黑暗之魂護肩",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -4943,7 +4943,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: botas Hierro Negro",
                 ["Taiwanese"] = "設計圖：黑鐵長靴",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -4970,7 +4970,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: guanteletes runa oscura",
                 ["Taiwanese"] = "設計圖：黑暗符文護手",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 8323,
@@ -4991,7 +4991,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: peto runa oscura",
                 ["Taiwanese"] = "設計圖：黑暗符文胸甲",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 8323,
@@ -5012,7 +5012,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: yelmo runa oscura",
                 ["Taiwanese"] = "設計圖：黑暗符文頭盔",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 8323,
@@ -5033,7 +5033,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: cinturón obsidiano pesado",
                 ["Taiwanese"] = "設計圖：厚重黑曜石腰帶",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -5060,7 +5060,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: cinturón obsidiano ligero",
                 ["Taiwanese"] = "設計圖：輕巧黑曜石腰帶",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -5087,7 +5087,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: escudo dentado obsidiano",
                 ["Taiwanese"] = "設計圖：鋸齒黑曜石之盾",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -5119,7 +5119,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: garra negra del Destructor",
                 ["Taiwanese"] = "設計圖：黑色摧毀者手套",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -5136,7 +5136,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: túnica de malla obsidiana",
                 ["Taiwanese"] = "設計圖：黑曜石鎖甲外套",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -5168,7 +5168,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: peto obsidiano grueso",
                 ["Taiwanese"] = "設計圖：厚黑曜石胸甲",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -5191,7 +5191,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: leotardos titánicos",
                 ["Taiwanese"] = "設計圖：泰坦護腿",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -5214,7 +5214,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: hoja sabia",
                 ["Taiwanese"] = "設計圖：聖劍",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -5237,7 +5237,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: persuasor",
                 ["Taiwanese"] = "設計圖：刺錘",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -5254,7 +5254,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: peto Parraférrea",
                 ["Taiwanese"] = "設計圖：鐵藤胸甲",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -5281,7 +5281,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: guantes Parraférrea",
                 ["Taiwanese"] = "設計圖：鐵藤護手",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -5308,7 +5308,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Diseño: cinturón Parraférrea",
                 ["Taiwanese"] = "設計圖：鐵藤腰帶",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -6984,7 +6984,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Receta: sorpresa de tubérculo runtún",
                 ["Taiwanese"] = "食譜：洛恩塔姆薯塊",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -7024,7 +7024,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Receta: pinchos quimerok potentes de Dirge",
                 ["Taiwanese"] = "食譜：迪爾格的超美味奇美拉肉片",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "epic",
             ["quests"] = {
                 8586,
@@ -8580,7 +8580,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar arma: fuerza",
                 ["Taiwanese"] = "公式：附魔武器 - 力量",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -8607,7 +8607,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar arma: agilidad",
                 ["Taiwanese"] = "公式：附魔武器 - 敏捷",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -8634,7 +8634,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar brazal: regeneración de maná",
                 ["Taiwanese"] = "公式：附魔護腕 - 法力回復",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -8663,7 +8663,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar brazal: curación",
                 ["Taiwanese"] = "公式：附魔護腕 - 治療",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -8692,7 +8692,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar arma: espíritu poderoso",
                 ["Taiwanese"] = "公式：附魔武器 - 強效精神",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -8719,7 +8719,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar arma: intelecto poderoso",
                 ["Taiwanese"] = "公式：附魔武器 - 強效智力",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 59,
@@ -8752,7 +8752,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar guantes: amenaza",
                 ["Taiwanese"] = "公式：附魔手套 - 威脅",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -8787,7 +8787,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar guantes: poder de las Sombras",
                 ["Taiwanese"] = "公式：附魔手套 - 暗影能量",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -8822,7 +8822,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar guantes: poder de Escarcha",
                 ["Taiwanese"] = "公式：附魔手套 - 冰霜能量",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -8857,7 +8857,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar guantes: poder de Fuego",
                 ["Taiwanese"] = "公式：附魔手套 - 火焰能量",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -8892,7 +8892,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar guantes: poder de curación",
                 ["Taiwanese"] = "公式：附魔手套 - 治療能量",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -8927,7 +8927,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar guantes: agilidad excelente",
                 ["Taiwanese"] = "公式：附魔手套 - 超強敏捷",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -8944,7 +8944,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar capa: resistencia superior a Fuego",
                 ["Taiwanese"] = "公式：附魔披風 - 強效火焰抗性",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -8971,7 +8971,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar capa: resistencia superior a Naturaleza",
                 ["Taiwanese"] = "公式：附魔披風 - 強效自然抗性",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -9016,7 +9016,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar capa: sigilo",
                 ["Taiwanese"] = "公式：附魔披風 - 潛行",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -9039,7 +9039,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar capa: sutileza",
                 ["Taiwanese"] = "公式：附魔披風 - 狡詐",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -9074,7 +9074,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar capa: esquivar",
                 ["Taiwanese"] = "公式：附魔披風 - 躲閃",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -9091,7 +9091,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: aceite de maná menor",
                 ["Taiwanese"] = "公式：初級法力之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3000,
@@ -9122,7 +9122,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: aceite de zahorí inferior",
                 ["Taiwanese"] = "公式：次級巫師之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 4000,
@@ -9153,7 +9153,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: aceite de maná inferior",
                 ["Taiwanese"] = "公式：次級法力之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 10000,
@@ -9176,7 +9176,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: aceite de zahorí",
                 ["Taiwanese"] = "公式：巫師之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -9199,7 +9199,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: aceite de zahorí luminoso",
                 ["Taiwanese"] = "公式：卓越巫師之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -9226,7 +9226,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: aceite de maná luminoso",
                 ["Taiwanese"] = "公式：卓越法力之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -9253,7 +9253,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: aceite de zahorí menor",
                 ["Taiwanese"] = "公式：初級巫師之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 500,
@@ -9284,7 +9284,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: encantar arma de 2M: agilidad",
                 ["Taiwanese"] = "公式：附魔雙手武器 - 敏捷",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -10721,7 +10721,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Esquema: recombobulador sublime",
                 ["Taiwanese"] = "結構圖：強力淨化器",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "uncommon",
             ["special_action"] = "dm tribute run",
         },
@@ -10852,7 +10852,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Esquema: gafas Vid de sangre",
                 ["Taiwanese"] = "結構圖：血藤護目鏡",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -10879,7 +10879,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Esquema: lentes Vid de sangre",
                 ["Taiwanese"] = "結構圖：血藤透鏡",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -11201,7 +11201,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Esquema: mando de tanque a vapor",
                 ["Taiwanese"] = "設計圖：蒸氣坦克控制器",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["quests"] = {
                 9249,
@@ -11318,7 +11318,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Fórmula: antídoto potente",
                 ["Taiwanese"] = "配方：強效抗毒藥劑",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -11330,6 +11330,54 @@ MTSL_DATA["items"] = {
                     10856,
                     10857,
                     11536,
+                },
+            },
+        },
+        {
+            ["id"] = 21992,
+            ["name"] = {
+                ["Chinese"] = "手册：灵纹布绷带",
+                ["English"] = "Manual: Netherweave Bandage",
+                ["French"] = "Manuel : Bandage en tisse-néant",
+                ["German"] = "Handbuch: Netherstoffverband",
+                ["Korean"] = "처방전: 황천매듭 붕대",
+                ["Mexican"] = "Manual: venda de tejido abisal",
+                ["Portuguese"] = "Manual: Bandagem de Etertrama",
+                ["Russian"] = "Учебник: бинты из ткани Пустоты",
+                ["Spanish"] = "Manual: venda de tejido abisal",
+                ["Taiwanese"] = "手冊：靈紋布繃帶",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["vendors"] = {
+                ["price"] = 20000,
+                ["sources"] = {
+                    18990,
+                    18991,
+                },
+            },
+        },
+        {
+            ["id"] = 21993,
+            ["name"] = {
+                ["Chinese"] = "手册：厚灵纹布绷带",
+                ["English"] = "Manual: Heavy Netherweave Bandage",
+                ["French"] = "Manuel : Bandage épais en tisse-néant",
+                ["German"] = "Handbuch: Schwerer Netherstoffverband",
+                ["Korean"] = "처방전: 두꺼운 황천매듭 붕대",
+                ["Mexican"] = "Manual: venda de tejido abisal grueso",
+                ["Portuguese"] = "Manual: Bandagem Grossa de Etertrama",
+                ["Russian"] = "Учебник: плотные бинты из ткани Пустоты",
+                ["Spanish"] = "Manual: venda de tejido abisal grueso",
+                ["Taiwanese"] = "手冊：厚靈紋布繃帶",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["vendors"] = {
+                ["price"] = 40000,
+                ["sources"] = {
+                    18990,
+                    18991,
                 },
             },
         },
@@ -13992,7 +14040,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: guantes sombradermos",
                 ["Taiwanese"] = "圖樣：影皮手套",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 3500,
@@ -14046,7 +14094,7 @@ MTSL_DATA["items"] = {
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -14066,7 +14114,7 @@ MTSL_DATA["items"] = {
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -14086,7 +14134,7 @@ MTSL_DATA["items"] = {
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -14106,7 +14154,7 @@ MTSL_DATA["items"] = {
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -14126,7 +14174,7 @@ MTSL_DATA["items"] = {
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -14146,7 +14194,7 @@ MTSL_DATA["items"] = {
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -14163,7 +14211,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: bola de cuero pesado",
                 ["Taiwanese"] = "圖樣：重皮球",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 2000,
@@ -14211,7 +14259,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: poderío de los Fauces de Madera",
                 ["Taiwanese"] = "圖樣：木喉之力",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -14238,7 +14286,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: camorristas Fauces de Madera",
                 ["Taiwanese"] = "圖樣：木喉作戰手套",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -14265,7 +14313,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: botines del Alba",
                 ["Taiwanese"] = "圖樣：黎明皮靴",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -14294,7 +14342,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: manto dorado del Alba",
                 ["Taiwanese"] = "圖樣：金色黎明襯肩",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -14323,7 +14371,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: cinturón de lava",
                 ["Taiwanese"] = "圖樣：熔岩腰帶",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 60000,
@@ -14346,7 +14394,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: guanteletes cromáticos",
                 ["Taiwanese"] = "圖樣：多彩護手",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 90000,
@@ -14369,7 +14417,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: cinturón del can del Núcleo",
                 ["Taiwanese"] = "圖樣：熔火犬皮腰帶",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 90000,
@@ -14392,7 +14440,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: cinturón de arrabio",
                 ["Taiwanese"] = "圖樣：熔火腰帶",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 90000,
@@ -14415,7 +14463,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: chaleco de piel de murciélago primigenio",
                 ["Taiwanese"] = "圖樣：原始蝙蝠皮外套",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -14442,7 +14490,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: guantes de piel de murciélago primigenio",
                 ["Taiwanese"] = "圖樣：原始蝙蝠皮手套",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -14469,7 +14517,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: brazales de piel de murciélago primigenio",
                 ["Taiwanese"] = "圖樣：原始蝙蝠皮護腕",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -14496,7 +14544,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: peto de tigre de sangre",
                 ["Taiwanese"] = "圖樣：血虎胸甲",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -14523,7 +14571,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: hombreras de tigre de sangre",
                 ["Taiwanese"] = "圖樣：血虎護肩",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -14604,7 +14652,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: peto de escamas oníricas",
                 ["Taiwanese"] = "圖樣：夢幻龍鱗胸甲",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -14631,7 +14679,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: brazales escupefuego",
                 ["Taiwanese"] = "圖樣：飛火護腕",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -14658,7 +14706,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: guanteletes escupefuego",
                 ["Taiwanese"] = "圖樣：飛火護手",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -14685,7 +14733,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: peto escupefuego",
                 ["Taiwanese"] = "圖樣：飛火胸甲",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -14712,7 +14760,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: brazales Acecharenas",
                 ["Taiwanese"] = "圖樣：沙行者護腕",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -14739,7 +14787,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: guanteletes Acecharenas",
                 ["Taiwanese"] = "圖樣：沙行者護手",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -14766,7 +14814,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: peto Acecharenas",
                 ["Taiwanese"] = "圖樣：沙行者胸甲",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -14822,7 +14870,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: guantes Velotormenta",
                 ["Taiwanese"] = "圖樣：雷暴手套",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -14839,7 +14887,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: guantes polares",
                 ["Taiwanese"] = "圖樣：極地手套",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -14866,7 +14914,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: cinturón zarzal",
                 ["Taiwanese"] = "圖樣：木藤腰帶",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -14893,7 +14941,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: botas zarzal",
                 ["Taiwanese"] = "圖樣：木藤靴子",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -14920,7 +14968,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: yelmo zarzal",
                 ["Taiwanese"] = "圖樣：木藤頭盔",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -14960,7 +15008,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Vademécum de Veneno mortal V",
                 ["Taiwanese"] = "手册：致命毒药 V",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
     },
@@ -17488,7 +17536,7 @@ MTSL_DATA["items"] = {
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "epic",
         },
         {
@@ -17508,7 +17556,7 @@ MTSL_DATA["items"] = {
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -17528,7 +17576,7 @@ MTSL_DATA["items"] = {
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -17548,7 +17596,7 @@ MTSL_DATA["items"] = {
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -17568,7 +17616,7 @@ MTSL_DATA["items"] = {
             ["objects"] = {
                 179501,
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "rare",
         },
         {
@@ -17585,7 +17633,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: toga de tela lunar",
                 ["Taiwanese"] = "圖樣：月布長袍",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 40000,
@@ -17608,7 +17656,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: sabiduría de los Fauces de Madera",
                 ["Taiwanese"] = "圖樣：木喉之智",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -17635,7 +17683,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: botas Argenta",
                 ["Taiwanese"] = "圖樣：銀色長靴",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -17664,7 +17712,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: hombreras Argenta",
                 ["Taiwanese"] = "圖樣：銀色護肩",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -17693,7 +17741,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: manto de los Fauces de Madera",
                 ["Taiwanese"] = "圖樣：木喉襯肩",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 576,
@@ -17720,7 +17768,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: toga Bengala del Núcleo",
                 ["Taiwanese"] = "圖樣：光芒長袍",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 60000,
@@ -17743,7 +17791,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: leotardos Bengala del Núcleo",
                 ["Taiwanese"] = "設計圖：光芒護腿",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 90000,
@@ -17766,7 +17814,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: jubón Vid de sangre",
                 ["Taiwanese"] = "圖樣：血藤外套",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -17793,7 +17841,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: leotardos Vid de sangre",
                 ["Taiwanese"] = "圖樣：血藤護腿",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -17820,7 +17868,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: botas Vid de sangre",
                 ["Taiwanese"] = "圖樣：血藤長靴",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 270,
@@ -17847,7 +17895,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: leotardos estigios rúnicos",
                 ["Taiwanese"] = "圖樣：符文冥河護腿",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 8323,
@@ -17868,7 +17916,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: botas estigias rúnicas",
                 ["Taiwanese"] = "圖樣：符文冥河長靴",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 8323,
@@ -17889,7 +17937,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: cinturón estigio rúnico",
                 ["Taiwanese"] = "圖樣：符文冥河腰帶",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "rare",
             ["quests"] = {
                 8323,
@@ -18033,7 +18081,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: bolsa de paño rúnico encantado",
                 ["Taiwanese"] = "圖樣：附魔符文布包",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
                 ["price"] = 20000,
@@ -18061,7 +18109,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: bolsa de encantamiento grande",
                 ["Taiwanese"] = "圖樣：附魔大背包",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "uncommon",
         },
         {
@@ -18078,7 +18126,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: bolsa de hierbas Cenarion",
                 ["Taiwanese"] = "圖樣：塞納里奧草藥包",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -18105,7 +18153,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: cartera de Cenario",
                 ["Taiwanese"] = "圖樣：塞納留斯的背包",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -18132,7 +18180,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: abrazo de Gaea",
                 ["Taiwanese"] = "圖樣：蓋亞之擁",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -18159,7 +18207,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: guantes glaciales",
                 ["Taiwanese"] = "圖樣：冰川護手",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -18186,7 +18234,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: jubón glacial",
                 ["Taiwanese"] = "圖樣：冰川外衣",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -18213,7 +18261,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: muñequeras glaciales",
                 ["Taiwanese"] = "圖樣：冰川護腕",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 529,
@@ -18240,7 +18288,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: hombreras nemorosas",
                 ["Taiwanese"] = "圖樣：森林襯肩",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -18267,7 +18315,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: corona nemorosa",
                 ["Taiwanese"] = "圖樣：森林環冠",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,
@@ -18294,7 +18342,7 @@ MTSL_DATA["items"] = {
                 ["Spanish"] = "Patrón: jubón nemoroso",
                 ["Taiwanese"] = "圖樣：森林外套",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quality"] = "common",
             ["reputation"] = {
                 ["faction_id"] = 609,

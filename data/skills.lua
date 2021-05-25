@@ -2480,7 +2480,7 @@ MTSL_DATA["skills"] = {
             ["objects"] = {
                 180368,
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
             ["special_action"] = "inspect tablet madness",
         },
         {
@@ -2501,7 +2501,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Poción de sangre de mago",
                 ["Taiwanese"] = "魔血藥水",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24366,
@@ -2521,7 +2521,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Poción superior de letargo sin sueños",
                 ["Taiwanese"] = "強效昏睡藥水",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24367,
@@ -2541,7 +2541,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Poción de acción viviente",
                 ["Taiwanese"] = "活力行動藥水",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24368,
@@ -2561,7 +2561,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Poción sublime de sangre de trol",
                 ["Taiwanese"] = "極效食人妖之血藥水",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25146,
@@ -2581,7 +2581,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Transmutar: fuego elemental",
                 ["Taiwanese"] = "轉化：元素火焰",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 26277,
@@ -2601,7 +2601,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Elixir de poder de Fuego superior",
                 ["Taiwanese"] = "強效火力藥劑",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
     },
     ["Blacksmithing"] = {
@@ -6863,7 +6863,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Yelmo de torio encantado",
                 ["Taiwanese"] = "魔法瑟銀頭盔",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -6884,7 +6884,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Leotardos de torio encantado",
                 ["Taiwanese"] = "魔法瑟銀護腿",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -6905,7 +6905,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Peto de torio encantado",
                 ["Taiwanese"] = "魔法瑟銀胸甲",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -7580,7 +7580,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Cinturón pesado Fauces de Madera",
                 ["Taiwanese"] = "重型木喉腰帶",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23629,
@@ -7600,7 +7600,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Botas pesadas Fauces de Madera",
                 ["Taiwanese"] = "重型木喉長靴",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23632,
@@ -7620,7 +7620,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Faja del Alba",
                 ["Taiwanese"] = "黎明束腰",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23633,
@@ -7640,7 +7640,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guantes del Alba",
                 ["Taiwanese"] = "黎明手套",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23636,
@@ -7660,7 +7660,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Yelmo Hierro Negro",
                 ["Taiwanese"] = "黑鐵頭盔",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -7681,7 +7681,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guanteletes Hierro Negro",
                 ["Taiwanese"] = "黑鐵護手",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -7702,7 +7702,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Amnistía negra",
                 ["Taiwanese"] = "野蠻狂怒",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["specialisation"] = 9787,
         },
         {
@@ -7723,7 +7723,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Furianegra",
                 ["Taiwanese"] = "黑色怒火",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["specialisation"] = 9787,
         },
         {
@@ -7744,7 +7744,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Mano de Ebon",
                 ["Taiwanese"] = "黑手",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["specialisation"] = 17040,
         },
         {
@@ -7765,7 +7765,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guardanegro",
                 ["Taiwanese"] = "黑色衛士",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["specialisation"] = 17039,
         },
         {
@@ -7786,7 +7786,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Ocaso",
                 ["Taiwanese"] = "夜幕",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["specialisation"] = 17041,
         },
         {
@@ -7807,7 +7807,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Peto Almasangre",
                 ["Taiwanese"] = "血魂胸甲",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24137,
@@ -7827,7 +7827,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Hombreras Almasangre",
                 ["Taiwanese"] = "血魂護肩",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24138,
@@ -7847,7 +7847,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guanteletes Almasangre",
                 ["Taiwanese"] = "血魂護手",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24139,
@@ -7867,7 +7867,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Peto Almanegra",
                 ["Taiwanese"] = "黑暗之魂胸甲",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24140,
@@ -7887,7 +7887,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Leotardos Almanegra",
                 ["Taiwanese"] = "黑暗之魂護腿",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24141,
@@ -7907,7 +7907,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Hombreras Almanegra",
                 ["Taiwanese"] = "黑暗之魂護肩",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24399,
@@ -7927,7 +7927,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Botas Hierro Negro",
                 ["Taiwanese"] = "黑鐵戰靴",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -7948,7 +7948,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guanteletes Runanegra",
                 ["Taiwanese"] = "黑暗符文護手",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24913,
@@ -7968,7 +7968,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Yelmo Runanegra",
                 ["Taiwanese"] = "黑暗符文頭盔",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24914,
@@ -7988,7 +7988,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Peto Runanegra",
                 ["Taiwanese"] = "黑暗符文胸甲",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 27585,
@@ -8008,7 +8008,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Cinturón obsidiano pesado",
                 ["Taiwanese"] = "厚重黑曜石腰帶",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 27586,
@@ -8028,7 +8028,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Escudo obsidiano irregular",
                 ["Taiwanese"] = "鋸齒黑曜石之盾",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 27587,
@@ -8048,7 +8048,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Peto grueso de obsidiana",
                 ["Taiwanese"] = "厚黑曜石胸甲",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 27588,
@@ -8068,7 +8068,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Cinturón ligero obsidiano",
                 ["Taiwanese"] = "輕巧黑曜石腰帶",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 27589,
@@ -8088,7 +8088,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Garras negras del destructor",
                 ["Taiwanese"] = "黑色摧毀者手套",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 27590,
@@ -8108,7 +8108,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Túnica de malla obsidiana",
                 ["Taiwanese"] = "黑曜石鎖甲外套",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 27829,
@@ -8128,7 +8128,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Leotardos titánicos",
                 ["Taiwanese"] = "泰坦護腿",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["specialisation"] = 9788,
         },
         {
@@ -8149,7 +8149,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Convencedor",
                 ["Taiwanese"] = "刺錘",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["specialisation"] = 17040,
         },
         {
@@ -8170,7 +8170,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Espadasabia",
                 ["Taiwanese"] = "聖劍",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["specialisation"] = 17039,
         },
         {
@@ -8188,7 +8188,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Peto Deliriohelado",
                 ["Taiwanese"] = "冰剋胸甲",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -8218,7 +8218,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guanteletes Deliriohelado",
                 ["Taiwanese"] = "冰剋護手",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -8248,7 +8248,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Brazales Deliriohelado",
                 ["Taiwanese"] = "冰剋護腕",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -8281,7 +8281,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Peto Parraférrea",
                 ["Taiwanese"] = "鐵藤胸甲",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
         },
         {
             ["id"] = 28462,
@@ -8301,7 +8301,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guantes Parraférrea",
                 ["Taiwanese"] = "鐵藤護手",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
         },
         {
             ["id"] = 28463,
@@ -8321,7 +8321,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Cinturón Parraférrea",
                 ["Taiwanese"] = "鐵藤腰帶",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
         },
     },
     ["Cooking"] = {
@@ -9955,7 +9955,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Sorpresa de tubérculo Runn Tum",
                 ["Taiwanese"] = "洛恩塔姆薯塊",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24418,
@@ -9992,7 +9992,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Torrijas al horno del desierto",
                 ["Taiwanese"] = "沙漠肉丸子",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["quests"] = {
                 8313,
             },
@@ -10015,7 +10015,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Fabulosas chuletas quiméricas de Cantofúnebre",
                 ["Taiwanese"] = "迪爾格的超美味奇美拉肉片",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25704,
@@ -13122,7 +13122,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar arma: fuerza",
                 ["Taiwanese"] = "附魔武器 - 力量",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23800,
@@ -13142,7 +13142,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar arma: agilidad",
                 ["Taiwanese"] = "附魔武器 - 敏捷",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23801,
@@ -13162,7 +13162,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar brazal: regeneración de maná",
                 ["Taiwanese"] = "附魔護腕 - 法力回復",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23802,
@@ -13182,7 +13182,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar brazal: poder de curación",
                 ["Taiwanese"] = "附魔護腕 - 治療能力",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23803,
@@ -13202,7 +13202,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar arma: espíritu poderoso",
                 ["Taiwanese"] = "附魔武器 - 強效精神",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23804,
@@ -13222,7 +13222,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar arma: intelecto poderoso",
                 ["Taiwanese"] = "附魔武器 - 強效智力",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25072,
@@ -13242,7 +13242,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar guantes: amenaza",
                 ["Taiwanese"] = "附魔手套 - 威脅",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25073,
@@ -13262,7 +13262,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar guantes: poder de las Sombras",
                 ["Taiwanese"] = "附魔手套 - 暗影能量",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25074,
@@ -13282,7 +13282,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar guantes: poder de Escarcha",
                 ["Taiwanese"] = "附魔手套 - 冰霜能量",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25078,
@@ -13302,7 +13302,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar guantes: poder de Fuego",
                 ["Taiwanese"] = "附魔手套 - 火焰能量",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25079,
@@ -13322,7 +13322,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar guantes: poder de curación",
                 ["Taiwanese"] = "附魔手套 - 治療能量",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25080,
@@ -13342,7 +13342,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar guantes: agilidad excelente",
                 ["Taiwanese"] = "附魔手套 - 超強敏捷",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25081,
@@ -13362,7 +13362,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar capa: resistencia al Fuego superior",
                 ["Taiwanese"] = "附魔披風 - 強效火焰抗性",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25082,
@@ -13382,7 +13382,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar capa: resistencia a la naturaleza superior",
                 ["Taiwanese"] = "附魔披風 - 強效自然抗性",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25083,
@@ -13402,7 +13402,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar capa: sigilo",
                 ["Taiwanese"] = "附魔披風 - 潛行",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25084,
@@ -13422,7 +13422,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar capa: sutileza",
                 ["Taiwanese"] = "附魔披風 - 狡詐",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25086,
@@ -13442,7 +13442,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar capa: esquivar",
                 ["Taiwanese"] = "附魔披風 - 躲閃",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25124,
@@ -13462,7 +13462,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Aceite menor de zahorí",
                 ["Taiwanese"] = "初級巫師之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25125,
@@ -13482,7 +13482,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Aceite menor de maná",
                 ["Taiwanese"] = "初級法力之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25126,
@@ -13502,7 +13502,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Aceite inferior de zahorí",
                 ["Taiwanese"] = "次級巫師之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25127,
@@ -13522,7 +13522,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Aceite inferior de maná",
                 ["Taiwanese"] = "次級法力之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25128,
@@ -13542,7 +13542,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Aceite de zahorí",
                 ["Taiwanese"] = "巫師之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25129,
@@ -13562,7 +13562,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Aceite brillante de zahorí",
                 ["Taiwanese"] = "卓越巫師之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 25130,
@@ -13582,7 +13582,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Aceite de maná resplandeciente",
                 ["Taiwanese"] = "卓越法力之油",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 27837,
@@ -13602,7 +13602,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Encantar arma 2M: agilidad",
                 ["Taiwanese"] = "附魔雙手武器 - 敏捷",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
     },
     ["Engineering"] = {
@@ -16969,7 +16969,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Recombobulador sublime",
                 ["Taiwanese"] = "強力淨化器",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23080,
@@ -17159,7 +17159,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Gafas vid de sangre",
                 ["Taiwanese"] = "血藤護目鏡",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24357,
@@ -17179,7 +17179,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Lentes vid de sangre",
                 ["Taiwanese"] = "血藤透鏡",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 26011,
@@ -17499,7 +17499,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Mando de tonque a vapor",
                 ["Taiwanese"] = "蒸氣坦克控制器",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
         },
     },
     ["First Aid"] = {
@@ -17846,7 +17846,47 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Antídoto potente",
                 ["Taiwanese"] = "強效抗毒藥劑",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 27032,
+            ["items"] = {
+                21992,
+            },
+            ["min_skill"] = 330,
+            ["name"] = {
+                ["Chinese"] = "灵纹布绷带",
+                ["English"] = "Netherweave Bandage",
+                ["French"] = "Bandage en tisse-néant",
+                ["German"] = "Netherstoffverband",
+                ["Korean"] = "황천매듭 붕대",
+                ["Mexican"] = "Venda de tejido abisal",
+                ["Portuguese"] = "Bandagem de Etertrama",
+                ["Russian"] = "Бинты из ткани Пустоты",
+                ["Spanish"] = "Venda de tejido abisal",
+                ["Taiwanese"] = "灵纹布绷带",
+            },
+            ["phase"] = 1,
+        },
+        {
+            ["id"] = 27033,
+            ["items"] = {
+                21993,
+            },
+            ["min_skill"] = 360,
+            ["name"] = {
+                ["Chinese"] = "厚灵纹布绷带",
+                ["English"] = "Heavy Netherweave Bandage",
+                ["French"] = "Bandage épais en tisse-néant",
+                ["German"] = "Schwerer Netherstoffverband",
+                ["Korean"] = "두꺼운 황천매듭 붕대",
+                ["Mexican"] = "Venda de tejido abisal grueso",
+                ["Portuguese"] = "Bandagem Grossa de Etertrama",
+                ["Russian"] = "Плотные бинты из ткани Пустоты",
+                ["Spanish"] = "Venda de tejido abisal grueso",
+                ["Taiwanese"] = "厚靈紋布繃帶",
+            },
+            ["phase"] = 1,
         },
     },
     ["Jewelcrafting"] = {
@@ -22508,7 +22548,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guantes sombradermos",
                 ["Taiwanese"] = "影皮手套",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 22727,
@@ -22569,7 +22609,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Faja de perspicacia",
                 ["Taiwanese"] = "洞察腰帶",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 22922,
@@ -22589,7 +22629,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Botas de mangosta",
                 ["Taiwanese"] = "貓鼬長靴",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 22923,
@@ -22609,7 +22649,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Brazales voladores rápidos",
                 ["Taiwanese"] = "迅行護腕",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 22926,
@@ -22629,7 +22669,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Capa cromática",
                 ["Taiwanese"] = "多彩披風",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -22650,7 +22690,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Pellejo de lo salvaje",
                 ["Taiwanese"] = "野性之皮",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -22671,7 +22711,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Capa cambiante",
                 ["Taiwanese"] = "移形披風",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -22692,7 +22732,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Bola de cuero pesado",
                 ["Taiwanese"] = "重皮球",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23399,
@@ -22732,7 +22772,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Poder de los Fauces de Madera",
                 ["Taiwanese"] = "木喉之力",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23704,
@@ -22752,7 +22792,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Camorrista Fauces de Madera",
                 ["Taiwanese"] = "木喉作戰手套",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23705,
@@ -22772,7 +22812,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Alpargatas del Alba",
                 ["Taiwanese"] = "黎明皮靴",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23706,
@@ -22792,7 +22832,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Manto dorado del Alba",
                 ["Taiwanese"] = "金色黎明襯肩",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23707,
@@ -22812,7 +22852,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Cinturón de lava",
                 ["Taiwanese"] = "熔岩腰帶",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23708,
@@ -22832,7 +22872,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guanteletes cromáticos",
                 ["Taiwanese"] = "多彩護手",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -22853,7 +22893,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Cinturón del Can del núcleo",
                 ["Taiwanese"] = "熔火犬皮腰帶",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["specialisation"] = 10660,
         },
         {
@@ -22874,7 +22914,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Cinturón de arrabio",
                 ["Taiwanese"] = "熔火腰帶",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -22895,7 +22935,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Chaleco primigenio de piel de murciélago",
                 ["Taiwanese"] = "原始蝙蝠皮外套",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24122,
@@ -22915,7 +22955,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guantes primigenios de piel de murciélago",
                 ["Taiwanese"] = "原始蝙蝠皮手套",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24123,
@@ -22935,7 +22975,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Brazales primigenios de piel de murciélago",
                 ["Taiwanese"] = "原始蝙蝠皮護腕",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24124,
@@ -22955,7 +22995,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Peto de tigre sangriento",
                 ["Taiwanese"] = "血虎胸甲",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24125,
@@ -22975,7 +23015,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Hombreras de tigre sangrientas",
                 ["Taiwanese"] = "血虎護肩",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24654,
@@ -23045,7 +23085,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Peto de escamas del sueño",
                 ["Taiwanese"] = "夢幻龍鱗胸甲",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["specialisation"] = 10656,
         },
         {
@@ -23066,7 +23106,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Brazales escupefuego",
                 ["Taiwanese"] = "飛火護腕",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24847,
@@ -23086,7 +23126,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guanteletes escupefuego",
                 ["Taiwanese"] = "飛火護手",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24848,
@@ -23106,7 +23146,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Peto escupefuego",
                 ["Taiwanese"] = "飛火胸甲",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24849,
@@ -23126,7 +23166,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Brazales acecharenas",
                 ["Taiwanese"] = "沙行者護腕",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24850,
@@ -23146,7 +23186,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guanteletes acecharenas",
                 ["Taiwanese"] = "沙行者護手",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24851,
@@ -23166,7 +23206,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Peto acecharenas",
                 ["Taiwanese"] = "沙行者胸甲",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24940,
@@ -23206,7 +23246,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guantes velotormenta",
                 ["Taiwanese"] = "雷暴手套",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
             ["specialisation"] = 10658,
         },
         {
@@ -23224,7 +23264,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Túnica polar",
                 ["Taiwanese"] = "極地外套",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -23254,7 +23294,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guantes polares",
                 ["Taiwanese"] = "極地手套",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -23284,7 +23324,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Brazales polares",
                 ["Taiwanese"] = "極地護腕",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -23314,7 +23354,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Peto de escamas gélidas",
                 ["Taiwanese"] = "冰鱗胸甲",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -23344,7 +23384,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guanteletes de escamas gélidas",
                 ["Taiwanese"] = "冰鱗護手",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -23374,7 +23414,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Brazales de escamas gélidas",
                 ["Taiwanese"] = "冰鱗護腕",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -23407,7 +23447,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Yelmo boscarbusto",
                 ["Taiwanese"] = "木藤頭盔",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
         },
         {
             ["id"] = 28473,
@@ -23427,7 +23467,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Botas boscarbusto",
                 ["Taiwanese"] = "木藤靴子",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
         },
         {
             ["id"] = 28474,
@@ -23447,7 +23487,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Cinturón boscarbusto",
                 ["Taiwanese"] = "木藤腰帶",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
         },
     },
     ["Mining"] = {
@@ -23820,7 +23860,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Elementium fundido",
                 ["Taiwanese"] = "熔煉源質",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
             ["special_action"] = "talk to Kirix",
             ["trainers"] = {
                 ["price"] = 0,
@@ -24705,7 +24745,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Veneno mortal V",
                 ["Taiwanese"] = "致命毒藥 V",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
     },
     ["Tailoring"] = {
@@ -29532,7 +29572,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Disfraz de ogro Gordok",
                 ["Taiwanese"] = "戈多克巨魔裝",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
             ["quests"] = {
                 5519,
             },
@@ -29556,7 +29596,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Cinturón del archimago",
                 ["Taiwanese"] = "大法師腰帶",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 22867,
@@ -29576,7 +29616,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guatnes de tela de inferi",
                 ["Taiwanese"] = "惡魔布手套",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 22868,
@@ -29596,7 +29636,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guantes inferno",
                 ["Taiwanese"] = "地獄火手套",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 22869,
@@ -29616,7 +29656,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guantes de tela lunar",
                 ["Taiwanese"] = "月布手套",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 22870,
@@ -29636,7 +29676,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Capa de custodia",
                 ["Taiwanese"] = "護衛披風",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 22902,
@@ -29656,7 +29696,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Toga de tela lunar",
                 ["Taiwanese"] = "月布長袍",
             },
-            ["phase"] = 2,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23662,
@@ -29676,7 +29716,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Sabiduría de los Fauces de Madera",
                 ["Taiwanese"] = "木喉之智",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23663,
@@ -29696,7 +29736,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Manto de Fauces de Madera",
                 ["Taiwanese"] = "木喉襯肩",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23664,
@@ -29716,7 +29756,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Botas Argenta",
                 ["Taiwanese"] = "銀色長靴",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23665,
@@ -29736,7 +29776,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Hombreras Argenta",
                 ["Taiwanese"] = "銀色護肩",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23666,
@@ -29756,7 +29796,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Toga Nucleobengala",
                 ["Taiwanese"] = "光芒長袍",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 23667,
@@ -29776,7 +29816,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Leotardos Nucleobengala",
                 ["Taiwanese"] = "光芒護腿",
             },
-            ["phase"] = 3,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24091,
@@ -29796,7 +29836,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Jubón vid de sangre",
                 ["Taiwanese"] = "血藤外套",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24092,
@@ -29816,7 +29856,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Leotardos vid de sangre",
                 ["Taiwanese"] = "血藤護腿",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24093,
@@ -29836,7 +29876,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Botas vid de sangre",
                 ["Taiwanese"] = "血藤長靴",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24901,
@@ -29856,7 +29896,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Leotardos rúnicos estigios",
                 ["Taiwanese"] = "符文冥河護腿",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24902,
@@ -29876,7 +29916,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Cinturón rúnico estigio",
                 ["Taiwanese"] = "符文冥河腰帶",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 24903,
@@ -29896,7 +29936,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Botas rúnicas estigias",
                 ["Taiwanese"] = "符文冥河長靴",
             },
-            ["phase"] = 4,
+            ["phase"] = 1,
         },
         {
             ["id"] = 26085,
@@ -30037,7 +30077,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Bolsa encantada de paño rúnico",
                 ["Taiwanese"] = "附魔符文布包",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 27660,
@@ -30057,7 +30097,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Bolsa grande de encantamiento",
                 ["Taiwanese"] = "附魔大背包",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 27724,
@@ -30077,7 +30117,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Bolsa de hierbas Cenarion",
                 ["Taiwanese"] = "塞納里奧草藥包",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 27725,
@@ -30097,7 +30137,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Cartera de Cenarius",
                 ["Taiwanese"] = "塞納留斯的背包",
             },
-            ["phase"] = 5,
+            ["phase"] = 1,
         },
         {
             ["id"] = 28205,
@@ -30114,7 +30154,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Guantes glaciales",
                 ["Taiwanese"] = "冰川護手",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -30144,7 +30184,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Jubón glacial",
                 ["Taiwanese"] = "冰川外衣",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -30174,7 +30214,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Capa glacial",
                 ["Taiwanese"] = "冰川披風",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -30204,7 +30244,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Puño glacial",
                 ["Taiwanese"] = "冰川護腕",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
             ["quests"] = {
                 9233,
             },
@@ -30237,7 +30277,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Abrazo de Gaea",
                 ["Taiwanese"] = "蓋亞之擁",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
         },
         {
             ["id"] = 28480,
@@ -30257,7 +30297,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Jubón nemoroso",
                 ["Taiwanese"] = "森林外套",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
         },
         {
             ["id"] = 28481,
@@ -30277,7 +30317,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Corona nemorosa",
                 ["Taiwanese"] = "森林環冠",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
         },
         {
             ["id"] = 28482,
@@ -30297,7 +30337,7 @@ MTSL_DATA["skills"] = {
                 ["Spanish"] = "Hombreras nemorosas",
                 ["Taiwanese"] = "森林襯肩",
             },
-            ["phase"] = 6,
+            ["phase"] = 1,
         },
     },
 }

@@ -19388,7 +19388,7 @@ MTSL_DATA["npcs"] = {
             ["Spanish"] = "Kania",
             ["Taiwanese"] = "卡妮亞",
         },
-        ["phase"] = 5,
+        ["phase"] = 1,
         ["reacts"] = "Neutral",
         ["xp_level"] = {
             ["is_elite"] = 0,
@@ -19712,7 +19712,7 @@ MTSL_DATA["npcs"] = {
             ["Spanish"] = "Maestro artesano Omarion",
             ["Taiwanese"] = "大工匠奧瑪裏恩",
         },
-        ["phase"] = 6,
+        ["phase"] = 1,
         ["reacts"] = "Neutral",
         ["xp_level"] = {
             ["is_elite"] = 0,

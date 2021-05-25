@@ -167,7 +167,7 @@ MTSL_DATA["objects"] = {
             ["Spanish"] = "Libro de cocina de arenoso",
             ["Taiwanese"] = "滿布沙塵的烹飪書",
         },
-        ["phase"] = 5,
+        ["phase"] = 1,
         ["zone_id"] = 1377,
     },
     {

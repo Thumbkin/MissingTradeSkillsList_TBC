@@ -1534,7 +1534,7 @@ MTSL_DATA["quests"] = {
         ["npcs"] = {
             14338,
         },
-        ["phase"] = 2,
+        ["phase"] = 1,
     },
     {
         ["id"] = 6032,
@@ -1738,7 +1738,7 @@ MTSL_DATA["quests"] = {
             ["Spanish"] = "Las mallas de placas en torio encantado: volumen I",
             ["Taiwanese"] = "魔化瑟银板甲：第一卷",
         },
-        ["phase"] = 2,
+        ["phase"] = 1,
     },
     {
         ["id"] = 7650,
@@ -1758,7 +1758,7 @@ MTSL_DATA["quests"] = {
             ["Spanish"] = "Las mallas de placas en torio encantado: volumen II",
             ["Taiwanese"] = "魔化瑟银板甲：第二卷",
         },
-        ["phase"] = 2,
+        ["phase"] = 1,
     },
     {
         ["id"] = 7651,
@@ -1778,7 +1778,7 @@ MTSL_DATA["quests"] = {
             ["Spanish"] = "Las mallas de placas en torio encantado: volumen III",
             ["Taiwanese"] = "魔化瑟银板甲：第三卷]",
         },
-        ["phase"] = 2,
+        ["phase"] = 1,
     },
     {
         ["id"] = 7653,
@@ -1938,7 +1938,7 @@ MTSL_DATA["quests"] = {
         ["objects"] = {
             180503,
         },
-        ["phase"] = 5,
+        ["phase"] = 1,
     },
     {
         ["id"] = 8323,
@@ -1958,7 +1958,7 @@ MTSL_DATA["quests"] = {
         ["npcs"] = {
             15194,
         },
-        ["phase"] = 5,
+        ["phase"] = 1,
     },
     {
         ["id"] = 8586,
@@ -2177,7 +2177,7 @@ MTSL_DATA["quests"] = {
         ["npcs"] = {
             16365,
         },
-        ["phase"] = 6,
+        ["phase"] = 1,
         ["reputation"] = {
             ["faction_id"] = 529,
             ["level_id"] = 7,
@@ -2202,6 +2202,6 @@ MTSL_DATA["quests"] = {
             14828,
             14829,
         },
-        ["phase"] = 6,
+        ["phase"] = 1,
     },
 }
