@@ -19802,4 +19802,31 @@ MTSL_DATA["npcs"] = {
         },
         ["zone_id"] = 3456,
     },
+    {
+        ["id"] = 18911,
+        ["location"] = {
+            ["x"] = "78.00",
+            ["y"] = "66.00",
+        },
+        ["name"] = {
+            ["Chinese"] = "基诺·杜弗莱",
+            ["English"] = "Juno Dufrain",
+            ["French"] = "Juno Dufrain",
+            ["German"] = "Juno Dufrain",
+            ["Korean"] = "주노 듀프레인",
+            ["Mexican"] = "Juno Dufrain",
+            ["Portuguese"] = "Juno Dufrain",
+            ["Russian"] = "Джуно Дюфрейн",
+            ["Spanish"] = "Juno Dufrain",
+            ["Taiwanese"] = "基諾·杜弗萊",
+        },
+        ["phase"] = 1,
+        ["reacts"] = "Neutral",
+        ["xp_level"] = {
+            ["is_elite"] = 0,
+            ["max"] = 60,
+            ["min"] = 60,
+        },
+        ["zone_id"] = 3521,
+    },
 }

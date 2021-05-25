@@ -11384,6 +11384,29 @@ MTSL_DATA["items"] = {
     },
     ["Fishing"] = {
         {
+            ["id"] = 27532,
+            ["name"] = {
+                ["Chinese"] = "顶级钓鱼教材 - 下钩的艺术",
+                ["English"] = "Master Fishing",
+                ["French"] = "Maître de pêche",
+                ["German"] = "Anglermeister",
+                ["Korean"] = "대가의 낚시정보",
+                ["Mexican"] = "Maestro de pesca",
+                ["Portuguese"] = "Mestre pescador",
+                ["Russian"] = "Рыболов-мастер: искусство рыбалки",
+                ["Spanish"] = "Maestro de pesca",
+                ["Taiwanese"] = "頂級釣魚教材 - 下鈎的藝術",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["vendors"] = {
+                ["price"] = 50000,
+                ["sources"] = {
+                    18911,
+                },
+            },
+        },
+        {
             ["id"] = 16083,
             ["name"] = {
                 ["Chinese"] = "中级钓鱼教材 - 鲈鱼与你",
