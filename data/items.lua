@@ -11384,29 +11384,6 @@ MTSL_DATA["items"] = {
     },
     ["Fishing"] = {
         {
-            ["id"] = 27532,
-            ["name"] = {
-                ["Chinese"] = "顶级钓鱼教材 - 下钩的艺术",
-                ["English"] = "Master Fishing",
-                ["French"] = "Maître de pêche",
-                ["German"] = "Anglermeister",
-                ["Korean"] = "대가의 낚시정보",
-                ["Mexican"] = "Maestro de pesca",
-                ["Portuguese"] = "Mestre pescador",
-                ["Russian"] = "Рыболов-мастер: искусство рыбалки",
-                ["Spanish"] = "Maestro de pesca",
-                ["Taiwanese"] = "頂級釣魚教材 - 下鈎的藝術",
-            },
-            ["phase"] = 1,
-            ["quality"] = "common",
-            ["vendors"] = {
-                ["price"] = 50000,
-                ["sources"] = {
-                    18911,
-                },
-            },
-        },
-        {
             ["id"] = 16083,
             ["name"] = {
                 ["Chinese"] = "中级钓鱼教材 - 鲈鱼与你",
@@ -11426,6 +11403,29 @@ MTSL_DATA["items"] = {
                 ["price"] = 10000,
                 ["sources"] = {
                     2626,
+                },
+            },
+        },
+        {
+            ["id"] = 27532,
+            ["name"] = {
+                ["Chinese"] = "顶级钓鱼教材 - 下钩的艺术",
+                ["English"] = "Master Fishing - The Art of Angling",
+                ["French"] = "Maître de pêche - L'art de la ligne",
+                ["German"] = "Anglermeister - Die hohe Kunst des Angelns",
+                ["Korean"] = "대가의 낚시정보",
+                ["Mexican"] = "Maestro de pesca - El arte de la cucharilla",
+                ["Portuguese"] = "Mestre pescador - A Arte do Molinete",
+                ["Russian"] = "Рыболов-мастер: искусство рыбалки",
+                ["Spanish"] = "Maestro de pesca - El arte de la cucharilla",
+                ["Taiwanese"] = "頂級釣魚教材 - 下鈎的藝術",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["vendors"] = {
+                ["price"] = 50000,
+                ["sources"] = {
+                    18911,
                 },
             },
         },
