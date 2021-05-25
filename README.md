@@ -50,4 +50,8 @@ Minimap button & Enhanced tooltip
 
 * Added recipes for TBC for professions:
   * First Aid
+  * Fishing
+  * Herbalism
+  * Skinning
+
 View full version history [here](http://www.thumbkin.be/mtsl/tbc/VERSION_HISTORY.html) or VERSION_HISTORY.md inside zip addon

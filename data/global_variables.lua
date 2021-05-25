@@ -5,7 +5,7 @@
 -- Holds all the data filled by the data luas
 MTSL_DATA = {
     -- Extra rank in TBC 300 - 375
-    -- Each profession has 5 ranks to learn (1-75, 75-150, 150-225, 225-300, 300-375), execpt poisons (only 1)
+    -- Each profession has 5 ranks to learn (1-75, 75-150, 150-225, 225-300, 300-375), except poisons (only 1)
     ["AMOUNT_RANKS"] = {
         ["Alchemy"] = 4,
         ["Blacksmithing"] = 4,
@@ -18,7 +18,7 @@ MTSL_DATA = {
         ["Leatherworking"] = 4,
         ["Mining"] = 4,
         ["Poisons"] = 1,
-        ["Skinning"] = 4,
+        ["Skinning"] = 5,
         ["Tailoring"] = 4,
     },
     -- Counters keeping track of total amount of skill (this includes AMOUNT_RANKS)
