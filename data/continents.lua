@@ -35,6 +35,21 @@ MTSL_DATA["continents"] = {
     {
         ["id"] = 3,
         ["name"] = {
+            ["Chinese"] = "外域",
+            ["English"] = "Outlands",
+            ["French"] = "Outreterre",
+            ["German"] = "Scherbenwelt",
+            ["Korean"] = "아웃랜드",
+            ["Mexican"] = "Terrallende",
+            ["Portuguese"] = "Terralém",
+            ["Russian"] = "Запределье",
+            ["Spanish"] = "Terrallende",
+            ["Taiwanese"] = "外域",
+        },
+    },
+    {
+        ["id"] = 4,
+        ["name"] = {
             ["Chinese"] = "战场",
             ["English"] = "Battleground",
             ["French"] = "Champ de bataille",
@@ -48,7 +63,7 @@ MTSL_DATA["continents"] = {
         },
     },
     {
-        ["id"] = 4,
+        ["id"] = 5,
         ["name"] = {
             ["Chinese"] = "地下城",
             ["English"] = "Dungeon",
@@ -63,7 +78,7 @@ MTSL_DATA["continents"] = {
         },
     },
     {
-        ["id"] = 5,
+        ["id"] = 6,
         ["name"] = {
             ["Chinese"] = "团队副本",
             ["English"] = "Raid",

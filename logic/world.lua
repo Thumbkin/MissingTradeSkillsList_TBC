@@ -48,7 +48,7 @@ MTSL_LOGIC_WORLD = {
     -- returns 		        Array		The zones
     ------------------------------------------------------------------------------------------------
     GetZonesInContinentById = function(self, continent_id)
-        local zones_continent = MTSL_TOOLS:GetAllItemsFromArrayByKeyValue(MTSL_DATA["zones"], "cont_id", continent_id)
+        local zones_continent = MTSL_TOOLS:GetAllItemsFromArrayByKeyValue(MTSL_DATA["zones"], "continent_id", continent_id)
         return MTSL_TOOLS:SortArrayByLocalisedProperty(zones_continent, "name")
     end,
 
@@ -62,7 +62,7 @@ MTSL_LOGIC_WORLD = {
     IsRealZone = function(self, zone_id)
         local zone = MTSL_TOOLS:GetItemFromArrayByKeyValue(MTSL_DATA["zones"], "id", zone_id)
         local real_zone = 0
-        if zone and zone.cont_id < 3 then
+        if zone and zone.continent_id < 3 then
             real_zone = 1
         end
         return real_zone

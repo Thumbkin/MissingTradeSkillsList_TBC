@@ -3,7 +3,7 @@
 -------------------------------------------------------
 MTSL_DATA["zones"] = {
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 1,
         ["name"] = {
             ["Chinese"] = "丹莫罗",
@@ -23,7 +23,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 3,
         ["name"] = {
             ["Chinese"] = "荒芜之地",
@@ -43,7 +43,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 4,
         ["name"] = {
             ["Chinese"] = "诅咒之地",
@@ -63,7 +63,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 8,
         ["name"] = {
             ["Chinese"] = "悲伤沼泽",
@@ -83,7 +83,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 10,
         ["name"] = {
             ["Chinese"] = "暮色森林",
@@ -103,7 +103,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 11,
         ["name"] = {
             ["Chinese"] = "湿地",
@@ -123,7 +123,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 12,
         ["name"] = {
             ["Chinese"] = "艾尔文森林",
@@ -143,7 +143,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 14,
         ["name"] = {
             ["Chinese"] = "杜隆塔尔",
@@ -163,7 +163,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 15,
         ["name"] = {
             ["Chinese"] = "尘泥沼泽",
@@ -183,7 +183,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 16,
         ["name"] = {
             ["Chinese"] = "艾萨拉",
@@ -203,7 +203,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 17,
         ["name"] = {
             ["Chinese"] = "贫瘠之地",
@@ -223,7 +223,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 25,
         ["name"] = {
             ["Chinese"] = "黑石山",
@@ -239,7 +239,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 28,
         ["name"] = {
             ["Chinese"] = "西瘟疫之地",
@@ -259,7 +259,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 33,
         ["name"] = {
             ["Chinese"] = "荆棘谷",
@@ -279,7 +279,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 36,
         ["name"] = {
             ["Chinese"] = "奥特兰克山脉",
@@ -299,7 +299,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 38,
         ["name"] = {
             ["Chinese"] = "洛克莫丹",
@@ -319,7 +319,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 40,
         ["name"] = {
             ["Chinese"] = "西部荒野",
@@ -339,7 +339,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 41,
         ["name"] = {
             ["Chinese"] = "逆风小径",
@@ -359,7 +359,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 44,
         ["name"] = {
             ["Chinese"] = "赤脊山",
@@ -379,7 +379,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 45,
         ["name"] = {
             ["Chinese"] = "阿拉希高地",
@@ -399,7 +399,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 46,
         ["name"] = {
             ["Chinese"] = "燃烧平原",
@@ -419,7 +419,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 47,
         ["name"] = {
             ["Chinese"] = "辛特兰",
@@ -439,7 +439,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 51,
         ["name"] = {
             ["Chinese"] = "灼热峡谷",
@@ -459,7 +459,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 85,
         ["name"] = {
             ["Chinese"] = "提瑞斯法林地",
@@ -479,7 +479,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 130,
         ["name"] = {
             ["Chinese"] = "银松森林",
@@ -499,7 +499,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 139,
         ["name"] = {
             ["Chinese"] = "东瘟疫之地",
@@ -519,7 +519,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 141,
         ["name"] = {
             ["Chinese"] = "泰达希尔",
@@ -539,7 +539,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 148,
         ["name"] = {
             ["Chinese"] = "黑海岸",
@@ -559,7 +559,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 209,
         ["name"] = {
             ["Chinese"] = "影牙城堡",
@@ -575,7 +575,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 215,
         ["name"] = {
             ["Chinese"] = "莫高雷",
@@ -595,7 +595,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 267,
         ["name"] = {
             ["Chinese"] = "希尔斯布莱德丘陵",
@@ -615,7 +615,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 331,
         ["name"] = {
             ["Chinese"] = "灰谷",
@@ -635,7 +635,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 357,
         ["name"] = {
             ["Chinese"] = "菲拉斯",
@@ -655,7 +655,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 361,
         ["name"] = {
             ["Chinese"] = "费伍德森林",
@@ -675,7 +675,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 400,
         ["name"] = {
             ["Chinese"] = "千针石林",
@@ -695,7 +695,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 405,
         ["name"] = {
             ["Chinese"] = "凄凉之地",
@@ -715,7 +715,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 406,
         ["name"] = {
             ["Chinese"] = "石爪山脉",
@@ -735,7 +735,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 440,
         ["name"] = {
             ["Chinese"] = "塔纳利斯",
@@ -755,7 +755,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 490,
         ["name"] = {
             ["Chinese"] = "安戈洛环形山",
@@ -775,7 +775,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 491,
         ["name"] = {
             ["Chinese"] = "剃刀沼泽",
@@ -791,7 +791,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 493,
         ["name"] = {
             ["Chinese"] = "月光林地",
@@ -807,7 +807,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 618,
         ["name"] = {
             ["Chinese"] = "冬泉谷",
@@ -827,7 +827,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 717,
         ["name"] = {
             ["Chinese"] = "监狱",
@@ -843,7 +843,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 718,
         ["name"] = {
             ["Chinese"] = "哀嚎洞穴",
@@ -859,7 +859,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 719,
         ["name"] = {
             ["Chinese"] = "黑暗深渊",
@@ -875,7 +875,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 721,
         ["name"] = {
             ["Chinese"] = "诺莫瑞根",
@@ -891,7 +891,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 722,
         ["name"] = {
             ["Chinese"] = "剃刀高地",
@@ -907,7 +907,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 796,
         ["name"] = {
             ["Chinese"] = "血色修道院",
@@ -923,7 +923,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 1176,
         ["name"] = {
             ["Chinese"] = "祖尔法拉克",
@@ -939,7 +939,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 1337,
         ["name"] = {
             ["Chinese"] = "奥达曼",
@@ -955,7 +955,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 1377,
         ["name"] = {
             ["Chinese"] = "希利苏斯",
@@ -975,7 +975,7 @@ MTSL_DATA["zones"] = {
         }
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 1417,
         ["name"] = {
             ["Chinese"] = "沉没的神庙",
@@ -991,7 +991,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 1477,
         ["name"] = {
             ["Chinese"] = "阿塔哈卡神庙",
@@ -1007,7 +1007,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 1497,
         ["name"] = {
             ["Chinese"] = "幽暗城",
@@ -1023,7 +1023,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 1519,
         ["name"] = {
             ["Chinese"] = "暴风城",
@@ -1039,7 +1039,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 1537,
         ["name"] = {
             ["Chinese"] = "铁炉堡",
@@ -1055,7 +1055,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 1581,
         ["name"] = {
             ["Chinese"] = "死亡矿井",
@@ -1071,7 +1071,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 1583,
         ["name"] = {
             ["Chinese"] = "黑石塔",
@@ -1087,7 +1087,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 1584,
         ["name"] = {
             ["Chinese"] = "黑石深渊",
@@ -1103,7 +1103,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 1637,
         ["name"] = {
             ["Chinese"] = "奥格瑞玛",
@@ -1119,7 +1119,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 1638,
         ["name"] = {
             ["Chinese"] = "雷霆崖",
@@ -1135,7 +1135,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 1,
+        ["continent_id"] = 1,
         ["id"] = 1657,
         ["name"] = {
             ["Chinese"] = "达纳苏斯",
@@ -1151,7 +1151,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 1941,
         ["name"] = {
             ["Chinese"] = "时光之穴",
@@ -1167,7 +1167,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 5,
+        ["continent_id"] = 6,
         ["id"] = 1977,
         ["name"] = {
             ["Chinese"] = "祖尔格拉布",
@@ -1183,7 +1183,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 2017,
         ["name"] = {
             ["Chinese"] = "斯坦索姆",
@@ -1199,7 +1199,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 2057,
         ["name"] = {
             ["Chinese"] = "通灵学院",
@@ -1215,7 +1215,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 2100,
         ["name"] = {
             ["Chinese"] = "玛拉顿",
@@ -1231,7 +1231,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 5,
+        ["continent_id"] = 6,
         ["id"] = 2159,
         ["name"] = {
             ["Chinese"] = "奥妮克希亚的巢穴",
@@ -1247,7 +1247,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 2,
+        ["continent_id"] = 2,
         ["id"] = 2257,
         ["name"] = {
             ["Chinese"] = "矿道地铁",
@@ -1263,7 +1263,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 2437,
         ["name"] = {
             ["Chinese"] = "怒焰裂谷",
@@ -1279,7 +1279,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 4,
+        ["continent_id"] = 5,
         ["id"] = 2557,
         ["name"] = {
             ["Chinese"] = "厄运之槌",
@@ -1295,7 +1295,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 3,
+        ["continent_id"] = 4,
         ["id"] = 2597,
         ["name"] = {
             ["Chinese"] = "奥特兰克山谷",
@@ -1311,7 +1311,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 5,
+        ["continent_id"] = 6,
         ["id"] = 2677,
         ["name"] = {
             ["Chinese"] = "黑翼之巢",
@@ -1327,7 +1327,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 5,
+        ["continent_id"] = 6,
         ["id"] = 2717,
         ["name"] = {
             ["Chinese"] = "熔火之心",
@@ -1343,7 +1343,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 3,
+        ["continent_id"] = 4,
         ["id"] = 3277,
         ["name"] = {
             ["Chinese"] = "战歌峡谷",
@@ -1359,7 +1359,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 3,
+        ["continent_id"] = 4,
         ["id"] = 3358,
         ["name"] = {
             ["Chinese"] = "阿拉希盆地",
@@ -1375,7 +1375,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 5,
+        ["continent_id"] = 6,
         ["id"] = 3428,
         ["name"] = {
             ["Chinese"] = "安其拉",
@@ -1391,7 +1391,7 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 5,
+        ["continent_id"] = 6,
         ["id"] = 3429,
         ["name"] = {
             ["Chinese"] = "安其拉废墟",
@@ -1407,7 +1407,47 @@ MTSL_DATA["zones"] = {
         },
     },
     {
-        ["cont_id"] = 5,
+        ["continent_id"] = 2,
+        ["id"] = 3430,
+        ["levels"] = {
+            ["min"] = 1,
+            ["max"] = 10,
+        },
+        ["name"] = {
+            ["Chinese"] = "永歌森林",
+            ["English"] = "Eversong Woods",
+            ["French"] = "Bois des Chants éternels",
+            ["German"] = "Immersangwald",
+            ["Korean"] = "영원노래 숲",
+            ["Mexican"] = "Bosque Canción Eterna",
+            ["Portuguese"] = "Floresta do Canto Eterno",
+            ["Russian"] = "Леса Вечной Песни",
+            ["Spanish"] = "Bosque Canción Eterna",
+            ["Taiwanese"] = "永歌森林",
+        },
+    },
+    {
+        ["continent_id"] = 2,
+        ["id"] = 3433,
+        ["levels"] = {
+            ["min"] = 10,
+            ["max"] = 20,
+        },
+        ["name"] = {
+            ["Chinese"] = "幽魂之地",
+            ["English"] = "Ghostlands",
+            ["French"] = "Les Terres fantômes",
+            ["German"] = "Geisterlande",
+            ["Korean"] = "유령의 땅",
+            ["Mexican"] = "Tierras Fantasma",
+            ["Portuguese"] = "Terra Fantasma",
+            ["Russian"] = "Призрачные земли",
+            ["Spanish"] = "Tierras Fantasma",
+            ["Taiwanese"] = "幽魂之地",
+        },
+    },
+    {
+        ["continent_id"] = 6,
         ["id"] = 3456,
         ["name"] = {
             ["Chinese"] = "纳克萨玛斯",
@@ -1420,6 +1460,206 @@ MTSL_DATA["zones"] = {
             ["Russian"] = "Наксрамас",
             ["Spanish"] = "Naxxramas",
             ["Taiwanese"] = "納克薩瑪斯",
+        },
+    },
+    {
+        ["continent_id"] = 3,
+        ["id"] = 3483,
+        ["levels"] = {
+            ["min"] = 58,
+            ["max"] = 70,
+        },
+        ["name"] = {
+            ["Chinese"] = "地狱火半岛",
+            ["English"] = "Hellfire Peninsula",
+            ["French"] = "Péninsule des Flammes infernales",
+            ["German"] = "Höllenfeuerhalbinsel",
+            ["Korean"] = "지옥불 반도",
+            ["Mexican"] = "Península del Fuego Infernal",
+            ["Portuguese"] = "Península Fogo do Inferno",
+            ["Russian"] = "Полуостров Адского Пламени",
+            ["Spanish"] = "Península del Fuego Infernal",
+            ["Taiwanese"] = "地獄火半島",
+        },
+    },
+    {
+        ["continent_id"] = 3,
+        ["id"] = 3518,
+        ["levels"] = {
+            ["min"] = 64,
+            ["max"] = 70,
+        },
+        ["name"] = {
+            ["Chinese"] = "纳格兰",
+            ["English"] = "Nagrand",
+            ["French"] = "Nagrand",
+            ["German"] = "Nagrand",
+            ["Korean"] = "나그란드",
+            ["Mexican"] = "Nagrand",
+            ["Portuguese"] = "Nagrand",
+            ["Russian"] = "Награнд",
+            ["Spanish"] = "Nagrand",
+            ["Taiwanese"] = "納格蘭",
+        },
+    },
+    {
+        ["continent_id"] = 3,
+        ["id"] = 3519,
+        ["levels"] = {
+            ["min"] = 62,
+            ["max"] = 70,
+        },
+        ["name"] = {
+            ["Chinese"] = "泰罗卡森林",
+            ["English"] = "Terokkar Forest",
+            ["French"] = "Forêt de Terokkar",
+            ["German"] = "Wälder von Terokkar",
+            ["Korean"] = "테로카르 숲",
+            ["Mexican"] = "Bosque de Terokkar",
+            ["Portuguese"] = "Mata Terokkar",
+            ["Russian"] = "Лес Тероккар",
+            ["Spanish"] = "Bosque de Terokkar",
+            ["Taiwanese"] = "泰羅卡森林",
+        },
+    },
+    {
+        ["continent_id"] = 3,
+        ["id"] = 3520,
+        ["levels"] = {
+            ["min"] = 67,
+            ["max"] = 70,
+        },
+        ["name"] = {
+            ["Chinese"] = "影月谷",
+            ["English"] = "Shadowmoon Valley",
+            ["French"] = "Vallée d'Ombrelune",
+            ["German"] = "Schattenmondtal",
+            ["Korean"] = "어둠달 골짜기",
+            ["Mexican"] = "Valle Sombraluna",
+            ["Portuguese"] = "Vale da Lua Negra",
+            ["Russian"] = "Долина Призрачной Луны",
+            ["Spanish"] = "Valle Sombraluna",
+            ["Taiwanese"] = "影月谷",
+        },
+    },
+    {
+        ["continent_id"] = 3,
+        ["id"] = 3521,
+        ["levels"] = {
+            ["min"] = 60,
+            ["max"] = 63,
+        },
+        ["name"] = {
+            ["Chinese"] = "赞加沼泽",
+            ["English"] = "Zangarmarsh",
+            ["French"] = "Marécage de Zangar",
+            ["German"] = "Zangarmarschen",
+            ["Korean"] = "장가르 습지대",
+            ["Mexican"] = "Marisma de Zangar",
+            ["Portuguese"] = "Pântano Zíngaro",
+            ["Russian"] = "Зангартопь",
+            ["Spanish"] = "Marisma de Zangar",
+            ["Taiwanese"] = "贊加沼澤",
+        },
+    },
+    {
+        ["continent_id"] = 3,
+        ["id"] = 3522,
+        ["levels"] = {
+            ["min"] = 65,
+            ["max"] = 70,
+        },
+        ["name"] = {
+            ["Chinese"] = "刀锋山",
+            ["English"] = "Blade's Edge Mountains",
+            ["French"] = "Les Tranchantes",
+            ["German"] = "Schergrat",
+            ["Korean"] = "칼날 산맥",
+            ["Mexican"] = "Montañas Filospada",
+            ["Portuguese"] = "Montanhas da Lâmina Afiada",
+            ["Russian"] = "Острогорье",
+            ["Spanish"] = "Montañas Filospada",
+            ["Taiwanese"] = "刀鋒山",
+        },
+    },
+    {
+        ["continent_id"] = 3,
+        ["id"] = 3523,
+        ["levels"] = {
+            ["min"] = 66,
+            ["max"] = 70,
+        },
+        ["name"] = {
+            ["Chinese"] = "虚空风暴",
+            ["English"] = "Netherstorm",
+            ["French"] = "Raz-de-Néant",
+            ["German"] = "Nethersturm",
+            ["Korean"] = "황천의 폭풍",
+            ["Mexican"] = "Tormenta Abisal",
+            ["Portuguese"] = "Eternévoa",
+            ["Russian"] = "Пустоверть",
+            ["Spanish"] = "Tormenta Abisal",
+            ["Taiwanese"] = "虚空风暴",
+        },
+    },
+    {
+        ["continent_id"] = 1,
+        ["id"] = 3524,
+        ["levels"] = {
+            ["min"] = 1,
+            ["max"] = 10,
+        },
+        ["name"] = {
+            ["Chinese"] = "秘蓝岛",
+            ["English"] = "Azuremyst Isle",
+            ["French"] = "Ile de Brume-azur",
+            ["German"] = "Azurmythosinsel",
+            ["Korean"] = "하늘안개 섬",
+            ["Mexican"] = "Isla Bruma Azur",
+            ["Portuguese"] = "Ilha Névoa Lazúli",
+            ["Russian"] = "Остров Лазурной Дымки",
+            ["Spanish"] = "Isla Bruma Azur",
+            ["Taiwanese"] = "秘藍島",
+        },
+    },
+    {
+        ["continent_id"] = 1,
+        ["id"] = 3525,
+        ["levels"] = {
+            ["min"] = 9,
+            ["max"] = 19,
+        },
+        ["name"] = {
+            ["Chinese"] = "秘血岛",
+            ["English"] = "Bloodmyst Isle",
+            ["French"] = "Ile de Brume-sang",
+            ["German"] = "Blutmythosinsel",
+            ["Korean"] = "핏빛안개 섬",
+            ["Mexican"] = "Isla Bruma de Sangre",
+            ["Portuguese"] = "Ilha Névoa Rubra",
+            ["Russian"] = "Остров Кровавой Дымки",
+            ["Spanish"] = "Isla Bruma de Sangre",
+            ["Taiwanese"] = "秘血島",
+        },
+    },
+    {
+        ["continent_id"] = 2,
+        ["id"] = 4080,
+        ["levels"] = {
+            ["min"] = 70,
+            ["max"] = 70,
+        },
+        ["name"] = {
+            ["Chinese"] = "奎尔丹纳斯岛",
+            ["English"] = "Isle of Quel'Danas",
+            ["French"] = "Île de Quel'Danas",
+            ["German"] = "Insel von Quel'Danas",
+            ["Korean"] = "쿠엘다나스 섬",
+            ["Mexican"] = "Isla de Quel'Danas",
+            ["Portuguese"] = "Ilha de Quel'Danas",
+            ["Russian"] = "Остров Кель'Данас",
+            ["Spanish"] = "Isla de Quel'Danas",
+            ["Taiwanese"] = "奎爾丹納斯島",
         },
     },
 }
