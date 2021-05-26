@@ -57,6 +57,7 @@ Minimap button & Enhanced tooltip
   * Fishing
   * Herbalism
   * Mining
+  * Poisons
   * Skinning
 
 View full version history [here](http://www.thumbkin.be/mtsl/tbc/VERSION_HISTORY.html) or VERSION_HISTORY.md inside zip addon
