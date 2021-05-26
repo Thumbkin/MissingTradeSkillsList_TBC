@@ -47,10 +47,8 @@ Minimap button & Enhanced tooltip
 ### Latest version (v2.5.01)
 
 * Initial release
-
 * Added the 5 scheduled phases
 * Added "zone" as a possible drop source
-
 * Added data for TBC for professions:
   * First Aid
   * Fishing

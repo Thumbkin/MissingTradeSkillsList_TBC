@@ -232,11 +232,12 @@ MTSLUI_EVENT_HANDLER = {
         -- Get the text of the new zone
         local zone_name = GetRealZoneText()
         -- if we actually fond one, update the filter frames
-        if zone_name ~= nil then
-            MTSLUI_MISSING_TRADESKILLS_FRAME.skill_list_filter_frame:UpdateCurrentZone(zone_name)
-            MTSLUI_ACCOUNT_EXPLORER_FRAME.skill_list_filter_frame:UpdateCurrentZone(zone_name)
-            MTSLUI_DATABASE_EXPLORER_FRAME.skill_list_filter_frame:UpdateCurrentZone(zone_name)
-        end
+		if zone_name ~= nil then
+			MTSLUI_MISSING_TRADESKILLS_FRAME.skill_list_filter_frame:UpdateCurrentZone(zone_name)
+			MTSLUI_ACCOUNT_EXPLORER_FRAME.skill_list_filter_frame:UpdateCurrentZone(zone_name)
+			MTSLUI_DATABASE_EXPLORER_FRAME.skill_list_filter_frame:UpdateCurrentZone(zone_name)
+			MTSLUI_CHARACTER_EXPLORER_FRAME.skill_list_filter_frame:UpdateCurrentZone(zone_name)
+		end
 	end,
 
 	---------------------------------------------------------------------------------------
