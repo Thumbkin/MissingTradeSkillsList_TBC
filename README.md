@@ -48,10 +48,14 @@ Minimap button & Enhanced tooltip
 
 * Initial release
 
-* Added recipes for TBC for professions:
+* Added the 5 scheduled phases
+* Added "zone" as a possible drop source
+
+* Added data for TBC for professions:
   * First Aid
   * Fishing
   * Herbalism
+  * Mining
   * Skinning
 
 View full version history [here](http://www.thumbkin.be/mtsl/tbc/VERSION_HISTORY.html) or VERSION_HISTORY.md inside zip addon

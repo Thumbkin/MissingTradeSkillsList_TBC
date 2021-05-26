@@ -776,8 +776,12 @@ MTSLUI_SKILL_DETAIL_FRAME = {
                         if item.drops.range ~= nil then
                             self:ShowWorldDropSources(item.drops.range.min_xp_level, item.drops.range.max_xp_level, 0)
                         else
-                            local mobs = MTSL_LOGIC_PLAYER_NPC:GetMobsByIds(item.drops.sources)
-                            self:ShowDetailsOfNpcs(mobs, 0)
+                            if item.drops.zones ~= nil then
+                                self:ShowZoneDropSources(item.drops.zones, 0)
+                            else
+                                local mobs = MTSL_LOGIC_PLAYER_NPC:GetMobsByIds(item.drops.sources)
+                                self:ShowDetailsOfNpcs(mobs, 0)
+                            end
                         end
                         self.tooltip_source_name = "item:" .. item_id
                         -- alternative/secundary source
@@ -790,8 +794,12 @@ MTSLUI_SKILL_DETAIL_FRAME = {
                         if item.drops.range ~= nil then
                             self:ShowWorldDropSources(item.drops.range.min_xp_level, item.drops.range.max_xp_level, 1)
                         else
-                            local mobs = MTSL_LOGIC_PLAYER_NPC:GetMobsByIds(item.drops.sources)
-                            self:ShowDetailsOfNpcs(mobs, 1)
+                            if item.drops.zones ~= nil then
+                                self:ShowZoneDropSources(item.drops.zones, 1)
+                            else
+                                local mobs = MTSL_LOGIC_PLAYER_NPC:GetMobsByIds(item.drops.sources)
+                                self:ShowDetailsOfNpcs(mobs, 1)
+                            end
                         end
                         self.tooltip_alt_source_name  = "item:" .. item_id
                     end
@@ -979,6 +987,45 @@ MTSLUI_SKILL_DETAIL_FRAME = {
             zone,
         }
         for i=2,amount_labels do
+            label_sources.values[i]:Hide()
+            label_sources.values[i].waypoint = {
+                name,
+                x,
+                y,
+                zone,
+            }
+        end
+    end,
+
+    ---------------------------------------------------------------------------
+    -- Show the labels of the zone drop in the main list
+    --
+    -- @zone_ids                Array       List of zones where it drops
+    -- @is_alternative_source	Number		Indicating if primary (=0) or secondary (=1) source
+    ---------------------------------------------------------------------------
+    ShowZoneDropSources = function(self, zone_ids, is_alternative_source)
+        local label_sources = self.labels.sources
+        local amount_labels = self.MAX_SOURCES_SHOWN_PRIMARY
+        if is_alternative_source == 1  then
+            label_sources = self.labels.alt_sources
+            amount_labels = self.MAX_SOURCES_SHOWN_SECONDARY
+            -- adjust the height of the primary panel
+            self.labels.sources.ui_frame:SetHeight(self.FRAME_SOURCES_HEIGHT_WITH_SECONDARY)
+        end
+        label_sources.ui_frame:Show()
+        local drop_text = MTSLUI_TOOLS:GetLocalisedLabel("zone")
+        local amount_of_zones = MTSL_TOOLS:CountItemsInArray(zone_ids)
+        for i = 1, amount_of_zones do
+            label_sources.values[i]:SetText(MTSLUI_FONTS.COLORS.TEXT.NORMAL .. MTSL_LOGIC_WORLD:GetZoneNameById(zone_ids[i]))
+            label_sources.values[i]:Show()
+            label_sources.values[i].waypoint = {
+                name,
+                x,
+                y,
+                zone,
+            }
+        end
+        for i= amount_of_zones + 1,amount_labels do
             label_sources.values[i]:Hide()
             label_sources.values[i].waypoint = {
                 name,

@@ -26,6 +26,6 @@ MTSL_DATA = {
     MIN_PATCH_LEVEL = 1,
     MAX_PATCH_LEVEL = 5,
     CURRENT_PATCH_LEVEL = 1,
-    -- Phases by id: Karazhan, Tempest Keep, Black Temple, Zul'Aman, Sunwell
-    PHASE_IDS = { 2717, 2557, 2677 ,1977, 3428 }
+    -- Phases by id: Karazhan, Tempest Keep, Black Temple, Zul'Aman, Sunwell Plateau
+    PHASE_IDS = { 3457, 3845, 3959 ,3805, 4075 }
 }
