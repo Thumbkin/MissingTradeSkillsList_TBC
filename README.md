@@ -1,9 +1,11 @@
 # MissingTradeSkillsList (TBC)
 Addon for World Of Warcraft Classic (The Burning Crusade) v2.5  
 Shows the missing recipes/skills for a tradeskill and where to get them  
-Addon only works **all** languages now! (MTSL Options menu shows in English only)  
+Addon works with **all** languages/locales! 
 
-Please **donate** (paypal to thumbkin83@gmail.com) if you want to support this addon!
+Please **donate** (PayPal to thumbkin83@gmail.com) if you want to support this addon!
+
+Bug or request? Report an issue on https://github.com/Thumbkin/MissingTradeSkillsList_TBC
 
 ### Author
 Thumbkin (Retail: EU-Burning Steppes, Classic: EU-Pyrewood Village)
@@ -50,6 +52,7 @@ Minimap button & Enhanced tooltip
 * Added the 5 scheduled phases
 * Added "zone" as a possible drop source
 * Added data for TBC for professions:
+  * Cooking
   * First Aid
   * Fishing
   * Herbalism

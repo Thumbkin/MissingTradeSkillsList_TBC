@@ -7102,6 +7102,135 @@ MTSL_DATA["items"] = {
                 },
             },
         },
+        {
+            ["id"] = 21219,
+            ["name"] = {
+                ["Chinese"] = "食谱：松脆蜘蛛",
+                ["English"] = "Recipe: Crunchy Spider Surprise",
+                ["French"] = "Recette : Surprise d'araignée croustillante",
+                ["German"] = "Rezept: Knusperspinne Surprise",
+                ["Korean"] = "조리법: 바삭바삭한 거미 튀김",
+                ["Mexican"] = "Receta: sorpresa de araña crujiente",
+                ["Portuguese"] = "Receita: Escondidinho Crocante de Aranha",
+                ["Russian"] = "Рецепт: хрустящий паучий десерт",
+                ["Spanish"] = "Receta: sorpresa de araña crujiente",
+                ["Taiwanese"] = "食譜：松脆蜘蛛",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["quests"] = {
+                9171,
+            }
+        },
+        {
+            ["id"] = 27684,
+            ["name"] = {
+                ["Chinese"] = "食谱：美味秃鹫",
+                ["English"] = "Recipe: Buzzard Bites",
+                ["French"] = "Recette : Bouchées de busard",
+                ["German"] = "Rezept: Bussardbissen",
+                ["Korean"] = "조리법: 독수리 꼬치",
+                ["Mexican"] = "Receta: pinchito de águila ratonera",
+                ["Portuguese"] = "Receita: Iscas de Urubu",
+                ["Russian"] = "Рецепт: закуска из канюка",
+                ["Spanish"] = "Receta: pinchito de águila ratonera",
+                ["Taiwanese"] = "食譜：美味禿鹫",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["quests"] = {
+                9356,
+            }
+        },
+        {
+            ["id"] = 27685,
+            ["name"] = {
+                ["Chinese"] = "食谱：山猫肉排",
+                ["English"] = "Recipe: Lynx Steak",
+                ["French"] = "Recette : Steak de lynx",
+                ["German"] = "Rezept: Luchssteak",
+                ["Korean"] = "조리법: 스라소니 스테이크",
+                ["Mexican"] = "Receta: chuleta de lince",
+                ["Portuguese"] = "Receita: Filé de Lince",
+                ["Russian"] = "Рецепт: стейк из рысятины",
+                ["Spanish"] = "Receta: chuleta de lince",
+                ["Taiwanese"] = "食譜：山貓肉排",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["vendors"] = {
+                ["price"] = 34,
+                ["sources"] = {
+                    16262,
+                }
+            }
+        },
+        {
+            ["id"] = 27686,
+            ["name"] = {
+                ["Chinese"] = "食谱：月痕鹿腰肉",
+                ["English"] = "Recipe: Roasted Moongraze Tenderloin",
+                ["French"] = "Recette : Filet de frôle-lune rôti",
+                ["German"] = "Rezept: Geröstete Mondweidenlenden",
+                ["Korean"] = "조리법: 달새김 안심 스테이크",
+                ["Mexican"] = "Receta: solomillo de venado lunar asado",
+                ["Portuguese"] = "Receita: Lombo Assado de Pastoluna",
+                ["Russian"] = "Рецепт: жареная вырезка лунного оленя",
+                ["Spanish"] = "Receta: solomillo de venado lunar asado",
+                ["Taiwanese"] = "食譜：月痕鹿腰肉",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["quests"] = {
+                9454,
+            }
+        },
+        {
+            ["id"] = 27687,
+            ["name"] = {
+                ["Chinese"] = "食谱：美味翅根",
+                ["English"] = "Recipe: Bat Bites",
+                ["French"] = "Recette : Bouchées à la chauve-souris",
+                ["German"] = "Rezept: Fledermausbissen",
+                ["Korean"] = "조리법: 박쥐 꼬치",
+                ["Mexican"] = "Receta: pinchitos de murciélago",
+                ["Portuguese"] = "Receita: Iscas de Morcego",
+                ["Russian"] = "Рецепт: закуска из летучей мыши",
+                ["Spanish"] = "Receta: pinchitos de murciélago",
+                ["Taiwanese"] = "食譜：美味翅根",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["vendors"] = {
+                ["price"] = 320,
+                ["sources"] = {
+                    16253,
+                }
+            }
+        },
+        {
+            ["id"] = 27688,
+            ["name"] = {
+                ["Chinese"] = "食谱：掠食者热狗",
+                ["English"] = "Recipe: Ravager Dog",
+                ["French"] = "Recette : Croque-ravageur",
+                ["German"] = "Rezept: Heißer Hetzer",
+                ["Korean"] = "조리법: 칼날발톱 핫도그",
+                ["Mexican"] = "Receta: perro devastador",
+                ["Portuguese"] = "Receita: Cachorro-quente de Assolador",
+                ["Russian"] = "Рецепт: сосиска из мяса опустошителя",
+                ["Spanish"] = "Receta: perro devastador",
+                ["Taiwanese"] = "食譜：掠食者熱狗",
+            },
+            ["phase"] = 1,
+            ["quality"] = "common",
+            ["vendors"] = {
+                ["price"] = 20000,
+                ["sources"] = {
+                    16585,
+                }
+            }
+        },
     },
     ["Enchanting"] = {
         {
