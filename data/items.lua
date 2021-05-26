@@ -7063,6 +7063,7 @@ MTSL_DATA["items"] = {
                     8307,
                     12033,
                     14738,
+                    16253,
                 },
             },
         },
@@ -7099,11 +7100,12 @@ MTSL_DATA["items"] = {
                     8307,
                     12033,
                     14738,
+                    16253,
                 },
             },
         },
         {
-            ["id"] = 21219,
+            ["id"] = 22647,
             ["name"] = {
                 ["Chinese"] = "食谱：松脆蜘蛛",
                 ["English"] = "Recipe: Crunchy Spider Surprise",
@@ -7120,6 +7122,13 @@ MTSL_DATA["items"] = {
             ["quality"] = "common",
             ["quests"] = {
                 9171,
+            },
+            ["vendors"] = {
+                ["price"] = 400,
+                ["sources"] = {
+                    16253,
+                    18427,
+                }
             }
         },
         {
@@ -7202,7 +7211,7 @@ MTSL_DATA["items"] = {
             ["phase"] = 1,
             ["quality"] = "common",
             ["vendors"] = {
-                ["price"] = 320,
+                ["price"] = 400,
                 ["sources"] = {
                     16253,
                 }
