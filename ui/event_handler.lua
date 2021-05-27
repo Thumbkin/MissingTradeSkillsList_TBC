@@ -199,9 +199,7 @@ MTSLUI_EVENT_HANDLER = {
 	-- Event started when a skill is learned from trainer
 	---------------------------------------------------------------------------------------
 	TRAINER_UPDATE = function (self)
-		print("TRAINER_UPDATE")
 		local has_learned = MTSL_LOGIC_PLAYER_NPC:AddLearnedProfessions()
-		print(has_learned)
 		-- only possible react if we have a craft or tradeskill open
 		if self.ui_craft_open > 0 or self.ui_trade_open > 0 then
 			-- Check if we have a trainer window open

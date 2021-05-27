@@ -10,23 +10,21 @@ Bug or request? Report an issue on https://github.com/Thumbkin/MissingTradeSkill
 ### Author
 Thumbkin (Retail: EU-Burning Steppes, Classic: EU-Pyrewood Village)
 
-# TODO update screenshots
-
-### Screenshots
+### Screenshots (Not updated yet with TBC)
 MTSL - Vertical split (Change using options menu)  
-![alt text](http://www.thumbkin.be/mtsl/images/mtsl_main.png "Missing TradeSkills List - Main window")  
+![alt text](http://www.thumbkin.be/mtsl/images/tbc/mtsl_main.png "Missing TradeSkills List - Main window")  
 Account explorer (/mtsl acc or /mtsl account)  
-![alt text](http://www.thumbkin.be/mtsl/images/mtsl_account.png "Missing TradeSkills List - Account explorer")  
+![alt text](http://www.thumbkin.be/mtsl/images/tbc/mtsl_account.png "Missing TradeSkills List - Account explorer")  
 Character explorer (/mtsl or /mtsl char)  
-![alt text](http://www.thumbkin.be/mtsl/images/mtsl_character.png "Missing TradeSkills List - Character explorer")  
+![alt text](http://www.thumbkin.be/mtsl/images/tbc/mtsl_character.png "Missing TradeSkills List - Character explorer")  
 Database explorer (/mtsl db or /mtsl database)  
-![alt text](http://www.thumbkin.be/mtsl/images/mtsl_database.png "Missing TradeSkills List - Database explorer")  
+![alt text](http://www.thumbkin.be/mtsl/images/tbc/mtsl_database.png "Missing TradeSkills List - Database explorer")  
 NPC explorer (/mtsl npc)  
-![alt text](http://www.thumbkin.be/mtsl/images/mtsl_npc.png "Missing TradeSkills List - NPC explorer")  
+![alt text](http://www.thumbkin.be/mtsl/images/tbc/mtsl_npc.png "Missing TradeSkills List - NPC explorer")  
 Options menu (/mtsl config or /mtsl options)  
-![alt text](http://www.thumbkin.be/mtsl/images/mtsl_options.png "Missing TradeSkills List - Options menu")  
+![alt text](http://www.thumbkin.be/mtsl/images/tbc/mtsl_options.png "Missing TradeSkills List - Options menu")  
 Minimap button & Enhanced tooltip  
-![alt text](http://www.thumbkin.be/mtsl/images/mtsl_minimap_tooltips.png "Missing TradeSkills List - Minimap Button & Enhanced tooltip")  
+![alt text](http://www.thumbkin.be/mtsl/images/tbc/mtsl_minimap_tooltips.png "Missing TradeSkills List - Minimap Button & Enhanced tooltip")  
 
 ### Key Features
 
@@ -60,4 +58,4 @@ Minimap button & Enhanced tooltip
   * Poisons
   * Skinning
 
-View full version history [here](http://www.thumbkin.be/mtsl/tbc/VERSION_HISTORY.html) or VERSION_HISTORY.md inside zip addon
+To view the full version history open VERSION_HISTORY.md inside zip
