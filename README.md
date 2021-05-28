@@ -58,4 +58,11 @@ Minimap button & Enhanced tooltip
   * Poisons
   * Skinning
 
+### Support
+
+Found a bug? Want to report wrong data?
+Make an issue here: https://github.com/Thumbkin/MissingTradeSkillsList_TBC/issues
+
+**Make sure you have the latest version of the addon installed and checked current opened issues before reporting a new issue!**
+
 To view the full version history open VERSION_HISTORY.md inside zip

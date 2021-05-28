@@ -1,2 +1,4 @@
 # ignore IntelliJ files
 /.idea
+
+debug.lua
