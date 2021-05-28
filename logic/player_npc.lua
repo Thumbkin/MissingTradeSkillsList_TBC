@@ -668,10 +668,13 @@ MTSL_LOGIC_PLAYER_NPC = {
     ------------------------------------------------------------------------------------------------
     UpdateMissingLevelsForProfessionCurrentPlayer = function(self, profession_name, max_level)
         -- Get the current trained max based on max_level for the player for the profession
+        print("GetRankForProfessionByMaxLevel " .. profession_name .. " - " .. max_level)
         local learned_rank = MTSL_LOGIC_PROFESSION:GetRankForProfessionByMaxLevel(profession_name, max_level)
         MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name]["HIGHEST_KNOWN_RANK"] = learned_rank
         -- add all the missing levels to the array of skills as well and increase counter
         local rank_ids = MTSL_LOGIC_PROFESSION:GetRanksForProfession(profession_name)
+
+        print("Learned rank " .. learned_rank .. " for " .. profession_name)
 
         -- loop all level ranks
         for _, v in pairs(rank_ids) do

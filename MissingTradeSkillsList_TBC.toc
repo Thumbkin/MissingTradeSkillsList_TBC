@@ -23,10 +23,10 @@ ui\saved_variables.lua
 
 # Shared data
 data\continents.lua
+data\currencies.lua
 data\factions.lua
 data\holidays.lua
 data\items.lua
-data\levels.lua
 data\npcs.lua
 data\objects.lua
 data\profession_ranks.lua
@@ -37,6 +37,36 @@ data\skills.lua
 data\special_actions.lua
 data\specialisations.lua
 data\zones.lua
+# profession specific data
+data\Alchemy\levels.lua
+
+data\Blacksmithing\levels.lua
+
+data\Cooking\levels.lua
+
+data\Enchanting\levels.lua
+
+data\Engineering\levels.lua
+
+data\FirstAid\items.lua
+data\FirstAid\levels.lua
+data\FirstAid\skills.lua
+
+data\Fishing\levels.lua
+
+data\Herbalism\levels.lua
+
+data\Jewelcrafting\levels.lua
+
+data\Leatherworking\levels.lua
+
+data\Mining\levels.lua
+
+data\Poisons\levels.lua
+
+data\Skinning\levels.lua
+
+data\Tailoring\levels.lua
 
 #
 # Load the logic

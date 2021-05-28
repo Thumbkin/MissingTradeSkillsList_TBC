@@ -33,6 +33,8 @@ MTSL_LOGIC_PROFESSION = {
     -- returns              Array       The array with levels
     -----------------------------------------------------------------------------------------------
     GetRanksForProfession = function(self, profession_name)
+        print("GetRanksForProfession " .. profession_name)
+        print(MTSL_DATA["levels"][profession_name])
         return MTSL_TOOLS:SortArrayByProperty(MTSL_DATA["levels"][profession_name], "rank")
     end,
 
@@ -114,7 +116,7 @@ MTSL_LOGIC_PROFESSION = {
     end,
 
     -----------------------------------------------------------------------------------------------
-    -- Get All the available (in the given phase) skills and levels in a zone for one profession sorted by minimim skill
+    -- Get All the available (in the given phase) skills and levels in a zone for one profession sorted by minimum skill
     --
     -- @profession_name		String		The name of the profession
     -- @max_phase			Number		The maximum content phase for skill to be included (default = current)

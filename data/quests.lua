@@ -2264,4 +2264,24 @@ MTSL_DATA["quests"] = {
         },
         ["phase"] = 1,
     },
+    {
+        ["id"] = 11665,
+        ["min_xp_level"] = 70,
+        ["name"] = {
+            ["Chinese"] = "每日钓鱼",
+            ["English"] = "Daily fishing quest",
+            ["French"] = "Quête de pêche quotidienne",
+            ["German"] = "Tägliche Angelquest",
+            ["Korean"] = "일일 퀘스트 낚시",
+            ["Mexican"] = "Búsqueda de pesca diaria",
+            ["Portuguese"] = "Busca de pesca diária",
+            ["Russian"] = "Ежедневный квест на рыбалку",
+            ["Spanish"] = "Búsqueda de pesca diaria",
+            ["Taiwanese"] = "每日任務釣魚",
+        },
+        ["npcs"] = {
+            25580,
+        },
+        ["phase"] = 1,
+    },
 }

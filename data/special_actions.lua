@@ -122,6 +122,21 @@ MTSL_DATA["special_actions"] = {
             ["Taiwanese"] = "由地精工程師制造 (205)",
         },
     },
+    ["mail"] = {
+        ["id"] = 16,
+        ["name"] = {
+            ["Chinese"] = "游戏内邮件",
+            ["English"] = "In-game mail",
+            ["French"] = "Courrier en jeu",
+            ["German"] = "Post im Spiel",
+            ["Korean"] = "게임 내 메일",
+            ["Mexican"] = "Correo dentro del juego",
+            ["Portuguese"] = "Correio dentro do jogo",
+            ["Russian"] = "Внутриигровая почта",
+            ["Spanish"] = "Correo dentro del juego",
+            ["Taiwanese"] = "遊戲內郵件",
+        },
+    },
     ["needs father flame"] = {
         ["id"] = 8,
         ["name"] = {

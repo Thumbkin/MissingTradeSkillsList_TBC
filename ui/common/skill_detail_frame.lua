@@ -748,7 +748,12 @@ MTSLUI_SKILL_DETAIL_FRAME = {
                     self:SetSourceType(MTSLUI_FONTS.COLORS.TEXT.NORMAL .. MTSLUI_TOOLS:GetLocalisedLabel("vendor"), is_alternative_source, 1)
                     self.tooltip_source_name = "item:" .. item_id
                     self.labels.sources.title:SetText(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_TOOLS:GetLocalisedLabel("sold by"))
-                    self.labels.price.value:SetText(MTSL_TOOLS:GetNumberAsMoneyString(item.vendors.price))
+                    -- if its a currency, dont convert price to gold
+                    if item.vendors.currency then
+                        self.labels.price.value:SetText(item.vendors.price .. " " .. MTSL_LOGIC_ITEM_OBJECT:GetCurrencyNameById(item.vendors.currency))
+                    else
+                        self.labels.price.value:SetText(MTSL_TOOLS:GetNumberAsMoneyString(item.vendors.price))
+                    end
                     -- Get all "available" vendors for the player
                     local vendors = MTSL_LOGIC_PLAYER_NPC:GetNpcsByIds(item.vendors.sources)
                     self:ShowDetailsOfNpcs(vendors, 0)

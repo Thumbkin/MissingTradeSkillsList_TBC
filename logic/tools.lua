@@ -463,9 +463,8 @@ MTSL_TOOLS = {
 			MTSL_DATA["AMOUNT_SKILLS"]["phase_" .. current_phase] = {}
 			for prof_name, _ in pairs(MTSL_DATA["professions"]) do
 				MTSL_DATA["AMOUNT_SKILLS"]["phase_" .. current_phase][prof_name] = {}
-				-- each profession has 4 levels (except poisons, just the 1)
-				MTSL_DATA["AMOUNT_SKILLS"]["phase_" .. current_phase][prof_name]["spec_0"] = 4
-				if prof_name == "Poisons" then MTSL_DATA["AMOUNT_SKILLS"]["phase_" .. current_phase][prof_name]["spec_0"] = 1 end
+				-- each profession has a number of ranks that can be learned from trainer
+				MTSL_DATA["AMOUNT_SKILLS"]["phase_" .. current_phase][prof_name]["spec_0"] = MTSL_DATA["AMOUNT_RANKS"][prof_name]
 				-- add counter for each specialisation if profession has em
 				if MTSL_DATA["specialisations"][prof_name] then
 					for _, specialisation in pairs(MTSL_DATA["specialisations"][prof_name]) do

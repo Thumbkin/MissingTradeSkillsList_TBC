@@ -76,4 +76,21 @@ MTSL_LOGIC_ITEM_OBJECT = {
     GetItemForProfessionById = function(self, id, profession_name)
         return MTSL_TOOLS:GetItemFromArrayByKeyValue(MTSL_DATA["items"][profession_name], "id", id)
     end,
+
+    -----------------------------------------------------------------------------------------------
+    -- Gets the name of a currency (based on it's id)
+    --
+    -- @id				    Number		The id of the currency to search
+    --
+    -- return			    Object		Found name (nil if not found)
+    ------------------------------------------------------------------------------------------------
+    GetCurrencyNameById = function(self, id)
+        local currency = MTSL_TOOLS:GetItemFromArrayByKeyValue(MTSL_DATA["currencies"], "id", id)
+        if currency then
+            return MTSLUI_TOOLS:GetLocalisedData(currency)
+        else
+            print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not find currency with id " .. id .. ". Please report this bug!")
+            return ""
+        end
+    end,
 }
