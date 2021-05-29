@@ -4,52 +4,6 @@
 -----------------------------------------
 -- All info saved for 1 account/player --
 -----------------------------------------
-MTSLUI_PLAYER = {
-    -- order as shown in options menu
-    WELCOME_MSG,
-    AUTO_SHOW_MTSL,
-    MINIMAP = {
-        ACTIVE,
-        ANGLE,
-        RADIUS,
-        SHAPE,
-    },
-    PATCH_LEVEL_MTSL,
-    TOOLTIP = {
-        ACTIVE,
-        FACTIONS,
-        SHOW_KNOWN,
-    },
-    MTSL_LOCATION,
-    UI_SPLIT_MODE = {
-        MTSL,
-        ACCOUNT,
-        CHAR,
-        DATABASE,
-        NPC,
-    },
-    UI_SCALE = {
-        MTSL,
-        ACCOUNT,
-        CHAR,
-        DATABASE,
-        NPC,
-        OPTIONSMENU,
-    },
-    FONT = {
-        NAME,
-        SIZE = {
-            TITLE,
-            LABEL,
-            TEXT,
-        },
-    },
-    LINK_TO_CHAT = {
-        ACTIVE,
-        CHANNEL
-    }
-}
-
 MTSLUI_SAVED_VARIABLES = {
     MIN_UI_SCALE = "0.5",
     MAX_UI_SCALE = "1.25",
@@ -77,21 +31,21 @@ MTSLUI_SAVED_VARIABLES = {
     -- Try and load the values from saved files
     Initialise = function(self)
         -- reset all if not found (first time)
-        if MTSLUI_PLAYER == nil then
-            self:ResetPlayer()
+        if not MTSLUI_PLAYER then
+            self:ResetSavedVariables()
         else
             -- reset/remove the old splitmode
-            if MTSLUI_PLAYER.SPLIT_MODE ~= nil then
+            if MTSLUI_PLAYER.SPLIT_MODE then
                 MTSLUI_PLAYER.SPLIT_MODE = nil
             end
             -- only reset the scale
-            if MTSLUI_PLAYER.UI_SCALE == nil then
+            if not MTSLUI_PLAYER.UI_SCALE then
                 self:ResetUIScales()
             else
                 self:ValidateUIScales()
             end
             -- only reset the split
-            if MTSLUI_PLAYER.UI_SPLIT_MODE == nil then
+            if not MTSLUI_PLAYER.UI_SPLIT_MODE then
                 self:ResetSplitModes()
             else
                 self:ValidateSplitModes()
@@ -99,7 +53,7 @@ MTSLUI_SAVED_VARIABLES = {
 
             self:SetShowWelcomeMessage(MTSLUI_PLAYER.WELCOME_MSG)
             self:SetAutoShowMTSL(MTSLUI_PLAYER.AUTO_SHOW_MTSL)
-            self:SetPatchLevelMTSL(MTSLUI_PLAYER.PATCH_LEVEL_MTSL)
+            self:SetPatchLevelMTSL()
 
             if MTSLUI_PLAYER.FONT == nil or type(MTSLUI_PLAYER.FONT) ~= "table" or
                     MTSLUI_PLAYER.FONT.SIZE == nil or type(MTSLUI_PLAYER.FONT.SIZE) ~= "table" then
@@ -140,58 +94,51 @@ MTSLUI_SAVED_VARIABLES = {
     end,
 
     ------------------------------------------------------------------------------------------------
-    -- Reset the players saved variables
+    -- Reset the content of the savedvariable to have a "clean" install
     ------------------------------------------------------------------------------------------------
-    ResetPlayer = function(self)
+    ResetSavedVariables = function(self)
         print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: All saved variables have been reset to default values!")
         MTSLUI_PLAYER = {}
         -- Follows the order as shown on options menu
         MTSLUI_PLAYER.WELCOME_MSG = 1
         MTSLUI_PLAYER.AUTO_SHOW_MTSL = 1
         self:ResetMinimap()
-        MTSLUI_PLAYER.PATCH_LEVEL_MTSL = "current"
+        self:SetPatchLevelMTSL()
         self:ResetEnhancedTooltip()
         self:ResetMTSLLocation()
         self:ResetSplitModes()
         self:ResetUIScales()
         self:ResetFont()
         self:ResetLinkToChat()
-    end,
 
-    ------------------------------------------------------------------------------------------------
-    -- Reset the content of the savedvariable to have a "clean" install
-    ------------------------------------------------------------------------------------------------
-    ResetSavedVariables = function(self)
-        MTSLUI_PLAYER = nil
         self:Initialise()
-        self:LoadSavedSplitModes()
-        self:LoadSavedUIScales()
-        self:LoadSavedFont()
     end,
 
     ------------------------------------------------------------------------------------------------
     -- Reset all UI scales to the default UI scale
     ------------------------------------------------------------------------------------------------
     ResetUIScales = function(self)
-        MTSLUI_PLAYER.UI_SCALE = {}
-        MTSLUI_PLAYER.UI_SCALE.MTSL = self.DEFAULT_UI_SCALE
-        MTSLUI_PLAYER.UI_SCALE.ACCOUNT = self.DEFAULT_UI_SCALE
-        MTSLUI_PLAYER.UI_SCALE.CHAR = self.DEFAULT_UI_SCALE
-        MTSLUI_PLAYER.UI_SCALE.DATABASE = self.DEFAULT_UI_SCALE
-        MTSLUI_PLAYER.UI_SCALE.NPC = self.DEFAULT_UI_SCALE
-        MTSLUI_PLAYER.UI_SCALE.OPTIONSMENU = self.DEFAULT_UI_SCALE
+        MTSLUI_PLAYER.UI_SCALE = {
+            MTSL = self.DEFAULT_UI_SCALE,
+            ACCOUNT = self.DEFAULT_UI_SCALE,
+            CHAR = self.DEFAULT_UI_SCALE,
+            DATABASE = self.DEFAULT_UI_SCALE,
+            NPC = self.DEFAULT_UI_SCALE,
+            OPTIONSMENU = self.DEFAULT_UI_SCALE,
+        }
     end,
 
     ------------------------------------------------------------------------------------------------
     -- Reset all split modes to the default value
     ------------------------------------------------------------------------------------------------
     ResetSplitModes = function(self)
-        MTSLUI_PLAYER.UI_SPLIT_MODE = {}
-        MTSLUI_PLAYER.UI_SPLIT_MODE.MTSL = self.DEFAULT_UI_SPLIT_MODE
-        MTSLUI_PLAYER.UI_SPLIT_MODE.ACCOUNT = self.DEFAULT_UI_SPLIT_MODE
-        MTSLUI_PLAYER.UI_SPLIT_MODE.CHAR = self.DEFAULT_UI_SPLIT_MODE
-        MTSLUI_PLAYER.UI_SPLIT_MODE.DATABASE = self.DEFAULT_UI_SPLIT_MODE
-        MTSLUI_PLAYER.UI_SPLIT_MODE.NPC = self.DEFAULT_UI_SPLIT_MODE
+        MTSLUI_PLAYER.UI_SPLIT_MODE = {
+            MTSL = self.DEFAULT_UI_SPLIT_MODE,
+            ACCOUNT = self.DEFAULT_UI_SPLIT_MODE,
+            CHAR = self.DEFAULT_UI_SPLIT_MODE,
+            DATABASE = self.DEFAULT_UI_SPLIT_MODE,
+            NPC = self.DEFAULT_UI_SPLIT_MODE,
+        }
     end,
 
     -----------------------------------------------------------------------------------------------
@@ -217,25 +164,26 @@ MTSLUI_SAVED_VARIABLES = {
             font_name = "FRIZQT__"
         end
 
-        MTSLUI_PLAYER.FONT = {}
-        MTSLUI_PLAYER.FONT.NAME = font_name .. ".ttf"
-        MTSLUI_PLAYER.FONT.SIZE = {}
-        MTSLUI_PLAYER.FONT.SIZE.TEXT = self.DEFAULT_SIZE_TEXT
-        MTSLUI_PLAYER.FONT.SIZE.LABEL = self.DEFAULT_SIZE_LABEL
-        MTSLUI_PLAYER.FONT.SIZE.TITLE = self.DEFAULT_SIZE_TITLE
-
-        print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Font was reset to default!")
+        MTSLUI_PLAYER.FONT = {
+            NAME = font_name .. ".ttf",
+            SIZE = {
+                TEXT = self.DEFAULT_SIZE_TEXT,
+                LABEL = self.DEFAULT_SIZE_LABEL,
+                TITLE = self.DEFAULT_SIZE_TITLE,
+            },
+        }
     end,
 
     ------------------------------------------------------------------------------------------------
     -- Reset all minimap values to default
     ------------------------------------------------------------------------------------------------
     ResetMinimap = function(self)
-        MTSLUI_PLAYER.MINIMAP = {}
-        MTSLUI_PLAYER.MINIMAP.ACTIVE = 1
-        MTSLUI_PLAYER.MINIMAP.ANGLE = self.DEFAULT_MINIMAP_ANGLE
-        MTSLUI_PLAYER.MINIMAP.RADIUS = self.DEFAULT_MINIMAP_RADIUS
-        MTSLUI_PLAYER.MINIMAP.SHAPE = self.DEFAULT_MINIMAP_SHAPE
+        MTSLUI_PLAYER.MINIMAP = {
+            ACTIVE = 1,
+            ANGLE = self.DEFAULT_MINIMAP_ANGLE,
+            RADIUS = self.DEFAULT_MINIMAP_RADIUS,
+            SHAPE = self.DEFAULT_MINIMAP_SHAPE,
+        }
 
         MTSLUI_MINIMAP:Show()
     end,
@@ -244,29 +192,32 @@ MTSLUI_SAVED_VARIABLES = {
     -- Reset all tooltip values to default
     ------------------------------------------------------------------------------------------------
     ResetEnhancedTooltip = function(self)
-        MTSLUI_PLAYER.TOOLTIP = {}
-        MTSLUI_PLAYER.TOOLTIP.FACTIONS = self.DEFAULT_TOOTLITP_FACTION
-        MTSLUI_PLAYER.TOOLTIP.ACTIVE = 1
-        MTSLUI_PLAYER.TOOLTIP.SHOW_KNOWN = self.DEFAULT_TOOTLITP_SHOW_KNOWN
+        MTSLUI_PLAYER.TOOLTIP = {
+            FACTIONS = self.DEFAULT_TOOTLITP_FACTION,
+            ACTIVE = 1,
+            SHOW_KNOWN = self.DEFAULT_TOOTLITP_SHOW_KNOWN,
+        }
     end,
 
     ResetLinkToChat = function (self)
-        MTSLUI_PLAYER.LINK_TO_CHAT = {}
-        MTSLUI_PLAYER.LINK_TO_CHAT.CHANNEL = self.DEFAULT_CHAT_CHANNEL
-        MTSLUI_PLAYER.LINK_TO_CHAT.ACTIVE = 1
+        MTSLUI_PLAYER.LINK_TO_CHAT = {
+            CHANNEL = self.DEFAULT_CHAT_CHANNEL,
+            ACTIVE = 1,
+        }
     end,
 
     ResetMTSLLocation = function (self)
-        MTSLUI_PLAYER.MTSL_LOCATION = {}
-        MTSLUI_PLAYER.MTSL_LOCATION.BUTTON = "right"
-        MTSLUI_PLAYER.MTSL_LOCATION.FRAME = "right"
+        MTSLUI_PLAYER.MTSL_LOCATION = {
+            BUTTON = "right",
+            FRAME = "right",
+        }
     end,
 
     ------------------------------------------------------------------------------------------------
     -- Load the saved splitmode from saved variable
     ------------------------------------------------------------------------------------------------
     LoadSavedSplitModes = function(self)
-        if MTSLUI_PLAYER == nil then
+        if not MTSLUI_PLAYER then
             self:ResetSavedVariables()
         else
             -- convert old to new also
@@ -444,11 +395,12 @@ MTSLUI_SAVED_VARIABLES = {
     -- Load the font from saved variable
     ------------------------------------------------------------------------------------------------
     LoadSavedFont = function(self)
-        if MTSLUI_PLAYER == nil then
+        if not MTSLUI_PLAYER then
             self:ResetSavedVariables()
         else
             -- convert old to new also
             if self:ValidateFont() == false then
+                print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Font was reset to default!")
                 self:ResetFont()
             end
             MTSLUI_FONTS:Initialise()
@@ -460,7 +412,7 @@ MTSLUI_SAVED_VARIABLES = {
     ------------------------------------------------------------------------------------------------
     ValidateFont = function(self)
         -- Check if name of font is valid
-        if MTSLUI_PLAYER.FONT.NAME == nil or self:IsValidFontType(MTSLUI_PLAYER.FONT.NAME) == false then
+        if not MTSLUI_PLAYER.FONT.NAME or self:IsValidFontType(MTSLUI_PLAYER.FONT.NAME) == false then
             self:ResetFont()
         end
         -- check the numbers of the each size
@@ -551,7 +503,7 @@ MTSLUI_SAVED_VARIABLES = {
     ------------------------------------------------------------------------------------------------
     SetAutoShowMTSL = function(self, auto_show_mtsl)
         MTSLUI_PLAYER.AUTO_SHOW_MTSL = 1
-        if auto_show_mtsl == nil or auto_show_mtsl == 0 or auto_show_mtsl == false then
+        if auto_show_mtsl or auto_show_mtsl == 0 or auto_show_mtsl == false then
             MTSLUI_PLAYER.AUTO_SHOW_MTSL = 0
         end
     end,
@@ -620,25 +572,15 @@ MTSLUI_SAVED_VARIABLES = {
     end,
 
     ------------------------------------------------------------------------------------------------
-    -- Sets the number of content patch used to show data
-    --
-    -- @patch_level        Number          Number between MTSL_DATA.MIN_PATCH_LEVEL and MTSL_DATA.MAX_PATCH_LEVEL
+    -- Sets the number of content patch used to show data based on tocversion of server
     ------------------------------------------------------------------------------------------------
-    SetPatchLevelMTSL = function(self, patch_level)
-        if tonumber(patch_level) then
-            -- Set the current level based on server if invalid number
-            if tonumber(patch_level) < tonumber(MTSL_DATA.MIN_PATCH_LEVEL) or
-                    tonumber(patch_level) > tonumber(MTSL_DATA.MAX_PATCH_LEVEL) then
-                patch_level = MTSL_DATA.MIN_PATCH_LEVEL
-            end
-            MTSL_DATA.CURRENT_PATCH_LEVEL = tonumber(patch_level)
-            MTSLUI_PLAYER.PATCH_LEVEL_MTSL = tonumber(patch_level)
-            -- Set the current level based on server
+    SetPatchLevelMTSL = function(self)
+        local patch_level = self:GetPatchLevelServer()
+        if patch_level == 0 then
+            MTSL_DATA.CURRENT_PATCH_LEVEL = MTSL_DATA.MIN_PATCH_LEVEL
+            print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Could not determine patch level from server! Falling back to phase " .. MTSL_DATA.CURRENT_PATCH_LEVEL .. "(" .. MTSL_LOGIC_WORLD:GetZoneNameById (MTSL_DATA.PHASE_IDS[current_patch_level]) .. ")")
         else
-            -- MTSLUI_PLAYER.PATCH_LEVEL_MTSL = "current"
-            -- MTSL_DATA.CURRENT_PATCH_LEVEL = self:GetPatchLevelServer()
-            print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Your data patch level has been reset to 1! Use options menu to change it.")
-            self:SetPatchLevelMTSL(MTSL_DATA.MIN_PATCH_LEVEL)
+            MTSL_DATA.CURRENT_PATCH_LEVEL = patch_level
         end
     end,
 
@@ -647,15 +589,16 @@ MTSLUI_SAVED_VARIABLES = {
     ------------------------------------------------------------------------------------------------
     GetPatchLevelServer = function(self)
         -- Determine the current patch level of the server
-        local build_version = GetBuildInfo()
-        local _, _, v, _ = strsplit(".", build_version, 4)
-        -- Check if its a patch level between our limits
-        if v == nil or (v ~= nil and (tonumber(v) < tonumber(MTSL_DATA.MIN_PATCH_LEVEL) or
-                tonumber(v) > tonumber(MTSL_DATA.MAX_PATCH_LEVEL))) then
-            v = MTSL_DATA.CURRENT_PATCH_LEVEL
+        local _, _, _, tocversion = GetBuildInfo()
+        if tocversion then
+            for _, v in pairs(MTSLUI_ADDON.SERVER_VERSION_PHASES) do
+                if v.max_tocversion <= tocversion then
+                    return v.id
+                end
+            end
         end
-
-        return tonumber(v)
+        -- return 0 when not found or could be determined
+        return 0
     end,
 
     ------------------------------------------------------------------------------------------------
@@ -664,7 +607,7 @@ MTSLUI_SAVED_VARIABLES = {
     -- return			Number          The number of content patch
     ------------------------------------------------------------------------------------------------
     GetPatchLevelMTSL = function(self)
-        if MTSLUI_PLAYER.PATCH_LEVEL_MTSL == nil then
+        if not MTSLUI_PLAYER.PATCH_LEVEL_MTSL then
             self:SetPatchLevelMTSL(MTSL_DATA.MIN_PATCH_LEVEL)
         end
         return MTSLUI_PLAYER.PATCH_LEVEL_MTSL

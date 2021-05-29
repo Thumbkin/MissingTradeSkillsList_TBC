@@ -36,8 +36,6 @@ MTSLOPTUI_CONFIG_FRAME = {
         margin_top = margin_top - margin_between_rows
         self:InitialiseOptionsMinimap(margin_top)
         margin_top = margin_top - margin_between_rows
-        self:InitialiseOptionsMTSLPatchLevel(margin_top)
-        margin_top = margin_top - margin_between_rows
         self:InitialiseOptionsTooltip(margin_top)
         margin_top = margin_top - margin_between_rows
         self:InitialiseOptionsLinkToChat(margin_top)
@@ -115,18 +113,6 @@ MTSLOPTUI_CONFIG_FRAME = {
                 ["id"] = c,
             }
             table.insert(self.drop_down_lists.chat.channels, new_chat_channel)
-        end
-
-        self.drop_down_lists.phases = {}
-
-        local current_patch_level = MTSL_DATA.MIN_PATCH_LEVEL
-        while current_patch_level <= MTSL_DATA.MAX_PATCH_LEVEL do
-            local patch_level = {
-                ["id"] = current_patch_level,
-                ["name"] = MTSL_LOGIC_WORLD:GetZoneNameById (MTSL_DATA.PHASE_IDS[current_patch_level]).. " (" .. current_patch_level .. ")",
-            }
-            current_patch_level = current_patch_level + 1
-            table.insert(self.drop_down_lists.phases, patch_level)
         end
 
         -- MTSL button location
@@ -232,11 +218,6 @@ MTSLOPTUI_CONFIG_FRAME = {
         self.ui_frame.tooltip_known_drop_down_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame.tooltip_known_drop_down, MTSLUI_TOOLS:GetLocalisedLabel("known"), 0, self.TOP_LABEL_ABOVE_DD, "LABEL", "CENTER")
     end,
 
-    InitialiseOptionsMTSLPatchLevel = function (self, margin_top)
-        self.ui_frame.patch_level_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame, MTSLUI_TOOLS:GetLocalisedLabel("data patch"), self.MARGIN_LEFT, margin_top, "LABEL", "TOPLEFT")
-        self.ui_frame.phase_drop_down = MTSLUI_TOOLS:CreateDropDown("MTSLOPTUI_CONFIG_FRAME_DD_PATCH_LEVEL_MTSL", self.ui_frame, self.ui_frame, "TOPLEFT", self.MARGIN_RIGHT, margin_top + 7, self.CreateDropDownPatchLevelMTSL, self.WIDTH_DD)
-    end,
-
     InitialiseOptionsLinkToChat = function(self, margin_top)
         self.ui_frame.linktochat_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame, MTSLUI_TOOLS:GetLocalisedLabel("link_to_chat"), self.MARGIN_LEFT, margin_top, "LABEL", "TOPLEFT")
         self.linktochat_check = MTSLUI_TOOLS:CreateCheckbox(self.ui_frame, "MTSLOPTUI_ConfigFrame_LinkToChat", self.MARGIN_RIGHT + self.MARGIN_RIGHT_CHECKBOX, margin_top + 5)
@@ -338,13 +319,6 @@ MTSLOPTUI_CONFIG_FRAME = {
     ----------------------------------------------------------------------------------------------------------
     CreateDropDownChatChannel = function(self, level)
         MTSLUI_TOOLS:FillDropDown(MTSLOPTUI_CONFIG_FRAME.drop_down_lists.chat.channels, MTSLOPTUI_CONFIG_FRAME.ChangeChatChannelHandler)
-    end,
-
-    ----------------------------------------------------------------------------------------------------------
-    -- Intialises drop down for patch level mtsl
-    ----------------------------------------------------------------------------------------------------------
-    CreateDropDownPatchLevelMTSL = function(self, level)
-        MTSLUI_TOOLS:FillDropDown(MTSLOPTUI_CONFIG_FRAME.drop_down_lists.phases, MTSLOPTUI_CONFIG_FRAME.ChangePatchLevelMTSLHandler)
     end,
 
     ----------------------------------------------------------------------------------------------------------
@@ -454,13 +428,6 @@ MTSLOPTUI_CONFIG_FRAME = {
     ----------------------------------------------------------------------------------------------------------
     ChangeChatChannelHandler = function(value, text)
         MTSLOPTUI_CONFIG_FRAME:ChangeWithSubValue("chat", "channel", value, text)
-    end,
-
-    ----------------------------------------------------------------------------------------------------------
-    -- Handles DropDown Change event after changing the patch level
-    ----------------------------------------------------------------------------------------------------------
-    ChangePatchLevelMTSLHandler = function(value, text)
-        MTSLOPTUI_CONFIG_FRAME:ChangeValue("phase", value, text)
     end,
 
     ----------------------------------------------------------------------------------------------------------
@@ -574,11 +541,7 @@ MTSLOPTUI_CONFIG_FRAME = {
         MTSLUI_SAVED_VARIABLES:SetChatLinkEnabled(self.linktochat_check:GetChecked())
         MTSLUI_SAVED_VARIABLES:SetChatLinkChannel(self.config_values.chat.channel)
 
-        MTSLUI_SAVED_VARIABLES:SetPatchLevelMTSL(self.config_values.phase)
-
         -- Update the UI filter frames
-        MTSLUI_MISSING_TRADESKILLS_FRAME.skill_list_filter_frame:UseOnlyCurrentPhase(MTSL_DATA.CURRENT_PATCH_LEVEL)
-
         MTSLUI_SAVED_VARIABLES:SetMTSLLocationButton(self.config_values.location_mtsl.button)
         MTSLUI_SAVED_VARIABLES:SetMTSLLocationFrame(self.config_values.location_mtsl.frame)
 
@@ -608,7 +571,6 @@ MTSLOPTUI_CONFIG_FRAME = {
         UIDropDownMenu_SetText(self.ui_frame.minimap_shape_drop_down, MTSLUI_TOOLS:GetLocalisedLabel(self.config_values.minimap.shape))
         UIDropDownMenu_SetText(self.ui_frame.minimap_radius_drop_down, self.config_values.minimap.radius .. " px")
 
-        UIDropDownMenu_SetText(self.ui_frame.phase_drop_down, MTSL_TOOLS:GetItemFromArrayByKeyValue(self.drop_down_lists.phases, "id", self.config_values.phase).name)
         -- Enchanced Tooltip
         self:ShowValueInCheckBox(self.tooltip_check, self.config_values.tooltip.active)
         UIDropDownMenu_SetText(self.ui_frame.tooltip_faction_drop_down, MTSLUI_TOOLS:GetLocalisedLabel(self.config_values.tooltip.faction))
@@ -646,8 +608,6 @@ MTSLOPTUI_CONFIG_FRAME = {
         self.config_values.minimap.active = MTSLUI_SAVED_VARIABLES:GetMinimapButtonActive()
         self.config_values.minimap.shape = MTSLUI_SAVED_VARIABLES:GetMinimapShape()
         self.config_values.minimap.radius = MTSLUI_SAVED_VARIABLES:GetMinimapButtonRadius()
-
-        self.config_values.phase = MTSLUI_SAVED_VARIABLES:GetPatchLevelMTSL()
 
         self.config_values.tooltip = {}
         self.config_values.tooltip.active =  MTSLUI_SAVED_VARIABLES:GetEnhancedTooltipActive()

@@ -1,18 +1,19 @@
 ## Version History
 
-### v2.5.02 (May 28, 2021)
+### v2.5.02 (May 30, 2021)
 
 * Removed useless "prints" from code
 * Added data
   * Currency "Glowcap"
-  * all Master levels for each profession to train
   * Some cooking skills
-  * all TBC factions
+  * all TBC factions 
+  * Book to learn first aid (Master)
 * Fixed data
   * Removed spell "Blinding powder" from Poisons
-  * Book to learn first aid (Master) is added
+  * All items have the correct vendor price  
   * All Master levels have the correct price
-  * Improved locale for Russian
+  * Improved MTSL locale for Russian
+  * Updated all translations from "classic" skills for all locales to match the names used in TBC
   * Ezekiel Graves was replaced with Gregory Charles as Poison trainer
 * Fixed bugs
   * Character explorer frame did not correctly change to current zone

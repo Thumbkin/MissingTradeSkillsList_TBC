@@ -16,41 +16,47 @@ MTSLUI_EVENT_HANDLER = {
 		if MTSL_TOOLS:CheckIfDataIsValid() then
 			if MTSLUI_TOOLS:SetAddonLocale() then
 				-- load the data for the player
-				MTSL_LOGIC_PLAYER_NPC:LoadPlayer()
-				-- Initialise the minimap button
-				MTSLUI_MINIMAP:Initialise()
-				-- Try to load the saved variables
-				MTSLUI_SAVED_VARIABLES:Initialise()
-				-- make the data for dropdowns in sort frames
-				MTSLUI_FILTER_FRAME:InitialiseData()
-				-- Initialise all the frames now we know we can use the addon
-				-- Create the toggle button (shown on tradeskill/craft window)
-				MTSLUI_TOGGLE_BUTTON:Initialise()
-				-- Create the MTSL window expanding tradeskill/craft window)
-				MTSLUI_MISSING_TRADESKILLS_FRAME:Initialise()
-				-- Initialise the explorer frames
-				MTSLUI_ACCOUNT_EXPLORER_FRAME:Initialise()
-				MTSLUI_DATABASE_EXPLORER_FRAME:Initialise()
-				MTSLUI_NPC_EXPLORER_FRAME:Initialise()
-				MTSLUI_CHARACTER_EXPLORER_FRAME:Initialise()
-				-- Create the options menu
-				MTSLUI_OPTIONS_MENU_FRAME:Initialise()
-				-- Load the saved variables for UI
-                MTSLUI_SAVED_VARIABLES:LoadSavedUIScales()
-				MTSLUI_SAVED_VARIABLES:LoadSavedSplitModes()
+				local error_loading_player = MTSL_LOGIC_PLAYER_NPC:LoadPlayer()
+				if error_loading_player ~= "none" then
+					print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not load player info (Empty " .. error_loading_player .." ..! Try reloading this addon")
+					self.addon_loaded = 0
+				else
+					-- Initialise the minimap button
+					MTSLUI_MINIMAP:Initialise()
+					-- Try to load the saved variables
+					MTSLUI_SAVED_VARIABLES:Initialise()
+					-- make the data for dropdowns in sort frames
+					MTSLUI_FILTER_FRAME:InitialiseData()
+					-- Initialise all the frames now we know we can use the addon
+					-- Create the toggle button (shown on tradeskill/craft window)
+					MTSLUI_TOGGLE_BUTTON:Initialise()
+					-- Create the MTSL window expanding tradeskill/craft window)
+					MTSLUI_MISSING_TRADESKILLS_FRAME:Initialise()
+					-- Initialise the explorer frames
+					MTSLUI_ACCOUNT_EXPLORER_FRAME:Initialise()
+					MTSLUI_DATABASE_EXPLORER_FRAME:Initialise()
+					MTSLUI_NPC_EXPLORER_FRAME:Initialise()
+					MTSLUI_CHARACTER_EXPLORER_FRAME:Initialise()
+					-- Create the options menu
+					MTSLUI_OPTIONS_MENU_FRAME:Initialise()
+					-- Load the saved variables for UI
+					MTSLUI_SAVED_VARIABLES:LoadSavedUIScales()
+					MTSLUI_SAVED_VARIABLES:LoadSavedSplitModes()
 
-				-- print loaded message if possible
-				if MTSLUI_SAVED_VARIABLES:GetShowWelcomeMessage() == 1 then
-					print(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_ADDON.NAME .. MTSLUI_FONTS.COLORS.TEXT.NORMAL .. " (by " .. MTSLUI_ADDON.AUTHOR .. ")" .. MTSLUI_FONTS.COLORS.TEXT.TITLE .. " v" .. MTSLUI_ADDON.VERSION .. " loaded!")
+					-- print loaded message if possible
+					if MTSLUI_SAVED_VARIABLES:GetShowWelcomeMessage() == 1 then
+						print(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_ADDON.NAME .. MTSLUI_FONTS.COLORS.TEXT.NORMAL .. " (by " .. MTSLUI_ADDON.AUTHOR .. ")" .. MTSLUI_FONTS.COLORS.TEXT.TITLE .. " v" .. MTSLUI_ADDON.VERSION .. " loaded!")
+						print(MTSLUI_FONTS.COLORS.TEXT.TITLE .."MTSL: Using data for phase " .. MTSL_DATA.CURRENT_PATCH_LEVEL .. " (" .. MTSL_LOGIC_WORLD:GetZoneNameById(MTSL_DATA.PHASE_IDS[MTSL_DATA.CURRENT_PATCH_LEVEL]) .. ")")
+					end
+
+					self.addon_loaded = 1
 				end
-
-				self.addon_loaded = 1
 			else
 				print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Your locale " .. GetLocale() .. " is not supported!")
 				self.addon_loaded = 0
 			end
 		else
-			print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Data for addon could not load. Please reinstall addon!")
+			print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Data for addon could not load. Please reinstall the addon!")
 			self.addon_loaded = 0
 		end
 	end,
