@@ -2,5 +2,3 @@
 -- All skills (Jewelcrafting)
 -------------------------------------------------------
 MTSL_DATA["skills"]["Jewelcrafting"] = 
-{
-}

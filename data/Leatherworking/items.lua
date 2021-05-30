@@ -322,7 +322,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 550,
+			["price"] = 548,
 			["sources"] = {
 				843,
 				3556,
@@ -383,7 +383,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["phase"] = 1,
 		["quality"] = "uncommon",
 		["vendors"] = {
-			["price"] = 650,
+			["price"] = 648,
 			["sources"] = {
 				2381,
 				2393,
@@ -460,7 +460,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 650,
+			["price"] = 648,
 			["sources"] = {
 				2810,
 				2821,
@@ -509,7 +509,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 550,
+			["price"] = 548,
 			["sources"] = {
 				5783,
 			},
@@ -618,7 +618,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 650,
+			["price"] = 648,
 			["sources"] = {
 				2697,
 			},
@@ -2682,9 +2682,9 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Korean"] = "도안: 통찰의 벨트",
 			["Mexican"] = "Patrón: faja de perspicacia",
 			["Portuguese"] = "Molde: Cinturão da Percepção",
-			["Russian"] = "Выкройка: ремень Прозрения",
-			["Spanish"] = "Patrón: faja de Perspicacia",
-			["Taiwanese"] = "圖樣：洞察腰帶",
+			["Russian"] = "Выкройка: ремень прозрения",
+			["Spanish"] = "Patrón: faja de perspicacia",
+			["Taiwanese"] = "圖樣:洞察束腰",
 		},
 		["objects"] = {
 			179501,
@@ -2704,7 +2704,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Portuguese"] = "Molde: Botas do Mangusto",
 			["Russian"] = "Выкройка: мангустовые сапоги",
 			["Spanish"] = "Patrón: botas de mangosta",
-			["Taiwanese"] = "圖樣：貓鼬長靴",
+			["Taiwanese"] = "圖樣:貓鼬長靴",
 		},
 		["objects"] = {
 			179501,
@@ -2722,9 +2722,9 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Korean"] = "도안: 날쌘비행 팔보호구",
 			["Mexican"] = "Patrón: brazales de Vuelo presto",
 			["Portuguese"] = "Molde: Braçadeiras do Voo Veloz",
-			["Russian"] = "Выкройка: наручи Стремительного полета",
-			["Spanish"] = "Patrón: brazales de Vuelo veloz",
-			["Taiwanese"] = "圖樣：迅行護腕",
+			["Russian"] = "Выкройка: наручи стремительного полета",
+			["Spanish"] = "Patrón: brazales de Vuelo presto",
+			["Taiwanese"] = "圖樣:迅行護腕",
 		},
 		["objects"] = {
 			179501,
@@ -2744,7 +2744,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Portuguese"] = "Molde: Manto Cromático",
 			["Russian"] = "Выкройка: разноцветный плащ",
 			["Spanish"] = "Patrón: capa cromática",
-			["Taiwanese"] = "圖樣：多彩披風",
+			["Taiwanese"] = "圖樣:炫彩披風",
 		},
 		["objects"] = {
 			179501,
@@ -2762,9 +2762,9 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Korean"] = "도안: 야생의 장막",
 			["Mexican"] = "Patrón: capa de fiera",
 			["Portuguese"] = "Molde: Pelego da Natureza",
-			["Russian"] = "Выкройка: Сень Природы",
-			["Spanish"] = "Patrón: pellejo de las fieras",
-			["Taiwanese"] = "圖樣：野性之皮",
+			["Russian"] = "Выкройка: сень природы",
+			["Spanish"] = "Patrón: capa de fiera",
+			["Taiwanese"] = "圖樣:野性之皮",
 		},
 		["objects"] = {
 			179501,
@@ -2784,7 +2784,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Portuguese"] = "Molde: Manto Cambiante",
 			["Russian"] = "Выкройка: изменчивый плащ",
 			["Spanish"] = "Patrón: capa ondeante",
-			["Taiwanese"] = "圖樣：移形披風",
+			["Taiwanese"] = "圖樣:移形披風",
 		},
 		["objects"] = {
 			179501,
@@ -2861,7 +2861,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["level_id"] = 6,
 		},
 		["vendors"] = {
-			["price"] = 20000,
+			["price"] = 22000,
 			["sources"] = {
 				11557,
 			},
@@ -2915,7 +2915,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["level_id"] = 6,
 		},
 		["vendors"] = {
-			["price"] = 20000,
+			["price"] = 22000,
 			["sources"] = {
 				10856,
 				10857,
@@ -3489,7 +3489,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["level_id"] = 7,
 		},
 		["vendors"] = {
-			["price"] = 0,
+			["price"] = 150000,
 			["sources"] = {
 				16365,
 			},
