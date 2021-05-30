@@ -391,7 +391,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 1350,
+			["price"] = 1500,
 			["sources"] = {
 				2380,
 				4083,

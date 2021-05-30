@@ -50,7 +50,7 @@ Minimap button & Enhanced tooltip
 * Added data
   * Currency "Glowcap"
   * Some cooking skills
-  * all TBC factions
+  * All TBC factions
   * Book to learn first aid (Master)
 * Fixed data
   * Removed spell "Blinding powder" from Poisons
@@ -64,7 +64,7 @@ Minimap button & Enhanced tooltip
 
 ### Support
 
-Found a bug? Want to report wrong data?
+Found a bug? Want to report wrong data?  
 Make an issue here: https://github.com/Thumbkin/MissingTradeSkillsList_TBC/issues
 
 **Make sure you have the latest version of the addon installed and checked current opened issues before reporting a new issue!**

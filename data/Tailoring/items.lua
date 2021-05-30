@@ -2521,7 +2521,7 @@ MTSL_DATA["items"]["Tailoring"] =
 			["Portuguese"] = "Molde: Cinto do Arquimago",
 			["Russian"] = "Выкройка: пояс верховного мага",
 			["Spanish"] = "Patrón: cinturón del archimago",
-			["Taiwanese"] = "圖樣：大法師腰帶",
+			["Taiwanese"] = "圖樣:大法師腰帶",
 		},
 		["objects"] = {
 			179501,
@@ -2540,8 +2540,8 @@ MTSL_DATA["items"]["Tailoring"] =
 			["Mexican"] = "Patrón: guantes de tela vil",
 			["Portuguese"] = "Molde: Luvas de Tecido Vil",
 			["Russian"] = "Выкройка: перчатки из ткани Скверны",
-			["Spanish"] = "Patrón: guantes de tela de inferi",
-			["Taiwanese"] = "圖樣：惡魔布手套",
+			["Spanish"] = "Patrón: guantes de tela vil",
+			["Taiwanese"] = "圖樣:惡魔布手套",
 		},
 		["objects"] = {
 			179501,
@@ -2554,14 +2554,14 @@ MTSL_DATA["items"]["Tailoring"] =
 		["name"] = {
 			["Chinese"] = "图样：地狱火手套",
 			["English"] = "Pattern: Inferno Gloves",
-			["French"] = "Patron : gants d'Inferno",
+			["French"] = "Patron : Gants du feu d'enfer",
 			["German"] = "Muster: Infernohandschuhe",
 			["Korean"] = "도안: 지옥불 장갑",
 			["Mexican"] = "Patrón: guantes inferno",
 			["Portuguese"] = "Molde: Luvas Inferno",
 			["Russian"] = "Выкройка: инфернальные перчатки",
-			["Spanish"] = "Patrón: guantes inferno",
-			["Taiwanese"] = "圖樣：地獄火手套",
+			["Spanish"] = "Patrón: guantes averno",
+			["Taiwanese"] = "圖樣:地獄火手套",
 		},
 		["objects"] = {
 			179501,
@@ -2581,7 +2581,7 @@ MTSL_DATA["items"]["Tailoring"] =
 			["Portuguese"] = "Molde: Luvas de Lunatrama",
 			["Russian"] = "Выкройка: перчатки из луноткани",
 			["Spanish"] = "Patrón: guantes de tela lunar",
-			["Taiwanese"] = "圖樣：月布手套",
+			["Taiwanese"] = "圖樣:月布手套",
 		},
 		["objects"] = {
 			179501,
@@ -2599,9 +2599,9 @@ MTSL_DATA["items"]["Tailoring"] =
 			["Korean"] = "도안: 수호의 망토",
 			["Mexican"] = "Patrón: capa de amparo",
 			["Portuguese"] = "Molde: Manto de Proteção",
-			["Russian"] = "Выкройка: плащ Стражи",
-			["Spanish"] = "Patrón: capa de Protección",
-			["Taiwanese"] = "圖樣：監護披風",
+			["Russian"] = "Выкройка: плащ стражи",
+			["Spanish"] = "Patrón: capa de amparo",
+			["Taiwanese"] = "圖樣:防護披風",
 		},
 		["objects"] = {
 			179501,
@@ -3204,7 +3204,7 @@ MTSL_DATA["items"]["Tailoring"] =
 			["level_id"] = 7,
 		},
 		["vendors"] = {
-			["price"] = 0,
+			["price"] = 120000,
 			["sources"] = {
 				16365,
 			},
@@ -3231,7 +3231,7 @@ MTSL_DATA["items"]["Tailoring"] =
 			["level_id"] = 7,
 		},
 		["vendors"] = {
-			["price"] = 0,
+			["price"] = 150000,
 			["sources"] = {
 				16365,
 			},
@@ -3258,7 +3258,7 @@ MTSL_DATA["items"]["Tailoring"] =
 			["level_id"] = 7,
 		},
 		["vendors"] = {
-			["price"] = 0,
+			["price"] = 120000,
 			["sources"] = {
 				16365,
 			},

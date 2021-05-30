@@ -1154,7 +1154,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Portuguese"] = "Instruções: Cota de Malha Ferro Negro",
 			["Russian"] = "Чертеж: кольчуга из черного железа",
 			["Spanish"] = "Diseño: malla Hierro Negro",
-			["Taiwanese"] = "設計圖：黑鐵鎖甲",
+			["Taiwanese"] = "設計圖:黑鐵鎖甲",
 		},
 		["objects"] = {
 			173232,
@@ -1173,8 +1173,8 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Mexican"] = "Diseño: sobrehombros Hierro Negro",
 			["Portuguese"] = "Instruções: Omoplatas Ferro Negro",
 			["Russian"] = "Чертеж: наплечники из черного железа",
-			["Spanish"] = "Diseño: hombreras Hierro Negro",
-			["Taiwanese"] = "設計圖：黑鐵護肩",
+			["Spanish"] = "Diseño: sobrehombros Hierro Negro",
+			["Taiwanese"] = "設計圖:黑鐵護肩",
 		},
 		["objects"] = {
 			173234,
@@ -2212,7 +2212,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Portuguese"] = "Instruções: Serenidade",
 			["Russian"] = "Чертеж: Безмятежность",
 			["Spanish"] = "Diseño: serenidad",
-			["Taiwanese"] = "設計圖：平靜",
+			["Taiwanese"] = "設計圖:平靜",
 		},
 		["objects"] = {
 			176325,
@@ -2253,8 +2253,8 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Mexican"] = "Diseño: Corrupción",
 			["Portuguese"] = "Instruções: Corrupção",
 			["Russian"] = "Чертеж: Порча",
-			["Spanish"] = "Diseño: corrupción",
-			["Taiwanese"] = "設計圖：腐蝕",
+			["Spanish"] = "Diseño: Corrupción",
+			["Taiwanese"] = "設計圖:腐蝕",
 		},
 		["objects"] = {
 			176327,

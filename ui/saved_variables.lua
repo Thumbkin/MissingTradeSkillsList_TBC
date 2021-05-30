@@ -31,21 +31,17 @@ MTSLUI_SAVED_VARIABLES = {
     -- Try and load the values from saved files
     Initialise = function(self)
         -- reset all if not found (first time)
-        if not MTSLUI_PLAYER then
+        if MTSLUI_PLAYER == nil then
             self:ResetSavedVariables()
         else
-            -- reset/remove the old splitmode
-            if MTSLUI_PLAYER.SPLIT_MODE then
-                MTSLUI_PLAYER.SPLIT_MODE = nil
-            end
             -- only reset the scale
-            if not MTSLUI_PLAYER.UI_SCALE then
+            if MTSLUI_PLAYER.UI_SCALE == nil then
                 self:ResetUIScales()
             else
                 self:ValidateUIScales()
             end
             -- only reset the split
-            if not MTSLUI_PLAYER.UI_SPLIT_MODE then
+            if MTSLUI_PLAYER.UI_SPLIT_MODE == nil then
                 self:ResetSplitModes()
             else
                 self:ValidateSplitModes()
@@ -98,10 +94,11 @@ MTSLUI_SAVED_VARIABLES = {
     ------------------------------------------------------------------------------------------------
     ResetSavedVariables = function(self)
         print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: All saved variables have been reset to default values!")
-        MTSLUI_PLAYER = {}
-        -- Follows the order as shown on options menu
-        MTSLUI_PLAYER.WELCOME_MSG = 1
-        MTSLUI_PLAYER.AUTO_SHOW_MTSL = 1
+        MTSLUI_PLAYER = {
+            -- Follows the order as shown on options menu
+            WELCOME_MSG = 1,
+            AUTO_SHOW_MTSL = 1,
+        }
         self:ResetMinimap()
         self:SetPatchLevelMTSL()
         self:ResetEnhancedTooltip()
@@ -277,7 +274,7 @@ MTSLUI_SAVED_VARIABLES = {
     ------------------------------------------------------------------------------------------------
     GetSplitMode = function(self, name)
         -- return the splitmode if not nil
-        if MTSLUI_PLAYER.UI_SPLIT_MODE[name] ~= nil then
+        if MTSLUI_PLAYER.UI_SPLIT_MODE[name] then
             return MTSLUI_PLAYER.UI_SPLIT_MODE[name]
         end
         -- return default if not found
@@ -370,7 +367,7 @@ MTSLUI_SAVED_VARIABLES = {
     ------------------------------------------------------------------------------------------------
     GetUIScale = function(self, name)
         -- return the scale if not nil
-        if MTSLUI_PLAYER.UI_SCALE[name] ~= nil then
+        if MTSLUI_PLAYER.UI_SCALE[name] then
             return MTSLUI_PLAYER.UI_SCALE[name]
         end
         -- return default if not found
@@ -384,7 +381,7 @@ MTSLUI_SAVED_VARIABLES = {
     ------------------------------------------------------------------------------------------------
     GetUIScaleAsText = function(self, name)
         -- return the scale if not nil
-        if MTSLUI_PLAYER.UI_SCALE[name] ~= nil then
+        if MTSLUI_PLAYER.UI_SCALE[name] then
             return (100 * MTSLUI_PLAYER.UI_SCALE[name]) .. " %"
         end
         -- return default if not found
@@ -532,7 +529,7 @@ MTSLUI_SAVED_VARIABLES = {
             MTSLUI_PLAYER.MTSL_LOCATION.BUTTON = "left"
         end
         -- reanchor the button if visible
-        if MTSLUI_TOGGLE_BUTTON ~= nil and MTSLUI_TOGGLE_BUTTON:IsShown() then
+        if MTSLUI_TOGGLE_BUTTON and MTSLUI_TOGGLE_BUTTON:IsShown() then
             MTSLUI_TOGGLE_BUTTON:ReanchorButton()
         end
     end,
@@ -548,7 +545,7 @@ MTSLUI_SAVED_VARIABLES = {
             MTSLUI_PLAYER.MTSL_LOCATION.FRAME = "left"
         end
         -- reanchor the frame if visible
-        if MTSLUI_TOGGLE_BUTTON ~= nil and MTSLUI_TOGGLE_BUTTON:IsShown() then
+        if MTSLUI_TOGGLE_BUTTON and MTSLUI_TOGGLE_BUTTON:IsShown() then
             MTSLUI_TOGGLE_BUTTON:ReanchorButton()
         end
     end,
@@ -607,7 +604,7 @@ MTSLUI_SAVED_VARIABLES = {
     -- return			Number          The number of content patch
     ------------------------------------------------------------------------------------------------
     GetPatchLevelMTSL = function(self)
-        if not MTSLUI_PLAYER.PATCH_LEVEL_MTSL then
+        if MTSLUI_PLAYER.PATCH_LEVEL_MTSL == nil then
             self:SetPatchLevelMTSL(MTSL_DATA.MIN_PATCH_LEVEL)
         end
         return MTSLUI_PLAYER.PATCH_LEVEL_MTSL

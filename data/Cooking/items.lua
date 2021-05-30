@@ -185,7 +185,7 @@ MTSL_DATA["items"]["Cooking"] =
 			384,
 		},
 		["vendors"] = {
-			["price"] = 200,
+			["price"] = 240,
 			["sources"] = {
 				340,
 			},
@@ -508,7 +508,7 @@ MTSL_DATA["items"]["Cooking"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 100,
+			["price"] = 140,
 			["sources"] = {
 				3881,
 			},
@@ -580,7 +580,7 @@ MTSL_DATA["items"]["Cooking"] =
 			2178,
 		},
 		["vendors"] = {
-			["price"] = 400,
+			["price"] = 440,
 			["sources"] = {
 				3482,
 			},
@@ -943,7 +943,7 @@ MTSL_DATA["items"]["Cooking"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 250,
+			["price"] = 248,
 			["sources"] = {
 				1465,
 				3556,
@@ -967,7 +967,7 @@ MTSL_DATA["items"]["Cooking"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 25,
+			["price"] = 24,
 			["sources"] = {
 				2118,
 			},
@@ -1555,7 +1555,7 @@ MTSL_DATA["items"]["Cooking"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 25,
+			["price"] = 24,
 			["sources"] = {
 				13420,
 				13429,
@@ -1583,7 +1583,7 @@ MTSL_DATA["items"]["Cooking"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 200,
+			["price"] = 240,
 			["sources"] = {
 				13420,
 				13429,
@@ -1848,7 +1848,7 @@ MTSL_DATA["items"]["Cooking"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 34,
+			["price"] = 40,
 			["sources"] = {
 				16262,
 			},
@@ -2005,7 +2005,7 @@ MTSL_DATA["items"]["Cooking"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 20000,
+			["price"] = 18000,
 			["sources"] = {
 				2803,
 				2806,
@@ -2029,7 +2029,7 @@ MTSL_DATA["items"]["Cooking"] =
 		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
-			["price"] = 20000,
+			["price"] = 18000,
 			["sources"] = {
 				2803,
 				2806,
