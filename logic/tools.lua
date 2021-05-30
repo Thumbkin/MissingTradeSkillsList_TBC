@@ -529,9 +529,6 @@ MTSL_TOOLS = {
 					current_phase = current_phase + 1
 				end
 			end
-
-			-- Save results to test
-			MTSLUI_PLAYER["TEST_ADDON_DATA"] = MTSL_DATA["AMOUNT_SKILLS"]
 		end
 	end,
 }

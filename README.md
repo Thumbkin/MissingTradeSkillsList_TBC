@@ -44,19 +44,23 @@ Minimap button & Enhanced tooltip
 * Link items to a channel (Say, Guild, Party, Raid or "Auto") or add item to current chat message
 * Ability to drag each MTSL frame around
 
-### Latest version (v2.5.01)
+### Latest version (v2.5.02)
 
-* Initial release
-* Added the 5 scheduled phases
-* Added "zone" as a possible drop source
-* Added data for TBC for professions:
-  * Cooking
-  * First Aid
-  * Fishing
-  * Herbalism
-  * Mining
-  * Poisons
-  * Skinning
+* Removed useless "prints" from code
+* Added data
+  * Currency "Glowcap"
+  * Some cooking skills
+  * all TBC factions
+  * Book to learn first aid (Master)
+* Fixed data
+  * Removed spell "Blinding powder" from Poisons
+  * All items have the correct vendor price
+  * All Master levels have the correct price
+  * Improved MTSL locale for Russian
+  * Updated all translations from "classic" skills for all locales to match the names used in TBC
+  * Ezekiel Graves was replaced with Gregory Charles as Poison trainer
+* Fixed bugs
+  * Character explorer frame did not correctly change to current zone
 
 ### Support
 

@@ -33,8 +33,6 @@ MTSL_LOGIC_PROFESSION = {
     -- returns              Array       The array with levels
     -----------------------------------------------------------------------------------------------
     GetRanksForProfession = function(self, profession_name)
-        print("GetRanksForProfession " .. profession_name)
-        print(MTSL_DATA["levels"][profession_name])
         return MTSL_TOOLS:SortArrayByProperty(MTSL_DATA["levels"][profession_name], "rank")
     end,
 

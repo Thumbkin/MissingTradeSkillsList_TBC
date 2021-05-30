@@ -27,52 +27,57 @@ MTSL_LOGIC_PLAYER_NPC = {
         -- ignore first return since its localised
         local _, player_class = UnitClass("player")
 
-        if name == nil or realm == nil or
-                faction == nil or xp_level == nil then
-            print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not load player info! Try reloading this addon")
-        end
+        if not name then return "name" end
+        if not realm then return "realm" end
+        if not faction then return "faction" end
+        if not xp_level then return "xp_level" end
+        if not player_class then return "player_class" end
 
         local current_player = MTSL_PLAYERS[realm]
         -- Realm not yet registered so create it
-        if current_player == nil then
-            MTSL_PLAYERS[realm] = {}
-            -- Realm exists, so see if we have saved the char already
-        else
+        if current_player then
             current_player = MTSL_PLAYERS[realm][name]
+        -- Realm exists, so see if we have saved the char already
+        else
+            MTSL_PLAYERS[realm] = {}
         end
 
         -- Player not found on realm, so save him
-        if current_player == nil then
+        if not current_player then
             -- Not found so create a new one
             current_player = {
                 NAME = name,
                 REALM = realm,
                 FACTION = faction,
                 XP_LEVEL = xp_level,
+                CLASS = player_class,
                 TRADESKILLS = {},
             }
             -- Get additional player info to save
-            print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Saving new player. Please open all profession windows to save skills")
+            print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Saving new player: " .. current_player.NAME .. " (" .. current_player.XP_LEVEL .. ", " .. current_player.FACTION .. ") on " .. current_player.REALM)
+            print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Please open all profession windows to save skills")
             -- new player added so sort the table (first the realms, then for new realm, sort by name
             MTSL_PLAYERS[realm][name] = current_player
             MTSL_TOOLS:SortArray(MTSL_PLAYERS)
             MTSL_TOOLS:SortArrayByProperty(MTSL_PLAYERS[realm], "name")
-        elseif MTSLUI_SAVED_VARIABLES:GetShowWelcomeMessage() == 1 then
-            print(MTSLUI_FONTS.COLORS.TEXT.SUCCESS .. "MTSL: " .. current_player.NAME .. " (" .. current_player.XP_LEVEL .. ", " .. current_player.FACTION .. ") on " .. current_player.REALM .. " loaded")
+        else
+            if MTSLUI_SAVED_VARIABLES:GetShowWelcomeMessage() == 1 then
+                print(MTSLUI_FONTS.COLORS.TEXT.SUCCESS .. "MTSL: " .. current_player.NAME .. " (" .. current_player.XP_LEVEL .. ", " .. current_player.FACTION .. ") on " .. current_player.REALM .. " loaded")
+            end
+
+            -- set the loaded or created player as current one
+            MTSL_CURRENT_PLAYER = current_player
+            -- Update class, faction & xp_level, just in case
+            MTSL_CURRENT_PLAYER.CLASS = string.lower(player_class)
+            MTSL_CURRENT_PLAYER.XP_LEVEL = xp_level
+            MTSL_CURRENT_PLAYER.FACTION = faction
         end
-        -- set the loaded or created player as current one
-        MTSL_CURRENT_PLAYER = current_player
-        -- Update class, faction & xp_level, just in case
-        MTSL_CURRENT_PLAYER.CLASS = string.lower(player_class)
-        MTSL_CURRENT_PLAYER.XP_LEVEL = xp_level
-        MTSL_CURRENT_PLAYER.FACTION = faction
-        -- Update guildname
-        local guildname, _, _, _ = GetGuildInfo("player")
-        MTSL_CURRENT_PLAYER.GUILD = guildname or ""
 
         self:CheckSavedProfessions()
         self:RemoveUnlearnedProfessions()
         self:UpdatePlayerSkillLevels()
+
+        return "none"
     end,
 
     ------------------------------------------------------------------------------------------------
@@ -119,7 +124,7 @@ MTSL_LOGIC_PLAYER_NPC = {
     -- Checks if the saved data of profession is correct, if not remove the profession
     ------------------------------------------------------------------------------------------------
     CheckSavedProfessions = function(self)
-        if MTSL_CURRENT_PLAYER.TRADESKILLS ~= nil and MTSL_CURRENT_PLAYER.TRADESKILLS ~= {} then
+        if MTSL_CURRENT_PLAYER.TRADESKILLS and #MTSL_CURRENT_PLAYER.TRADESKILLS > 0 then
             for k, v in pairs(MTSL_CURRENT_PLAYER.TRADESKILLS) do
                if type(v) ~= "table" or v.NAME == nil or v.SKILL_LEVEL == nil or v.AMOUNT_MISSING == nil or v.AMOUNT_LEARNED == nil or
                        v.SPELLIDS_SPECIALISATION == nil or v.MISSING_SKILLS == nil or v.LEARNED_SKILLS == nil then
@@ -138,14 +143,18 @@ MTSL_LOGIC_PLAYER_NPC = {
         local have_learned_profession = false
 
         -- loop all the skill lines
-        while GetSkillLineInfo(i) ~= nil do
-            local skilldata = {GetSkillLineInfo(i) }
+        while GetSkillLineInfo(i) do
+            local skilldata = { GetSkillLineInfo(i) }
             -- Skip header rows
             if skilldata[2] ~= 1 then
                 local profession_name = MTSL_LOGIC_PROFESSION:GetEnglishProfessionNameFromLocalisedName(skilldata[1])
                 -- only trigger event if its a trade_skill supported by the addon and  we dont know it yet
                 if profession_name ~= nil then
-                    if MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name] == nil then
+                    if not MTSL_CURRENT_PLAYER.TRADESKILLS then
+                        MTSL_CURRENT_PLAYER.TRADESKILLS = {}
+                    end
+                    if not MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name] then
+                        MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name] = {}
                         self:AddNewProfession(profession_name, skilldata[4])
                         have_learned_profession = true
                     end
@@ -202,7 +211,7 @@ MTSL_LOGIC_PLAYER_NPC = {
 
         local profession_names = {}
         -- copy each name from current data so we can check if we still know it
-        if MTSL_CURRENT_PLAYER.TRADESKILLS ~= nil and MTSL_CURRENT_PLAYER.TRADESKILLS ~= {} then
+        if MTSL_CURRENT_PLAYER.TRADESKILLS and MTSL_CURRENT_PLAYER.TRADESKILLS ~= {} then
             for _, v in pairs(MTSL_CURRENT_PLAYER.TRADESKILLS) do
                 -- only add if primary profession
                 if not MTSL_LOGIC_PROFESSION:IsSecondaryProfession(v.NAME) then
@@ -210,6 +219,8 @@ MTSL_LOGIC_PLAYER_NPC = {
                     profession_names[v.NAME] = 0
                 end
             end
+        else
+            MTSL_CURRENT_PLAYER.TRADESKILLS = {}
         end
 
         local have_unlearned_profession = false
@@ -217,7 +228,7 @@ MTSL_LOGIC_PLAYER_NPC = {
         -- only check if we actualy added professions to list to check
         if profession_names ~= {} then
             -- loop all the skill lines
-            while GetSkillLineInfo(i) ~= nil do
+            while GetSkillLineInfo(i) do
                 local skilldata = {GetSkillLineInfo(i) }
                     -- Skip header rows
                 if skilldata[2] ~= 1 then
@@ -668,13 +679,10 @@ MTSL_LOGIC_PLAYER_NPC = {
     ------------------------------------------------------------------------------------------------
     UpdateMissingLevelsForProfessionCurrentPlayer = function(self, profession_name, max_level)
         -- Get the current trained max based on max_level for the player for the profession
-        print("GetRankForProfessionByMaxLevel " .. profession_name .. " - " .. max_level)
         local learned_rank = MTSL_LOGIC_PROFESSION:GetRankForProfessionByMaxLevel(profession_name, max_level)
         MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name]["HIGHEST_KNOWN_RANK"] = learned_rank
         -- add all the missing levels to the array of skills as well and increase counter
         local rank_ids = MTSL_LOGIC_PROFESSION:GetRanksForProfession(profession_name)
-
-        print("Learned rank " .. learned_rank .. " for " .. profession_name)
 
         -- loop all level ranks
         for _, v in pairs(rank_ids) do
@@ -891,7 +899,8 @@ MTSL_LOGIC_PLAYER_NPC = {
     end,
 
     GetCurrentPlayerIsInGuild = function (self)
-        return MTSL_CURRENT_PLAYER.GUILD  ~= ""
+        local guildname, _, _, _ = GetGuildInfo("player")
+        return guildname ~= ""
     end,
 
     GetCurrentPlayerIsInParty = function (self)

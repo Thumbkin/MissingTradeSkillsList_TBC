@@ -26,47 +26,66 @@ data\continents.lua
 data\currencies.lua
 data\factions.lua
 data\holidays.lua
-data\items.lua
 data\npcs.lua
 data\objects.lua
 data\profession_ranks.lua
 data\professions.lua
 data\quests.lua
 data\reputation_levels.lua
-data\skills.lua
 data\special_actions.lua
-data\specialisations.lua
 data\zones.lua
 # profession specific data
+data\Alchemy\items.lua
 data\Alchemy\levels.lua
+data\Alchemy\skills.lua
 
+data\Blacksmithing\items.lua
 data\Blacksmithing\levels.lua
+data\Blacksmithing\skills.lua
+data\Blacksmithing\specialisations.lua
 
+data\Cooking\items.lua
 data\Cooking\levels.lua
+data\Cooking\skills.lua
 
+data\Enchanting\items.lua
 data\Enchanting\levels.lua
+data\Enchanting\skills.lua
 
+data\Engineering\items.lua
 data\Engineering\levels.lua
+data\Engineering\skills.lua
+data\Engineering\specialisations.lua
 
 data\FirstAid\items.lua
 data\FirstAid\levels.lua
 data\FirstAid\skills.lua
 
 data\Fishing\levels.lua
+data\Fishing\items.lua
 
 data\Herbalism\levels.lua
 
 data\Jewelcrafting\levels.lua
 
+data\Leatherworking\items.lua
 data\Leatherworking\levels.lua
+data\Leatherworking\skills.lua
+data\Leatherworking\specialisations.lua
 
+data\Mining\items.lua
 data\Mining\levels.lua
+data\Mining\skills.lua
 
+data\Poisons\items.lua
 data\Poisons\levels.lua
+data\Poisons\skills.lua
 
 data\Skinning\levels.lua
 
+data\Tailoring\items.lua
 data\Tailoring\levels.lua
+data\Tailoring\skills.lua
 
 #
 # Load the logic

@@ -717,7 +717,6 @@ MTSLUI_FILTER_FRAME = {
         -- set the trimmed text into the textbox
         self.ui_frame.search_box:SetText(name_recipe)
 
-        print("Search for " .. name_recipe)
         self.filter_values["skill_name"] = name_recipe
         self.ui_frame.search_box:ClearFocus()
         self:UpdateFilters()
