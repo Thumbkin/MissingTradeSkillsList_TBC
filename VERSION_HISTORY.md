@@ -1,5 +1,9 @@
 ## Version History
 
+### v2.5.03 (May 30, 2021)
+* Fixed data
+  * Updated French & German translations for continents, factions, zones & some NPCs
+
 ### v2.5.02 (May 30, 2021)
 
 * Removed useless "prints" from code
