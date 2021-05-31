@@ -593,6 +593,18 @@ MTSLUI_LOCALES_LABELS = {
         ["Portuguese"] = "O ícone do minimapa",
         ["Taiwanese"] = "小地圖圖標",
     },
+    ["minimap shape"] = {
+        ["English"] = "Minimap shape",
+        ["French"] = "Forme de la mini-carte",
+        ["German"] = "Minikartenform",
+        ["Russian"] = "Форма миникарты",
+        ["Korean"] = "미니 맵 모양",
+        ["Chinese"] = "小地图形状",
+        ["Spanish"] = "Forma del minimapa",
+        ["Mexican"] = "Forma del minimapa",
+        ["Portuguese"] = "Forma de minimapa",
+        ["Taiwanese"] = "小地圖形狀",
+    },
     ["mtsl button location"] = {
         ["English"] = "Button location",
         ["French"] = "Emplacement de bouton",
