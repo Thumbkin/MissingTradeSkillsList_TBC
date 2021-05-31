@@ -588,8 +588,11 @@ MTSLUI_SAVED_VARIABLES = {
         -- Determine the current patch level of the server
         local _, _, _, tocversion = GetBuildInfo()
         if tocversion then
+            -- make sure we loop the phases in order
+            table.sort(MTSLUI_ADDON.SERVER_VERSION_PHASES, function(a, b) return a.id < b.id end)
+            -- loop each phase until we find a matching version
             for _, v in pairs(MTSLUI_ADDON.SERVER_VERSION_PHASES) do
-                if v.max_tocversion <= tocversion then
+                if v.max_tocversion >= tocversion then
                     return v.id
                 end
             end
@@ -604,10 +607,10 @@ MTSLUI_SAVED_VARIABLES = {
     -- return			Number          The number of content patch
     ------------------------------------------------------------------------------------------------
     GetPatchLevelMTSL = function(self)
-        if MTSLUI_PLAYER.PATCH_LEVEL_MTSL == nil then
-            self:SetPatchLevelMTSL(MTSL_DATA.MIN_PATCH_LEVEL)
+        if MTSLUI_PLAYER.CURRENT_PATCH_LEVEL == nil then
+            self:SetPatchLevelMTSL()
         end
-        return MTSLUI_PLAYER.PATCH_LEVEL_MTSL
+        return MTSLUI_PLAYER.CURRENT_PATCH_LEVEL
     end,
 
     ------------------------------------------------------------------------------------------------
