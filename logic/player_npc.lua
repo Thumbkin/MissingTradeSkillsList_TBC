@@ -46,18 +46,18 @@ MTSL_LOGIC_PLAYER_NPC = {
         -- try and load the player
         local current_player = MTSL_PLAYERS[realm][name]
 
+        local return_code = "none"
+
         -- Player was saved before, so load it
         if current_player then
             current_player = MTSL_PLAYERS[realm][name]
-
-            if MTSLUI_SAVED_VARIABLES:GetShowWelcomeMessage() == 1 then
-                print(MTSLUI_FONTS.COLORS.TEXT.SUCCESS .. "MTSL: " .. current_player.NAME .. " (" .. current_player.XP_LEVEL .. ", " .. current_player.FACTION .. ") on " .. current_player.REALM .. " loaded")
-            end
 
             -- Update class, faction & xp_level, just in case
             MTSL_CURRENT_PLAYER.CLASS = string.lower(player_class)
             MTSL_CURRENT_PLAYER.XP_LEVEL = xp_level
             MTSL_CURRENT_PLAYER.FACTION = faction
+
+            return_code = "existing"
         -- new player so create it and add it
         else
             -- Not found so create a new one
@@ -69,13 +69,12 @@ MTSL_LOGIC_PLAYER_NPC = {
                 CLASS = player_class,
                 TRADESKILLS = {},
             }
-            -- Get additional player info to save
-            print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Saving new player: " .. current_player.NAME .. " (" .. current_player.XP_LEVEL .. ", " .. current_player.FACTION .. ") on " .. current_player.REALM)
-            print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Please open all profession windows to save skills")
             -- new player added so sort the table (first the realms, then for new realm, sort by name
             MTSL_PLAYERS[realm][name] = current_player
             MTSL_TOOLS:SortArray(MTSL_PLAYERS)
             MTSL_TOOLS:SortArrayByProperty(MTSL_PLAYERS[realm], "name")
+
+            return_code = "new"
         end
 
         -- set the loaded or created player as current one
@@ -85,7 +84,7 @@ MTSL_LOGIC_PLAYER_NPC = {
         self:RemoveUnlearnedProfessions()
         self:UpdatePlayerSkillLevels()
 
-        return "none"
+        return return_code
     end,
 
     ------------------------------------------------------------------------------------------------
