@@ -413,6 +413,18 @@ MTSLUI_LOCALES_LABELS = {
         ["Mexican"] = "Información sobre herramientas mejorada",
         ["Portuguese"] = "Melhorar a dica de ferramenta",
     },
+    ["expansion"] = {
+        ["English"] = "Expansion",
+        ["French"] = "Expansion",
+        ["German"] = "Erweiterung",
+        ["Russian"] = "Расширение",
+        ["Korean"] = "확장",
+        ["Chinese"] = "扩张",
+        ["Taiwanese"] = "擴張",
+        ["Spanish"] = "Expansión",
+        ["Mexican"] = "Expansión",
+        ["Portuguese"] = "Expansão",
+    },
     ["faction"] = {
         ["English"] = "Faction",
         ["French"] = "Faction",

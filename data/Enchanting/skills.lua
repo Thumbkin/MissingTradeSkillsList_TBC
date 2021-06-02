@@ -4,6 +4,7 @@
 MTSL_DATA["skills"]["Enchanting"] = 
 {
 	{
+		["expansion"] = 1,
 		["id"] = 7418,
 		["min_skill"] = 1,
 		["name"] = {
@@ -22,6 +23,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7420,
 		["min_skill"] = 15,
 		["name"] = {
@@ -62,6 +64,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7421,
 		["min_skill"] = 1,
 		["name"] = {
@@ -80,6 +83,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7426,
 		["min_skill"] = 40,
 		["name"] = {
@@ -120,6 +124,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7428,
 		["min_skill"] = 80,
 		["name"] = {
@@ -138,6 +143,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7443,
 		["items"] = {
 			6342,
@@ -158,6 +164,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7454,
 		["min_skill"] = 45,
 		["name"] = {
@@ -198,6 +205,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7457,
 		["min_skill"] = 50,
 		["name"] = {
@@ -238,6 +246,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7745,
 		["min_skill"] = 100,
 		["name"] = {
@@ -270,6 +279,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7748,
 		["min_skill"] = 60,
 		["name"] = {
@@ -310,6 +320,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7766,
 		["items"] = {
 			6344,
@@ -330,6 +341,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7771,
 		["min_skill"] = 70,
 		["name"] = {
@@ -370,6 +382,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7776,
 		["items"] = {
 			6346,
@@ -390,6 +403,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7779,
 		["min_skill"] = 80,
 		["name"] = {
@@ -422,6 +436,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7782,
 		["items"] = {
 			6347,
@@ -442,6 +457,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7786,
 		["items"] = {
 			6348,
@@ -462,6 +478,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7788,
 		["min_skill"] = 90,
 		["name"] = {
@@ -494,6 +511,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7793,
 		["items"] = {
 			6349,
@@ -514,6 +532,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7795,
 		["min_skill"] = 100,
 		["name"] = {
@@ -546,6 +565,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7857,
 		["min_skill"] = 120,
 		["name"] = {
@@ -578,6 +598,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7859,
 		["items"] = {
 			6375,
@@ -598,6 +619,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7861,
 		["min_skill"] = 125,
 		["name"] = {
@@ -630,6 +652,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7863,
 		["min_skill"] = 125,
 		["name"] = {
@@ -662,6 +685,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7867,
 		["items"] = {
 			6377,
@@ -682,6 +706,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13378,
 		["min_skill"] = 105,
 		["name"] = {
@@ -714,6 +739,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13380,
 		["items"] = {
 			11038,
@@ -734,6 +760,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13419,
 		["items"] = {
 			11039,
@@ -754,6 +781,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13421,
 		["min_skill"] = 115,
 		["name"] = {
@@ -786,6 +814,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13464,
 		["items"] = {
 			11081,
@@ -806,6 +835,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13485,
 		["min_skill"] = 130,
 		["name"] = {
@@ -838,6 +868,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13501,
 		["min_skill"] = 130,
 		["name"] = {
@@ -870,6 +901,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13503,
 		["min_skill"] = 140,
 		["name"] = {
@@ -902,6 +934,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13522,
 		["items"] = {
 			11098,
@@ -922,6 +955,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13529,
 		["min_skill"] = 145,
 		["name"] = {
@@ -954,6 +988,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13536,
 		["items"] = {
 			11101,
@@ -974,6 +1009,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13538,
 		["min_skill"] = 140,
 		["name"] = {
@@ -1006,6 +1042,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13607,
 		["min_skill"] = 145,
 		["name"] = {
@@ -1038,6 +1075,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13612,
 		["items"] = {
 			11150,
@@ -1058,6 +1096,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13617,
 		["items"] = {
 			11151,
@@ -1078,6 +1117,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13620,
 		["items"] = {
 			11152,
@@ -1098,6 +1138,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13622,
 		["min_skill"] = 150,
 		["name"] = {
@@ -1130,6 +1171,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13626,
 		["min_skill"] = 150,
 		["name"] = {
@@ -1162,6 +1204,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13628,
 		["min_skill"] = 150,
 		["name"] = {
@@ -1194,6 +1237,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13631,
 		["min_skill"] = 155,
 		["name"] = {
@@ -1219,6 +1263,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13635,
 		["min_skill"] = 155,
 		["name"] = {
@@ -1244,6 +1289,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13637,
 		["min_skill"] = 160,
 		["name"] = {
@@ -1269,6 +1315,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13640,
 		["min_skill"] = 160,
 		["name"] = {
@@ -1294,6 +1341,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13642,
 		["min_skill"] = 165,
 		["name"] = {
@@ -1319,6 +1367,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13644,
 		["min_skill"] = 170,
 		["name"] = {
@@ -1344,6 +1393,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13646,
 		["items"] = {
 			11163,
@@ -1364,6 +1414,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13648,
 		["min_skill"] = 170,
 		["name"] = {
@@ -1389,6 +1440,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13653,
 		["items"] = {
 			11164,
@@ -1409,6 +1461,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13655,
 		["items"] = {
 			11165,
@@ -1429,6 +1482,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13657,
 		["min_skill"] = 175,
 		["name"] = {
@@ -1454,6 +1508,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13659,
 		["min_skill"] = 180,
 		["name"] = {
@@ -1479,6 +1534,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13661,
 		["min_skill"] = 180,
 		["name"] = {
@@ -1504,6 +1560,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13663,
 		["min_skill"] = 185,
 		["name"] = {
@@ -1529,6 +1586,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13687,
 		["items"] = {
 			11167,
@@ -1549,6 +1607,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13689,
 		["items"] = {
 			11168,
@@ -1569,6 +1628,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13693,
 		["min_skill"] = 195,
 		["name"] = {
@@ -1594,6 +1654,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13695,
 		["min_skill"] = 200,
 		["name"] = {
@@ -1619,6 +1680,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13698,
 		["items"] = {
 			11166,
@@ -1639,6 +1701,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13700,
 		["min_skill"] = 200,
 		["name"] = {
@@ -1664,6 +1727,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13702,
 		["min_skill"] = 200,
 		["name"] = {
@@ -1689,6 +1753,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13746,
 		["min_skill"] = 205,
 		["name"] = {
@@ -1714,6 +1779,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13794,
 		["min_skill"] = 205,
 		["name"] = {
@@ -1739,6 +1805,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13815,
 		["min_skill"] = 210,
 		["name"] = {
@@ -1764,6 +1831,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13817,
 		["items"] = {
 			11202,
@@ -1784,6 +1852,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13822,
 		["min_skill"] = 210,
 		["name"] = {
@@ -1809,6 +1878,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13836,
 		["min_skill"] = 215,
 		["name"] = {
@@ -1834,6 +1904,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13841,
 		["items"] = {
 			11203,
@@ -1854,6 +1925,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13846,
 		["items"] = {
 			11204,
@@ -1874,6 +1946,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13858,
 		["min_skill"] = 220,
 		["name"] = {
@@ -1899,6 +1972,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13868,
 		["items"] = {
 			11205,
@@ -1919,6 +1993,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13882,
 		["items"] = {
 			11206,
@@ -1939,6 +2014,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13887,
 		["min_skill"] = 225,
 		["name"] = {
@@ -1964,6 +2040,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13890,
 		["min_skill"] = 225,
 		["name"] = {
@@ -1989,6 +2066,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13898,
 		["items"] = {
 			11207,
@@ -2009,6 +2087,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13905,
 		["min_skill"] = 230,
 		["name"] = {
@@ -2032,6 +2111,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13915,
 		["items"] = {
 			11208,
@@ -2052,6 +2132,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13917,
 		["min_skill"] = 230,
 		["name"] = {
@@ -2075,6 +2156,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13931,
 		["items"] = {
 			11223,
@@ -2095,6 +2177,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13933,
 		["items"] = {
 			11224,
@@ -2115,6 +2198,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13935,
 		["min_skill"] = 235,
 		["name"] = {
@@ -2138,6 +2222,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13937,
 		["min_skill"] = 240,
 		["name"] = {
@@ -2161,6 +2246,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13939,
 		["min_skill"] = 240,
 		["name"] = {
@@ -2184,6 +2270,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13941,
 		["min_skill"] = 245,
 		["name"] = {
@@ -2207,6 +2294,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13943,
 		["min_skill"] = 245,
 		["name"] = {
@@ -2230,6 +2318,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13945,
 		["items"] = {
 			11225,
@@ -2250,6 +2339,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13947,
 		["items"] = {
 			11226,
@@ -2270,6 +2360,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13948,
 		["min_skill"] = 250,
 		["name"] = {
@@ -2293,6 +2384,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14293,
 		["min_skill"] = 10,
 		["name"] = {
@@ -2333,6 +2425,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14807,
 		["min_skill"] = 70,
 		["name"] = {
@@ -2373,6 +2466,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14809,
 		["min_skill"] = 155,
 		["name"] = {
@@ -2398,6 +2492,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14810,
 		["min_skill"] = 175,
 		["name"] = {
@@ -2423,6 +2518,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15596,
 		["items"] = {
 			11813,
@@ -2443,6 +2539,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17180,
 		["min_skill"] = 250,
 		["name"] = {
@@ -2466,6 +2563,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17181,
 		["min_skill"] = 250,
 		["name"] = {
@@ -2489,6 +2587,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20008,
 		["items"] = {
 			16214,
@@ -2509,6 +2608,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20009,
 		["items"] = {
 			16218,
@@ -2529,6 +2629,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20010,
 		["items"] = {
 			16246,
@@ -2549,6 +2650,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20011,
 		["items"] = {
 			16251,
@@ -2569,6 +2671,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20012,
 		["items"] = {
 			16219,
@@ -2589,6 +2692,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20013,
 		["items"] = {
 			16244,
@@ -2609,6 +2713,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20014,
 		["items"] = {
 			16216,
@@ -2629,6 +2734,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20015,
 		["items"] = {
 			16224,
@@ -2649,6 +2755,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20016,
 		["items"] = {
 			16222,
@@ -2669,6 +2776,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20017,
 		["items"] = {
 			16217,
@@ -2689,6 +2797,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20020,
 		["items"] = {
 			16215,
@@ -2709,6 +2818,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20023,
 		["items"] = {
 			16245,
@@ -2729,6 +2839,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20024,
 		["items"] = {
 			16220,
@@ -2749,6 +2860,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20025,
 		["items"] = {
 			16253,
@@ -2769,6 +2881,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20026,
 		["items"] = {
 			16221,
@@ -2789,6 +2902,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20028,
 		["items"] = {
 			16242,
@@ -2809,6 +2923,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20029,
 		["items"] = {
 			16223,
@@ -2829,6 +2944,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20030,
 		["items"] = {
 			16247,
@@ -2849,6 +2965,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20031,
 		["items"] = {
 			16250,
@@ -2869,6 +2986,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20032,
 		["items"] = {
 			16254,
@@ -2889,6 +3007,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20033,
 		["items"] = {
 			16248,
@@ -2909,6 +3028,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20034,
 		["items"] = {
 			16252,
@@ -2929,6 +3049,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20035,
 		["items"] = {
 			16255,
@@ -2949,6 +3070,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20036,
 		["items"] = {
 			16249,
@@ -2969,6 +3091,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20051,
 		["items"] = {
 			16243,
@@ -2989,6 +3112,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 21931,
 		["items"] = {
 			17725,
@@ -3009,6 +3133,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22749,
 		["items"] = {
 			18259,
@@ -3029,6 +3154,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22750,
 		["items"] = {
 			18260,
@@ -3049,6 +3175,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23799,
 		["items"] = {
 			19444,
@@ -3069,6 +3196,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23800,
 		["items"] = {
 			19445,
@@ -3089,6 +3217,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23801,
 		["items"] = {
 			19446,
@@ -3109,6 +3238,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23802,
 		["items"] = {
 			19447,
@@ -3129,6 +3259,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23803,
 		["items"] = {
 			19448,
@@ -3149,6 +3280,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23804,
 		["items"] = {
 			19449,
@@ -3169,6 +3301,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25072,
 		["items"] = {
 			20726,
@@ -3189,6 +3322,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25073,
 		["items"] = {
 			20727,
@@ -3209,6 +3343,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25074,
 		["items"] = {
 			20728,
@@ -3229,6 +3364,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25078,
 		["items"] = {
 			20729,
@@ -3249,6 +3385,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25079,
 		["items"] = {
 			20730,
@@ -3269,6 +3406,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25080,
 		["items"] = {
 			20731,
@@ -3289,6 +3427,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25081,
 		["items"] = {
 			20732,
@@ -3309,6 +3448,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25082,
 		["items"] = {
 			20733,
@@ -3329,6 +3469,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25083,
 		["items"] = {
 			20734,
@@ -3349,6 +3490,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25084,
 		["items"] = {
 			20735,
@@ -3369,6 +3511,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25086,
 		["items"] = {
 			20736,
@@ -3389,6 +3532,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25124,
 		["items"] = {
 			20758,
@@ -3409,6 +3553,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25125,
 		["items"] = {
 			20752,
@@ -3429,6 +3574,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25126,
 		["items"] = {
 			20753,
@@ -3449,6 +3595,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25127,
 		["items"] = {
 			20754,
@@ -3469,6 +3616,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25128,
 		["items"] = {
 			20755,
@@ -3489,6 +3637,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25129,
 		["items"] = {
 			20756,
@@ -3509,6 +3658,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25130,
 		["items"] = {
 			20757,
@@ -3529,6 +3679,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27837,
 		["items"] = {
 			22392,

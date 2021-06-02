@@ -4,6 +4,7 @@
 MTSL_DATA["skills"]["Poisons"] = 
 {
 	{
+		["expansion"] = 1,
 		["id"] = 2835,
 		["min_skill"] = 130,
 		["min_xp_level"] = 30,
@@ -51,6 +52,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2837,
 		["min_skill"] = 170,
 		["min_xp_level"] = 38,
@@ -98,6 +100,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3420,
 		["min_skill"] = 1,
 		["min_xp_level"] = 20,
@@ -145,6 +148,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3421,
 		["min_skill"] = 230,
 		["min_xp_level"] = 50,
@@ -192,6 +196,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5763,
 		["min_skill"] = 100,
 		["min_xp_level"] = 24,
@@ -239,6 +244,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8681,
 		["min_skill"] = 1,
 		["min_xp_level"] = 20,
@@ -258,6 +264,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8687,
 		["min_skill"] = 120,
 		["min_xp_level"] = 28,
@@ -305,6 +312,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8691,
 		["min_skill"] = 160,
 		["min_xp_level"] = 36,
@@ -352,6 +360,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8694,
 		["min_skill"] = 170,
 		["min_xp_level"] = 38,
@@ -399,6 +408,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11341,
 		["min_skill"] = 200,
 		["min_xp_level"] = 44,
@@ -446,6 +456,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11342,
 		["min_skill"] = 240,
 		["min_xp_level"] = 52,
@@ -493,6 +504,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11343,
 		["min_skill"] = 280,
 		["min_xp_level"] = 60,
@@ -540,6 +552,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11357,
 		["min_skill"] = 210,
 		["min_xp_level"] = 46,
@@ -587,6 +600,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11358,
 		["min_skill"] = 250,
 		["min_xp_level"] = 54,
@@ -634,6 +648,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11400,
 		["min_skill"] = 240,
 		["min_xp_level"] = 52,
@@ -681,6 +696,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13220,
 		["min_skill"] = 140,
 		["min_xp_level"] = 32,
@@ -728,6 +744,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13228,
 		["min_skill"] = 180,
 		["min_xp_level"] = 40,
@@ -775,6 +792,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13229,
 		["min_skill"] = 220,
 		["min_xp_level"] = 48,
@@ -822,6 +840,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13230,
 		["min_skill"] = 260,
 		["min_xp_level"] = 56,
@@ -869,6 +888,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25347,
 		["items"] = {
 			21302,
@@ -890,6 +910,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 26786,
 		["min_skill"] = 340,
 		["min_xp_level"] = 68,
@@ -937,6 +958,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 26892,
 		["min_skill"] = 340,
 		["min_xp_level"] = 68,
@@ -984,6 +1006,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26969,
 		["min_skill"] = 290,
 		["min_xp_level"] = 62,
@@ -1031,6 +1054,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 27282,
 		["min_skill"] = 330,
 		["min_xp_level"] = 70,
@@ -1078,6 +1102,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27283,
 		["min_skill"] = 300,
 		["min_xp_level"] = 64,

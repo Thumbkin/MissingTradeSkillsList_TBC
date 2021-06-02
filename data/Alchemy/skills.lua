@@ -4,6 +4,7 @@
 MTSL_DATA["skills"]["Alchemy"] = 
 {
 	{
+		["expansion"] = 1,
 		["id"] = 2329,
 		["min_skill"] = 1,
 		["name"] = {
@@ -22,6 +23,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2330,
 		["min_skill"] = 1,
 		["name"] = {
@@ -40,6 +42,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2331,
 		["min_skill"] = 25,
 		["name"] = {
@@ -86,6 +89,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2332,
 		["min_skill"] = 40,
 		["name"] = {
@@ -132,6 +136,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2333,
 		["items"] = {
 			3396,
@@ -152,6 +157,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2334,
 		["min_skill"] = 50,
 		["name"] = {
@@ -198,6 +204,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2335,
 		["items"] = {
 			2555,
@@ -218,6 +225,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2337,
 		["min_skill"] = 55,
 		["name"] = {
@@ -261,6 +269,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3170,
 		["min_skill"] = 15,
 		["name"] = {
@@ -307,6 +316,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3171,
 		["min_skill"] = 90,
 		["name"] = {
@@ -343,6 +353,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3172,
 		["items"] = {
 			3393,
@@ -363,6 +374,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3173,
 		["min_skill"] = 120,
 		["name"] = {
@@ -399,6 +411,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3174,
 		["items"] = {
 			3394,
@@ -419,6 +432,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3175,
 		["items"] = {
 			3395,
@@ -439,6 +453,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3176,
 		["min_skill"] = 125,
 		["name"] = {
@@ -475,6 +490,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3177,
 		["min_skill"] = 130,
 		["name"] = {
@@ -511,6 +527,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3188,
 		["items"] = {
 			6211,
@@ -531,6 +548,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3230,
 		["items"] = {
 			2553,
@@ -551,6 +569,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3447,
 		["min_skill"] = 110,
 		["name"] = {
@@ -587,6 +606,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3448,
 		["min_skill"] = 165,
 		["name"] = {
@@ -613,6 +633,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3449,
 		["items"] = {
 			6068,
@@ -633,6 +654,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3450,
 		["items"] = {
 			3830,
@@ -662,6 +684,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3451,
 		["items"] = {
 			3831,
@@ -682,6 +705,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3452,
 		["min_skill"] = 160,
 		["name"] = {
@@ -708,6 +732,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3453,
 		["items"] = {
 			3832,
@@ -728,6 +753,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3454,
 		["items"] = {
 			14634,
@@ -748,6 +774,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 4508,
 		["items"] = {
 			4597,
@@ -768,6 +795,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 4942,
 		["items"] = {
 			4624,
@@ -788,6 +816,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6617,
 		["items"] = {
 			5640,
@@ -808,6 +837,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6618,
 		["items"] = {
 			5643,
@@ -828,6 +858,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6624,
 		["items"] = {
 			5642,
@@ -848,6 +879,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7179,
 		["min_skill"] = 90,
 		["name"] = {
@@ -884,6 +916,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7181,
 		["min_skill"] = 155,
 		["name"] = {
@@ -910,6 +943,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7183,
 		["min_skill"] = 1,
 		["name"] = {
@@ -928,6 +962,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7255,
 		["items"] = {
 			6053,
@@ -948,6 +983,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7256,
 		["items"] = {
 			6054,
@@ -968,6 +1004,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7257,
 		["items"] = {
 			6055,
@@ -988,6 +1025,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7258,
 		["items"] = {
 			6056,
@@ -1008,6 +1046,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7259,
 		["items"] = {
 			6057,
@@ -1028,6 +1067,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7836,
 		["min_skill"] = 80,
 		["name"] = {
@@ -1064,6 +1104,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7837,
 		["min_skill"] = 130,
 		["name"] = {
@@ -1100,6 +1141,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7841,
 		["min_skill"] = 100,
 		["name"] = {
@@ -1136,6 +1178,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7845,
 		["min_skill"] = 140,
 		["name"] = {
@@ -1172,6 +1215,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8240,
 		["items"] = {
 			6663,
@@ -1192,6 +1236,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11448,
 		["min_skill"] = 205,
 		["name"] = {
@@ -1218,6 +1263,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11449,
 		["min_skill"] = 185,
 		["name"] = {
@@ -1244,6 +1290,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11450,
 		["min_skill"] = 195,
 		["name"] = {
@@ -1270,6 +1317,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11451,
 		["min_skill"] = 205,
 		["name"] = {
@@ -1296,6 +1344,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11452,
 		["min_skill"] = 210,
 		["name"] = {
@@ -1317,6 +1366,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11453,
 		["items"] = {
 			9293,
@@ -1337,6 +1387,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11456,
 		["items"] = {
 			10644,
@@ -1357,6 +1408,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11457,
 		["min_skill"] = 215,
 		["name"] = {
@@ -1383,6 +1435,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11458,
 		["items"] = {
 			9294,
@@ -1403,6 +1456,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11459,
 		["items"] = {
 			9303,
@@ -1423,6 +1477,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11460,
 		["min_skill"] = 230,
 		["name"] = {
@@ -1447,6 +1502,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11461,
 		["min_skill"] = 235,
 		["name"] = {
@@ -1471,6 +1527,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11464,
 		["items"] = {
 			9295,
@@ -1491,6 +1548,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11465,
 		["min_skill"] = 235,
 		["name"] = {
@@ -1515,6 +1573,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11466,
 		["items"] = {
 			9296,
@@ -1535,6 +1594,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11467,
 		["min_skill"] = 240,
 		["name"] = {
@@ -1559,6 +1619,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11468,
 		["items"] = {
 			9297,
@@ -1579,6 +1640,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11472,
 		["items"] = {
 			9298,
@@ -1599,6 +1661,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11473,
 		["items"] = {
 			9302,
@@ -1619,6 +1682,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11476,
 		["items"] = {
 			9301,
@@ -1639,6 +1703,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11477,
 		["items"] = {
 			9300,
@@ -1659,6 +1724,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11478,
 		["min_skill"] = 250,
 		["name"] = {
@@ -1683,6 +1749,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11479,
 		["items"] = {
 			9304,
@@ -1703,6 +1770,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11480,
 		["items"] = {
 			9305,
@@ -1723,6 +1791,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12609,
 		["min_skill"] = 200,
 		["name"] = {
@@ -1749,6 +1818,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15833,
 		["min_skill"] = 230,
 		["name"] = {
@@ -1773,6 +1843,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17187,
 		["items"] = {
 			12958,
@@ -1793,6 +1864,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17551,
 		["min_skill"] = 250,
 		["name"] = {
@@ -1817,6 +1889,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17552,
 		["items"] = {
 			13476,
@@ -1837,6 +1910,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17553,
 		["items"] = {
 			13477,
@@ -1857,6 +1931,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17554,
 		["items"] = {
 			13478,
@@ -1877,6 +1952,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17555,
 		["items"] = {
 			13479,
@@ -1897,6 +1973,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17556,
 		["items"] = {
 			13480,
@@ -1917,6 +1994,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17557,
 		["items"] = {
 			13481,
@@ -1937,6 +2015,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17559,
 		["items"] = {
 			13482,
@@ -1957,6 +2036,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17560,
 		["items"] = {
 			13483,
@@ -1977,6 +2057,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17561,
 		["items"] = {
 			13484,
@@ -1997,6 +2078,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17562,
 		["items"] = {
 			13485,
@@ -2017,6 +2099,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17563,
 		["items"] = {
 			13486,
@@ -2037,6 +2120,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17564,
 		["items"] = {
 			13487,
@@ -2057,6 +2141,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17565,
 		["items"] = {
 			13488,
@@ -2077,6 +2162,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17566,
 		["items"] = {
 			13489,
@@ -2097,6 +2183,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17570,
 		["items"] = {
 			13490,
@@ -2117,6 +2204,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17571,
 		["items"] = {
 			13491,
@@ -2137,6 +2225,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17572,
 		["items"] = {
 			13492,
@@ -2157,6 +2246,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17573,
 		["items"] = {
 			13493,
@@ -2177,6 +2267,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17574,
 		["items"] = {
 			13494,
@@ -2197,6 +2288,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17575,
 		["items"] = {
 			13495,
@@ -2217,6 +2309,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17576,
 		["items"] = {
 			13496,
@@ -2237,6 +2330,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17577,
 		["items"] = {
 			13497,
@@ -2257,6 +2351,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17578,
 		["items"] = {
 			13499,
@@ -2277,6 +2372,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17580,
 		["items"] = {
 			13501,
@@ -2297,6 +2393,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17634,
 		["items"] = {
 			13518,
@@ -2317,6 +2414,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17635,
 		["items"] = {
 			13519,
@@ -2337,6 +2435,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17636,
 		["items"] = {
 			13520,
@@ -2357,6 +2456,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17637,
 		["items"] = {
 			13521,
@@ -2377,6 +2477,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17638,
 		["items"] = {
 			13522,
@@ -2397,6 +2498,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 21923,
 		["items"] = {
 			17709,
@@ -2417,6 +2519,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22732,
 		["items"] = {
 			18257,
@@ -2437,6 +2540,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22808,
 		["min_skill"] = 215,
 		["name"] = {
@@ -2463,6 +2567,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24266,
 		["min_skill"] = 300,
 		["name"] = {
@@ -2484,6 +2589,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["special_action"] = "inspect tablet madness",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24365,
 		["items"] = {
 			20011,
@@ -2504,6 +2610,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24366,
 		["items"] = {
 			20012,
@@ -2524,6 +2631,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24367,
 		["items"] = {
 			20013,
@@ -2544,6 +2652,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24368,
 		["items"] = {
 			20014,
@@ -2564,6 +2673,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 25146,
 		["items"] = {
 			20761,
@@ -2584,6 +2694,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26277,
 		["items"] = {
 			21547,

@@ -4,6 +4,7 @@
 MTSL_DATA["items"]["Fishing"] = 
 {
 	{
+		["expansion"] = 1,
 		["id"] = 16083,
 		["name"] = {
 			["Chinese"] = "中级钓鱼教材 - 鲈鱼与你",
@@ -27,6 +28,7 @@ MTSL_DATA["items"]["Fishing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27532,
 		["name"] = {
 			["Chinese"] = "顶级钓鱼教材 - 下钩的艺术",

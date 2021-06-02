@@ -4,6 +4,7 @@
 MTSL_DATA["skills"]["Mining"] = 
 {
 	{
+		["expansion"] = 1,
 		["id"] = 2657,
 		["min_skill"] = 1,
 		["name"] = {
@@ -22,6 +23,7 @@ MTSL_DATA["skills"]["Mining"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2658,
 		["min_skill"] = 75,
 		["name"] = {
@@ -59,6 +61,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2659,
 		["min_skill"] = 65,
 		["name"] = {
@@ -96,6 +99,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3304,
 		["min_skill"] = 65,
 		["name"] = {
@@ -133,6 +137,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3307,
 		["min_skill"] = 125,
 		["name"] = {
@@ -170,6 +175,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3308,
 		["min_skill"] = 155,
 		["name"] = {
@@ -207,6 +213,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3569,
 		["min_skill"] = 165,
 		["name"] = {
@@ -244,6 +251,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10097,
 		["min_skill"] = 175,
 		["name"] = {
@@ -281,6 +289,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10098,
 		["min_skill"] = 230,
 		["name"] = {
@@ -318,6 +327,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14891,
 		["min_skill"] = 230,
 		["name"] = {
@@ -339,6 +349,7 @@ MTSL_DATA["skills"]["Mining"] =
 		["special_action"] = "talk to npc after quest",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16153,
 		["min_skill"] = 250,
 		["name"] = {
@@ -376,6 +387,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22967,
 		["min_skill"] = 300,
 		["name"] = {
@@ -400,6 +412,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 29356,
 		["min_skill"] = 300,
 		["name"] = {
@@ -424,6 +437,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 29358,
 		["min_skill"] = 325,
 		["name"] = {
@@ -448,6 +462,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 29359,
 		["min_skill"] = 350,
 		["name"] = {
@@ -472,6 +487,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 29360,
 		["min_skill"] = 350,
 		["name"] = {
@@ -496,6 +512,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 29361,
 		["min_skill"] = 375,
 		["name"] = {
@@ -520,6 +537,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 29686,
 		["min_skill"] = 375,
 		["name"] = {
@@ -544,6 +562,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 29686,
 		["items"] = {
 			35273,
@@ -561,9 +580,10 @@ MTSL_DATA["skills"]["Mining"] =
 			["Spanish"] = "Fundir adamantita endurecida",
 			["Taiwanese"] = "熔煉特堅鋼錠",
 		},
-		["phase"] = 5,
+		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 35750,
 		["min_skill"] = 300,
 		["name"] = {
@@ -588,6 +608,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 35751,
 		["min_skill"] = 300,
 		["name"] = {

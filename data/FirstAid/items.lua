@@ -10,6 +10,7 @@ MTSL_DATA["items"]["First Aid"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6454,
 		["name"] = {
 			["Chinese"] = "手册：强力抗毒药剂",
@@ -27,6 +28,7 @@ MTSL_DATA["items"]["First Aid"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16084,
 		["name"] = {
 			["Chinese"] = "中级急救教材 - 绷带缚体",
@@ -51,6 +53,7 @@ MTSL_DATA["items"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16112,
 		["name"] = {
 			["Chinese"] = "手册：厚丝质绷带",
@@ -75,6 +78,7 @@ MTSL_DATA["items"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16113,
 		["name"] = {
 			["Chinese"] = "手册：魔纹绷带",
@@ -99,6 +103,7 @@ MTSL_DATA["items"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19442,
 		["name"] = {
 			["Chinese"] = "配方：特效抗毒药剂",
@@ -128,6 +133,7 @@ MTSL_DATA["items"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 21992,
 		["name"] = {
 			["Chinese"] = "手册：灵纹布绷带",
@@ -152,6 +158,7 @@ MTSL_DATA["items"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 21993,
 		["name"] = {
 			["Chinese"] = "手册：厚灵纹布绷带",
@@ -176,6 +183,7 @@ MTSL_DATA["items"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22012,
 		["name"] = {
 			["Chinese"] = "大师级急救手册 - 私人医生",

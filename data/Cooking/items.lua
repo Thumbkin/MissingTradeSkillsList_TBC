@@ -4,6 +4,7 @@
 MTSL_DATA["items"]["Cooking"] = 
 {
 	{
+		["expansion"] = 1,
 		["id"] = 728,
 		["name"] = {
 			["Chinese"] = "食谱：杂味炖肉",
@@ -30,6 +31,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2697,
 		["name"] = {
 			["Chinese"] = "食谱：猪肝馅饼",
@@ -62,6 +64,7 @@ MTSL_DATA["items"]["Cooking"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2698,
 		["name"] = {
 			["Chinese"] = "食谱：煮蟹爪",
@@ -85,6 +88,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2699,
 		["name"] = {
 			["Chinese"] = "食谱：赤脊山炖肉",
@@ -117,6 +121,7 @@ MTSL_DATA["items"]["Cooking"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2700,
 		["name"] = {
 			["Chinese"] = "食谱：多汁猪排",
@@ -140,6 +145,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2701,
 		["name"] = {
 			["Chinese"] = "食谱：干烤狼肉串",
@@ -166,6 +172,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2889,
 		["name"] = {
 			["Chinese"] = "食谱：啤酒烤猪排",
@@ -192,6 +199,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3678,
 		["name"] = {
 			["Chinese"] = "食谱：鳄鱼煎排",
@@ -218,6 +226,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3679,
 		["name"] = {
 			["Chinese"] = "食谱：血肠",
@@ -244,6 +253,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3680,
 		["name"] = {
 			["Chinese"] = "食谱：鱼人鳍汤",
@@ -270,6 +280,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3681,
 		["name"] = {
 			["Chinese"] = "食谱：鳄鱼浓汤",
@@ -296,6 +307,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3682,
 		["name"] = {
 			["Chinese"] = "食谱：美味煎蛋卷",
@@ -324,6 +336,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3683,
 		["name"] = {
 			["Chinese"] = "食谱：蜘蛛蛋糕",
@@ -350,6 +363,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3734,
 		["name"] = {
 			["Chinese"] = "食谱：烤熊排",
@@ -377,6 +391,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3735,
 		["name"] = {
 			["Chinese"] = "食谱：烤狮排",
@@ -404,6 +419,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3736,
 		["name"] = {
 			["Chinese"] = "食谱：香烤狮肉",
@@ -424,6 +440,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3737,
 		["name"] = {
 			["Chinese"] = "食谱：海龟汤",
@@ -445,6 +462,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 4609,
 		["name"] = {
 			["Chinese"] = "食谱：烧烤秃鹰翅膀",
@@ -472,6 +490,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5482,
 		["name"] = {
 			["Chinese"] = "食谱：卡多雷蜘蛛烤肉",
@@ -492,6 +511,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5483,
 		["name"] = {
 			["Chinese"] = "食谱：蝎肉大餐",
@@ -515,6 +535,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5484,
 		["name"] = {
 			["Chinese"] = "食谱：炒科多肉",
@@ -538,6 +559,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5485,
 		["name"] = {
 			["Chinese"] = "食谱：狂鱼肉片",
@@ -561,6 +583,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5486,
 		["name"] = {
 			["Chinese"] = "食谱：炖陆行鸟",
@@ -587,6 +610,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5487,
 		["name"] = {
 			["Chinese"] = "食谱：掘地鼠炖肉",
@@ -607,6 +631,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5488,
 		["name"] = {
 			["Chinese"] = "食谱：脆炸蜥蜴尾",
@@ -630,6 +655,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5489,
 		["name"] = {
 			["Chinese"] = "食谱：瘦鹿肉",
@@ -654,6 +680,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5528,
 		["name"] = {
 			["Chinese"] = "食谱：杂烩蚌肉",
@@ -678,6 +705,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6039,
 		["name"] = {
 			["Chinese"] = "食谱：烤巨蚌",
@@ -701,6 +729,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6325,
 		["name"] = {
 			["Chinese"] = "食谱：美味小鱼",
@@ -732,6 +761,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6326,
 		["name"] = {
 			["Chinese"] = "食谱：滑皮鲭鱼",
@@ -759,6 +789,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6328,
 		["name"] = {
 			["Chinese"] = "食谱：长嘴泥鳅",
@@ -789,6 +820,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6329,
 		["name"] = {
 			["Chinese"] = "食谱：洛克湖狂鱼",
@@ -812,6 +844,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6330,
 		["name"] = {
 			["Chinese"] = "食谱：刺须鲶鱼",
@@ -841,6 +874,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6368,
 		["name"] = {
 			["Chinese"] = "食谱：彩鳍鱼",
@@ -873,6 +907,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6369,
 		["name"] = {
 			["Chinese"] = "食谱：石鳞鳕鱼",
@@ -910,6 +945,7 @@ MTSL_DATA["items"]["Cooking"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6661,
 		["name"] = {
 			["Chinese"] = "食谱：美味风蛇",
@@ -927,6 +963,7 @@ MTSL_DATA["items"]["Cooking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6892,
 		["name"] = {
 			["Chinese"] = "食谱：熏熊肉",
@@ -951,6 +988,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12226,
 		["name"] = {
 			["Chinese"] = "食谱：香脆翅根",
@@ -974,6 +1012,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12227,
 		["name"] = {
 			["Chinese"] = "食谱：瘦狼排",
@@ -997,6 +1036,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12228,
 		["name"] = {
 			["Chinese"] = "食谱：烤迅猛龙肉",
@@ -1026,6 +1066,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12229,
 		["name"] = {
 			["Chinese"] = "食谱：辣味狼排",
@@ -1051,6 +1092,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12231,
 		["name"] = {
 			["Chinese"] = "食谱：丛林大杂烩",
@@ -1076,6 +1118,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12232,
 		["name"] = {
 			["Chinese"] = "食谱：腐肉大餐",
@@ -1102,6 +1145,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12233,
 		["name"] = {
 			["Chinese"] = "食谱：神秘杂烩",
@@ -1127,6 +1171,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12239,
 		["name"] = {
 			["Chinese"] = "食谱：龙息红椒",
@@ -1152,6 +1197,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12240,
 		["name"] = {
 			["Chinese"] = "食谱：科多肉杂烩",
@@ -1177,6 +1223,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13939,
 		["name"] = {
 			["Chinese"] = "食谱：斑点黄尾鱼",
@@ -1200,6 +1247,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13940,
 		["name"] = {
 			["Chinese"] = "食谱：煮熟的光滑大鱼",
@@ -1223,6 +1271,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13941,
 		["name"] = {
 			["Chinese"] = "食谱：油炸红腮鱼",
@@ -1246,6 +1295,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13942,
 		["name"] = {
 			["Chinese"] = "食谱：烤鱿鱼",
@@ -1269,6 +1319,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13943,
 		["name"] = {
 			["Chinese"] = "食谱：烟熏鲈鱼",
@@ -1292,6 +1343,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13945,
 		["name"] = {
 			["Chinese"] = "食谱：夜鳞鱼汤",
@@ -1315,6 +1367,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13946,
 		["name"] = {
 			["Chinese"] = "食谱：水煮阳鳞鲑鱼",
@@ -1338,6 +1391,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13947,
 		["name"] = {
 			["Chinese"] = "食谱：炖龙虾",
@@ -1362,6 +1416,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13948,
 		["name"] = {
 			["Chinese"] = "食谱：大鱼片",
@@ -1386,6 +1441,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13949,
 		["name"] = {
 			["Chinese"] = "食谱：烤鲑鱼",
@@ -1410,6 +1466,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16072,
 		["name"] = {
 			["Chinese"] = "中级烹饪教材",
@@ -1434,6 +1491,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16110,
 		["name"] = {
 			["Chinese"] = "食谱：超级煎蛋卷",
@@ -1459,6 +1517,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16111,
 		["name"] = {
 			["Chinese"] = "食谱：辣椒蟹肉",
@@ -1484,6 +1543,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16767,
 		["name"] = {
 			["Chinese"] = "食谱：安德麦蚌肉杂烩",
@@ -1507,6 +1567,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17062,
 		["name"] = {
 			["Chinese"] = "食谱：银头鲑鱼",
@@ -1538,6 +1599,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 141,
 		["id"] = 17200,
 		["name"] = {
@@ -1566,6 +1628,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 141,
 		["id"] = 17201,
 		["name"] = {
@@ -1594,6 +1657,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18046,
 		["name"] = {
 			["Chinese"] = "食谱：嫩狼肉排",
@@ -1619,6 +1683,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18160,
 		["name"] = {
 			["Chinese"] = "食谱：菊花茶",
@@ -1651,6 +1716,7 @@ MTSL_DATA["items"]["Cooking"] =
 				14354,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18267,
 		["name"] = {
 			["Chinese"] = "食谱：洛恩塔姆薯块",
@@ -1668,6 +1734,7 @@ MTSL_DATA["items"]["Cooking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20075,
 		["name"] = {
 			["Chinese"] = "食谱：鳄鱼炖肉",
@@ -1691,6 +1758,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 21025,
 		["name"] = {
 			["Chinese"] = "食谱：迪尔格的超美味奇美拉肉片",
@@ -1711,6 +1779,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 21099,
 		["name"] = {
 			["Chinese"] = "食谱：烤鼠尾鱼",
@@ -1748,6 +1817,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 21219,
 		["name"] = {
 			["Chinese"] = "食谱：美味鼠尾鱼",
@@ -1785,6 +1855,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22647,
 		["name"] = {
 			["Chinese"] = "食谱：松脆蜘蛛",
@@ -1812,6 +1883,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27684,
 		["name"] = {
 			["Chinese"] = "食谱：美味秃鹫",
@@ -1832,6 +1904,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27685,
 		["name"] = {
 			["Chinese"] = "食谱：山猫肉排",
@@ -1855,6 +1928,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27686,
 		["name"] = {
 			["Chinese"] = "食谱：月痕鹿腰肉",
@@ -1875,6 +1949,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27687,
 		["name"] = {
 			["Chinese"] = "食谱：美味翅根",
@@ -1898,6 +1973,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27688,
 		["name"] = {
 			["Chinese"] = "食谱：掠食者热狗",
@@ -1921,6 +1997,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27689,
 		["name"] = {
 			["Chinese"] = "食谱：孢子小吃",
@@ -1949,6 +2026,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 141,
 		["id"] = 34413,
 		["name"] = {
@@ -1968,6 +2046,7 @@ MTSL_DATA["items"]["Cooking"] =
 		["special_action"] = "mail",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 34834,
 		["name"] = {
 			["Chinese"] = "食谱：拉姆瑟船长的特酿啤酒",
@@ -1989,6 +2068,7 @@ MTSL_DATA["items"]["Cooking"] =
 		["special_action"] = "random reward",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 35564,
 		["name"] = {
 			["Chinese"] = "食谱：熊肉串烧",
@@ -2013,6 +2093,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 35566,
 		["name"] = {
 			["Chinese"] = "食谱：多汁熊肉汉堡",
