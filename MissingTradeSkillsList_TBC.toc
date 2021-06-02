@@ -24,6 +24,7 @@ ui\saved_variables.lua
 # Shared data
 data\continents.lua
 data\currencies.lua
+data\expansions.lua
 data\factions.lua
 data\holidays.lua
 data\npcs.lua

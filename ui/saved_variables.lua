@@ -35,13 +35,13 @@ MTSLUI_SAVED_VARIABLES = {
             self:ResetSavedVariables()
         else
             -- only reset the scale
-            if MTSLUI_PLAYER.UI_SCALE == nil or MTSLUI_PLAYER.UI_SCALE == {} then
+            if MTSLUI_PLAYER.UI_SCALE == nil then
                 self:ResetUIScales()
             else
                 self:ValidateUIScales()
             end
             -- only reset the split
-            if MTSLUI_PLAYER.UI_SPLIT_MODE == nil or MTSLUI_PLAYER.UI_SPLIT_MODE == {} then
+            if MTSLUI_PLAYER.UI_SPLIT_MODE == nil then
                 self:ResetSplitModes()
             else
                 self:ValidateSplitModes()
@@ -214,7 +214,7 @@ MTSLUI_SAVED_VARIABLES = {
     -- Load the saved splitmode from saved variable
     ------------------------------------------------------------------------------------------------
     LoadSavedSplitModes = function(self)
-        if MTSLUI_PLAYER == nil then
+        if not MTSLUI_PLAYER then
             self:ResetSavedVariables()
         else
             -- convert old to new also
@@ -392,7 +392,7 @@ MTSLUI_SAVED_VARIABLES = {
     -- Load the font from saved variable
     ------------------------------------------------------------------------------------------------
     LoadSavedFont = function(self)
-        if MTSLUI_PLAYER == nil then
+        if not MTSLUI_PLAYER then
             self:ResetSavedVariables()
         else
             -- convert old to new also
@@ -409,7 +409,7 @@ MTSLUI_SAVED_VARIABLES = {
     ------------------------------------------------------------------------------------------------
     ValidateFont = function(self)
         -- Check if name of font is valid
-        if MTSLUI_PLAYER.FONT == nil or MTSLUI_PLAYER.FONT.NAME == nil or self:IsValidFontType(MTSLUI_PLAYER.FONT.NAME) == false then
+        if not MTSLUI_PLAYER.FONT.NAME or self:IsValidFontType(MTSLUI_PLAYER.FONT.NAME) == false then
             self:ResetFont()
         end
         -- check the numbers of the each size
@@ -479,7 +479,7 @@ MTSLUI_SAVED_VARIABLES = {
     ------------------------------------------------------------------------------------------------
     SetShowWelcomeMessage = function(self, show_welcome)
         MTSLUI_PLAYER.WELCOME_MSG = 1
-        if not show_welcome or show_welcome == 0 or show_welcome == false then
+        if show_welcome == 0 or show_welcome == false then
             MTSLUI_PLAYER.WELCOME_MSG = 0
         end
     end,
@@ -500,7 +500,7 @@ MTSLUI_SAVED_VARIABLES = {
     ------------------------------------------------------------------------------------------------
     SetAutoShowMTSL = function(self, auto_show_mtsl)
         MTSLUI_PLAYER.AUTO_SHOW_MTSL = 1
-        if not auto_show_mtsl or auto_show_mtsl == 0 or auto_show_mtsl == false then
+        if auto_show_mtsl or auto_show_mtsl == 0 or auto_show_mtsl == false then
             MTSLUI_PLAYER.AUTO_SHOW_MTSL = 0
         end
     end,
@@ -588,11 +588,8 @@ MTSLUI_SAVED_VARIABLES = {
         -- Determine the current patch level of the server
         local _, _, _, tocversion = GetBuildInfo()
         if tocversion then
-            -- make sure we loop the phases in order
-            table.sort(MTSLUI_ADDON.SERVER_VERSION_PHASES, function(a, b) return a.id < b.id end)
-            -- loop each phase until we find a matching version
             for _, v in pairs(MTSLUI_ADDON.SERVER_VERSION_PHASES) do
-                if v.max_tocversion >= tocversion then
+                if v.max_tocversion <= tocversion then
                     return v.id
                 end
             end
@@ -607,10 +604,10 @@ MTSLUI_SAVED_VARIABLES = {
     -- return			Number          The number of content patch
     ------------------------------------------------------------------------------------------------
     GetPatchLevelMTSL = function(self)
-        if MTSLUI_PLAYER.CURRENT_PATCH_LEVEL == nil then
-            self:SetPatchLevelMTSL()
+        if MTSLUI_PLAYER.PATCH_LEVEL_MTSL == nil then
+            self:SetPatchLevelMTSL(MTSL_DATA.MIN_PATCH_LEVEL)
         end
-        return MTSLUI_PLAYER.CURRENT_PATCH_LEVEL
+        return MTSLUI_PLAYER.PATCH_LEVEL_MTSL
     end,
 
     ------------------------------------------------------------------------------------------------

@@ -29,6 +29,8 @@ MTSL_DATA = {
     CURRENT_PATCH_LEVEL = 1,
     -- Phases by id: Karazhan, Tempest Keep, Black Temple, Zul'Aman, Sunwell Plateau
     PHASE_IDS = { 3457, 3845, 3959 ,3805, 4075 },
+    -- Current expansion = TBC (2)
+    CURRENT_EXPANSION_ID = 2,
 
     ["items"] = {},
     ["levels"] = {},

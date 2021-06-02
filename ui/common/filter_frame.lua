@@ -12,8 +12,8 @@ MTSLUI_FILTER_FRAME = {
     FRAME_WIDTH_HORIZONTAL = 515,
     -- height of the frame
     FRAME_HEIGHT = 110,
-    -- all available phases
-    phases= {},
+    -- all available expansions and phases
+    expansions= {},
     -- all contintents
     continents = {},
     -- all zones for each contintent
@@ -55,7 +55,7 @@ MTSLUI_FILTER_FRAME = {
         -- enable filtering by default
         self:EnableFiltering()
         -- save name of each DropDown for access when resizing later
-        self.drop_down_names = { "_DD_SOURCES", "_DD_PHASES", "_DD_FACTIONS", "_DD_SPECS", "_DD_CONTS", "_DD_ZONES" }
+        self.drop_down_names = { "_DD_SOURCES", "_DD_EXPANSIONS", "_DD_FACTIONS", "_DD_SPECS", "_DD_CONTS", "_DD_ZONES" }
         -- add it to global vars to access later on
         _G[filter_frame_name] = self
         self:ResetFilters()
@@ -104,7 +104,6 @@ MTSLUI_FILTER_FRAME = {
     ----------------------------------------------------------------------------------------------------------
     InitialiseSecondRow = function (self)
         -- create a filter for source type
-        -- self.ui_frame.source_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame, MTSLUI_TOOLS:GetLocalisedLabel("learned from"), 5, -34, "LABEL", "TOPLEFT")
         self.ui_frame.source_drop_down = CreateFrame("Frame", self.filter_frame_name .. "_DD_SOURCES", self.ui_frame, "UIDropDownMenuTemplate")
         self.ui_frame.source_drop_down:SetPoint("TOPLEFT", self.ui_frame.search_box, "BOTTOMLEFT", -15, -2)
         self.ui_frame.source_drop_down.filter_frame_name = self.filter_frame_name
@@ -112,13 +111,12 @@ MTSLUI_FILTER_FRAME = {
         UIDropDownMenu_SetText(self.ui_frame.source_drop_down, MTSLUI_TOOLS:GetLocalisedLabel("source"))
         -- default select the "current" phase
         self.current_phase = MTSL_DATA.CURRENT_PATCH_LEVEL
-        -- create a filter for content phase
-        -- self.ui_frame.phase_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame, MTSLUI_TOOLS:GetLocalisedLabel("phase"), 215, -34, "LABEL", "TOPLEFT")
-        self.ui_frame.phase_drop_down = CreateFrame("Frame", self.filter_frame_name .. "_DD_PHASES", self.ui_frame, "UIDropDownMenuTemplate")
-        self.ui_frame.phase_drop_down:SetPoint("TOPLEFT", self.ui_frame.source_drop_down, "TOPRIGHT", -31, 0)
-        self.ui_frame.phase_drop_down.filter_frame_name = self.filter_frame_name
-        self.ui_frame.phase_drop_down.initialize = self.CreateDropDownPhases
-        UIDropDownMenu_SetText(self.ui_frame.phase_drop_down, MTSLUI_TOOLS:GetLocalisedLabel("phase"))
+        -- create a filter for the expansions
+        self.ui_frame.expansion_drop_down = CreateFrame("Frame", self.filter_frame_name .. "_DD_EXPANSIONS", self.ui_frame, "UIDropDownMenuTemplate")
+        self.ui_frame.expansion_drop_down:SetPoint("TOPLEFT", self.ui_frame.source_drop_down, "TOPRIGHT", -31, 0)
+        self.ui_frame.expansion_drop_down.filter_frame_name = self.filter_frame_name
+        self.ui_frame.expansion_drop_down.initialize = self.CreateDropDownExpansions
+        UIDropDownMenu_SetText(self.ui_frame.expansion_drop_down, MTSLUI_TOOLS:GetLocalisedLabel("expansion"))
     end,
 
     ----------------------------------------------------------------------------------------------------------
@@ -126,14 +124,12 @@ MTSLUI_FILTER_FRAME = {
     ----------------------------------------------------------------------------------------------------------
     InitialiseThirdRow = function (self)
         -- Factions drop down
-        -- self.ui_frame.factions_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame, MTSLUI_TOOLS:GetLocalisedLabel("faction"), 215, -34, "LABEL", "TOPLEFT")
         self.ui_frame.faction_drop_down = CreateFrame("Frame", self.filter_frame_name .. "_DD_FACTIONS", self.ui_frame, "UIDropDownMenuTemplate")
         self.ui_frame.faction_drop_down:SetPoint("TOPLEFT", self.ui_frame.source_drop_down, "BOTTOMLEFT", 0, 2)
         self.ui_frame.faction_drop_down.filter_frame_name = self.filter_frame_name
         self.ui_frame.faction_drop_down.initialize = self.CreateDropDownFactions
         UIDropDownMenu_SetText(self.ui_frame.faction_drop_down, MTSLUI_TOOLS:GetLocalisedLabel("faction"))
         -- Specialisations
-        -- self.ui_frame.specs_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame, MTSLUI_TOOLS:GetLocalisedLabel("specialisation"), 5, -64, "LABEL", "TOPLEFT")
         self.ui_frame.specialisation_drop_down = CreateFrame("Frame", self.filter_frame_name .. "_DD_SPECS", self.ui_frame, "UIDropDownMenuTemplate")
         self.ui_frame.specialisation_drop_down:SetPoint("TOPLEFT", self.ui_frame.faction_drop_down, "TOPRIGHT", -31, 0)
         self.ui_frame.specialisation_drop_down.filter_frame_name = self.filter_frame_name
@@ -146,7 +142,6 @@ MTSLUI_FILTER_FRAME = {
     ----------------------------------------------------------------------------------------------------------
     InitialiseFourthRow = function (self)
         -- Continents & zones
-        -- self.ui_frame.zone_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame, MTSLUI_TOOLS:GetLocalisedLabel("zone"), 5, -94, "LABEL", "TOPLEFT")
         -- Continent more split up with types as well, to reduce number of items shown
         self.ui_frame.continent_drop_down = CreateFrame("Frame", self.filter_frame_name .. "_DD_CONTS", self.ui_frame, "UIDropDownMenuTemplate")
         self.ui_frame.continent_drop_down:SetPoint("TOPLEFT", self.ui_frame.faction_drop_down, "BOTTOMLEFT", 0, 2)
@@ -168,7 +163,7 @@ MTSLUI_FILTER_FRAME = {
             zone = 0,
         }
         -- add all values from the drop down drop_down_lists + set em checked
-        local ddls = { "phase", "faction", "source", "specialisation" }
+        local ddls = { "expansion", "faction", "source", "specialisation" }
         for _, v in pairs(ddls) do
             self.filter_values[v] = {}
             for _, k in pairs(self.drop_down_lists[v]) do
@@ -178,9 +173,9 @@ MTSLUI_FILTER_FRAME = {
         end
 
         -- different for phase, since not all are checked auto
-        for _, k in pairs(self.drop_down_lists.phase) do
+        for _, k in pairs(self.drop_down_lists.expansion) do
             -- Dont check if above max_used_patch_level
-            if k.id > self.max_used_patch_level then
+            if k.phase > self.max_used_patch_level then
                 k.checked = nil
             end
         end
@@ -203,7 +198,7 @@ MTSLUI_FILTER_FRAME = {
 
     -- Limit the filter for phase to current only
     UseOnlyCurrentPhase = function(self)
-        self:BuildPhases(MTSL_DATA.CURRENT_PATCH_LEVEL)
+        self:BuildExpansions(MTSL_DATA.CURRENT_PATCH_LEVEL)
     end,
 
     -- Auto uncheck the recipes only learnable by other faction
@@ -270,7 +265,7 @@ MTSLUI_FILTER_FRAME = {
     -- Build the fixed arrays with all continents & zones available
     ----------------------------------------------------------------------------------------------------------
     InitialiseData = function(self)
-        self:BuildPhases(MTSL_DATA.MAX_PATCH_LEVEL)
+        self:BuildExpansions(MTSL_DATA.MAX_PATCH_LEVEL)
         self:BuildSources()
         self:BuildSpecialisations()
         self:BuildFactions()
@@ -297,21 +292,40 @@ MTSLUI_FILTER_FRAME = {
         end
     end,
 
-    BuildPhases = function(self, max_patch_level)
+    BuildExpansions = function(self, max_patch_level)
         self.max_used_patch_level = max_patch_level
 
-        self.drop_down_lists.phase = {}
+        self.drop_down_lists.expansion = {}
 
-        local patch_level = MTSL_DATA.MIN_PATCH_LEVEL
-        while patch_level <= self.max_used_patch_level do
-            local new_phase = {
-                ["id"] = patch_level,
-                ["checked"] = true,
-                ["name"] = MTSL_LOGIC_WORLD:GetZoneNameById (MTSL_DATA.PHASE_IDS[patch_level]).. " (" .. patch_level .. ")",
-            }
-            patch_level = patch_level + 1
-            table.insert(self.drop_down_lists.phase, new_phase)
+        table.sort(MTSL_DATA["expansions"], function(a, b) return a.id < b.id end)
+        for _, expansion in pairs(MTSL_DATA["expansions"]) do
+            -- not current expansion, so only add it once
+            if expansion.id ~= MTSL_DATA.CURRENT_EXPANSION_ID then
+                local new_expansion = {
+                    ["id"] = 100 * expansion.id + 1,
+                    ["expansion"] = expansion.id,
+                    ["phase"] = 1,
+                    ["checked"] = true,
+                    ["name"] = MTSL_TOOLS:GetExpansionNameById(expansion.id),
+                }
+                table.insert(self.drop_down_lists.expansion, new_expansion)
+            else
+                -- add an entry for each phase
+                local patch_level = MTSL_DATA.MIN_PATCH_LEVEL
+                while patch_level <= self.max_used_patch_level do
+                    local new_phase = {
+                        ["id"] = 100 * expansion.id + patch_level,
+                        ["expansion"] = expansion.id,
+                        ["phase"] = patch_level,
+                        ["checked"] = true,
+                        ["name"] = MTSL_TOOLS:GetExpansionNameById(expansion.id) .. " (" .. MTSLUI_TOOLS:GetLocalisedLabel("phase") .. " " .. patch_level .. ": " .. MTSL_LOGIC_WORLD:GetZoneNameById (MTSL_DATA.PHASE_IDS[patch_level]) ..")",
+                    }
+                    patch_level = patch_level + 1
+                    table.insert(self.drop_down_lists.expansion, new_phase)
+                end
+            end
         end
+
     end,
 
     BuildSources = function(self)
@@ -613,15 +627,14 @@ MTSLUI_FILTER_FRAME = {
     end,
 
     ----------------------------------------------------------------------------------------------------------
-    -- Intialises drop down for phases
+    -- Intialises drop down for expansions
     ----------------------------------------------------------------------------------------------------------
-    CreateDropDownPhases = function(self)
-        MTSLUI_TOOLS:FillDropDownCheckable(_G[self.filter_frame_name].drop_down_lists.phase, _G[self.filter_frame_name].ChangePhaseHandler, self.filter_frame_name)
+    CreateDropDownExpansions = function(self)
+        MTSLUI_TOOLS:FillDropDownCheckable(_G[self.filter_frame_name].drop_down_lists.expansion, _G[self.filter_frame_name].ChangeExpansionHandler, self.filter_frame_name)
     end,
 
-    ChangePhaseHandler = function(self, value, text)
-        -- self:ChangeFilter("phase", value, self.ui_frame.phase_drop_down, text)
-        self:ChangeCheckboxValue("phase", value)
+    ChangeExpansionHandler = function(self, value, text)
+        self:ChangeCheckboxValue("expansion", value)
     end,
 
     ----------------------------------------------------------------------------------------------------------

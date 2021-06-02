@@ -4,6 +4,7 @@
 MTSL_DATA["skills"]["First Aid"] = 
 {
 	{
+		["expansion"] = 1,
 		["id"] = 3275,
 		["min_skill"] = 1,
 		["name"] = {
@@ -22,6 +23,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3276,
 		["min_skill"] = 40,
 		["name"] = {
@@ -57,6 +59,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3277,
 		["min_skill"] = 80,
 		["name"] = {
@@ -92,6 +95,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3278,
 		["min_skill"] = 115,
 		["name"] = {
@@ -127,6 +131,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7928,
 		["min_skill"] = 150,
 		["name"] = {
@@ -162,6 +167,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7929,
 		["items"] = {
 			16112,
@@ -182,6 +188,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7934,
 		["min_skill"] = 80,
 		["name"] = {
@@ -217,6 +224,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7935,
 		["items"] = {
 			6454,
@@ -237,6 +245,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10840,
 		["items"] = {
 			16113,
@@ -257,6 +266,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10841,
 		["min_skill"] = 240,
 		["name"] = {
@@ -281,6 +291,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18629,
 		["min_skill"] = 260,
 		["name"] = {
@@ -305,6 +316,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18630,
 		["min_skill"] = 290,
 		["name"] = {
@@ -329,6 +341,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23787,
 		["items"] = {
 			19442,
@@ -349,6 +362,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 27032,
 		["items"] = {
 			21992,
@@ -369,6 +383,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 27033,
 		["items"] = {
 			21993,

@@ -10,6 +10,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 5,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2406,
 		["name"] = {
 			["Chinese"] = "图样：优质皮靴",
@@ -33,6 +34,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 5,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2407,
 		["name"] = {
 			["Chinese"] = "图样：白色皮夹克",
@@ -56,6 +58,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 5,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2408,
 		["name"] = {
 			["Chinese"] = "图样：优质皮手套",
@@ -79,6 +82,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2409,
 		["name"] = {
 			["Chinese"] = "图样：黑皮外套",
@@ -102,6 +106,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4293,
 		["name"] = {
 			["Chinese"] = "图样：山地皮外衣",
@@ -125,6 +130,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4294,
 		["name"] = {
 			["Chinese"] = "图样：山地腰带",
@@ -148,6 +154,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4296,
 		["name"] = {
 			["Chinese"] = "图样：黑皮护肩",
@@ -171,6 +178,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4297,
 		["name"] = {
 			["Chinese"] = "图样：野人手套",
@@ -194,6 +202,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4298,
 		["name"] = {
 			["Chinese"] = "图样：守护腰带",
@@ -217,6 +226,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4299,
 		["name"] = {
 			["Chinese"] = "图样：守护之甲",
@@ -240,6 +250,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4300,
 		["name"] = {
 			["Chinese"] = "图样：守护腕甲",
@@ -263,6 +274,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4301,
 		["name"] = {
 			["Chinese"] = "图样：野人腰带",
@@ -280,6 +292,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5083,
 		["name"] = {
 			["Chinese"] = "图样：科多兽皮包",
@@ -306,6 +319,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				3385,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5786,
 		["name"] = {
 			["Chinese"] = "图样：鱼人鳞片腰带",
@@ -337,6 +351,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				3386,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5787,
 		["name"] = {
 			["Chinese"] = "图样：鱼人鳞片胸甲",
@@ -367,6 +382,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				938,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5788,
 		["name"] = {
 			["Chinese"] = "图样：厚鱼人皮甲",
@@ -397,6 +413,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				1561,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5789,
 		["name"] = {
 			["Chinese"] = "图样：鱼人鳞片护腕",
@@ -427,6 +444,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5972,
 		["name"] = {
 			["Chinese"] = "图样：优质皮裤",
@@ -444,6 +462,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5973,
 		["name"] = {
 			["Chinese"] = "图样：野人护腿",
@@ -476,6 +495,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5974,
 		["name"] = {
 			["Chinese"] = "图样：守护披风",
@@ -493,6 +513,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6474,
 		["name"] = {
 			["Chinese"] = "图样：蛇鳞披风",
@@ -516,6 +537,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6475,
 		["name"] = {
 			["Chinese"] = "图样：蛇鳞手套",
@@ -539,6 +561,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6476,
 		["name"] = {
 			["Chinese"] = "图样：蛇鳞腰带",
@@ -559,6 +582,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6710,
 		["name"] = {
 			["Chinese"] = "图样：月光背心",
@@ -585,6 +609,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 5,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7288,
 		["name"] = {
 			["Chinese"] = "图样：皱褶皮短裤",
@@ -602,6 +627,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7289,
 		["name"] = {
 			["Chinese"] = "图样：黑色雏龙披风",
@@ -625,6 +651,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7290,
 		["name"] = {
 			["Chinese"] = "图样：红色雏龙手套",
@@ -654,6 +681,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7360,
 		["name"] = {
 			["Chinese"] = "图样：黑皮手套",
@@ -671,6 +699,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7361,
 		["name"] = {
 			["Chinese"] = "图样：采药人手套",
@@ -694,6 +723,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7362,
 		["name"] = {
 			["Chinese"] = "图样：土灵皮护肩",
@@ -723,6 +753,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7363,
 		["name"] = {
 			["Chinese"] = "图样：窃贼手套",
@@ -746,6 +777,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7364,
 		["name"] = {
 			["Chinese"] = "图样：重型土灵手套",
@@ -769,6 +801,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7449,
 		["name"] = {
 			["Chinese"] = "图样：暗色皮护腿",
@@ -792,6 +825,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7450,
 		["name"] = {
 			["Chinese"] = "图样：绿色幼龙护甲",
@@ -809,6 +843,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7451,
 		["name"] = {
 			["Chinese"] = "图样：绿色幼龙护腕",
@@ -841,6 +876,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7452,
 		["name"] = {
 			["Chinese"] = "图样：暗色长靴",
@@ -864,6 +900,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7453,
 		["name"] = {
 			["Chinese"] = "图样：迅捷之靴",
@@ -881,6 +918,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7613,
 		["name"] = {
 			["Chinese"] = "图样：绿色皮甲",
@@ -911,6 +949,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8384,
 		["name"] = {
 			["Chinese"] = "图样：舒适的皮帽",
@@ -934,6 +973,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8385,
 		["name"] = {
 			["Chinese"] = "图样：龟壳手套",
@@ -964,6 +1004,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8386,
 		["name"] = {
 			["Chinese"] = "图样：巫毒长袍",
@@ -987,6 +1028,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8387,
 		["name"] = {
 			["Chinese"] = "图样：巫毒面具",
@@ -1010,6 +1052,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8389,
 		["name"] = {
 			["Chinese"] = "图样：巫毒短裤",
@@ -1033,6 +1076,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8390,
 		["name"] = {
 			["Chinese"] = "图样：巫毒披风",
@@ -1055,6 +1099,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				5618,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8395,
 		["name"] = {
 			["Chinese"] = "图样：硬化蝎壳胸甲",
@@ -1077,6 +1122,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				5617,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8397,
 		["name"] = {
 			["Chinese"] = "图样：硬化蝎壳护腕",
@@ -1099,6 +1145,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				5616,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8398,
 		["name"] = {
 			["Chinese"] = "图样：硬化蝎壳手套",
@@ -1121,6 +1168,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				5615,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8399,
 		["name"] = {
 			["Chinese"] = "图样：硬化蝎壳战靴",
@@ -1145,6 +1193,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				7883,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8400,
 		["name"] = {
 			["Chinese"] = "图样：硬化蝎壳护肩",
@@ -1167,6 +1216,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				5615,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8401,
 		["name"] = {
 			["Chinese"] = "图样：硬化蝎壳护腿",
@@ -1191,6 +1241,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				7883,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8402,
 		["name"] = {
 			["Chinese"] = "图样：硬化蝎壳头盔",
@@ -1208,6 +1259,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8403,
 		["name"] = {
 			["Chinese"] = "图样：蛮皮护肩",
@@ -1229,6 +1281,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8404,
 		["name"] = {
 			["Chinese"] = "图样：蛮皮外衣",
@@ -1250,6 +1303,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8405,
 		["name"] = {
 			["Chinese"] = "图样：蛮皮头盔",
@@ -1271,6 +1325,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8406,
 		["name"] = {
 			["Chinese"] = "图样：蛮皮战靴",
@@ -1292,6 +1347,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8407,
 		["name"] = {
 			["Chinese"] = "图样：蛮皮护腿",
@@ -1313,6 +1369,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8408,
 		["name"] = {
 			["Chinese"] = "图样：蛮皮披风",
@@ -1334,6 +1391,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8409,
 		["name"] = {
 			["Chinese"] = "图样：夜色护肩",
@@ -1358,6 +1416,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13287,
 		["name"] = {
 			["Chinese"] = "图样：迅猛龙皮背心",
@@ -1381,6 +1440,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13288,
 		["name"] = {
 			["Chinese"] = "图样：迅猛龙皮腰带",
@@ -1404,6 +1464,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14635,
 		["name"] = {
 			["Chinese"] = "图样：宝石皮带",
@@ -1427,6 +1488,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15724,
 		["name"] = {
 			["Chinese"] = "图样：重型蝎壳护腕",
@@ -1450,6 +1512,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15725,
 		["name"] = {
 			["Chinese"] = "图样：邪恶皮甲护手",
@@ -1474,6 +1537,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15726,
 		["name"] = {
 			["Chinese"] = "图样：绿龙鳞片胸甲",
@@ -1502,6 +1566,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				5981,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15727,
 		["name"] = {
 			["Chinese"] = "图样：重型蝎壳外衣",
@@ -1524,6 +1589,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				6201,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15728,
 		["name"] = {
 			["Chinese"] = "图样：邪恶皮甲护腕",
@@ -1541,6 +1607,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15729,
 		["name"] = {
 			["Chinese"] = "图样：奇美拉手套",
@@ -1569,6 +1636,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				10363,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15730,
 		["name"] = {
 			["Chinese"] = "图样：红龙鳞片胸甲",
@@ -1592,6 +1660,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15731,
 		["name"] = {
 			["Chinese"] = "图样：符文皮甲护手",
@@ -1614,6 +1683,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				7035,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15732,
 		["name"] = {
 			["Chinese"] = "图样：火山护腿",
@@ -1636,6 +1706,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				5226,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15733,
 		["name"] = {
 			["Chinese"] = "图样：绿龙鳞片护腿",
@@ -1653,6 +1724,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15734,
 		["name"] = {
 			["Chinese"] = "图样：生命护肩",
@@ -1677,6 +1749,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15735,
 		["name"] = {
 			["Chinese"] = "图样：铁羽护肩",
@@ -1706,6 +1779,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15737,
 		["name"] = {
 			["Chinese"] = "图样：奇美拉长靴",
@@ -1728,6 +1802,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				7025,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15738,
 		["name"] = {
 			["Chinese"] = "图样：重型蝎壳护手",
@@ -1750,6 +1825,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				7112,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15739,
 		["name"] = {
 			["Chinese"] = "图样：符文皮甲护腕",
@@ -1767,6 +1843,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15740,
 		["name"] = {
 			["Chinese"] = "图样：霜刃长靴",
@@ -1790,6 +1867,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15741,
 		["name"] = {
 			["Chinese"] = "图样：雷暴短裤",
@@ -1820,6 +1898,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15743,
 		["name"] = {
 			["Chinese"] = "图样：重型蝎壳腰带",
@@ -1842,6 +1921,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				7107,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15744,
 		["name"] = {
 			["Chinese"] = "图样：邪恶皮甲头环",
@@ -1865,6 +1945,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15745,
 		["name"] = {
 			["Chinese"] = "图样：符文皮甲腰带",
@@ -1888,6 +1969,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15746,
 		["name"] = {
 			["Chinese"] = "图样：奇美拉护腿",
@@ -1910,6 +1992,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				7440,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15747,
 		["name"] = {
 			["Chinese"] = "图样：霜刃护腿",
@@ -1932,6 +2015,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				7027,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15748,
 		["name"] = {
 			["Chinese"] = "图样：重型蝎壳护腿",
@@ -1954,6 +2038,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				9259,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15749,
 		["name"] = {
 			["Chinese"] = "图样：火山胸甲",
@@ -1971,6 +2056,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15751,
 		["name"] = {
 			["Chinese"] = "图样：蓝色龙鳞胸甲",
@@ -1999,6 +2085,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				7158,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15752,
 		["name"] = {
 			["Chinese"] = "图样：生命护腿",
@@ -2021,6 +2108,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				6138,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15753,
 		["name"] = {
 			["Chinese"] = "图样：雷暴护甲",
@@ -2044,6 +2132,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15755,
 		["name"] = {
 			["Chinese"] = "图样：奇美拉外衣",
@@ -2061,6 +2150,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15756,
 		["name"] = {
 			["Chinese"] = "图样：符文皮甲头环",
@@ -2090,6 +2180,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15757,
 		["name"] = {
 			["Chinese"] = "图样：邪恶皮甲短裤",
@@ -2107,6 +2198,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15758,
 		["name"] = {
 			["Chinese"] = "图样：魔暴龙护手",
@@ -2130,6 +2222,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15759,
 		["name"] = {
 			["Chinese"] = "图样：黑色龙鳞胸甲",
@@ -2158,6 +2251,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				2644,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15760,
 		["name"] = {
 			["Chinese"] = "图样：铁羽胸甲",
@@ -2180,6 +2274,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				7441,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15761,
 		["name"] = {
 			["Chinese"] = "图样：霜刃手套",
@@ -2197,6 +2292,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15762,
 		["name"] = {
 			["Chinese"] = "图样：重型蝎壳头盔",
@@ -2225,6 +2321,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				6146,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15763,
 		["name"] = {
 			["Chinese"] = "图样：蓝色龙鳞护肩",
@@ -2247,6 +2344,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				6144,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15764,
 		["name"] = {
 			["Chinese"] = "图样：雷暴护肩",
@@ -2270,6 +2368,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				["min_xp_level"] = 55,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15765,
 		["name"] = {
 			["Chinese"] = "图样：符文皮甲短裤",
@@ -2292,6 +2391,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				10406,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15768,
 		["name"] = {
 			["Chinese"] = "图样：邪恶皮甲腰带",
@@ -2314,6 +2414,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				8898,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15770,
 		["name"] = {
 			["Chinese"] = "图样：黑色龙鳞护肩",
@@ -2336,6 +2437,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				1813,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15771,
 		["name"] = {
 			["Chinese"] = "图样：生命胸甲",
@@ -2361,6 +2463,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				9477,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15772,
 		["name"] = {
 			["Chinese"] = "图样：魔暴龙皮护腿",
@@ -2383,6 +2486,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				10499,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15773,
 		["name"] = {
 			["Chinese"] = "图样：邪恶皮甲",
@@ -2405,6 +2509,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				7029,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15774,
 		["name"] = {
 			["Chinese"] = "图样：重型蝎壳护肩",
@@ -2427,6 +2532,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				9260,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15775,
 		["name"] = {
 			["Chinese"] = "图样：火山护肩",
@@ -2449,6 +2555,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				11582,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15776,
 		["name"] = {
 			["Chinese"] = "图样：符文皮甲",
@@ -2471,6 +2578,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				10425,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15777,
 		["name"] = {
 			["Chinese"] = "图样：符文皮甲护肩",
@@ -2493,6 +2601,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				7438,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15779,
 		["name"] = {
 			["Chinese"] = "图样：霜刃外套",
@@ -2515,6 +2624,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				8903,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 15781,
 		["name"] = {
 			["Chinese"] = "图样：黑色龙鳞护腿",
@@ -2532,6 +2642,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17022,
 		["name"] = {
 			["Chinese"] = "图样：熔岩犬皮靴",
@@ -2555,6 +2666,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17023,
 		["name"] = {
 			["Chinese"] = "图样：熔铸头盔",
@@ -2578,6 +2690,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17025,
 		["name"] = {
 			["Chinese"] = "图样：黑色龙鳞战靴",
@@ -2601,6 +2714,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 141,
 		["id"] = 17722,
 		["name"] = {
@@ -2622,6 +2736,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18239,
 		["name"] = {
 			["Chinese"] = "图样：影皮手套",
@@ -2656,6 +2771,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				12264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18252,
 		["name"] = {
 			["Chinese"] = "图样：熔火护甲片",
@@ -2673,6 +2789,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18514,
 		["name"] = {
 			["Chinese"] = "图样：洞察束带",
@@ -2693,6 +2810,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18515,
 		["name"] = {
 			["Chinese"] = "图样：猫鼬长靴",
@@ -2713,6 +2831,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18516,
 		["name"] = {
 			["Chinese"] = "图样：迅行护腕",
@@ -2733,6 +2852,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18517,
 		["name"] = {
 			["Chinese"] = "图样：多彩披风",
@@ -2753,6 +2873,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "epic",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18518,
 		["name"] = {
 			["Chinese"] = "图样：野性之皮",
@@ -2773,6 +2894,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "epic",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18519,
 		["name"] = {
 			["Chinese"] = "图样：移形披风",
@@ -2793,6 +2915,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "epic",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18731,
 		["name"] = {
 			["Chinese"] = "图样：重皮球",
@@ -2817,6 +2940,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18949,
 		["name"] = {
 			["Chinese"] = "图样：野人护腕",
@@ -2841,6 +2965,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19326,
 		["name"] = {
 			["Chinese"] = "图样：木喉之力",
@@ -2868,6 +2993,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19327,
 		["name"] = {
 			["Chinese"] = "图样：木喉作战手套",
@@ -2895,6 +3021,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19328,
 		["name"] = {
 			["Chinese"] = "图样：黎明皮靴",
@@ -2924,6 +3051,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19329,
 		["name"] = {
 			["Chinese"] = "图样：金色黎明衬肩",
@@ -2953,6 +3081,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19330,
 		["name"] = {
 			["Chinese"] = "图样：熔岩腰带",
@@ -2976,6 +3105,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19331,
 		["name"] = {
 			["Chinese"] = "图样：多彩护手",
@@ -2999,6 +3129,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19332,
 		["name"] = {
 			["Chinese"] = "图样：熔火犬皮腰带",
@@ -3022,6 +3153,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19333,
 		["name"] = {
 			["Chinese"] = "图样：熔火腰带",
@@ -3045,6 +3177,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19769,
 		["name"] = {
 			["Chinese"] = "图样：原始蝙蝠皮外套",
@@ -3072,6 +3205,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19770,
 		["name"] = {
 			["Chinese"] = "图样：原始蝙蝠皮手套",
@@ -3099,6 +3233,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19771,
 		["name"] = {
 			["Chinese"] = "图样：原始蝙蝠皮护腕",
@@ -3126,6 +3261,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19772,
 		["name"] = {
 			["Chinese"] = "图样：血虎胸甲",
@@ -3153,6 +3289,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19773,
 		["name"] = {
 			["Chinese"] = "图样：血虎护肩",
@@ -3180,6 +3317,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20253,
 		["name"] = {
 			["Chinese"] = "图样：战熊背心",
@@ -3207,6 +3345,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20254,
 		["name"] = {
 			["Chinese"] = "图样：战熊热裤",
@@ -3234,6 +3373,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20382,
 		["name"] = {
 			["Chinese"] = "图样：梦幻龙鳞胸甲",
@@ -3261,6 +3401,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20506,
 		["name"] = {
 			["Chinese"] = "图样：飞火护腕",
@@ -3288,6 +3429,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20507,
 		["name"] = {
 			["Chinese"] = "图样：飞火护手",
@@ -3315,6 +3457,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20508,
 		["name"] = {
 			["Chinese"] = "图样：飞火胸甲",
@@ -3342,6 +3485,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20509,
 		["name"] = {
 			["Chinese"] = "图样：沙行者护腕",
@@ -3369,6 +3513,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20510,
 		["name"] = {
 			["Chinese"] = "图样：沙行者护手",
@@ -3396,6 +3541,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20511,
 		["name"] = {
 			["Chinese"] = "图样：沙行者胸甲",
@@ -3423,6 +3569,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20576,
 		["name"] = {
 			["Chinese"] = "图样：黑色雏龙外衣",
@@ -3452,6 +3599,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				14457,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 21548,
 		["name"] = {
 			["Chinese"] = "图样：雷暴手套",
@@ -3469,6 +3617,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22694,
 		["name"] = {
 			["Chinese"] = "图样：北极手套",
@@ -3496,6 +3645,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22769,
 		["name"] = {
 			["Chinese"] = "图样：荆木腰带",
@@ -3523,6 +3673,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22770,
 		["name"] = {
 			["Chinese"] = "图样：荆木长靴",
@@ -3550,6 +3701,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22771,
 		["name"] = {
 			["Chinese"] = "图样：荆木头盔",

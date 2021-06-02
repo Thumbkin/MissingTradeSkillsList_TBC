@@ -10,6 +10,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 5,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4408,
 		["name"] = {
 			["Chinese"] = "结构图：机械松鼠",
@@ -33,6 +34,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4409,
 		["name"] = {
 			["Chinese"] = "结构图：小型爆盐炸弹",
@@ -56,6 +58,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4410,
 		["name"] = {
 			["Chinese"] = "结构图：暗影护目镜",
@@ -78,6 +81,7 @@ MTSL_DATA["items"]["Engineering"] =
 				7800,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4411,
 		["name"] = {
 			["Chinese"] = "结构图：火焰偏斜器",
@@ -101,6 +105,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4412,
 		["name"] = {
 			["Chinese"] = "结构图：夜视步枪",
@@ -123,6 +128,7 @@ MTSL_DATA["items"]["Engineering"] =
 				7800,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4413,
 		["name"] = {
 			["Chinese"] = "结构图：退化射线",
@@ -146,6 +152,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4414,
 		["name"] = {
 			["Chinese"] = "结构图：便携式青铜迫击炮",
@@ -169,6 +176,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4415,
 		["name"] = {
 			["Chinese"] = "结构图：工匠眼镜",
@@ -192,6 +200,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4416,
 		["name"] = {
 			["Chinese"] = "结构图：地精暗雷",
@@ -215,6 +224,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4417,
 		["name"] = {
 			["Chinese"] = "结构图：大型爆盐炸弹",
@@ -232,6 +242,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6672,
 		["name"] = {
 			["Chinese"] = "结构图：闪光雷",
@@ -258,6 +269,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6716,
 		["name"] = {
 			["Chinese"] = "结构图：简易投掷炸弹",
@@ -280,6 +292,7 @@ MTSL_DATA["items"]["Engineering"] =
 				7800,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7192,
 		["name"] = {
 			["Chinese"] = "结构图：地精火箭靴",
@@ -297,6 +310,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7560,
 		["name"] = {
 			["Chinese"] = "结构图：侏儒通用遥控器",
@@ -321,6 +335,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7561,
 		["name"] = {
 			["Chinese"] = "结构图：地精起搏器",
@@ -352,6 +367,7 @@ MTSL_DATA["items"]["Engineering"] =
 				7800,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7742,
 		["name"] = {
 			["Chinese"] = "结构图：侏儒隐形装置",
@@ -381,6 +397,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10601,
 		["name"] = {
 			["Chinese"] = "结构图：增亮护目镜",
@@ -398,6 +415,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10602,
 		["name"] = {
 			["Chinese"] = "结构图：致命瞄准镜",
@@ -428,6 +446,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10603,
 		["name"] = {
 			["Chinese"] = "结构图：猫眼超级护目镜",
@@ -451,6 +470,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10604,
 		["name"] = {
 			["Chinese"] = "结构图：大口径秘银步枪",
@@ -474,6 +494,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10605,
 		["name"] = {
 			["Chinese"] = "结构图：法术能量护目镜超级版",
@@ -497,6 +518,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10606,
 		["name"] = {
 			["Chinese"] = "结构图：降落伞披风",
@@ -514,6 +536,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10607,
 		["name"] = {
 			["Chinese"] = "结构图：潜水头盔",
@@ -543,6 +566,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10608,
 		["name"] = {
 			["Chinese"] = "结构图：狙击瞄准镜",
@@ -560,6 +584,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10609,
 		["name"] = {
 			["Chinese"] = "结构图：秘银机械幼龙",
@@ -583,6 +608,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11827,
 		["name"] = {
 			["Chinese"] = "结构图：发条娃娃",
@@ -604,6 +630,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["special_action"] = "random reward",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11828,
 		["name"] = {
 			["Chinese"] = "结构图：炸弹宠物",
@@ -624,6 +651,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13308,
 		["name"] = {
 			["Chinese"] = "结构图：寒冰偏斜器",
@@ -647,6 +675,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13309,
 		["name"] = {
 			["Chinese"] = "结构图：精致手工火枪",
@@ -671,6 +700,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13310,
 		["name"] = {
 			["Chinese"] = "结构图：精确瞄准镜",
@@ -695,6 +725,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13311,
 		["name"] = {
 			["Chinese"] = "结构图：机械幼龙",
@@ -718,6 +749,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14639,
 		["name"] = {
 			["Chinese"] = "结构图：自动净化装置",
@@ -742,6 +774,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16041,
 		["name"] = {
 			["Chinese"] = "结构图：瑟银手榴弹",
@@ -766,6 +799,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16042,
 		["name"] = {
 			["Chinese"] = "结构图：瑟银零件",
@@ -796,6 +830,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16043,
 		["name"] = {
 			["Chinese"] = "结构图：瑟银火枪",
@@ -819,6 +854,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16044,
 		["name"] = {
 			["Chinese"] = "结构图：仿真机械蛙",
@@ -841,6 +877,7 @@ MTSL_DATA["items"]["Engineering"] =
 				6195,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16045,
 		["name"] = {
 			["Chinese"] = "结构图：法术能量护目镜超级改良版",
@@ -858,6 +895,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16046,
 		["name"] = {
 			["Chinese"] = "结构图：高级活动假人",
@@ -881,6 +919,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16047,
 		["name"] = {
 			["Chinese"] = "结构图：瑟银管",
@@ -909,6 +948,7 @@ MTSL_DATA["items"]["Engineering"] =
 				8897,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16048,
 		["name"] = {
 			["Chinese"] = "结构图：黑铁步枪",
@@ -931,6 +971,7 @@ MTSL_DATA["items"]["Engineering"] =
 				8920,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16049,
 		["name"] = {
 			["Chinese"] = "结构图：黑铁炸弹",
@@ -948,6 +989,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16050,
 		["name"] = {
 			["Chinese"] = "结构图：精密奥金转换器",
@@ -977,6 +1019,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16051,
 		["name"] = {
 			["Chinese"] = "结构图：瑟银弹",
@@ -999,6 +1042,7 @@ MTSL_DATA["items"]["Engineering"] =
 				10426,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16052,
 		["name"] = {
 			["Chinese"] = "结构图：语音增强模组",
@@ -1021,6 +1065,7 @@ MTSL_DATA["items"]["Engineering"] =
 				8900,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16053,
 		["name"] = {
 			["Chinese"] = "结构图：高级技师护目镜",
@@ -1043,6 +1088,7 @@ MTSL_DATA["items"]["Engineering"] =
 				7437,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16054,
 		["name"] = {
 			["Chinese"] = "结构图：奥金幼龙",
@@ -1066,6 +1112,7 @@ MTSL_DATA["items"]["Engineering"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16055,
 		["name"] = {
 			["Chinese"] = "结构图：奥术炸弹",
@@ -1088,6 +1135,7 @@ MTSL_DATA["items"]["Engineering"] =
 				8561,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16056,
 		["name"] = {
 			["Chinese"] = "结构图：完美的奥金步枪",
@@ -1105,6 +1153,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 141,
 		["id"] = 17720,
 		["name"] = {
@@ -1126,6 +1175,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18235,
 		["name"] = {
 			["Chinese"] = "结构图：修理机器人74A型",
@@ -1155,6 +1205,7 @@ MTSL_DATA["items"]["Engineering"] =
 				12264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18290,
 		["name"] = {
 			["Chinese"] = "结构图：比兹尼克247x128精确瞄准镜",
@@ -1183,6 +1234,7 @@ MTSL_DATA["items"]["Engineering"] =
 				12264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18291,
 		["name"] = {
 			["Chinese"] = "结构图：力反馈盾牌",
@@ -1211,6 +1263,7 @@ MTSL_DATA["items"]["Engineering"] =
 				12264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18292,
 		["name"] = {
 			["Chinese"] = "结构图：火核狙击步枪",
@@ -1228,6 +1281,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18647,
 		["name"] = {
 			["Chinese"] = "结构图：红色焰火",
@@ -1251,6 +1305,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18648,
 		["name"] = {
 			["Chinese"] = "结构图：绿色焰火",
@@ -1275,6 +1330,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18649,
 		["name"] = {
 			["Chinese"] = "结构图：蓝色焰火",
@@ -1299,6 +1355,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18650,
 		["name"] = {
 			["Chinese"] = "结构图：简易投掷炸弹 II",
@@ -1322,6 +1379,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18651,
 		["name"] = {
 			["Chinese"] = "结构图：真银变压器",
@@ -1345,6 +1403,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18652,
 		["name"] = {
 			["Chinese"] = "结构图：超低温寒冰偏斜器",
@@ -1373,6 +1432,7 @@ MTSL_DATA["items"]["Engineering"] =
 				9499,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18653,
 		["name"] = {
 			["Chinese"] = "结构图：地精起搏器XL型",
@@ -1395,6 +1455,7 @@ MTSL_DATA["items"]["Engineering"] =
 				8920,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18654,
 		["name"] = {
 			["Chinese"] = "结构图：侏儒报警机器人",
@@ -1412,6 +1473,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18655,
 		["name"] = {
 			["Chinese"] = "结构图：强力净化器",
@@ -1430,6 +1492,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["special_action"] = "dm tribute run",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18656,
 		["name"] = {
 			["Chinese"] = "结构图：强力爆盐炸弹",
@@ -1458,6 +1521,7 @@ MTSL_DATA["items"]["Engineering"] =
 				10264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18657,
 		["name"] = {
 			["Chinese"] = "结构图：高辐射烈焰反射器",
@@ -1480,6 +1544,7 @@ MTSL_DATA["items"]["Engineering"] =
 				10426,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18658,
 		["name"] = {
 			["Chinese"] = "结构图：快速暗影反射器",
@@ -1502,6 +1567,7 @@ MTSL_DATA["items"]["Engineering"] =
 				8920,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18661,
 		["name"] = {
 			["Chinese"] = "结构图：世界放大器",
@@ -1519,6 +1585,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19027,
 		["name"] = {
 			["Chinese"] = "结构图：长蛇焰火",
@@ -1543,6 +1610,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20000,
 		["name"] = {
 			["Chinese"] = "结构图：血藤护目镜",
@@ -1570,6 +1638,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20001,
 		["name"] = {
 			["Chinese"] = "结构图：血藤透镜",
@@ -1597,6 +1666,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21724,
 		["name"] = {
@@ -1618,6 +1688,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21725,
 		["name"] = {
@@ -1639,6 +1710,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21726,
 		["name"] = {
@@ -1660,6 +1732,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21727,
 		["name"] = {
@@ -1681,6 +1754,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21728,
 		["name"] = {
@@ -1702,6 +1776,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21729,
 		["name"] = {
@@ -1723,6 +1798,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21730,
 		["name"] = {
@@ -1744,6 +1820,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21731,
 		["name"] = {
@@ -1765,6 +1842,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21732,
 		["name"] = {
@@ -1786,6 +1864,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21733,
 		["name"] = {
@@ -1807,6 +1886,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21734,
 		["name"] = {
@@ -1828,6 +1908,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21735,
 		["name"] = {
@@ -1849,6 +1930,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21737,
 		["name"] = {
@@ -1870,6 +1952,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21738,
 		["name"] = {
@@ -1891,6 +1974,7 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 999999,
 		["id"] = 22729,
 		["name"] = {

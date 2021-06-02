@@ -10,6 +10,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 5,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6342,
 		["name"] = {
 			["Chinese"] = "公式：附魔胸甲 - 初级法力",
@@ -47,6 +48,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6344,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 初级精神",
@@ -64,6 +66,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6346,
 		["name"] = {
 			["Chinese"] = "公式：附魔胸甲 - 次级法力",
@@ -94,6 +97,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6347,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 初级力量",
@@ -117,6 +121,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6348,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 初级屠兽",
@@ -134,6 +139,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6349,
 		["name"] = {
 			["Chinese"] = "公式：附魔双手武器 - 次级智力",
@@ -166,6 +172,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6375,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 次级精神",
@@ -183,6 +190,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6377,
 		["name"] = {
 			["Chinese"] = "公式：附魔靴子 - 初级敏捷",
@@ -213,6 +221,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11038,
 		["name"] = {
 			["Chinese"] = "公式：附魔双手武器 - 次级精神",
@@ -236,6 +245,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11039,
 		["name"] = {
 			["Chinese"] = "公式：附魔披风 - 初级敏捷",
@@ -266,6 +276,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11081,
 		["name"] = {
 			["Chinese"] = "公式：附魔盾牌 - 次级防护",
@@ -289,6 +300,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11098,
 		["name"] = {
 			["Chinese"] = "公式：附魔披风 - 抵抗次级暗影",
@@ -306,6 +318,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11101,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 次级力量",
@@ -339,6 +352,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				1364,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11150,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 采矿",
@@ -365,6 +379,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				4030,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11151,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 采药",
@@ -391,6 +406,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				14276,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11152,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 钓鱼",
@@ -408,6 +424,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11163,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 次级偏斜",
@@ -438,6 +455,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11164,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 次级屠兽",
@@ -461,6 +479,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11165,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 次级元素杀手",
@@ -486,6 +505,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				2606,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11166,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 剥皮",
@@ -509,6 +529,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11167,
 		["name"] = {
 			["Chinese"] = "公式：附魔靴子 - 次级精神",
@@ -532,6 +553,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11168,
 		["name"] = {
 			["Chinese"] = "公式：附魔盾牌 - 次级格挡",
@@ -555,6 +577,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11202,
 		["name"] = {
 			["Chinese"] = "公式：附魔盾牌 - 耐力",
@@ -577,6 +600,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				674,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11203,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 高级采矿",
@@ -600,6 +624,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11204,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 强效精神",
@@ -626,6 +651,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				14448,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11205,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 高级草药学",
@@ -650,6 +676,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				7805,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11206,
 		["name"] = {
 			["Chinese"] = "公式：附魔披风 - 次级敏捷",
@@ -672,6 +699,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				9024,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11207,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 灼热武器",
@@ -695,6 +723,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11208,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 屠魔",
@@ -712,6 +741,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11223,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 偏斜",
@@ -742,6 +772,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11224,
 		["name"] = {
 			["Chinese"] = "公式：附魔盾牌 - 冰霜反射",
@@ -765,6 +796,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11225,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 强效耐力",
@@ -788,6 +820,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11226,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 骑乘技能",
@@ -810,6 +843,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				9025,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11813,
 		["name"] = {
 			["Chinese"] = "公式：浓烟山脉之心",
@@ -832,6 +866,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				2642,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16214,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 强效智力",
@@ -855,6 +890,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16215,
 		["name"] = {
 			["Chinese"] = "公式：附魔靴子 - 强效耐力",
@@ -877,6 +913,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				5259,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16216,
 		["name"] = {
 			["Chinese"] = "公式：附魔披风 - 强效抗性",
@@ -894,6 +931,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16217,
 		["name"] = {
 			["Chinese"] = "公式：附魔盾牌 - 强效耐力",
@@ -924,6 +962,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16218,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 超强精神",
@@ -946,6 +985,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				6201,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16219,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 强效敏捷",
@@ -969,6 +1009,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16220,
 		["name"] = {
 			["Chinese"] = "公式：附魔靴子 - 精神",
@@ -986,6 +1027,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16221,
 		["name"] = {
 			["Chinese"] = "公式：附魔胸甲 - 特效生命",
@@ -1014,6 +1056,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				9447,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16222,
 		["name"] = {
 			["Chinese"] = "公式：附魔盾牌 - 超强精神",
@@ -1036,6 +1079,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				7524,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16223,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 冰寒",
@@ -1053,6 +1097,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16224,
 		["name"] = {
 			["Chinese"] = "公式：附魔披风 - 超强防御",
@@ -1081,6 +1126,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				9452,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16242,
 		["name"] = {
 			["Chinese"] = "公式：附魔胸甲 - 特效法力",
@@ -1098,6 +1144,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 16243,
 		["name"] = {
 			["Chinese"] = "公式：符文奥金棒",
@@ -1126,6 +1173,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				9198,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16244,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 强效力量",
@@ -1149,6 +1197,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16245,
 		["name"] = {
 			["Chinese"] = "公式：附魔靴子 - 强效敏捷",
@@ -1171,6 +1220,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				7372,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16246,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 超强力量",
@@ -1193,6 +1243,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				10317,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16247,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 超强冲击",
@@ -1215,6 +1266,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				10398,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16248,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 邪恶",
@@ -1237,6 +1289,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				10422,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16249,
 		["name"] = {
 			["Chinese"] = "公式：附魔双手武器 - 特效智力",
@@ -1259,6 +1312,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				9216,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16250,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 超强打击",
@@ -1282,6 +1336,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 55,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16251,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 超强耐力",
@@ -1305,6 +1360,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				9451,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16252,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 十字军",
@@ -1328,6 +1384,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				["min_xp_level"] = 60,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16253,
 		["name"] = {
 			["Chinese"] = "公式：附魔胸甲 - 强效属性",
@@ -1350,6 +1407,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				10499,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16254,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 生命偷取",
@@ -1372,6 +1430,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				10469,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 16255,
 		["name"] = {
 			["Chinese"] = "公式：附魔双手武器 - 特效精神",
@@ -1389,6 +1448,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 141,
 		["id"] = 17725,
 		["name"] = {
@@ -1421,6 +1481,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				12264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18259,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 法术能量",
@@ -1449,6 +1510,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				12264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18260,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 治疗能力",
@@ -1466,6 +1528,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19444,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 力量",
@@ -1493,6 +1556,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19445,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 敏捷",
@@ -1520,6 +1584,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19446,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 法力回复",
@@ -1549,6 +1614,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19447,
 		["name"] = {
 			["Chinese"] = "公式：附魔护腕 - 治疗",
@@ -1578,6 +1644,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19448,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 强效精神",
@@ -1605,6 +1672,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19449,
 		["name"] = {
 			["Chinese"] = "公式：附魔武器 - 强效智力",
@@ -1638,6 +1706,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				15276,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 20726,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 威胁",
@@ -1673,6 +1742,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				15544,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 20727,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 暗影能量",
@@ -1708,6 +1778,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				15544,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 20728,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 冰霜能量",
@@ -1743,6 +1814,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				15544,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 20729,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 火焰能量",
@@ -1778,6 +1850,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				15544,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 20730,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 治疗能量",
@@ -1813,6 +1886,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				15544,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 20731,
 		["name"] = {
 			["Chinese"] = "公式：附魔手套 - 超强敏捷",
@@ -1830,6 +1904,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20732,
 		["name"] = {
 			["Chinese"] = "公式：附魔披风 - 强效火焰抗性",
@@ -1857,6 +1932,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20733,
 		["name"] = {
 			["Chinese"] = "公式：附魔披风 - 强效自然抗性",
@@ -1902,6 +1978,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				15544,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 20734,
 		["name"] = {
 			["Chinese"] = "公式：附魔披风 - 潜行",
@@ -1925,6 +2002,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				15276,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 20735,
 		["name"] = {
 			["Chinese"] = "公式：附魔披风 - 狡诈",
@@ -1960,6 +2038,7 @@ MTSL_DATA["items"]["Enchanting"] =
 				15544,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 20736,
 		["name"] = {
 			["Chinese"] = "公式：附魔披风 - 躲闪",
@@ -1977,6 +2056,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20752,
 		["name"] = {
 			["Chinese"] = "公式：初级法力之油",
@@ -2008,6 +2088,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20753,
 		["name"] = {
 			["Chinese"] = "公式：次级巫师之油",
@@ -2039,6 +2120,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20754,
 		["name"] = {
 			["Chinese"] = "公式：次级法力之油",
@@ -2062,6 +2144,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20755,
 		["name"] = {
 			["Chinese"] = "公式：巫师之油",
@@ -2085,6 +2168,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20756,
 		["name"] = {
 			["Chinese"] = "公式：卓越巫师之油",
@@ -2112,6 +2196,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20757,
 		["name"] = {
 			["Chinese"] = "公式：卓越法力之油",
@@ -2139,6 +2224,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20758,
 		["name"] = {
 			["Chinese"] = "公式：初级巫师之油",
@@ -2170,6 +2256,7 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22392,
 		["name"] = {
 			["Chinese"] = "公式：附魔双手武器 - 敏捷",

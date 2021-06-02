@@ -1,9 +1,6 @@
 ## Version History
 
-### v2.5.03 (May 31, 2021)
-
-* Fixed bugs
-  * Solved lua errors when running addon for first time
+### v2.5.03 (May 30, 2021)
 * Fixed data
   * Updated French & German translations for continents, factions, zones & some NPCs
 

@@ -14,6 +14,7 @@ MTSL_DATA["items"]["Poisons"] =
 				15370,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 21302,
 		["min_xp_level"] = 60,
 		["name"] = {

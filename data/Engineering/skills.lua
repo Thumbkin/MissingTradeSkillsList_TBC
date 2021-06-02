@@ -4,6 +4,7 @@
 MTSL_DATA["skills"]["Engineering"] = 
 {
 	{
+		["expansion"] = 1,
 		["id"] = 3918,
 		["min_skill"] = 1,
 		["name"] = {
@@ -22,6 +23,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3919,
 		["min_skill"] = 1,
 		["name"] = {
@@ -40,6 +42,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3920,
 		["min_skill"] = 1,
 		["name"] = {
@@ -58,6 +61,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3922,
 		["min_skill"] = 30,
 		["name"] = {
@@ -98,6 +102,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3923,
 		["min_skill"] = 30,
 		["name"] = {
@@ -138,6 +143,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3924,
 		["min_skill"] = 50,
 		["name"] = {
@@ -178,6 +184,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3925,
 		["min_skill"] = 50,
 		["name"] = {
@@ -218,6 +225,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3926,
 		["min_skill"] = 65,
 		["name"] = {
@@ -258,6 +266,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3928,
 		["items"] = {
 			4408,
@@ -278,6 +287,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3929,
 		["min_skill"] = 75,
 		["name"] = {
@@ -318,6 +328,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3930,
 		["min_skill"] = 75,
 		["name"] = {
@@ -358,6 +369,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3931,
 		["min_skill"] = 75,
 		["name"] = {
@@ -398,6 +410,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3932,
 		["min_skill"] = 85,
 		["name"] = {
@@ -428,6 +441,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3933,
 		["items"] = {
 			4409,
@@ -448,6 +462,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3934,
 		["min_skill"] = 100,
 		["name"] = {
@@ -478,6 +493,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3936,
 		["min_skill"] = 105,
 		["name"] = {
@@ -508,6 +524,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3937,
 		["min_skill"] = 105,
 		["name"] = {
@@ -538,6 +555,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3938,
 		["min_skill"] = 105,
 		["name"] = {
@@ -568,6 +586,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3939,
 		["items"] = {
 			13309,
@@ -588,6 +607,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3940,
 		["items"] = {
 			4410,
@@ -608,6 +628,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3941,
 		["min_skill"] = 120,
 		["name"] = {
@@ -638,6 +659,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3942,
 		["min_skill"] = 125,
 		["name"] = {
@@ -668,6 +690,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3944,
 		["items"] = {
 			4411,
@@ -688,6 +711,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3945,
 		["min_skill"] = 125,
 		["name"] = {
@@ -718,6 +742,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3946,
 		["min_skill"] = 125,
 		["name"] = {
@@ -748,6 +773,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3947,
 		["min_skill"] = 125,
 		["name"] = {
@@ -778,6 +804,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3949,
 		["min_skill"] = 130,
 		["name"] = {
@@ -808,6 +835,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3950,
 		["min_skill"] = 140,
 		["name"] = {
@@ -838,6 +866,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3952,
 		["items"] = {
 			14639,
@@ -858,6 +887,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3953,
 		["min_skill"] = 145,
 		["name"] = {
@@ -888,6 +918,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3954,
 		["items"] = {
 			4412,
@@ -908,6 +939,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3955,
 		["min_skill"] = 150,
 		["name"] = {
@@ -938,6 +970,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3956,
 		["min_skill"] = 150,
 		["name"] = {
@@ -968,6 +1001,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3957,
 		["items"] = {
 			13308,
@@ -988,6 +1022,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3958,
 		["min_skill"] = 160,
 		["name"] = {
@@ -1013,6 +1048,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3959,
 		["items"] = {
 			4413,
@@ -1033,6 +1069,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3960,
 		["items"] = {
 			4414,
@@ -1053,6 +1090,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3961,
 		["min_skill"] = 170,
 		["name"] = {
@@ -1078,6 +1116,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3962,
 		["min_skill"] = 175,
 		["name"] = {
@@ -1103,6 +1142,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3963,
 		["min_skill"] = 175,
 		["name"] = {
@@ -1128,6 +1168,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3965,
 		["min_skill"] = 185,
 		["name"] = {
@@ -1153,6 +1194,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3966,
 		["items"] = {
 			4415,
@@ -1173,6 +1215,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3967,
 		["min_skill"] = 190,
 		["name"] = {
@@ -1198,6 +1241,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3968,
 		["items"] = {
 			4416,
@@ -1218,6 +1262,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3969,
 		["items"] = {
 			13311,
@@ -1238,6 +1283,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3971,
 		["items"] = {
 			7742,
@@ -1258,6 +1304,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3972,
 		["items"] = {
 			4417,
@@ -1278,6 +1325,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3973,
 		["min_skill"] = 90,
 		["name"] = {
@@ -1308,6 +1356,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3977,
 		["min_skill"] = 60,
 		["name"] = {
@@ -1347,6 +1396,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3978,
 		["min_skill"] = 110,
 		["name"] = {
@@ -1377,6 +1427,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3979,
 		["items"] = {
 			13310,
@@ -1397,6 +1448,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6458,
 		["min_skill"] = 135,
 		["name"] = {
@@ -1427,6 +1479,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7430,
 		["min_skill"] = 50,
 		["name"] = {
@@ -1466,6 +1519,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8243,
 		["items"] = {
 			6672,
@@ -1486,6 +1540,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8334,
 		["min_skill"] = 100,
 		["name"] = {
@@ -1516,6 +1571,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8339,
 		["items"] = {
 			6716,
@@ -1536,6 +1592,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8895,
 		["items"] = {
 			7192,
@@ -1556,6 +1613,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9269,
 		["items"] = {
 			7560,
@@ -1576,6 +1634,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9271,
 		["min_skill"] = 150,
 		["name"] = {
@@ -1606,6 +1665,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9273,
 		["items"] = {
 			7561,
@@ -1626,6 +1686,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12584,
 		["min_skill"] = 150,
 		["name"] = {
@@ -1656,6 +1717,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12585,
 		["min_skill"] = 175,
 		["name"] = {
@@ -1681,6 +1743,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12586,
 		["min_skill"] = 175,
 		["name"] = {
@@ -1706,6 +1769,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12587,
 		["items"] = {
 			10601,
@@ -1726,6 +1790,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12589,
 		["min_skill"] = 195,
 		["name"] = {
@@ -1751,6 +1816,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12590,
 		["min_skill"] = 175,
 		["name"] = {
@@ -1776,6 +1842,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12591,
 		["min_skill"] = 200,
 		["name"] = {
@@ -1801,6 +1868,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12594,
 		["min_skill"] = 205,
 		["name"] = {
@@ -1826,6 +1894,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12595,
 		["min_skill"] = 205,
 		["name"] = {
@@ -1851,6 +1920,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12596,
 		["min_skill"] = 210,
 		["name"] = {
@@ -1876,6 +1946,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12597,
 		["items"] = {
 			10602,
@@ -1896,6 +1967,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12599,
 		["min_skill"] = 215,
 		["name"] = {
@@ -1921,6 +1993,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12603,
 		["min_skill"] = 215,
 		["name"] = {
@@ -1946,6 +2019,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12607,
 		["items"] = {
 			10603,
@@ -1966,6 +2040,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12614,
 		["items"] = {
 			10604,
@@ -1986,6 +2061,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12615,
 		["items"] = {
 			10605,
@@ -2006,6 +2082,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12616,
 		["items"] = {
 			10606,
@@ -2026,6 +2103,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12617,
 		["items"] = {
 			10607,
@@ -2046,6 +2124,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12618,
 		["min_skill"] = 230,
 		["name"] = {
@@ -2069,6 +2148,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12619,
 		["min_skill"] = 235,
 		["name"] = {
@@ -2092,6 +2172,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12620,
 		["items"] = {
 			10608,
@@ -2112,6 +2193,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12621,
 		["min_skill"] = 245,
 		["name"] = {
@@ -2135,6 +2217,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12622,
 		["min_skill"] = 245,
 		["name"] = {
@@ -2158,6 +2241,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12624,
 		["items"] = {
 			10609,
@@ -2178,6 +2262,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12715,
 		["min_skill"] = 205,
 		["name"] = {
@@ -2203,6 +2288,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12716,
 		["min_skill"] = 205,
 		["name"] = {
@@ -2227,6 +2313,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12717,
 		["min_skill"] = 205,
 		["name"] = {
@@ -2252,6 +2339,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12718,
 		["min_skill"] = 205,
 		["name"] = {
@@ -2277,6 +2365,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12754,
 		["min_skill"] = 235,
 		["name"] = {
@@ -2302,6 +2391,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12755,
 		["min_skill"] = 230,
 		["name"] = {
@@ -2327,6 +2417,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12758,
 		["min_skill"] = 245,
 		["name"] = {
@@ -2352,6 +2443,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12759,
 		["min_skill"] = 240,
 		["name"] = {
@@ -2377,6 +2469,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12760,
 		["min_skill"] = 205,
 		["name"] = {
@@ -2402,6 +2495,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12895,
 		["min_skill"] = 205,
 		["name"] = {
@@ -2427,6 +2521,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12897,
 		["min_skill"] = 210,
 		["name"] = {
@@ -2452,6 +2547,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12899,
 		["min_skill"] = 205,
 		["name"] = {
@@ -2477,6 +2573,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12902,
 		["min_skill"] = 210,
 		["name"] = {
@@ -2502,6 +2599,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12903,
 		["min_skill"] = 215,
 		["name"] = {
@@ -2527,6 +2625,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12905,
 		["min_skill"] = 225,
 		["name"] = {
@@ -2552,6 +2651,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12906,
 		["min_skill"] = 230,
 		["name"] = {
@@ -2577,6 +2677,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12907,
 		["min_skill"] = 235,
 		["name"] = {
@@ -2602,6 +2703,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12908,
 		["min_skill"] = 240,
 		["name"] = {
@@ -2627,6 +2729,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13240,
 		["min_skill"] = 205,
 		["name"] = {
@@ -2652,6 +2755,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15255,
 		["min_skill"] = 200,
 		["name"] = {
@@ -2677,6 +2781,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15628,
 		["items"] = {
 			11828,
@@ -2698,6 +2803,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["specialisation"] = 20222,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 15633,
 		["items"] = {
 			11827,
@@ -2719,6 +2825,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["specialisation"] = 20219,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19567,
 		["min_skill"] = 250,
 		["name"] = {
@@ -2742,6 +2849,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19788,
 		["min_skill"] = 250,
 		["name"] = {
@@ -2765,6 +2873,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19790,
 		["items"] = {
 			16041,
@@ -2785,6 +2894,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19791,
 		["items"] = {
 			16042,
@@ -2805,6 +2915,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19792,
 		["items"] = {
 			16043,
@@ -2825,6 +2936,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19793,
 		["items"] = {
 			16044,
@@ -2845,6 +2957,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19794,
 		["items"] = {
 			16045,
@@ -2865,6 +2978,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19795,
 		["items"] = {
 			16047,
@@ -2885,6 +2999,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19796,
 		["items"] = {
 			16048,
@@ -2905,6 +3020,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19799,
 		["items"] = {
 			16049,
@@ -2925,6 +3041,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19800,
 		["items"] = {
 			16051,
@@ -2945,6 +3062,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19814,
 		["items"] = {
 			16046,
@@ -2965,6 +3083,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19815,
 		["items"] = {
 			16050,
@@ -2985,6 +3104,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19819,
 		["items"] = {
 			16052,
@@ -3005,6 +3125,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19825,
 		["items"] = {
 			16053,
@@ -3025,6 +3146,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19830,
 		["items"] = {
 			16054,
@@ -3045,6 +3167,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19831,
 		["items"] = {
 			16055,
@@ -3065,6 +3188,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19833,
 		["items"] = {
 			16056,
@@ -3085,6 +3209,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 21940,
 		["items"] = {
 			17720,
@@ -3105,6 +3230,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22704,
 		["items"] = {
 			18235,
@@ -3125,6 +3251,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22793,
 		["items"] = {
 			18290,
@@ -3145,6 +3272,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22795,
 		["items"] = {
 			18292,
@@ -3165,6 +3293,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22797,
 		["items"] = {
 			18291,
@@ -3185,6 +3314,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23066,
 		["items"] = {
 			18647,
@@ -3205,6 +3335,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23067,
 		["items"] = {
 			18649,
@@ -3225,6 +3356,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23068,
 		["items"] = {
 			18648,
@@ -3245,6 +3377,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23069,
 		["items"] = {
 			18650,
@@ -3265,6 +3398,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23070,
 		["min_skill"] = 250,
 		["name"] = {
@@ -3288,6 +3422,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23071,
 		["items"] = {
 			18651,
@@ -3308,6 +3443,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23077,
 		["items"] = {
 			18652,
@@ -3328,6 +3464,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23078,
 		["items"] = {
 			18653,
@@ -3349,6 +3486,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["specialisation"] = 20222,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23079,
 		["items"] = {
 			18655,
@@ -3369,6 +3507,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23080,
 		["items"] = {
 			18656,
@@ -3389,6 +3528,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23081,
 		["items"] = {
 			18657,
@@ -3409,6 +3549,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23082,
 		["items"] = {
 			18658,
@@ -3429,6 +3570,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23096,
 		["items"] = {
 			18654,
@@ -3450,6 +3592,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["specialisation"] = 20219,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23129,
 		["items"] = {
 			18661,
@@ -3471,6 +3614,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["specialisation"] = 20219,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23486,
 		["min_skill"] = 260,
 		["name"] = {
@@ -3495,6 +3639,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23489,
 		["min_skill"] = 260,
 		["name"] = {
@@ -3519,6 +3664,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23507,
 		["items"] = {
 			19027,
@@ -3539,6 +3685,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24356,
 		["items"] = {
 			20000,
@@ -3559,6 +3706,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24357,
 		["items"] = {
 			20001,
@@ -3579,6 +3727,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26011,
 		["min_skill"] = 250,
 		["name"] = {
@@ -3599,6 +3748,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26416,
 		["items"] = {
 			21724,
@@ -3619,6 +3769,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26417,
 		["items"] = {
 			21725,
@@ -3639,6 +3790,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26418,
 		["items"] = {
 			21726,
@@ -3659,6 +3811,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26420,
 		["items"] = {
 			21727,
@@ -3679,6 +3832,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26421,
 		["items"] = {
 			21728,
@@ -3699,6 +3853,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26422,
 		["items"] = {
 			21729,
@@ -3719,6 +3874,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26423,
 		["items"] = {
 			21730,
@@ -3739,6 +3895,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26424,
 		["items"] = {
 			21731,
@@ -3759,6 +3916,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26425,
 		["items"] = {
 			21732,
@@ -3779,6 +3937,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26426,
 		["items"] = {
 			21733,
@@ -3799,6 +3958,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26427,
 		["items"] = {
 			21734,
@@ -3819,6 +3979,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26428,
 		["items"] = {
 			21735,
@@ -3839,6 +4000,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26442,
 		["items"] = {
 			21738,
@@ -3859,6 +4021,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26443,
 		["items"] = {
 			21737,
@@ -3879,6 +4042,7 @@ MTSL_DATA["skills"]["Engineering"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 28327,
 		["items"] = {
 			22729,

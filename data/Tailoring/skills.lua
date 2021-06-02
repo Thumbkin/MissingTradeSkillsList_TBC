@@ -4,6 +4,7 @@
 MTSL_DATA["skills"]["Tailoring"] = 
 {
 	{
+		["expansion"] = 1,
 		["id"] = 2385,
 		["min_skill"] = 10,
 		["name"] = {
@@ -49,6 +50,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2386,
 		["min_skill"] = 65,
 		["name"] = {
@@ -94,6 +96,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2387,
 		["min_skill"] = 1,
 		["name"] = {
@@ -112,6 +115,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2389,
 		["items"] = {
 			2598,
@@ -132,6 +136,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2392,
 		["min_skill"] = 40,
 		["name"] = {
@@ -177,6 +182,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2393,
 		["min_skill"] = 1,
 		["name"] = {
@@ -222,6 +228,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2394,
 		["min_skill"] = 40,
 		["name"] = {
@@ -267,6 +274,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2395,
 		["min_skill"] = 70,
 		["name"] = {
@@ -312,6 +320,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2396,
 		["min_skill"] = 70,
 		["name"] = {
@@ -357,6 +366,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2397,
 		["min_skill"] = 60,
 		["name"] = {
@@ -402,6 +412,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2399,
 		["min_skill"] = 85,
 		["name"] = {
@@ -437,6 +448,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2401,
 		["min_skill"] = 95,
 		["name"] = {
@@ -472,6 +484,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2402,
 		["min_skill"] = 75,
 		["name"] = {
@@ -517,6 +530,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2403,
 		["items"] = {
 			2601,
@@ -537,6 +551,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2406,
 		["min_skill"] = 100,
 		["name"] = {
@@ -572,6 +587,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2963,
 		["min_skill"] = 1,
 		["name"] = {
@@ -590,6 +606,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2964,
 		["min_skill"] = 75,
 		["name"] = {
@@ -635,6 +652,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3755,
 		["min_skill"] = 45,
 		["name"] = {
@@ -680,6 +698,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3757,
 		["min_skill"] = 80,
 		["name"] = {
@@ -715,6 +734,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3758,
 		["items"] = {
 			4292,
@@ -735,6 +755,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3813,
 		["min_skill"] = 150,
 		["name"] = {
@@ -770,6 +791,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3839,
 		["min_skill"] = 125,
 		["name"] = {
@@ -805,6 +827,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3840,
 		["min_skill"] = 35,
 		["name"] = {
@@ -850,6 +873,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3841,
 		["min_skill"] = 60,
 		["name"] = {
@@ -895,6 +919,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3842,
 		["min_skill"] = 70,
 		["name"] = {
@@ -940,6 +965,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3843,
 		["min_skill"] = 85,
 		["name"] = {
@@ -975,6 +1001,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3844,
 		["items"] = {
 			4346,
@@ -995,6 +1022,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3845,
 		["min_skill"] = 80,
 		["name"] = {
@@ -1030,6 +1058,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3847,
 		["items"] = {
 			4345,
@@ -1050,6 +1079,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3848,
 		["min_skill"] = 110,
 		["name"] = {
@@ -1085,6 +1115,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3849,
 		["items"] = {
 			4347,
@@ -1105,6 +1136,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3850,
 		["min_skill"] = 110,
 		["name"] = {
@@ -1140,6 +1172,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3851,
 		["items"] = {
 			4349,
@@ -1160,6 +1193,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3852,
 		["min_skill"] = 130,
 		["name"] = {
@@ -1195,6 +1229,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3854,
 		["items"] = {
 			7114,
@@ -1215,6 +1250,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3855,
 		["min_skill"] = 125,
 		["name"] = {
@@ -1250,6 +1286,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3856,
 		["items"] = {
 			4350,
@@ -1270,6 +1307,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3857,
 		["items"] = {
 			14630,
@@ -1290,6 +1328,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3858,
 		["items"] = {
 			4351,
@@ -1310,6 +1349,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3859,
 		["min_skill"] = 150,
 		["name"] = {
@@ -1345,6 +1385,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3860,
 		["items"] = {
 			4352,
@@ -1365,6 +1406,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3861,
 		["min_skill"] = 185,
 		["name"] = {
@@ -1392,6 +1434,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3862,
 		["items"] = {
 			4355,
@@ -1412,6 +1455,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3863,
 		["items"] = {
 			4353,
@@ -1432,6 +1476,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3864,
 		["items"] = {
 			4356,
@@ -1452,6 +1497,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3865,
 		["min_skill"] = 175,
 		["name"] = {
@@ -1479,6 +1525,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3866,
 		["min_skill"] = 110,
 		["name"] = {
@@ -1514,6 +1561,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3868,
 		["items"] = {
 			4348,
@@ -1534,6 +1582,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3869,
 		["items"] = {
 			14627,
@@ -1554,6 +1603,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3870,
 		["items"] = {
 			6401,
@@ -1574,6 +1624,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3871,
 		["min_skill"] = 170,
 		["name"] = {
@@ -1601,6 +1652,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3872,
 		["items"] = {
 			4354,
@@ -1621,6 +1673,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3873,
 		["items"] = {
 			10728,
@@ -1641,6 +1694,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3914,
 		["min_skill"] = 30,
 		["name"] = {
@@ -1686,6 +1740,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3915,
 		["min_skill"] = 1,
 		["name"] = {
@@ -1704,6 +1759,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6521,
 		["min_skill"] = 90,
 		["name"] = {
@@ -1739,6 +1795,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6686,
 		["items"] = {
 			5771,
@@ -1759,6 +1816,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6688,
 		["items"] = {
 			5772,
@@ -1779,6 +1837,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6690,
 		["min_skill"] = 135,
 		["name"] = {
@@ -1814,6 +1873,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6692,
 		["items"] = {
 			5773,
@@ -1834,6 +1894,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6693,
 		["items"] = {
 			5774,
@@ -1854,6 +1915,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6695,
 		["items"] = {
 			5775,
@@ -1874,6 +1936,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7623,
 		["min_skill"] = 30,
 		["name"] = {
@@ -1919,6 +1982,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7624,
 		["min_skill"] = 30,
 		["name"] = {
@@ -1964,6 +2028,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7629,
 		["items"] = {
 			6271,
@@ -1984,6 +2049,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7630,
 		["items"] = {
 			6270,
@@ -2004,6 +2070,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7633,
 		["items"] = {
 			6272,
@@ -2024,6 +2091,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7639,
 		["items"] = {
 			6274,
@@ -2044,6 +2112,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7643,
 		["items"] = {
 			6275,
@@ -2064,6 +2133,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7892,
 		["items"] = {
 			6390,
@@ -2084,6 +2154,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7893,
 		["items"] = {
 			6391,
@@ -2104,6 +2175,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8465,
 		["min_skill"] = 40,
 		["name"] = {
@@ -2149,6 +2221,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8467,
 		["min_skill"] = 110,
 		["name"] = {
@@ -2184,6 +2257,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8483,
 		["min_skill"] = 160,
 		["name"] = {
@@ -2211,6 +2285,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8489,
 		["min_skill"] = 175,
 		["name"] = {
@@ -2238,6 +2313,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8758,
 		["min_skill"] = 140,
 		["name"] = {
@@ -2273,6 +2349,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8760,
 		["min_skill"] = 145,
 		["name"] = {
@@ -2308,6 +2385,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8762,
 		["min_skill"] = 160,
 		["name"] = {
@@ -2335,6 +2413,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8764,
 		["min_skill"] = 170,
 		["name"] = {
@@ -2362,6 +2441,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8766,
 		["min_skill"] = 175,
 		["name"] = {
@@ -2389,6 +2469,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8770,
 		["min_skill"] = 190,
 		["name"] = {
@@ -2416,6 +2497,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8772,
 		["min_skill"] = 175,
 		["name"] = {
@@ -2443,6 +2525,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8774,
 		["min_skill"] = 180,
 		["name"] = {
@@ -2470,6 +2553,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8776,
 		["min_skill"] = 15,
 		["name"] = {
@@ -2515,6 +2599,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8780,
 		["items"] = {
 			7092,
@@ -2535,6 +2620,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8782,
 		["items"] = {
 			7091,
@@ -2555,6 +2641,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8784,
 		["items"] = {
 			7090,
@@ -2575,6 +2662,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8786,
 		["items"] = {
 			7089,
@@ -2595,6 +2683,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8789,
 		["items"] = {
 			7087,
@@ -2615,6 +2704,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8791,
 		["min_skill"] = 185,
 		["name"] = {
@@ -2642,6 +2732,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8793,
 		["items"] = {
 			7084,
@@ -2662,6 +2753,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8795,
 		["items"] = {
 			7085,
@@ -2682,6 +2774,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8797,
 		["items"] = {
 			7086,
@@ -2702,6 +2795,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8799,
 		["min_skill"] = 195,
 		["name"] = {
@@ -2729,6 +2823,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8802,
 		["items"] = {
 			7088,
@@ -2749,6 +2844,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8804,
 		["min_skill"] = 210,
 		["name"] = {
@@ -2776,6 +2872,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12044,
 		["min_skill"] = 1,
 		["name"] = {
@@ -2794,6 +2891,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["special_action"] = "auto learned",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12045,
 		["min_skill"] = 20,
 		["name"] = {
@@ -2839,6 +2937,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12046,
 		["min_skill"] = 75,
 		["name"] = {
@@ -2884,6 +2983,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12047,
 		["items"] = {
 			10316,
@@ -2904,6 +3004,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12048,
 		["min_skill"] = 205,
 		["name"] = {
@@ -2931,6 +3032,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12049,
 		["min_skill"] = 205,
 		["name"] = {
@@ -2958,6 +3060,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12050,
 		["min_skill"] = 210,
 		["name"] = {
@@ -2985,6 +3088,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12052,
 		["min_skill"] = 210,
 		["name"] = {
@@ -3009,6 +3113,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12053,
 		["min_skill"] = 215,
 		["name"] = {
@@ -3036,6 +3141,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12055,
 		["min_skill"] = 215,
 		["name"] = {
@@ -3060,6 +3166,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12056,
 		["items"] = {
 			10300,
@@ -3080,6 +3187,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12059,
 		["items"] = {
 			10301,
@@ -3100,6 +3208,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12060,
 		["items"] = {
 			10302,
@@ -3120,6 +3229,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12061,
 		["min_skill"] = 215,
 		["name"] = {
@@ -3147,6 +3257,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12064,
 		["items"] = {
 			10311,
@@ -3167,6 +3278,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12065,
 		["min_skill"] = 225,
 		["name"] = {
@@ -3194,6 +3306,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12066,
 		["items"] = {
 			10312,
@@ -3214,6 +3327,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12067,
 		["min_skill"] = 225,
 		["name"] = {
@@ -3241,6 +3355,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12069,
 		["min_skill"] = 225,
 		["name"] = {
@@ -3268,6 +3383,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12070,
 		["min_skill"] = 225,
 		["name"] = {
@@ -3295,6 +3411,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12071,
 		["min_skill"] = 225,
 		["name"] = {
@@ -3319,6 +3436,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12072,
 		["min_skill"] = 230,
 		["name"] = {
@@ -3344,6 +3462,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12073,
 		["min_skill"] = 230,
 		["name"] = {
@@ -3369,6 +3488,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12074,
 		["min_skill"] = 230,
 		["name"] = {
@@ -3394,6 +3514,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12075,
 		["items"] = {
 			10314,
@@ -3414,6 +3535,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12076,
 		["min_skill"] = 235,
 		["name"] = {
@@ -3438,6 +3560,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12077,
 		["min_skill"] = 235,
 		["name"] = {
@@ -3463,6 +3586,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12078,
 		["items"] = {
 			10315,
@@ -3483,6 +3607,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12079,
 		["min_skill"] = 235,
 		["name"] = {
@@ -3508,6 +3633,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12080,
 		["items"] = {
 			10317,
@@ -3528,6 +3654,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12081,
 		["items"] = {
 			10318,
@@ -3548,6 +3675,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12082,
 		["min_skill"] = 240,
 		["name"] = {
@@ -3572,6 +3700,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12084,
 		["items"] = {
 			10320,
@@ -3592,6 +3721,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12085,
 		["items"] = {
 			10321,
@@ -3612,6 +3742,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12086,
 		["items"] = {
 			10463,
@@ -3632,6 +3763,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12088,
 		["min_skill"] = 245,
 		["name"] = {
@@ -3657,6 +3789,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12089,
 		["items"] = {
 			10323,
@@ -3677,6 +3810,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12091,
 		["items"] = {
 			10325,
@@ -3697,6 +3831,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12092,
 		["min_skill"] = 250,
 		["name"] = {
@@ -3722,6 +3857,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12093,
 		["items"] = {
 			10326,
@@ -3742,6 +3878,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18401,
 		["min_skill"] = 250,
 		["name"] = {
@@ -3767,6 +3904,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18402,
 		["min_skill"] = 255,
 		["name"] = {
@@ -3792,6 +3930,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18403,
 		["items"] = {
 			14466,
@@ -3812,6 +3951,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18404,
 		["items"] = {
 			14467,
@@ -3832,6 +3972,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18405,
 		["items"] = {
 			14468,
@@ -3852,6 +3993,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18406,
 		["items"] = {
 			14469,
@@ -3872,6 +4014,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18407,
 		["items"] = {
 			14470,
@@ -3892,6 +4035,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18408,
 		["items"] = {
 			14471,
@@ -3912,6 +4056,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18409,
 		["items"] = {
 			14472,
@@ -3932,6 +4077,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18410,
 		["items"] = {
 			14473,
@@ -3952,6 +4098,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18411,
 		["items"] = {
 			14474,
@@ -3972,6 +4119,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18412,
 		["items"] = {
 			14476,
@@ -3992,6 +4140,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18413,
 		["items"] = {
 			14477,
@@ -4012,6 +4161,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18414,
 		["items"] = {
 			14478,
@@ -4032,6 +4182,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18415,
 		["items"] = {
 			14479,
@@ -4052,6 +4203,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18416,
 		["items"] = {
 			14480,
@@ -4072,6 +4224,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18417,
 		["items"] = {
 			14481,
@@ -4092,6 +4245,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18418,
 		["items"] = {
 			14482,
@@ -4112,6 +4266,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18419,
 		["items"] = {
 			14483,
@@ -4132,6 +4287,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18420,
 		["items"] = {
 			14484,
@@ -4152,6 +4308,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18421,
 		["items"] = {
 			14485,
@@ -4172,6 +4329,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18422,
 		["items"] = {
 			14486,
@@ -4192,6 +4350,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18423,
 		["items"] = {
 			14488,
@@ -4212,6 +4371,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18424,
 		["items"] = {
 			14489,
@@ -4232,6 +4392,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18434,
 		["items"] = {
 			14490,
@@ -4252,6 +4413,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18436,
 		["items"] = {
 			14493,
@@ -4272,6 +4434,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18437,
 		["items"] = {
 			14492,
@@ -4292,6 +4455,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18438,
 		["items"] = {
 			14491,
@@ -4312,6 +4476,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18439,
 		["items"] = {
 			14494,
@@ -4332,6 +4497,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18440,
 		["items"] = {
 			14497,
@@ -4352,6 +4518,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18441,
 		["items"] = {
 			14495,
@@ -4372,6 +4539,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18442,
 		["items"] = {
 			14496,
@@ -4392,6 +4560,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18444,
 		["items"] = {
 			14498,
@@ -4412,6 +4581,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18445,
 		["items"] = {
 			14499,
@@ -4432,6 +4602,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18446,
 		["items"] = {
 			14500,
@@ -4452,6 +4623,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18447,
 		["items"] = {
 			14501,
@@ -4472,6 +4644,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18448,
 		["items"] = {
 			14507,
@@ -4492,6 +4665,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18449,
 		["items"] = {
 			14504,
@@ -4512,6 +4686,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18450,
 		["items"] = {
 			14505,
@@ -4532,6 +4707,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18451,
 		["items"] = {
 			14506,
@@ -4552,6 +4728,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18452,
 		["items"] = {
 			14509,
@@ -4572,6 +4749,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18453,
 		["items"] = {
 			14508,
@@ -4592,6 +4770,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18454,
 		["items"] = {
 			14511,
@@ -4612,6 +4791,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18455,
 		["items"] = {
 			14510,
@@ -4632,6 +4812,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18456,
 		["items"] = {
 			14512,
@@ -4652,6 +4833,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18457,
 		["items"] = {
 			14513,
@@ -4672,6 +4854,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18458,
 		["items"] = {
 			14514,
@@ -4692,6 +4875,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18560,
 		["items"] = {
 			14526,
@@ -4712,6 +4896,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19435,
 		["min_skill"] = 290,
 		["name"] = {
@@ -4732,6 +4917,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20848,
 		["items"] = {
 			17017,
@@ -4752,6 +4938,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20849,
 		["items"] = {
 			17018,
@@ -4772,6 +4959,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 21945,
 		["items"] = {
 			17724,
@@ -4792,6 +4980,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22759,
 		["items"] = {
 			18265,
@@ -4812,6 +5001,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22813,
 		["min_skill"] = 285,
 		["name"] = {
@@ -4833,6 +5023,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["special_action"] = "talk to npc after quest",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22866,
 		["items"] = {
 			18414,
@@ -4853,6 +5044,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22867,
 		["items"] = {
 			18415,
@@ -4873,6 +5065,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22868,
 		["items"] = {
 			18416,
@@ -4893,6 +5086,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22869,
 		["items"] = {
 			18417,
@@ -4913,6 +5107,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22870,
 		["items"] = {
 			18418,
@@ -4933,6 +5128,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22902,
 		["items"] = {
 			18487,
@@ -4953,6 +5149,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23662,
 		["items"] = {
 			19215,
@@ -4973,6 +5170,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23663,
 		["items"] = {
 			19218,
@@ -4993,6 +5191,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23664,
 		["items"] = {
 			19216,
@@ -5013,6 +5212,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23665,
 		["items"] = {
 			19217,
@@ -5033,6 +5233,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23666,
 		["items"] = {
 			19219,
@@ -5053,6 +5254,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 23667,
 		["items"] = {
 			19220,
@@ -5073,6 +5275,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24091,
 		["items"] = {
 			19764,
@@ -5093,6 +5296,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24092,
 		["items"] = {
 			19765,
@@ -5113,6 +5317,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24093,
 		["items"] = {
 			19766,
@@ -5133,6 +5338,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24901,
 		["items"] = {
 			20546,
@@ -5153,6 +5359,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24902,
 		["items"] = {
 			20548,
@@ -5173,6 +5380,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 24903,
 		["items"] = {
 			20547,
@@ -5193,6 +5401,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26085,
 		["items"] = {
 			21358,
@@ -5213,6 +5422,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26086,
 		["min_skill"] = 285,
 		["name"] = {
@@ -5234,6 +5444,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["special_action"] = "book Jandice Barov",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26087,
 		["items"] = {
 			21371,
@@ -5254,6 +5465,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26403,
 		["items"] = {
 			21722,
@@ -5274,6 +5486,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 26407,
 		["items"] = {
 			21723,
@@ -5294,6 +5507,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27658,
 		["items"] = {
 			22307,
@@ -5314,6 +5528,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27659,
 		["items"] = {
 			22308,
@@ -5334,6 +5549,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27660,
 		["items"] = {
 			22309,
@@ -5354,6 +5570,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27724,
 		["items"] = {
 			22310,
@@ -5374,6 +5591,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 27725,
 		["items"] = {
 			22312,
@@ -5394,6 +5612,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 28205,
 		["min_skill"] = 300,
 		["name"] = {
@@ -5424,6 +5643,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 28207,
 		["min_skill"] = 300,
 		["name"] = {
@@ -5454,6 +5674,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 28208,
 		["min_skill"] = 300,
 		["name"] = {
@@ -5484,6 +5705,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 28209,
 		["min_skill"] = 300,
 		["name"] = {
@@ -5514,6 +5736,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 28210,
 		["items"] = {
 			22683,
@@ -5534,6 +5757,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 28480,
 		["items"] = {
 			22774,
@@ -5554,6 +5778,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 28481,
 		["items"] = {
 			22773,
@@ -5574,6 +5799,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 28482,
 		["items"] = {
 			22772,

@@ -10,6 +10,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 5,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2598,
 		["name"] = {
 			["Chinese"] = "图样：红色亚麻长袍",
@@ -33,6 +34,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2601,
 		["name"] = {
 			["Chinese"] = "图样：灰色毛纺长袍",
@@ -56,6 +58,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4292,
 		["name"] = {
 			["Chinese"] = "图样：绿色毛纺包",
@@ -79,6 +82,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4345,
 		["name"] = {
 			["Chinese"] = "图样：红色毛纺靴",
@@ -102,6 +106,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4346,
 		["name"] = {
 			["Chinese"] = "图样：高级毛纺披风",
@@ -125,6 +130,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4347,
 		["name"] = {
 			["Chinese"] = "图样：强化毛纺护肩",
@@ -148,6 +154,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4348,
 		["name"] = {
 			["Chinese"] = "图样：凤凰手套",
@@ -171,6 +178,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4349,
 		["name"] = {
 			["Chinese"] = "图样：凤凰短裤",
@@ -194,6 +202,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4350,
 		["name"] = {
 			["Chinese"] = "图样：蛛丝便鞋",
@@ -217,6 +226,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4351,
 		["name"] = {
 			["Chinese"] = "图样：暗影头巾",
@@ -240,6 +250,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4352,
 		["name"] = {
 			["Chinese"] = "图样：附魔师长靴",
@@ -263,6 +274,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4353,
 		["name"] = {
 			["Chinese"] = "图样：蜘蛛腰带",
@@ -286,6 +298,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4354,
 		["name"] = {
 			["Chinese"] = "图样：紫色丝质衬衣",
@@ -303,6 +316,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 4355,
 		["name"] = {
 			["Chinese"] = "图样：冰覆披风",
@@ -333,6 +347,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				4295,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 4356,
 		["name"] = {
 			["Chinese"] = "图样：星辰腰带",
@@ -357,6 +372,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				3531,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5771,
 		["name"] = {
 			["Chinese"] = "图样：红色亚麻包",
@@ -389,6 +405,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				2264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5772,
 		["name"] = {
 			["Chinese"] = "图样：红色毛纺包",
@@ -428,6 +445,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				2337,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5773,
 		["name"] = {
 			["Chinese"] = "图样：奥法之袍",
@@ -451,6 +469,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5774,
 		["name"] = {
 			["Chinese"] = "图样：绿色丝质包",
@@ -475,6 +494,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				4834,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5775,
 		["name"] = {
 			["Chinese"] = "图样：黑色丝质背包",
@@ -492,6 +512,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6270,
 		["name"] = {
 			["Chinese"] = "图样：蓝色亚麻外衣",
@@ -525,6 +546,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 5,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6271,
 		["name"] = {
 			["Chinese"] = "图样：红色亚麻外衣",
@@ -542,6 +564,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6272,
 		["name"] = {
 			["Chinese"] = "图样：蓝色亚麻长袍",
@@ -569,6 +592,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6274,
 		["name"] = {
 			["Chinese"] = "图样：蓝色罩衫",
@@ -596,6 +620,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6275,
 		["name"] = {
 			["Chinese"] = "图样：大师长袍",
@@ -630,6 +655,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6390,
 		["name"] = {
 			["Chinese"] = "图样：漂亮的蓝衬衣",
@@ -653,6 +679,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6391,
 		["name"] = {
 			["Chinese"] = "图样：漂亮的绿衬衣",
@@ -670,6 +697,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6401,
 		["name"] = {
 			["Chinese"] = "图样：黑丝衬衣",
@@ -700,6 +728,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7084,
 		["name"] = {
 			["Chinese"] = "图样：深红丝质护肩",
@@ -723,6 +752,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7085,
 		["name"] = {
 			["Chinese"] = "图样：碧蓝护肩",
@@ -746,6 +776,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7086,
 		["name"] = {
 			["Chinese"] = "图样：土灵丝质腰带",
@@ -763,6 +794,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7087,
 		["name"] = {
 			["Chinese"] = "图样：深红丝质披风",
@@ -787,6 +819,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7088,
 		["name"] = {
 			["Chinese"] = "图样：深红丝质长袍",
@@ -810,6 +843,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7089,
 		["name"] = {
 			["Chinese"] = "图样：碧蓝丝质披风",
@@ -840,6 +874,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7090,
 		["name"] = {
 			["Chinese"] = "图样：绿色丝甲",
@@ -863,6 +898,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7091,
 		["name"] = {
 			["Chinese"] = "图样：信念手套",
@@ -886,6 +922,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7092,
 		["name"] = {
 			["Chinese"] = "图样：黑暗之手",
@@ -903,6 +940,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7114,
 		["name"] = {
 			["Chinese"] = "图样：碧蓝丝质手套",
@@ -933,6 +971,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10300,
 		["name"] = {
 			["Chinese"] = "图样：红色魔纹外衣",
@@ -956,6 +995,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10301,
 		["name"] = {
 			["Chinese"] = "图样：白色强盗面罩",
@@ -979,6 +1019,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10302,
 		["name"] = {
 			["Chinese"] = "图样：红色魔纹短裤",
@@ -996,6 +1037,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10311,
 		["name"] = {
 			["Chinese"] = "图样：橙色军用衬衣",
@@ -1026,6 +1068,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10312,
 		["name"] = {
 			["Chinese"] = "图样：红色魔纹手套",
@@ -1043,6 +1086,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10314,
 		["name"] = {
 			["Chinese"] = "图样：紫色魔纹衬衣",
@@ -1073,6 +1117,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10315,
 		["name"] = {
 			["Chinese"] = "图样：红色魔纹护肩",
@@ -1096,6 +1141,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10316,
 		["name"] = {
 			["Chinese"] = "图样：多彩褶裙",
@@ -1113,6 +1159,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10317,
 		["name"] = {
 			["Chinese"] = "图样：粉色魔纹衬衣",
@@ -1137,6 +1184,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10318,
 		["name"] = {
 			["Chinese"] = "图样：将军之帽",
@@ -1166,6 +1214,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10320,
 		["name"] = {
 			["Chinese"] = "图样：红色魔纹头带",
@@ -1183,6 +1232,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10321,
 		["name"] = {
 			["Chinese"] = "图样：礼服衬衣",
@@ -1207,6 +1257,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10323,
 		["name"] = {
 			["Chinese"] = "图样：礼服短裤",
@@ -1231,6 +1282,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10325,
 		["name"] = {
 			["Chinese"] = "图样：白色婚纱",
@@ -1255,6 +1307,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10326,
 		["name"] = {
 			["Chinese"] = "图样：礼服夹克",
@@ -1279,6 +1332,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10463,
 		["name"] = {
 			["Chinese"] = "图样：暗纹面罩",
@@ -1299,6 +1353,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10728,
 		["name"] = {
 			["Chinese"] = "图样：黑色冒险者衬衣",
@@ -1328,6 +1383,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14466,
 		["name"] = {
 			["Chinese"] = "图样：霜纹外套",
@@ -1351,6 +1407,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14467,
 		["name"] = {
 			["Chinese"] = "图样：霜纹长袍",
@@ -1368,6 +1425,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14468,
 		["name"] = {
 			["Chinese"] = "图样：符文布包",
@@ -1391,6 +1449,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14469,
 		["name"] = {
 			["Chinese"] = "图样：符文布袍",
@@ -1420,6 +1479,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14470,
 		["name"] = {
 			["Chinese"] = "图样：符文布外套",
@@ -1442,6 +1502,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				5861,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14471,
 		["name"] = {
 			["Chinese"] = "图样：灰布外衣",
@@ -1459,6 +1520,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14472,
 		["name"] = {
 			["Chinese"] = "图样：符文布披风",
@@ -1487,6 +1549,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				7864,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14473,
 		["name"] = {
 			["Chinese"] = "图样：鬼纹腰带",
@@ -1510,6 +1573,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14474,
 		["name"] = {
 			["Chinese"] = "图样：霜纹手套",
@@ -1532,6 +1596,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				5861,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14476,
 		["name"] = {
 			["Chinese"] = "图样：灰布手套",
@@ -1555,6 +1620,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				8538,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14477,
 		["name"] = {
 			["Chinese"] = "图样：鬼纹手套",
@@ -1578,6 +1644,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14478,
 		["name"] = {
 			["Chinese"] = "图样：亮布长袍",
@@ -1601,6 +1668,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14479,
 		["name"] = {
 			["Chinese"] = "图样：亮布手套",
@@ -1623,6 +1691,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				8538,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14480,
 		["name"] = {
 			["Chinese"] = "图样：鬼纹外衣",
@@ -1640,6 +1709,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14481,
 		["name"] = {
 			["Chinese"] = "图样：符文布手套",
@@ -1668,6 +1738,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				7037,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14482,
 		["name"] = {
 			["Chinese"] = "图样：灰布披风",
@@ -1685,6 +1756,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14483,
 		["name"] = {
 			["Chinese"] = "图样：恶魔布短裤",
@@ -1714,6 +1786,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14484,
 		["name"] = {
 			["Chinese"] = "图样：亮布披风",
@@ -1736,6 +1809,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				8551,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14485,
 		["name"] = {
 			["Chinese"] = "图样：巫纹护腿",
@@ -1758,6 +1832,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				9026,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14486,
 		["name"] = {
 			["Chinese"] = "图样：火焰披风",
@@ -1775,6 +1850,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14488,
 		["name"] = {
 			["Chinese"] = "图样：符文布靴",
@@ -1804,6 +1880,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14489,
 		["name"] = {
 			["Chinese"] = "图样：霜纹短裤",
@@ -1826,6 +1903,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				7037,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14490,
 		["name"] = {
 			["Chinese"] = "图样：灰布短裤",
@@ -1849,6 +1927,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14491,
 		["name"] = {
 			["Chinese"] = "图样：符文布短裤",
@@ -1876,6 +1955,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14492,
 		["name"] = {
 			["Chinese"] = "图样：恶魔布靴",
@@ -1898,6 +1978,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				7437,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14493,
 		["name"] = {
 			["Chinese"] = "图样：冬夜法袍",
@@ -1921,6 +2002,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14494,
 		["name"] = {
 			["Chinese"] = "图样：亮布短裤",
@@ -1943,6 +2025,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				10384,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14495,
 		["name"] = {
 			["Chinese"] = "图样：鬼纹短裤",
@@ -1966,6 +2049,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14496,
 		["name"] = {
 			["Chinese"] = "图样：恶魔布帽",
@@ -1989,6 +2073,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14497,
 		["name"] = {
 			["Chinese"] = "图样：月布护腿",
@@ -2012,6 +2097,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14498,
 		["name"] = {
 			["Chinese"] = "图样：符文布头带",
@@ -2035,6 +2121,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14499,
 		["name"] = {
 			["Chinese"] = "图样：月布包",
@@ -2057,6 +2144,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				8526,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14500,
 		["name"] = {
 			["Chinese"] = "图样：巫纹长袍",
@@ -2080,6 +2168,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 55,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14501,
 		["name"] = {
 			["Chinese"] = "图样：月布外衣",
@@ -2103,6 +2192,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 55,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14504,
 		["name"] = {
 			["Chinese"] = "图样：符文布护肩",
@@ -2125,6 +2215,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				8526,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14505,
 		["name"] = {
 			["Chinese"] = "图样：巫纹头巾",
@@ -2148,6 +2239,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 55,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14506,
 		["name"] = {
 			["Chinese"] = "图样：恶魔布袍",
@@ -2171,6 +2263,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14507,
 		["name"] = {
 			["Chinese"] = "图样：月布护肩",
@@ -2194,6 +2287,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 55,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14508,
 		["name"] = {
 			["Chinese"] = "图样：恶魔布护肩",
@@ -2217,6 +2311,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 61,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14509,
 		["name"] = {
 			["Chinese"] = "图样：月布头饰",
@@ -2240,6 +2335,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 61,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14510,
 		["name"] = {
 			["Chinese"] = "图样：无底包",
@@ -2263,6 +2359,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				["min_xp_level"] = 61,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14511,
 		["name"] = {
 			["Chinese"] = "图样：法术掌握手套",
@@ -2285,6 +2382,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				10813,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14512,
 		["name"] = {
 			["Chinese"] = "图样：信念外衣",
@@ -2307,6 +2405,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				9264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14513,
 		["name"] = {
 			["Chinese"] = "图样：大法师之袍",
@@ -2329,6 +2428,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				1853,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 14514,
 		["name"] = {
 			["Chinese"] = "图样：虚空法袍",
@@ -2346,6 +2446,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "epic",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14526,
 		["name"] = {
 			["Chinese"] = "图样：月布",
@@ -2369,6 +2470,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14627,
 		["name"] = {
 			["Chinese"] = "图样：淡黄色衬衣",
@@ -2392,6 +2494,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14630,
 		["name"] = {
 			["Chinese"] = "图样：巫术师兜帽",
@@ -2415,6 +2518,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17017,
 		["name"] = {
 			["Chinese"] = "图样：光芒衬肩",
@@ -2438,6 +2542,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17018,
 		["name"] = {
 			["Chinese"] = "图样：光芒手套",
@@ -2461,6 +2566,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 141,
 		["id"] = 17724,
 		["name"] = {
@@ -2493,6 +2599,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				12264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18265,
 		["name"] = {
 			["Chinese"] = "图样：光芒护腕",
@@ -2510,6 +2617,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18414,
 		["name"] = {
 			["Chinese"] = "图样：大法师腰带",
@@ -2530,6 +2638,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "epic",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18415,
 		["name"] = {
 			["Chinese"] = "图样：恶魔布手套",
@@ -2550,6 +2659,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18416,
 		["name"] = {
 			["Chinese"] = "图样：地狱火手套",
@@ -2570,6 +2680,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18417,
 		["name"] = {
 			["Chinese"] = "图样：月布手套",
@@ -2590,6 +2701,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18418,
 		["name"] = {
 			["Chinese"] = "图样：监护披风",
@@ -2610,6 +2722,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18487,
 		["name"] = {
 			["Chinese"] = "图样：月布长袍",
@@ -2633,6 +2746,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19215,
 		["name"] = {
 			["Chinese"] = "图样：木喉之智",
@@ -2660,6 +2774,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19216,
 		["name"] = {
 			["Chinese"] = "图样：银色长靴",
@@ -2689,6 +2804,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19217,
 		["name"] = {
 			["Chinese"] = "图样：银色护肩",
@@ -2718,6 +2834,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19218,
 		["name"] = {
 			["Chinese"] = "图样：木喉衬肩",
@@ -2745,6 +2862,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19219,
 		["name"] = {
 			["Chinese"] = "图样：光芒长袍",
@@ -2768,6 +2886,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19220,
 		["name"] = {
 			["Chinese"] = "图样：光芒护腿",
@@ -2791,6 +2910,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19764,
 		["name"] = {
 			["Chinese"] = "图样：血藤外套",
@@ -2818,6 +2938,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19765,
 		["name"] = {
 			["Chinese"] = "图样：血藤护腿",
@@ -2845,6 +2966,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19766,
 		["name"] = {
 			["Chinese"] = "图样：血藤长靴",
@@ -2872,6 +2994,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20546,
 		["name"] = {
 			["Chinese"] = "图样：符文冥河护腿",
@@ -2893,6 +3016,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["special_action"] = "random reward",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20547,
 		["name"] = {
 			["Chinese"] = "图样：符文冥河长靴",
@@ -2914,6 +3038,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["special_action"] = "random reward",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20548,
 		["name"] = {
 			["Chinese"] = "图样：符文冥河腰带",
@@ -2935,6 +3060,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["special_action"] = "random reward",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 21358,
 		["name"] = {
 			["Chinese"] = "图样：灵魂袋",
@@ -2969,6 +3095,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				12264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 21371,
 		["name"] = {
 			["Chinese"] = "图样：熔火恶魔布包",
@@ -2986,6 +3113,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21722,
 		["name"] = {
@@ -3007,6 +3135,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 327,
 		["id"] = 21723,
 		["name"] = {
@@ -3028,6 +3157,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22307,
 		["name"] = {
 			["Chinese"] = "图样：魔化魔纹布包",
@@ -3058,6 +3188,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22308,
 		["name"] = {
 			["Chinese"] = "图样：魔化符文布包",
@@ -3086,6 +3217,7 @@ MTSL_DATA["items"]["Tailoring"] =
 				11487,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 22309,
 		["name"] = {
 			["Chinese"] = "图样：大附魔袋",
@@ -3103,6 +3235,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22310,
 		["name"] = {
 			["Chinese"] = "图样：塞纳里奥草药包",
@@ -3130,6 +3263,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22312,
 		["name"] = {
 			["Chinese"] = "图样：塞纳留斯之袋",
@@ -3157,6 +3291,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22683,
 		["name"] = {
 			["Chinese"] = "图样：盖亚的拥抱",
@@ -3184,6 +3319,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22684,
 		["name"] = {
 			["Chinese"] = "图样：冰川手套",
@@ -3211,6 +3347,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22686,
 		["name"] = {
 			["Chinese"] = "图样：冰川外衣",
@@ -3238,6 +3375,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22687,
 		["name"] = {
 			["Chinese"] = "图样：冰川护腕",
@@ -3265,6 +3403,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22772,
 		["name"] = {
 			["Chinese"] = "图样：林栖者护肩",
@@ -3292,6 +3431,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22773,
 		["name"] = {
 			["Chinese"] = "图样：林栖者头冠",
@@ -3319,6 +3459,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22774,
 		["name"] = {
 			["Chinese"] = "图样：林栖者外套",

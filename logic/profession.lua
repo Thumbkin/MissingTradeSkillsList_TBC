@@ -44,13 +44,13 @@ MTSL_LOGIC_PROFESSION = {
     -- @skill_name          String      The (partial) name of the skill
     -- @source_types        Array       The sourcetypes allowed for the skill
     -- @specialisation_ids  Array       The ids of the specialisation
-    -- @phases			    Array		The numbers of phases for during one the recipe has to be available
+    -- @expansions			Array		The numbers of expansions and phases in expansion for during one the recipe has to be available
     -- @zone_id				Number		The id of the zone in which we must be able to learn skill (0 = all)
     -- @faction_ids			Array		The ids of the faction from which we must be able to learn skill (0 = all)
     --
     -- returns              Array       The skills passed the filter
     -----------------------------------------------------------------------------------------------
-    FilterListOfSkills = function(self, list_skills, profession_name, skill_name, source_types, specialisation_ids, phases, zone_id, faction_ids)
+    FilterListOfSkills = function(self, list_skills, profession_name, skill_name, source_types, specialisation_ids, expansions, zone_id, faction_ids)
         local filtered_list = {}
 
         -- alter the skill_name now if needed
@@ -88,8 +88,8 @@ MTSL_LOGIC_PROFESSION = {
                 if skill_passed_filter == true and MTSL_TOOLS:ListContainsNumber(specialisation_ids, spec_id) == false then
                     skill_passed_filter = false
                 end
-                -- Check availability in phase
-                if skill_passed_filter == true and MTSL_TOOLS:ListContainsNumber(phases, v.phase) == false then
+                -- Check availability in expansion
+                if skill_passed_filter == true and MTSL_TOOLS:ListContainsNumber(expansions, 100 * v.expansion + v.phase) == false then
                     skill_passed_filter = false
                 end
                 -- Check availability in zone

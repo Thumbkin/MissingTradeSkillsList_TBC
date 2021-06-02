@@ -9,7 +9,7 @@ MTSLUI_SKILL_DETAIL_FRAME = {
     -- array holding all labels shown on this panel, for easy acces later
     labels = {
         name = {},
-        phase = {},
+        expansion = {},
         min_skill = {},
         requires_xp = {},
         requires_rep = {},
@@ -82,9 +82,9 @@ MTSLUI_SKILL_DETAIL_FRAME = {
         self.labels.name.tooltip_frame:SetScript("OnEnter", function() event_class:ToolTipShowSkillName() end)
         self.labels.name.tooltip_frame:SetScript("OnLeave", function() _G.GameTooltip:Hide() end)
         text_label_top = text_label_top - text_gap
-        -- Labels to show "Phase: <phase>"
-        self.labels.phase.title = MTSLUI_TOOLS:CreateLabel(self.ui_frame, MTSLUI_TOOLS:GetLocalisedLabel("phase"), text_label_left, text_label_top, "LABEL", "TOPLEFT")
-        self.labels.phase.value = MTSLUI_TOOLS:CreateLabel(self.ui_frame, "-", text_label_right, text_label_top, "TEXT", "TOPLEFT")
+        -- Labels to show "Expansion: <expansion> (<phase>: <name phase>)"
+        self.labels.expansion.title = MTSLUI_TOOLS:CreateLabel(self.ui_frame, MTSLUI_TOOLS:GetLocalisedLabel("expansion"), text_label_left, text_label_top, "LABEL", "TOPLEFT")
+        self.labels.expansion.value = MTSLUI_TOOLS:CreateLabel(self.ui_frame, "-", text_label_right, text_label_top, "TEXT", "TOPLEFT")
         text_label_top = text_label_top - text_gap
         -- Labels to show "Required skill: <min skill>"
         self.labels.min_skill.title = MTSLUI_TOOLS:CreateLabel(self.ui_frame, MTSLUI_TOOLS:GetLocalisedLabel("needs skill level"), text_label_left, text_label_top, "LABEL", "TOPLEFT")
@@ -344,7 +344,7 @@ MTSLUI_SKILL_DETAIL_FRAME = {
     ---------------------------------------------------------------------------
     ShowNoSkillSelected = function(self)
         self.labels.name.value:SetText("-")
-        self.labels.phase.value:SetText("-")
+        self.labels.expansion.value:SetText("-")
         self.labels.min_skill.value:SetText("-")
         self.labels.requires_xp.value:SetText("-")
         self.labels.requires_rep.value:SetText("-")
@@ -385,7 +385,7 @@ MTSLUI_SKILL_DETAIL_FRAME = {
         if skill ~= nil then
             -- Generic label setting for every type
             self.labels.name.value:SetText(MTSLUI_FONTS.COLORS.TEXT.NORMAL .. MTSLUI_TOOLS:GetLocalisedData(skill))
-            self:SetRequiredPhase(skill.phase)
+            self:SetRequiredExpansion(skill.expansion, skill.phase)
             self:SetRequiredSkillLevel(skill.min_skill, current_skill_level)
             -- Set minimum xp level
             self:SetRequiredXPLevel(skill.min_xp_level, current_xp_level)
@@ -424,19 +424,27 @@ MTSLUI_SKILL_DETAIL_FRAME = {
     end,
 
     ----------------------------------------------------------------------------
-    -- Show the details of a phase level required
+    -- Show the details of a expansion level required
     --
+    -- @min_expansion           Number	    The minimum expansion level required to learn the skill
     -- @min_phase               Number	    The minimum phase level required to learn the skill
     ----------------------------------------------------------------------------
-    SetRequiredPhase = function(self, min_phase)
-        local phase = min_phase
-        if min_phase == nil or min_phase <= 0  then
-            phase = tonumber(MTSL_DATA.MIN_PATCH_LEVEL)
-        end
-        if phase <= tonumber(MTSL_DATA.CURRENT_PATCH_LEVEL) then
-            self.labels.phase.value:SetText(MTSLUI_FONTS.COLORS.AVAILABLE.YES .. MTSL_LOGIC_WORLD:GetZoneNameById (MTSL_DATA.PHASE_IDS[phase]).. " (" .. phase .. ")")
+    SetRequiredExpansion = function(self, min_expansion, min_phase)
+        local expansion_id = min_expansion or MTSL_DATA.CURRENT_EXPANSION_ID
+        local phase = min_phase or MTSL_DATA.MIN_PATCH_LEVEL
+
+        -- always available for previous expansions
+        if expansion_id < MTSL_DATA.CURRENT_EXPANSION_ID then
+            self.labels.expansion.value:SetText(MTSLUI_FONTS.COLORS.AVAILABLE.YES .. MTSL_TOOLS:GetExpansionNameById(expansion_id))
         else
-            self.labels.phase.value:SetText(MTSLUI_FONTS.COLORS.AVAILABLE.NO .. MTSL_LOGIC_WORLD:GetZoneNameById (MTSL_DATA.PHASE_IDS[phase]).. " (" .. phase .. ")")
+            -- only available for current expansion if phase level is not too high
+            local text = MTSL_TOOLS:GetExpansionNameById(expansion_id) .. " (" .. MTSLUI_TOOLS:GetLocalisedLabel("phase") .. " " .. phase .. ": " .. MTSL_LOGIC_WORLD:GetZoneNameById (MTSL_DATA.PHASE_IDS[phase]) ..")"
+            if phase <= MTSL_DATA.CURRENT_PATCH_LEVEL then
+                self.labels.expansion.value:SetText(MTSLUI_FONTS.COLORS.AVAILABLE.YES .. text)
+            else
+                self.labels.expansion.value:SetText(MTSLUI_FONTS.COLORS.AVAILABLE.NO .. text)
+            end
+
         end
     end,
 
@@ -572,7 +580,7 @@ MTSLUI_SKILL_DETAIL_FRAME = {
     -- @trainers_info		MTSLDATA	Contains the price from trainer and list of souces with npc ids
     ----------------------------------------------------------------------------------------------------
     ShowDetailsOfSkillTypeTrainer = function(self, trainers_info)
-        -- No need to update the phase, all are available since 1
+        -- No need to update the expansion/phase, all are available since 1
         self.labels.price.value:SetText(MTSL_TOOLS:GetNumberAsMoneyString(trainers_info.price))
         self.labels.type.value:SetText(MTSLUI_FONTS.COLORS.TEXT.NORMAL .. MTSLUI_TOOLS:GetLocalisedLabel("trainer"))
         self.labels.source.value:SetText(MTSLUI_FONTS.COLORS.TEXT.NORMAL .. MTSLUI_TOOLS:GetLocalisedLabel("trainer"))

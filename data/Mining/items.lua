@@ -9,6 +9,7 @@ MTSL_DATA["items"]["Mining"] =
 				4075,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 35273,
 		["name"] = {
 			["Chinese"] = "高级熔炼教程",

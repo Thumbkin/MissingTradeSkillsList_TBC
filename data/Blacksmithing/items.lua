@@ -10,6 +10,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2881,
 		["name"] = {
 			["Chinese"] = "设计图：铜质符文胸甲",
@@ -33,6 +34,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2882,
 		["name"] = {
 			["Chinese"] = "设计图：镀银青铜护肩",
@@ -56,6 +58,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2883,
 		["name"] = {
 			["Chinese"] = "设计图：致命的青铜短剑",
@@ -79,6 +82,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3608,
 		["name"] = {
 			["Chinese"] = "设计图：巨型铁锤",
@@ -102,6 +106,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 5,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3609,
 		["name"] = {
 			["Chinese"] = "设计图：铜质链甲外衣",
@@ -125,6 +130,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 5,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3610,
 		["name"] = {
 			["Chinese"] = "设计图：铜质宝石手套",
@@ -148,6 +154,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3611,
 		["name"] = {
 			["Chinese"] = "设计图：绿铁战靴",
@@ -171,6 +178,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3612,
 		["name"] = {
 			["Chinese"] = "设计图：绿铁手套",
@@ -194,6 +202,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3866,
 		["name"] = {
 			["Chinese"] = "设计图：玉蛇刀",
@@ -217,6 +226,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3867,
 		["name"] = {
 			["Chinese"] = "设计图：碎铁金锤",
@@ -240,6 +250,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3868,
 		["name"] = {
 			["Chinese"] = "设计图：霜虎之刃",
@@ -263,6 +274,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3869,
 		["name"] = {
 			["Chinese"] = "设计图：月牙斧",
@@ -286,6 +298,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3870,
 		["name"] = {
 			["Chinese"] = "设计图：绿铁护肩",
@@ -309,6 +322,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3871,
 		["name"] = {
 			["Chinese"] = "设计图：金鳞护肩",
@@ -332,6 +346,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3872,
 		["name"] = {
 			["Chinese"] = "设计图：金鳞护腿",
@@ -355,6 +370,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3873,
 		["name"] = {
 			["Chinese"] = "设计图：金鳞胸甲",
@@ -378,6 +394,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3874,
 		["name"] = {
 			["Chinese"] = "设计图：精钢战靴",
@@ -401,6 +418,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3875,
 		["name"] = {
 			["Chinese"] = "设计图：金鳞战靴",
@@ -424,6 +442,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5543,
 		["name"] = {
 			["Chinese"] = "设计图：彩虹之锤",
@@ -447,6 +466,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 5578,
 		["name"] = {
 			["Chinese"] = "设计图：镀银青铜胸甲",
@@ -470,6 +490,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6044,
 		["name"] = {
 			["Chinese"] = "设计图：铁质盾刺",
@@ -493,6 +514,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 25,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6045,
 		["name"] = {
 			["Chinese"] = "设计图：铁质平衡锤",
@@ -516,6 +538,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6046,
 		["name"] = {
 			["Chinese"] = "设计图：钢质武器链",
@@ -533,6 +556,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6047,
 		["name"] = {
 			["Chinese"] = "设计图：金鳞罩盔",
@@ -556,6 +580,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6735,
 		["name"] = {
 			["Chinese"] = "设计图：铁炉堡胸甲",
@@ -582,6 +607,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7975,
 		["name"] = {
 			["Chinese"] = "设计图：秘银短裤",
@@ -605,6 +631,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7976,
 		["name"] = {
 			["Chinese"] = "设计图：秘银盾刺",
@@ -622,6 +649,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7978,
 		["name"] = {
 			["Chinese"] = "设计图：野人铁护肩",
@@ -642,6 +670,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7979,
 		["name"] = {
 			["Chinese"] = "设计图：野人铁质胸甲",
@@ -662,6 +691,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7980,
 		["name"] = {
 			["Chinese"] = "设计图：野人铁盔",
@@ -682,6 +712,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7981,
 		["name"] = {
 			["Chinese"] = "设计图：野人铁靴",
@@ -702,6 +733,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7982,
 		["name"] = {
 			["Chinese"] = "设计图：野人铁手套",
@@ -722,6 +754,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7983,
 		["name"] = {
 			["Chinese"] = "设计图：精制秘银短裤",
@@ -742,6 +775,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7984,
 		["name"] = {
 			["Chinese"] = "设计图：精制秘银手套",
@@ -762,6 +796,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7985,
 		["name"] = {
 			["Chinese"] = "设计图：精制秘银护肩",
@@ -788,6 +823,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7989,
 		["name"] = {
 			["Chinese"] = "设计图：秘银马刺",
@@ -811,6 +847,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7990,
 		["name"] = {
 			["Chinese"] = "设计图：重型秘银头盔",
@@ -834,6 +871,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7991,
 		["name"] = {
 			["Chinese"] = "设计图：秘银鳞片护肩",
@@ -857,6 +895,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7992,
 		["name"] = {
 			["Chinese"] = "设计图：蓝光斧",
@@ -880,6 +919,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 7993,
 		["name"] = {
 			["Chinese"] = "设计图：秘银细剑",
@@ -897,6 +937,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7995,
 		["name"] = {
 			["Chinese"] = "设计图：秘银鳞片护腕",
@@ -927,6 +968,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8028,
 		["name"] = {
 			["Chinese"] = "设计图：秘银符文战锤",
@@ -950,6 +992,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 8029,
 		["name"] = {
 			["Chinese"] = "设计图：秘银魔剑",
@@ -967,6 +1010,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8030,
 		["name"] = {
 			["Chinese"] = "设计图：乌木刀",
@@ -990,6 +1034,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9367,
 		["name"] = {
 			["Chinese"] = "设计图：金鳞护手",
@@ -1016,6 +1061,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 10424,
 		["name"] = {
 			["Chinese"] = "设计图：镀银青铜护腿",
@@ -1033,6 +1079,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10713,
 		["name"] = {
 			["Chinese"] = "设计图：秘银杆",
@@ -1051,6 +1098,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["special_action"] = "made gnomish engi 205",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10858,
 		["name"] = {
 			["Chinese"] = "设计图：结实的铁锤",
@@ -1081,6 +1129,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				9028,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11610,
 		["name"] = {
 			["Chinese"] = "设计图：黑铁粉碎者",
@@ -1104,6 +1153,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				10043,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11611,
 		["name"] = {
 			["Chinese"] = "设计图：黑铁斩碎者",
@@ -1126,6 +1176,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				9543,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 11612,
 		["name"] = {
 			["Chinese"] = "设计图：黑铁板甲",
@@ -1143,6 +1194,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11614,
 		["name"] = {
 			["Chinese"] = "设计图：黑铁锁甲",
@@ -1163,6 +1215,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 11615,
 		["name"] = {
 			["Chinese"] = "设计图：黑铁护肩",
@@ -1183,6 +1236,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12162,
 		["name"] = {
 			["Chinese"] = "设计图：硬铁短剑",
@@ -1208,6 +1262,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12163,
 		["name"] = {
 			["Chinese"] = "设计图：月钢宽剑",
@@ -1231,6 +1286,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12164,
 		["name"] = {
 			["Chinese"] = "设计图：巨型铁斧",
@@ -1261,6 +1317,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12261,
 		["name"] = {
 			["Chinese"] = "设计图：灼热金剑",
@@ -1284,6 +1341,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12682,
 		["name"] = {
 			["Chinese"] = "设计图：瑟银护甲",
@@ -1307,6 +1365,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12683,
 		["name"] = {
 			["Chinese"] = "设计图：瑟银腰带",
@@ -1330,6 +1389,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12684,
 		["name"] = {
 			["Chinese"] = "设计图：瑟银护腕",
@@ -1353,6 +1413,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12685,
 		["name"] = {
 			["Chinese"] = "设计图：辐光腰带",
@@ -1370,6 +1431,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12687,
 		["name"] = {
 			["Chinese"] = "设计图：君王板甲护肩",
@@ -1390,6 +1452,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12688,
 		["name"] = {
 			["Chinese"] = "设计图：君王板甲腰带",
@@ -1416,6 +1479,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12689,
 		["name"] = {
 			["Chinese"] = "设计图：辐光胸甲",
@@ -1433,6 +1497,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12690,
 		["name"] = {
 			["Chinese"] = "设计图：君王板甲护腕",
@@ -1459,6 +1524,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12691,
 		["name"] = {
 			["Chinese"] = "设计图：野刺锁甲",
@@ -1482,6 +1548,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12692,
 		["name"] = {
 			["Chinese"] = "设计图：瑟银盾刺",
@@ -1505,6 +1572,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12693,
 		["name"] = {
 			["Chinese"] = "设计图：瑟银长靴",
@@ -1528,6 +1596,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 45,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12694,
 		["name"] = {
 			["Chinese"] = "设计图：瑟银头盔",
@@ -1551,6 +1620,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12695,
 		["name"] = {
 			["Chinese"] = "设计图：辐光手套",
@@ -1568,6 +1638,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12696,
 		["name"] = {
 			["Chinese"] = "设计图：魔铸胸甲",
@@ -1594,6 +1665,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12697,
 		["name"] = {
 			["Chinese"] = "设计图：辐光长靴",
@@ -1611,6 +1683,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12699,
 		["name"] = {
 			["Chinese"] = "设计图：炽热板甲护手",
@@ -1631,6 +1704,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12700,
 		["name"] = {
 			["Chinese"] = "设计图：君王板甲战靴",
@@ -1651,6 +1725,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12701,
 		["name"] = {
 			["Chinese"] = "设计图：君王板甲头盔",
@@ -1677,6 +1752,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12702,
 		["name"] = {
 			["Chinese"] = "设计图：辐光头饰",
@@ -1700,6 +1776,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12703,
 		["name"] = {
 			["Chinese"] = "设计图：风暴护手",
@@ -1729,6 +1806,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12704,
 		["name"] = {
 			["Chinese"] = "设计图：瑟银护腿",
@@ -1746,6 +1824,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12705,
 		["name"] = {
 			["Chinese"] = "设计图：君王板甲护胸",
@@ -1771,6 +1850,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				4366,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12706,
 		["name"] = {
 			["Chinese"] = "设计图：符文板甲护肩",
@@ -1793,6 +1873,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				1836,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12707,
 		["name"] = {
 			["Chinese"] = "设计图：符文板甲战靴",
@@ -1816,6 +1897,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12711,
 		["name"] = {
 			["Chinese"] = "设计图：白魂头盔",
@@ -1839,6 +1921,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 55,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12713,
 		["name"] = {
 			["Chinese"] = "设计图：辐光护腿",
@@ -1861,6 +1944,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				4364,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12714,
 		["name"] = {
 			["Chinese"] = "设计图：符文板甲头盔",
@@ -1878,6 +1962,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12715,
 		["name"] = {
 			["Chinese"] = "设计图：君王板甲护腿",
@@ -1904,6 +1989,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 60,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12716,
 		["name"] = {
 			["Chinese"] = "设计图：大酋长头盔",
@@ -1927,6 +2013,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 60,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12717,
 		["name"] = {
 			["Chinese"] = "设计图：狮心头盔",
@@ -1950,6 +2037,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				16072,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12718,
 		["name"] = {
 			["Chinese"] = "设计图：符文胸甲",
@@ -1972,6 +2060,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				1885,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12719,
 		["name"] = {
 			["Chinese"] = "设计图：符文板甲护腿",
@@ -1995,6 +2084,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 60,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12720,
 		["name"] = {
 			["Chinese"] = "设计图：要塞护手",
@@ -2012,6 +2102,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "epic",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12725,
 		["name"] = {
 			["Chinese"] = "设计图：魔法瑟银头盔",
@@ -2032,6 +2123,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12726,
 		["name"] = {
 			["Chinese"] = "设计图：魔法瑟银护腿",
@@ -2052,6 +2144,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12727,
 		["name"] = {
 			["Chinese"] = "设计图：魔法瑟银胸甲",
@@ -2078,6 +2171,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 60,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12728,
 		["name"] = {
 			["Chinese"] = "设计图：免伤锁甲",
@@ -2095,6 +2189,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "epic",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12819,
 		["name"] = {
 			["Chinese"] = "设计图：华丽瑟银手斧",
@@ -2118,6 +2213,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12821,
 		["name"] = {
 			["Chinese"] = "设计图：黎明之刃",
@@ -2138,6 +2234,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12823,
 		["name"] = {
 			["Chinese"] = "设计图：巨型瑟银战斧",
@@ -2161,6 +2258,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12824,
 		["name"] = {
 			["Chinese"] = "设计图：魔法战锤",
@@ -2181,6 +2279,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12825,
 		["name"] = {
 			["Chinese"] = "设计图：闪耀轻剑",
@@ -2201,6 +2300,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12827,
 		["name"] = {
 			["Chinese"] = "设计图：平静",
@@ -2226,6 +2326,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				10119,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12828,
 		["name"] = {
 			["Chinese"] = "设计图：火山战锤",
@@ -2243,6 +2344,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12830,
 		["name"] = {
 			["Chinese"] = "设计图：腐蚀",
@@ -2268,6 +2370,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				10438,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12833,
 		["name"] = {
 			["Chinese"] = "设计图：泰坦之锤",
@@ -2290,6 +2393,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				10899,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12834,
 		["name"] = {
 			["Chinese"] = "设计图：奥金勇士剑",
@@ -2312,6 +2416,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				9736,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12835,
 		["name"] = {
 			["Chinese"] = "设计图：歼灭者",
@@ -2334,6 +2439,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				1844,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12836,
 		["name"] = {
 			["Chinese"] = "设计图：寒冰护卫者",
@@ -2356,6 +2462,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				10899,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12837,
 		["name"] = {
 			["Chinese"] = "设计图：精工风暴战锤",
@@ -2378,6 +2485,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				9596,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12838,
 		["name"] = {
 			["Chinese"] = "设计图：奥金斧",
@@ -2400,6 +2508,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				10997,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 12839,
 		["name"] = {
 			["Chinese"] = "设计图：觅心者",
@@ -2417,6 +2526,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17049,
 		["name"] = {
 			["Chinese"] = "设计图：炽热链甲束带",
@@ -2444,6 +2554,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17051,
 		["name"] = {
 			["Chinese"] = "设计图：黑铁护腕",
@@ -2471,6 +2582,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17052,
 		["name"] = {
 			["Chinese"] = "设计图：黑铁护腿",
@@ -2498,6 +2610,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17053,
 		["name"] = {
 			["Chinese"] = "设计图：炽热链甲护肩",
@@ -2525,6 +2638,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17059,
 		["name"] = {
 			["Chinese"] = "设计图：黑铁利剑",
@@ -2552,6 +2666,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 17060,
 		["name"] = {
 			["Chinese"] = "设计图：黑铁战斧",
@@ -2579,6 +2694,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 141,
 		["id"] = 17706,
 		["name"] = {
@@ -2611,6 +2727,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				12264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18264,
 		["name"] = {
 			["Chinese"] = "设计图：元素磨刀石",
@@ -2628,6 +2745,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18592,
 		["name"] = {
 			["Chinese"] = "设计图：萨弗隆之锤",
@@ -2648,6 +2766,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18628,
 		["name"] = {
 			["Chinese"] = "瑟银兄弟会契约",
@@ -2671,6 +2790,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18769,
 		["name"] = {
 			["Chinese"] = "魔化瑟银板甲",
@@ -2688,6 +2808,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18770,
 		["name"] = {
 			["Chinese"] = "魔化瑟银板甲",
@@ -2705,6 +2826,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 18771,
 		["name"] = {
 			["Chinese"] = "魔化瑟银板甲",
@@ -2722,6 +2844,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19202,
 		["name"] = {
 			["Chinese"] = "设计图：重型木喉腰带",
@@ -2749,6 +2872,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19203,
 		["name"] = {
 			["Chinese"] = "设计图：黎明束腰",
@@ -2778,6 +2902,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19204,
 		["name"] = {
 			["Chinese"] = "设计图：重型木喉长靴",
@@ -2805,6 +2930,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19205,
 		["name"] = {
 			["Chinese"] = "设计图：黎明手套",
@@ -2834,6 +2960,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19206,
 		["name"] = {
 			["Chinese"] = "设计图：黑铁头盔",
@@ -2861,6 +2988,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19207,
 		["name"] = {
 			["Chinese"] = "设计图：黑铁护手",
@@ -2888,6 +3016,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19208,
 		["name"] = {
 			["Chinese"] = "设计图：黑色赦免者",
@@ -2915,6 +3044,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19209,
 		["name"] = {
 			["Chinese"] = "设计图：黑色怒火",
@@ -2942,6 +3072,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19210,
 		["name"] = {
 			["Chinese"] = "设计图：黑手",
@@ -2969,6 +3100,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19211,
 		["name"] = {
 			["Chinese"] = "设计图：黑色卫士",
@@ -2996,6 +3128,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19212,
 		["name"] = {
 			["Chinese"] = "设计图：夜幕",
@@ -3023,6 +3156,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19776,
 		["name"] = {
 			["Chinese"] = "设计图：血魂胸甲",
@@ -3050,6 +3184,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19777,
 		["name"] = {
 			["Chinese"] = "设计图：血魂护肩",
@@ -3077,6 +3212,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19778,
 		["name"] = {
 			["Chinese"] = "设计图：血魂护手",
@@ -3104,6 +3240,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19779,
 		["name"] = {
 			["Chinese"] = "设计图：黑暗之魂胸甲",
@@ -3131,6 +3268,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19780,
 		["name"] = {
 			["Chinese"] = "设计图：黑暗之魂护腿",
@@ -3158,6 +3296,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 19781,
 		["name"] = {
 			["Chinese"] = "设计图：黑暗之魂护肩",
@@ -3185,6 +3324,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20040,
 		["name"] = {
 			["Chinese"] = "设计图：黑铁长靴",
@@ -3212,6 +3352,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20553,
 		["name"] = {
 			["Chinese"] = "设计图：黑暗符文护手",
@@ -3233,6 +3374,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["special_action"] = "random reward",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20554,
 		["name"] = {
 			["Chinese"] = "设计图：黑暗符文胸甲",
@@ -3254,6 +3396,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["special_action"] = "random reward",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20555,
 		["name"] = {
 			["Chinese"] = "设计图：黑暗符文头盔",
@@ -3275,6 +3418,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["special_action"] = "random reward",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22209,
 		["name"] = {
 			["Chinese"] = "设计图：重型黑曜石腰带",
@@ -3302,6 +3446,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22214,
 		["name"] = {
 			["Chinese"] = "设计图：轻型黑曜石腰带",
@@ -3329,6 +3474,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22219,
 		["name"] = {
 			["Chinese"] = "设计图：碎裂黑曜石盾牌",
@@ -3361,6 +3507,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				15340,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 22220,
 		["name"] = {
 			["Chinese"] = "设计图：毁灭者的黑暗之握",
@@ -3378,6 +3525,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22221,
 		["name"] = {
 			["Chinese"] = "设计图：黑曜石锁甲",
@@ -3410,6 +3558,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				15263,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 22222,
 		["name"] = {
 			["Chinese"] = "设计图：厚重黑曜石胸甲",
@@ -3433,6 +3582,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 55,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 22388,
 		["name"] = {
 			["Chinese"] = "设计图：泰坦护腿",
@@ -3456,6 +3606,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 60,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 22389,
 		["name"] = {
 			["Chinese"] = "设计图：先知之刃",
@@ -3479,6 +3630,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				["min_xp_level"] = 60,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 22390,
 		["name"] = {
 			["Chinese"] = "设计图：说服者",
@@ -3496,6 +3648,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "epic",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22766,
 		["name"] = {
 			["Chinese"] = "设计图：铁藤胸甲",
@@ -3523,6 +3676,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22767,
 		["name"] = {
 			["Chinese"] = "设计图：铁藤手套",
@@ -3550,6 +3704,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 22768,
 		["name"] = {
 			["Chinese"] = "设计图：铁藤腰带",

@@ -531,4 +531,21 @@ MTSL_TOOLS = {
 			end
 		end
 	end,
+
+	------------------------------------------------------------------------------------------------
+	-- Returns the name (localised) of a expansion by id
+	--
+	-- @expansion_id	Number		The id of the expansion
+	--
+	-- returns 			String		The localised name of the expansion
+	------------------------------------------------------------------------------------------------
+	GetExpansionNameById = function(self, expansion_id)
+		local expansion = MTSL_TOOLS:GetItemFromUnsortedListById(MTSL_DATA["expansions"], expansion_id)
+		if expansion == nil then
+			print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: No expansion found for id " .. expansion_id .. "! Please report this bug!")
+			return ""
+		else
+			return MTSLUI_TOOLS:GetLocalisedData(expansion)
+		end
+	end,
 }

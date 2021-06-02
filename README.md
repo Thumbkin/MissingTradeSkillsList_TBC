@@ -44,12 +44,9 @@ Minimap button & Enhanced tooltip
 * Link items to a channel (Say, Guild, Party, Raid or "Auto") or add item to current chat message
 * Ability to drag each MTSL frame around
 
-### v2.5.03 (May 31, 2021)
+### Latest version (v2.5.04)
 
-* Fixed bugs
-  * Solved lua errors when running addon for first time
-* Fixed data
-  * Updated French & German translations for continents, factions, zones & some NPCs
+* Added expansions 
 
 ### Support
 

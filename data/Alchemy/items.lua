@@ -10,6 +10,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 6,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2553,
 		["name"] = {
 			["Chinese"] = "配方：初级敏捷药剂",
@@ -33,6 +34,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 6,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 2555,
 		["name"] = {
 			["Chinese"] = "配方：迅捷药水",
@@ -56,6 +58,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3393,
 		["name"] = {
 			["Chinese"] = "配方：初级抗魔药水",
@@ -79,6 +82,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 15,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3394,
 		["name"] = {
 			["Chinese"] = "配方：治愈药水",
@@ -102,6 +106,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3395,
 		["name"] = {
 			["Chinese"] = "配方：有限无敌药水",
@@ -125,6 +130,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3396,
 		["name"] = {
 			["Chinese"] = "配方：次级敏捷药剂",
@@ -148,6 +154,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3830,
 		["name"] = {
 			["Chinese"] = "配方：强力坚韧药剂",
@@ -171,6 +178,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3831,
 		["name"] = {
 			["Chinese"] = "配方：超强巨魔之血药水",
@@ -194,6 +202,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 30,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 3832,
 		["name"] = {
 			["Chinese"] = "配方：侦测次级隐形药剂",
@@ -211,6 +220,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 4597,
 		["name"] = {
 			["Chinese"] = "配方：褪色的治疗药水",
@@ -231,6 +241,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 4624,
 		["name"] = {
 			["Chinese"] = "配方：次级石盾药水",
@@ -251,6 +262,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5640,
 		["name"] = {
 			["Chinese"] = "配方：怒气药水",
@@ -277,6 +289,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5642,
 		["name"] = {
 			["Chinese"] = "配方：自由行动药剂",
@@ -302,6 +315,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5643,
 		["name"] = {
 			["Chinese"] = "配方：暴怒药水",
@@ -326,6 +340,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6053,
 		["name"] = {
 			["Chinese"] = "配方：神圣防护药水",
@@ -351,6 +366,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6054,
 		["name"] = {
 			["Chinese"] = "配方：暗影防护药水",
@@ -375,6 +391,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6055,
 		["name"] = {
 			["Chinese"] = "配方：火焰防护药水",
@@ -399,6 +416,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6056,
 		["name"] = {
 			["Chinese"] = "配方：冰霜防护药水",
@@ -423,6 +441,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6057,
 		["name"] = {
 			["Chinese"] = "配方：自然防护药水",
@@ -449,6 +468,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6068,
 		["name"] = {
 			["Chinese"] = "配方：暗影之油",
@@ -479,6 +499,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 20,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6211,
 		["name"] = {
 			["Chinese"] = "配方：食人魔力量药剂",
@@ -502,6 +523,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 10,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 6663,
 		["name"] = {
 			["Chinese"] = "配方：增长药剂",
@@ -525,6 +547,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 35,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 9293,
 		["name"] = {
 			["Chinese"] = "配方：抗魔药水",
@@ -548,6 +571,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 36,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 9294,
 		["name"] = {
 			["Chinese"] = "配方：野葡萄药水",
@@ -571,6 +595,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 9295,
 		["name"] = {
 			["Chinese"] = "配方：隐形药水",
@@ -594,6 +619,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				1791,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 9296,
 		["name"] = {
 			["Chinese"] = "配方：阿尔萨斯的礼物",
@@ -617,6 +643,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 9297,
 		["name"] = {
 			["Chinese"] = "配方：梦境药剂",
@@ -640,6 +667,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 40,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 9298,
 		["name"] = {
 			["Chinese"] = "配方：巨人药剂",
@@ -657,6 +685,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9300,
 		["name"] = {
 			["Chinese"] = "配方：屠魔药剂",
@@ -681,6 +710,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9301,
 		["name"] = {
 			["Chinese"] = "配方：暗影之力药剂",
@@ -705,6 +735,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9302,
 		["name"] = {
 			["Chinese"] = "配方：幻象染料",
@@ -729,6 +760,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9303,
 		["name"] = {
 			["Chinese"] = "配方：点金石",
@@ -752,6 +784,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9304,
 		["name"] = {
 			["Chinese"] = "配方：点铁成金",
@@ -775,6 +808,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9305,
 		["name"] = {
 			["Chinese"] = "配方：点化秘银",
@@ -798,6 +832,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10644,
 		["name"] = {
 			["Chinese"] = "配方：地精火箭燃油",
@@ -816,6 +851,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["special_action"] = "made goblin engineer 205",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 12958,
 		["name"] = {
 			["Chinese"] = "配方：合成奥金",
@@ -844,6 +880,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				7027,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13476,
 		["name"] = {
 			["Chinese"] = "配方：极效怒气药水",
@@ -861,6 +898,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13477,
 		["name"] = {
 			["Chinese"] = "配方：优质法力药水",
@@ -885,6 +923,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13478,
 		["name"] = {
 			["Chinese"] = "配方：超强防御药剂",
@@ -918,6 +957,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				15162,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13479,
 		["name"] = {
 			["Chinese"] = "配方：先知药剂",
@@ -935,6 +975,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13480,
 		["name"] = {
 			["Chinese"] = "配方：特效治疗药水",
@@ -958,6 +999,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13481,
 		["name"] = {
 			["Chinese"] = "配方：蛮力药剂",
@@ -978,6 +1020,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13482,
 		["name"] = {
 			["Chinese"] = "配方：点气成火",
@@ -1007,6 +1050,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13483,
 		["name"] = {
 			["Chinese"] = "配方：点火成土",
@@ -1030,6 +1074,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13484,
 		["name"] = {
 			["Chinese"] = "配方：转土成水",
@@ -1057,6 +1102,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 13485,
 		["name"] = {
 			["Chinese"] = "配方：点水成气",
@@ -1086,6 +1132,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13486,
 		["name"] = {
 			["Chinese"] = "配方：死灵化水",
@@ -1109,6 +1156,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13487,
 		["name"] = {
 			["Chinese"] = "配方：水转死灵",
@@ -1132,6 +1180,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13488,
 		["name"] = {
 			["Chinese"] = "配方：生命归土",
@@ -1155,6 +1204,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13489,
 		["name"] = {
 			["Chinese"] = "配方：土转生命",
@@ -1178,6 +1228,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13490,
 		["name"] = {
 			["Chinese"] = "配方：强效石盾药水",
@@ -1201,6 +1252,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				7106,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13491,
 		["name"] = {
 			["Chinese"] = "配方：猫鼬药剂",
@@ -1224,6 +1276,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 50,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13492,
 		["name"] = {
 			["Chinese"] = "配方：净化药水",
@@ -1247,6 +1300,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 52,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13493,
 		["name"] = {
 			["Chinese"] = "配方：强效奥法药剂",
@@ -1270,6 +1324,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				9264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13494,
 		["name"] = {
 			["Chinese"] = "配方：强效火焰防护药水",
@@ -1292,6 +1347,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				7428,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13495,
 		["name"] = {
 			["Chinese"] = "配方：强效冰霜防护药水",
@@ -1315,6 +1371,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				1813,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13496,
 		["name"] = {
 			["Chinese"] = "配方：强效自然防护药水",
@@ -1337,6 +1394,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				7437,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13497,
 		["name"] = {
 			["Chinese"] = "配方：强效奥术防护药水",
@@ -1360,6 +1418,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				8550,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13499,
 		["name"] = {
 			["Chinese"] = "配方：强效暗影防护药水",
@@ -1382,6 +1441,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				1853,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13501,
 		["name"] = {
 			["Chinese"] = "配方：特效法力药水",
@@ -1411,6 +1471,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				["min_xp_level"] = 55,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13518,
 		["name"] = {
 			["Chinese"] = "配方：化石合剂",
@@ -1433,6 +1494,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				10363,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13519,
 		["name"] = {
 			["Chinese"] = "配方：泰坦合剂",
@@ -1455,6 +1517,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				10813,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13520,
 		["name"] = {
 			["Chinese"] = "配方：精炼智慧合剂",
@@ -1477,6 +1540,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				10508,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13521,
 		["name"] = {
 			["Chinese"] = "配方：超级能量合剂",
@@ -1499,6 +1563,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				10339,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 13522,
 		["name"] = {
 			["Chinese"] = "配方：多重抗性合剂",
@@ -1516,6 +1581,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 14634,
 		["name"] = {
 			["Chinese"] = "配方：冰霜之油",
@@ -1539,6 +1605,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["holiday"] = 141,
 		["id"] = 17709,
 		["name"] = {
@@ -1571,6 +1638,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				12264,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 18257,
 		["name"] = {
 			["Chinese"] = "配方：特效活力药水",
@@ -1588,6 +1656,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["quality"] = "rare",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20011,
 		["name"] = {
 			["Chinese"] = "配方：魔血药水",
@@ -1615,6 +1684,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20012,
 		["name"] = {
 			["Chinese"] = "配方：强效昏睡药水",
@@ -1642,6 +1712,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20013,
 		["name"] = {
 			["Chinese"] = "配方：活力行动药水",
@@ -1669,6 +1740,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20014,
 		["name"] = {
 			["Chinese"] = "配方：特效巨魔之血药水",
@@ -1696,6 +1768,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 20761,
 		["name"] = {
 			["Chinese"] = "配方：转化元素火焰",
@@ -1730,6 +1803,7 @@ MTSL_DATA["items"]["Alchemy"] =
 				8637,
 			},
 		},
+		["expansion"] = 1,
 		["id"] = 21547,
 		["name"] = {
 			["Chinese"] = "配方：强效火力药剂",
