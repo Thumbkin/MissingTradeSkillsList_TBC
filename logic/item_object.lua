@@ -93,4 +93,12 @@ MTSL_LOGIC_ITEM_OBJECT = {
             return ""
         end
     end,
+
+    GetItemQualityNameById = function(self, id)
+        local item_quality = MTSL_TOOLS:GetItemFromArrayByKeyValue(MTSL_DATA["item_qualities"], "id", id)
+        if item_quality then
+            return item_quality.name
+        end
+        return "poor"
+    end
 }

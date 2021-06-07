@@ -2265,10 +2265,30 @@ MTSL_DATA["quests"] = {
         ["phase"] = 1,
     },
     {
+        ["id"] = 11379,
+        ["min_xp_level"] = 70,
+        ["name"] = {
+            ["Chinese"] = "每日烹饪任务",
+            ["English"] = "Daily cooking quest",
+            ["French"] = "Quête de cuisine quotidienne",
+            ["German"] = "Tägliche Kochquest",
+            ["Korean"] = "일일 요리 퀘스트",
+            ["Mexican"] = "Búsqueda de cocina diaria",
+            ["Portuguese"] = "Busca de culinária diária",
+            ["Russian"] = "Ежедневный кулинарный квест",
+            ["Spanish"] = "Búsqueda de cocina diaria",
+            ["Taiwanese"] = "每日烹飪任務",
+        },
+        ["npcs"] = {
+            24393,
+        },
+        ["phase"] = 1,
+    },
+    {
         ["id"] = 11665,
         ["min_xp_level"] = 70,
         ["name"] = {
-            ["Chinese"] = "每日钓鱼",
+            ["Chinese"] = "每日钓鱼任务",
             ["English"] = "Daily fishing quest",
             ["French"] = "Quête de pêche quotidienne",
             ["German"] = "Tägliche Angelquest",
@@ -2277,7 +2297,7 @@ MTSL_DATA["quests"] = {
             ["Portuguese"] = "Busca de pesca diária",
             ["Russian"] = "Ежедневный квест на рыбалку",
             ["Spanish"] = "Búsqueda de pesca diaria",
-            ["Taiwanese"] = "每日任務釣魚",
+            ["Taiwanese"] = "每日釣魚任務",
         },
         ["npcs"] = {
             25580,

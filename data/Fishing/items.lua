@@ -51,4 +51,23 @@ MTSL_DATA["items"]["Fishing"] =
 			},
 		},
 	},
+	{
+		["expansion"] = 2,
+		["id"] = 34109,
+		["name"] = {
+			["Chinese"] = "饱经风霜的日记",
+			["English"] = "Weather-Beaten Journal",
+			["French"] = "Journal détrempé",
+			["German"] = "Verwittertes Tagebuch",
+			["Korean"] = "풍파에 낡은 일지",
+			["Mexican"] = "Diario deteriorado",
+			["Portuguese"] = "Diário Gasto pelo Tempo",
+			["Russian"] = "Истрепанный журнал",
+			["Spanish"] = "Diario deteriorado",
+			["Taiwanese"] = "飽經風霜的日記",
+		},
+		["phase"] = 1,
+		["quality"] = "poor",
+		["special_action"] = "no data available yet",
+	},
 }

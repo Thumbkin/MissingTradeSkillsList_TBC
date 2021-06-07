@@ -32,6 +32,32 @@ MTSL_DATA = {
     -- Current expansion = TBC (2)
     CURRENT_EXPANSION_ID = 2,
 
+    ["item_qualities"] = {
+        {
+            ["id"] = 0,
+            ["name"] = "poor",
+        },
+        {
+            ["id"] = 1,
+            ["name"] = "common",
+        },
+        {
+            ["id"] = 2,
+            ["name"] = "uncommon",
+        },
+        {
+            ["id"] = 3,
+            ["name"] = "rare",
+        },
+        {
+            ["id"] = 4,
+            ["name"] = "epic",
+        },
+        {
+            ["id"] = 5,
+            ["name"] = "legendary",
+        },
+    },
     ["items"] = {},
     ["levels"] = {},
     ["skills"] = {},
