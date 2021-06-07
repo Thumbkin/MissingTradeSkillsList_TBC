@@ -3853,7 +3853,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18667,
 			},
 		},
@@ -3876,7 +3876,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				28132,
 				17820,
 			},
@@ -3900,7 +3900,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17839,
 				21104,
 			},
@@ -3924,7 +3924,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18322,
 			},
 		},
@@ -4406,7 +4406,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18320,
 			},
 		},
@@ -4429,7 +4429,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20898,
 			},
 		},
@@ -4452,7 +4452,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17797,
 			},
 		},
@@ -4475,7 +4475,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17941,
 			},
 		},
@@ -4498,7 +4498,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17879,
 			},
 		},
@@ -5143,7 +5143,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18635,
 			},
 		},
@@ -5166,7 +5166,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18203,
 			},
 		},
@@ -5227,7 +5227,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19514,
 				20046,
 				21212,
@@ -5254,7 +5254,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20046,
 				21212,
 				21213,
@@ -5283,7 +5283,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20046,
 				21212,
 				21224,
@@ -5309,7 +5309,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19622,
 				20045,
 				20046,
@@ -5337,7 +5337,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19514,
 				20046,
 				21212,
@@ -5368,7 +5368,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20046,
 				21212,
 				21213,
@@ -5399,7 +5399,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19514,
 				20046,
 				21212,
@@ -5431,7 +5431,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19514,
 				20046,
 				21213,
@@ -5684,7 +5684,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				21867,
 				22841,
 				22855,
@@ -5727,7 +5727,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17907,
 				21867,
 				22841,
@@ -5761,7 +5761,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17907,
 				17916,
 				21867,
@@ -5791,7 +5791,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				21867,
 				22841,
 				22855,
@@ -5834,7 +5834,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17907,
 				21867,
 				22871,
@@ -5861,7 +5861,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				21867,
 				22841,
 				22846,
@@ -5903,7 +5903,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				21867,
 				22841,
 				22853,
@@ -5952,7 +5952,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17907,
 				21867,
 				22841,
@@ -6240,7 +6240,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -6275,7 +6275,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -6310,7 +6310,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -6345,7 +6345,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -6380,7 +6380,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -6415,7 +6415,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -6450,7 +6450,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -6485,7 +6485,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,

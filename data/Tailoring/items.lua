@@ -3435,7 +3435,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				16406,
 			},
 		},
@@ -3458,7 +3458,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				16408,
 			},
 		},
@@ -3481,7 +3481,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20869,
 			},
 		},
@@ -3504,7 +3504,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19168,
 			},
 		},
@@ -3527,7 +3527,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19220,
 			},
 		},
@@ -4264,7 +4264,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				21891,
 			},
 		},
@@ -4287,7 +4287,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19428,
 				21904,
 				18317,
@@ -4312,7 +4312,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18323,
 			},
 		},
@@ -4335,7 +4335,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18848,
 			},
 		},
@@ -4358,7 +4358,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				16949,
 				18171,
 				18328,
@@ -4384,7 +4384,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19428,
 			},
 		},
@@ -4407,7 +4407,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18319,
 			},
 		},
@@ -4430,7 +4430,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17860,
 				17882,
 			},
@@ -4454,7 +4454,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17802,
 			},
 		},
@@ -4477,7 +4477,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18323,
 			},
 		},
@@ -4519,7 +4519,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18497,
 				18524,
 			},
@@ -4543,7 +4543,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20885,
 			},
 		},
@@ -4566,7 +4566,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18708,
 			},
 		},
@@ -4589,7 +4589,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17978,
 			},
 		},
@@ -4612,7 +4612,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17977,
 			},
 		},
@@ -4635,7 +4635,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				16807,
 			},
 		},
@@ -4658,7 +4658,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17798,
 			},
 		},
@@ -4730,7 +4730,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20046,
 				21212,
 				21214,
@@ -4756,7 +4756,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20046,
 				21212,
 				21213,
@@ -4783,7 +4783,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19514,
 				20046,
 				21212,
@@ -4816,7 +4816,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18805,
 				20046,
 				20050,
@@ -5062,7 +5062,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17907,
 				21867,
 				22841,
@@ -5096,7 +5096,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				21867,
 				22841,
 				22871,
@@ -5138,7 +5138,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				21867,
 				22841,
 				22871,
@@ -5181,7 +5181,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17907,
 				21867,
 				22841,
@@ -5253,7 +5253,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -5288,7 +5288,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -5323,7 +5323,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -5358,7 +5358,7 @@ MTSL_DATA["items"]["Tailoring"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,

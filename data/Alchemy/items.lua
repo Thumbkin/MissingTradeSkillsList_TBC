@@ -1899,7 +1899,7 @@ MTSL_DATA["items"]["Alchemy"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				16507,
 				18493,
 			},
@@ -1923,7 +1923,7 @@ MTSL_DATA["items"]["Alchemy"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18313,
 			},
 		},
@@ -2156,7 +2156,7 @@ MTSL_DATA["items"]["Alchemy"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18328,
 			},
 		},
@@ -2295,7 +2295,7 @@ MTSL_DATA["items"]["Alchemy"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19221,
 			},
 		},
@@ -2318,7 +2318,7 @@ MTSL_DATA["items"]["Alchemy"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18344,
 			},
 		},
@@ -2422,7 +2422,7 @@ MTSL_DATA["items"]["Alchemy"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18317,
 				18323,
 			},
@@ -2446,7 +2446,7 @@ MTSL_DATA["items"]["Alchemy"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17862,
 			},
 		},
@@ -2653,7 +2653,7 @@ MTSL_DATA["items"]["Alchemy"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19797,
 			},
 		},

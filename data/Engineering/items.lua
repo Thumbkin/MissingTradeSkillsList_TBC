@@ -2042,7 +2042,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17940,
 				18314,
 			},
@@ -2091,7 +2091,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18314,
 				18327,
 				18634,
@@ -2186,7 +2186,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20207,
 			},
 		},
@@ -2209,7 +2209,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				15550,
 				16152,
 			},
@@ -2233,7 +2233,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18312,
 				18326,
 				18315,
@@ -2402,7 +2402,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18319,
 				18331,
 			},
@@ -2426,7 +2426,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17694,
 				18313,
 			},
@@ -2450,7 +2450,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17796,
 			},
 		},
@@ -2492,7 +2492,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18319,
 				18328,
 			},
@@ -2807,7 +2807,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19219,
 			},
 		},
