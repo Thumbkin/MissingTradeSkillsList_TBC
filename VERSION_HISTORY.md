@@ -1,5 +1,11 @@
 ## Version History
 
+### v2.5.04 (June 8, 2021)
+* Added loads of spells/items/npcs for all professions
+* Added all "Master" level for all professions
+* Set the correct trainers for each level of each profession
+* Added specialisations for Alchemy & Tailoring
+
 ### v2.5.03 (May 30, 2021)
 * Fixed data
   * Updated French & German translations for continents, factions, zones & some NPCs

@@ -6,7 +6,7 @@
 MTSLUI_ADDON = {
     AUTHOR = "Thumbkin",
     NAME = "Missing TradeSkills List (TBC)",
-    VERSION = "2.5.02",
+    VERSION = "2.5.04",
     SERVER_VERSION_PHASES = {
         -- max build number from server for phase 1,
         {
