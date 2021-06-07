@@ -4,7 +4,6 @@
 MTSL_DATA["specialisations"]["Engineering"] = 
 {
 	{
-		["expansion"] = 1,
 		["id"] = 20219,
 		["min_skill"] = 200,
 		["name"] = {
@@ -25,7 +24,6 @@ MTSL_DATA["specialisations"]["Engineering"] =
 		},
 	},
 	{
-		["expansion"] = 1,
 		["id"] = 20222,
 		["min_skill"] = 200,
 		["name"] = {

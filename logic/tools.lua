@@ -44,7 +44,7 @@ MTSL_TOOLS = {
 	-- returns		Boolean		Flag indicating if data is valid
 	----------------------------------------------------------------------------------------------------------
 	CheckIfDataIsValid = function(self)
-		local objects_to_check = { "continents", "factions", "holidays", "npcs", "objects", "professions", "profession_ranks", "quests", "reputation_levels", "special_actions", "zones", "items", "levels", "skills", "specialisations"}
+		local objects_to_check = { "continents", "factions", "holidays", "npcs", "objects", "professions", "profession_ranks", "quests", "reputation_levels", "special_actions", "specialisations", "zones"}
 		for _, v in pairs(objects_to_check) do
 			-- object not present
 			if MTSL_DATA[v] == nil then
@@ -484,7 +484,7 @@ MTSL_TOOLS = {
 			for _, skill in pairs(prof_skills) do
 				local specialisation_id = 0
 				if skill.specialisation then specialisation_id = tonumber(skill.specialisation) end
-				local current_phase = 1
+				current_phase = 1
 				if skill.phase then current_phase = skill.phase end
 				-- Check if class only
 				local classes = MTSL_LOGIC_SKILL:GetClassesOnlyForSkill(skill.id, prof_name)

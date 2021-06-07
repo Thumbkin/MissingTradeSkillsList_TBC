@@ -737,18 +737,6 @@ MTSLUI_LOCALES_LABELS = {
         ["Mexican"] = "Neutral",
         ["Taiwanese"] = "中性",
     },
-    ['no data available yet'] = {
-        ["English"] = "None",
-        ["French"] = "Aucune donnée disponible pour le moment",
-        ["German"] = "Noch keine Daten verfügbar",
-        ["Russian"] = "Пока нет данных",
-        ["Korean"] = "아직 사용 가능한 데이터가 없습니다",
-        ["Chinese"] = "尚无可用数据",
-        ["Spanish"] = "Aún no hay datos disponibles",
-        ["Mexican"] = "Aún no hay datos disponibles",
-        ["Portuguese"] = "Nenhum dado disponível ainda",
-        ["Taiwanese"] = "尚無可用數據",
-    },
     ["no faction"] = {
         ["English"] = "No faction",
         ["French"] = "Aucune faction",

@@ -409,7 +409,11 @@ MTSLUI_TOOLS = {
 	------------------------------------------------------------------------------------------------
 	GetLocalisedLabelSpecialAction = function(self, label)
 		if MTSLUI_CURRENT_LANGUAGE == nil then MTSLUI_CURRENT_LANGUAGE = "English" end
-		return MTSL_DATA["special_actions"][label]["name"][MTSLUI_CURRENT_LANGUAGE]
+		if MTSL_DATA["special_actions"][label] and MTSL_DATA["special_actions"][label]["name"][MTSLUI_CURRENT_LANGUAGE] then
+			return MTSL_DATA["special_actions"][label]["name"][MTSLUI_CURRENT_LANGUAGE]
+		end
+		print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not find localised labels for special action '" .. label .. "'. Please report this bug!")
+		return ""
 	end,
 
 	------------------------------------------------------------------------------------------------

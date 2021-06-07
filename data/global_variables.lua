@@ -58,6 +58,7 @@ MTSL_DATA = {
             ["name"] = "legendary",
         },
     },
+
     ["items"] = {},
     ["levels"] = {},
     ["skills"] = {},

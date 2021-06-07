@@ -17,4 +17,19 @@ MTSL_DATA["currencies"] = {
             ["Taiwanese"] = "亮頂蘑菇",
         },
     },
-}
+    {
+        ["id"] = 26044,
+        ["name"] = {
+            ["Chinese"] = "哈兰研究勋章",
+            ["English"] = "Halaa Research Token",
+            ["French"] = "Gage de recherche de Halaa",
+            ["German"] = "Forschermarke von Halaa",
+            ["Korean"] = "할라아 연구 주화",
+            ["Mexican"] = "Pieza Halaa de investigación",
+            ["Portuguese"] = "Símbolo Halaa de Pesquisa",
+            ["Russian"] = "Исследовательский знак Халаа",
+            ["Spanish"] = "Pieza Halaa de investigación",
+            ["Taiwanese"] = "哈蘭研究勳章",
+        },
+    },
+}--26044

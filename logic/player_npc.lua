@@ -817,17 +817,19 @@ MTSL_LOGIC_PLAYER_NPC = {
     GetMobsByIds = function(self, ids)
         local mobs = {}
 
-        for k, id in pairs(ids)
-        do
-            local mob = self:GetNpcById(id)
-            -- Check if we found one
-            if mob ~= nil then
-                -- only add mob if player can attack it
-                if mob.reacts ~= MTSL_CURRENT_PLAYER.FACTION then
-                    table.insert(mobs, mob)
+        if ids and #ids > 0 then
+            for k, id in pairs(ids)
+            do
+                local mob = self:GetNpcById(id)
+                -- Check if we found one
+                if mob ~= nil then
+                    -- only add mob if player can attack it
+                    if mob.reacts ~= MTSL_CURRENT_PLAYER.FACTION then
+                        table.insert(mobs, mob)
+                    end
+                else
+                    print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not find mob with id " .. id .. " for " .. MTSL_CURRENT_PROFESSION.NAME .. ". Please report this bug!")
                 end
-            else
-                print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not find mob with id " .. id .. " for " .. MTSL_CURRENT_PROFESSION.NAME .. ". Please report this bug!")
             end
         end
 

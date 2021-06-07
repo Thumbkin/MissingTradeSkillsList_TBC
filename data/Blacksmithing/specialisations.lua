@@ -4,7 +4,6 @@
 MTSL_DATA["specialisations"]["Blacksmithing"] = 
 {
 	{
-		["expansion"] = 1,
 		["id"] = 9787,
 		["min_skill"] = 200,
 		["name"] = {
@@ -25,7 +24,6 @@ MTSL_DATA["specialisations"]["Blacksmithing"] =
 		},
 	},
 	{
-		["expansion"] = 1,
 		["id"] = 9788,
 		["min_skill"] = 200,
 		["name"] = {
@@ -46,7 +44,6 @@ MTSL_DATA["specialisations"]["Blacksmithing"] =
 		},
 	},
 	{
-		["expansion"] = 1,
 		["id"] = 17039,
 		["min_skill"] = 250,
 		["name"] = {
@@ -68,7 +65,6 @@ MTSL_DATA["specialisations"]["Blacksmithing"] =
 		["specialisation"] = 9787,
 	},
 	{
-		["expansion"] = 1,
 		["id"] = 17040,
 		["min_skill"] = 250,
 		["name"] = {
@@ -90,7 +86,6 @@ MTSL_DATA["specialisations"]["Blacksmithing"] =
 		["specialisation"] = 9787,
 	},
 	{
-		["expansion"] = 1,
 		["id"] = 17041,
 		["min_skill"] = 250,
 		["name"] = {

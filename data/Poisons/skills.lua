@@ -910,7 +910,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		["phase"] = 1,
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 26786,
 		["min_skill"] = 340,
 		["min_xp_level"] = 68,
@@ -958,7 +958,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 26892,
 		["min_skill"] = 340,
 		["min_xp_level"] = 68,
@@ -1054,7 +1054,7 @@ MTSL_DATA["skills"]["Poisons"] =
 		},
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 27282,
 		["min_skill"] = 330,
 		["min_xp_level"] = 70,

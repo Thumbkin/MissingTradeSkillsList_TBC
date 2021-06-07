@@ -4,7 +4,7 @@
 MTSL_DATA["levels"]["Jewelcrafting"] = 
 {
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 25229,
 		["max_skill"] = 75,
 		["min_skill"] = 0,
@@ -37,7 +37,7 @@ MTSL_DATA["levels"]["Jewelcrafting"] =
 		},
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 25230,
 		["max_skill"] = 150,
 		["min_skill"] = 50,
@@ -70,7 +70,7 @@ MTSL_DATA["levels"]["Jewelcrafting"] =
 		},
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 28894,
 		["max_skill"] = 225,
 		["min_skill"] = 125,
@@ -103,7 +103,7 @@ MTSL_DATA["levels"]["Jewelcrafting"] =
 		},
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 28895,
 		["max_skill"] = 300,
 		["min_skill"] = 200,
@@ -136,7 +136,7 @@ MTSL_DATA["levels"]["Jewelcrafting"] =
 		},
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 28897,
 		["max_skill"] = 375,
 		["min_skill"] = 275,

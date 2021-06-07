@@ -67,7 +67,9 @@ data\Fishing\items.lua
 
 data\Herbalism\levels.lua
 
+data\Jewelcrafting\items.lua
 data\Jewelcrafting\levels.lua
+data\Jewelcrafting\skills.lua
 
 data\Leatherworking\items.lua
 data\Leatherworking\levels.lua

@@ -437,7 +437,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 29358,
 		["min_skill"] = 325,
 		["name"] = {
@@ -450,19 +450,19 @@ MTSL_DATA["skills"]["Mining"] =
 			["Portuguese"] = "Fundir Adamantita",
 			["Russian"] = "Выплавка адамантита",
 			["Spanish"] = "Fundir adamantita",
-			["Taiwanese"] = "熔煉精金",
+			["Taiwanese"] = "熔煉堅鋼錠",
 		},
 		["phase"] = 1,
 		["trainers"] = {
 			["price"] = 40000,
 			["sources"] = {
-				18779,
 				18747,
+				18779,
 			},
 		},
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 29359,
 		["min_skill"] = 350,
 		["name"] = {
@@ -475,19 +475,19 @@ MTSL_DATA["skills"]["Mining"] =
 			["Portuguese"] = "Fundir Etérnio",
 			["Russian"] = "Выплавка этерния",
 			["Spanish"] = "Fundir eternio",
-			["Taiwanese"] = "熔煉恒金",
+			["Taiwanese"] = "熔煉恆金錠",
 		},
 		["phase"] = 1,
 		["trainers"] = {
 			["price"] = 40000,
 			["sources"] = {
-				18779,
 				18747,
+				18779,
 			},
 		},
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 29360,
 		["min_skill"] = 350,
 		["name"] = {
@@ -500,19 +500,19 @@ MTSL_DATA["skills"]["Mining"] =
 			["Portuguese"] = "Fundir Açovil",
 			["Russian"] = "Выплавка оскверненной стали",
 			["Spanish"] = "Fundir acero vil",
-			["Taiwanese"] = "熔煉魔鋼",
+			["Taiwanese"] = "熔煉魔鋼錠",
 		},
 		["phase"] = 1,
 		["trainers"] = {
 			["price"] = 40000,
 			["sources"] = {
-				18779,
 				18747,
+				18779,
 			},
 		},
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 29361,
 		["min_skill"] = 375,
 		["name"] = {
@@ -525,19 +525,19 @@ MTSL_DATA["skills"]["Mining"] =
 			["Portuguese"] = "Fundir Kório",
 			["Russian"] = "Выплавка кория",
 			["Spanish"] = "Fundir korio",
-			["Taiwanese"] = "熔煉氪金",
+			["Taiwanese"] = "熔煉克銀錠",
 		},
 		["phase"] = 1,
 		["trainers"] = {
 			["price"] = 100000,
 			["sources"] = {
-				18779,
 				18747,
+				18779,
 			},
 		},
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 29686,
 		["min_skill"] = 375,
 		["name"] = {
@@ -550,19 +550,19 @@ MTSL_DATA["skills"]["Mining"] =
 			["Portuguese"] = "Fundir Adamantita Temperada",
 			["Russian"] = "Выплавка закаленного адамантита",
 			["Spanish"] = "Fundir adamantita endurecida",
-			["Taiwanese"] = "熔煉硬化精金",
+			["Taiwanese"] = "熔煉特堅鋼錠",
 		},
 		["phase"] = 1,
 		["trainers"] = {
 			["price"] = 100000,
 			["sources"] = {
-				18779,
 				18747,
+				18779,
 			},
 		},
 	},
 	{
-		["expansion"] = 2,
+		["expansion"] = 1,
 		["id"] = 29686,
 		["items"] = {
 			35273,
@@ -649,7 +649,7 @@ MTSL_DATA["skills"]["Mining"] =
 			["Portuguese"] = "Fundir Kório Temperado",
 			["Russian"] = "Выплавка закаленного кория",
 			["Spanish"] = "Fundir korio endurecido",
-			["Taiwanese"] = "熔煉硬化氪金",
+			["Taiwanese"] = "熔煉硬化克銀",
 		},
 		["phase"] = 1,
 	},

@@ -64,7 +64,7 @@ MTSL_DATA["items"]["Fishing"] =
 			["Portuguese"] = "Diário Gasto pelo Tempo",
 			["Russian"] = "Истрепанный журнал",
 			["Spanish"] = "Diario deteriorado",
-			["Taiwanese"] = "飽經風霜的日記",
+			["Taiwanese"] = "天候征服日誌",
 		},
 		["phase"] = 1,
 		["quality"] = "poor",
