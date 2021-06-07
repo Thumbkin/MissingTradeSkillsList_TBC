@@ -409,6 +409,9 @@ MTSLUI_TOOLS = {
 	------------------------------------------------------------------------------------------------
 	GetLocalisedLabelSpecialAction = function(self, label)
 		if MTSLUI_CURRENT_LANGUAGE == nil then MTSLUI_CURRENT_LANGUAGE = "English" end
+		if MTSL_DATA["special_actions"][label] == nil then
+			return MTSLUI_TOOLS:GetLocalisedLabel("no data available yet")
+		end
 		return MTSL_DATA["special_actions"][label]["name"][MTSLUI_CURRENT_LANGUAGE]
 	end,
 
