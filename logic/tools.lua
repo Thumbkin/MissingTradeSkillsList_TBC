@@ -523,7 +523,11 @@ MTSL_TOOLS = {
 					end
 					-- If not counted yet do it now
 					if (not class_only) and ((available_horde and available_alliance) or available_neutral) then
-						MTSL_DATA["AMOUNT_SKILLS"]["phase_" .. current_phase][prof_name]["spec_" .. specialisation_id] = tonumber(MTSL_DATA["AMOUNT_SKILLS"]["phase_" .. current_phase][prof_name]["spec_" .. specialisation_id]) + 1
+						if MTSL_DATA["AMOUNT_SKILLS"]["phase_" .. current_phase][prof_name]["spec_" .. specialisation_id] == nil then
+							MTSL_DATA["AMOUNT_SKILLS"]["phase_" .. current_phase][prof_name]["spec_" .. specialisation_id] = 1
+						else
+							MTSL_DATA["AMOUNT_SKILLS"]["phase_" .. current_phase][prof_name]["spec_" .. specialisation_id] = tonumber(MTSL_DATA["AMOUNT_SKILLS"]["phase_" .. current_phase][prof_name]["spec_" .. specialisation_id]) + 1
+						end
 					end
 					-- Move to next phase
 					current_phase = current_phase + 1
