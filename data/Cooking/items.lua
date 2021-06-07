@@ -2026,6 +2026,32 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
+		["expansion"] = 2,
+		["id"] = 27736,
+		["name"] = {
+			["Chinese"] = "大师级烹饪教材",
+			["English"] = "Master Cookbook",
+			["French"] = "Recettes du Maître-queux",
+			["German"] = "Meisterkochbuch",
+			["Korean"] = "대가의 요리책",
+			["Mexican"] = "Libro de cocina de chef",
+			["Portuguese"] = "Livro de Receitas do Mestre",
+			["Russian"] = "Поварская книга",
+			["Spanish"] = "Libro de cocina de chef",
+			["Taiwanese"] = "大師級烹饪教材",
+		},
+		["phase"] = 1,
+		["quality"] = "common",
+		["vendors"] = {
+			["price"] = 20000,
+			["sources"] = {
+				18987,
+				18988,
+				18993,
+			},
+		},
+	},
+	{
 		["expansion"] = 1,
 		["holiday"] = 141,
 		["id"] = 34413,

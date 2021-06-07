@@ -39,6 +39,7 @@ data\zones.lua
 data\Alchemy\items.lua
 data\Alchemy\levels.lua
 data\Alchemy\skills.lua
+data\Alchemy\specialisations.lua
 
 data\Blacksmithing\items.lua
 data\Blacksmithing\levels.lua
@@ -89,6 +90,7 @@ data\Skinning\levels.lua
 data\Tailoring\items.lua
 data\Tailoring\levels.lua
 data\Tailoring\skills.lua
+data\Tailoring\specialisations.lua
 
 #
 # Load the logic

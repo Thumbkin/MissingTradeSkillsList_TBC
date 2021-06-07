@@ -46,7 +46,10 @@ Minimap button & Enhanced tooltip
 
 ### Latest version (v2.5.04)
 
-* Added expansions 
+* Added loads of spells/items/npcs for all professions
+* Added all "Master" level for all professions
+* Set the correct trainers for each level of each profession
+* Added specialisations for Alchemy & Tailoring
 
 ### Support
 
