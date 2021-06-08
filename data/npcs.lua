@@ -29079,7 +29079,7 @@ MTSL_DATA["npcs"] =
 		["zone_id"] = 3483,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 18805,
 		["location"] = {
 			["x"] = "-",
@@ -29097,14 +29097,14 @@ MTSL_DATA["npcs"] =
 			["Spanish"] = "Gran astromántica Solarian",
 			["Taiwanese"] = "大星術師索蘭莉安",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 		["reacts"] = "Hostile",
 		["xp_level"] = {
-			["is_elite"] = 0,
-			["max"] = "-",
-			["min"] = "-",
+			["is_elite"] = 1,
+			["max"] = "??",
+			["min"] = "??",
 		},
-		["zone_id"] = 0,
+		["zone_id"] = 3845,
 	},
 	{
 		["expansion"] = 2,
@@ -30125,7 +30125,7 @@ MTSL_DATA["npcs"] =
 		["zone_id"] = 0,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 19514,
 		["location"] = {
 			["x"] = "-",
@@ -30143,14 +30143,14 @@ MTSL_DATA["npcs"] =
 			["Spanish"] = "Al'ar",
 			["Taiwanese"] = "奧",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 		["reacts"] = "Hostile",
 		["xp_level"] = {
-			["is_elite"] = 0,
-			["max"] = "-",
-			["min"] = "-",
+			["is_elite"] = 1,
+			["max"] = "??",
+			["min"] = "??",
 		},
-		["zone_id"] = 0,
+		["zone_id"] = 3845,
 	},
 	{
 		["expansion"] = 2,
@@ -30574,7 +30574,7 @@ MTSL_DATA["npcs"] =
 		["zone_id"] = 0,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 20046,
 		["location"] = {
 			["x"] = "-",
@@ -30592,14 +30592,14 @@ MTSL_DATA["npcs"] =
 			["Spanish"] = "Lord astromántico",
 			["Taiwanese"] = "星術師領主",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 		["reacts"] = "Hostile",
 		["xp_level"] = {
 			["is_elite"] = 1,
-			["max"] = "-",
-			["min"] = "-",
+			["max"] = 70,
+			["min"] = 70,
 		},
-		["zone_id"] = 0,
+		["zone_id"] = 3845,
 	},
 	{
 		["expansion"] = 1,
