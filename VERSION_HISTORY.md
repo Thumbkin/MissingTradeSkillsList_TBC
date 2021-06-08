@@ -1,5 +1,15 @@
 ## Version History
 
+### v2.5.05 (June 8, 2021)
+
+* Added missing "expansion" number for classic specialisations
+* Added some missing NPCs
+* Updated professions to only have the correct auto learned spells
+* Set the correct phase for some skill
+* Fixed bug with data not showing mobs anymore that drop an item
+* Added code to save ids when data is missing for an object for easier missing data reports. Include the contents of "MTSL_MISSING_DATA" from saved variables to bug report if not empty
+* fixed missing icon for Jewelcrafting in skill list frame
+
 ### v2.5.04 (June 8, 2021)
 * Added loads of spells/items/npcs for all professions
 * Added all "Master" level for all professions
