@@ -3401,7 +3401,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "轉化:原始暗影轉原始之水",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -3420,7 +3420,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "轉化:原始之水轉原始暗影",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -3439,7 +3439,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "轉化:原始法力轉原始之火",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -3458,7 +3458,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "轉化:原始之火轉原始法力",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -3477,7 +3477,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "轉化:原始生命轉原始大地",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -3496,7 +3496,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "轉化:原始大地轉原始生命",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -3515,7 +3515,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "超強效活力藥水",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -3534,7 +3534,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "防禦精煉藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -3553,7 +3553,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "法力恢復精煉藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -3572,7 +3572,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "強襲精煉藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -3591,7 +3591,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "盲目之光精煉藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -3610,7 +3610,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "純淨死亡精煉藥劑",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -4006,7 +4006,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "極效秘法防護大鍋",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -4025,7 +4025,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "極效火焰防護大鍋",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -4044,7 +4044,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "極效冰霜防護大鍋",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -4063,7 +4063,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "極效自然防護大鍋",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,
@@ -4082,7 +4082,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Taiwanese"] = "極效暗影防護大鍋",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "learned through discovery",
 	},
 	{
 		["expansion"] = 2,

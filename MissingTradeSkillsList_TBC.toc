@@ -2,7 +2,7 @@
 ## Title: Missing TradeSkills List (TBC)
 ## Author: Thumbkin
 ## Notes: Shows missing skills & recipes for a profession and where to get them.
-## SavedVariables: MTSL_PLAYERS, MTSLUI_PLAYER
+## SavedVariables: MTSL_PLAYERS, MTSLUI_PLAYER, MTSL_MISSING_DATA
 ## Version: 2.5.1
 
 #

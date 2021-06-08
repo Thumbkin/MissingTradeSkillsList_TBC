@@ -180,7 +180,7 @@ MTSL_LOGIC_SKILL = {
     GetSkillForProfessionByItemId = function(self, item_id, profession_name)
         local skill = MTSL_TOOLS:GetItemFromArrayByKeyArrayValue(MTSL_DATA["skills"][profession_name], "items", item_id)
         -- try a level if nil
-        if skill == nil then
+        if not skill then
             skill = MTSL_TOOLS:GetItemFromArrayByKeyArrayValue(MTSL_DATA["levels"][profession_name], "items", item_id)
         end
         return skill
@@ -197,8 +197,12 @@ MTSL_LOGIC_SKILL = {
     GetSkillForProfessionById = function(self, skill_id, profession_name)
         local skill = MTSL_TOOLS:GetItemFromArrayByKeyValue(MTSL_DATA["skills"][profession_name], "id", skill_id)
         -- try a level if nil
-        if skill == nil then
+        if not skill then
             skill = MTSL_TOOLS:GetItemFromArrayByKeyValue(MTSL_DATA["levels"][profession_name], "id", skill_id)
+        end
+        -- can be specialisation
+        if not skill and MTSL_DATA["specialisations"][profession_name] then
+            skill = MTSL_TOOLS:GetItemFromArrayByKeyValue(MTSL_DATA["specialisations"][profession_name], "id", skill_id)
         end
         return skill
     end,

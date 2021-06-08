@@ -97,6 +97,14 @@ MTSLUI_NPC_LIST_FRAME = {
         end
     end,
 
+    -- to trigger: /run MTSLUI_NPC_EXPLORER_FRAME.npc_list_filter_frame:DEBUG_SearchMissingNpcs()
+    -- Search for missing NPCS (DEBUG)
+    DEBUG_SearchMissingNpcs = function(self)
+        for _, n in pairs(self.available_npcs) do
+            self.skill_list_frame:UpdateList(self.available_npc_skills[n.id])
+        end
+    end,
+
     ----------------------------------------------------------------------------------------------------------
     -- Adds data from skills/recipes/quests/objects to NPC to optimize filtering afterwards
     ----------------------------------------------------------------------------------------------------------
@@ -122,7 +130,7 @@ MTSLUI_NPC_LIST_FRAME = {
                 if sl.trainers then
                     for _, npc_id in pairs(sl.trainers.sources) do
                         if npcs[npc_id] == nil then
-                            print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: NPC with id " .. npc_id .. " is missing. Please report this bug!")
+                            MTSL_TOOLS:AddMissingNpcById(npc_id)
                         else
                             -- specific faction or Alliance/Horde/neutral/Hostile
                             local faction = npcs[npc_id]["reacts"]
@@ -148,7 +156,7 @@ MTSLUI_NPC_LIST_FRAME = {
                         if quest and quest.npcs then
                             for _, npc_id in pairs(quest.npcs) do
                                 if npcs[npc_id] == nil then
-                                    print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: NPC with id " .. npc_id .. " is missing. Please report this bug!")
+                                    MTSL_TOOLS:AddMissingNpcById(npc_id)
                                 else
                                     -- specific faction or Alliance/Horde/neutral/Hostile
                                     local faction = npcs[npc_id]["reacts"]
@@ -177,7 +185,7 @@ MTSLUI_NPC_LIST_FRAME = {
                                 -- Vendors
                                 for _, npc_id in pairs(item.vendors.sources) do
                                     if npcs[npc_id] == nil then
-                                        print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: NPC with id " .. npc_id .. " is missing. Please report this bug!")
+                                        MTSL_TOOLS:AddMissingNpcById(npc_id)
                                     else
                                         -- specific faction or Alliance/Horde/neutral/Hostile
                                         local faction = npcs[npc_id]["reacts"]
@@ -197,7 +205,7 @@ MTSLUI_NPC_LIST_FRAME = {
                                 -- Vendors
                                 for _, npc_id in pairs(item.drops.sources) do
                                     if npcs[npc_id] == nil then
-                                        print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: NPC with id " .. npc_id .. " is missing. Please report this bug!")
+                                        MTSL_TOOLS:AddMissingNpcById(npc_id)
                                     else
                                         -- specific faction or Alliance/Horde/neutral/Hostile
                                         local faction = npcs[npc_id]["reacts"]
@@ -221,7 +229,7 @@ MTSLUI_NPC_LIST_FRAME = {
                                     if quest and quest.npcs then
                                         for _, npc_id in pairs(quest.npcs) do
                                             if npcs[npc_id] == nil then
-                                                print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: NPC with id " .. npc_id .. " is missing. Please report this bug!")
+                                                MTSL_TOOLS:AddMissingNpcById(npc_id)
                                             else
                                                 -- specific faction or Alliance/Horde/neutral/Hostile
                                                 local faction = npcs[npc_id]["reacts"]

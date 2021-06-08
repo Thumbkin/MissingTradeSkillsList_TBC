@@ -36,6 +36,7 @@ MTSLUI_NPC_SKILL_LIST_FRAME = {
         ["Enchanting"] = "trade_engraving",
         ["Engineering"] = "trade_engineering",
         ["Herbalism"] = "spell_nature_naturetouchgrow",
+        ["Jewelcrafting"] = "inv_misc_gem_01",
         ["Leatherworking"] = "inv_misc_armorkit_17",
         ["Mining"] = "trade_mining",
         ["Skinning"] = "inv_misc_pelt_wolf_01",

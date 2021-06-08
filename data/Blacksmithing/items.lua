@@ -4101,7 +4101,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18497,
 			},
 		},
@@ -4124,7 +4124,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20900,
 			},
 		},
@@ -4147,7 +4147,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18830,
 			},
 		},
@@ -4170,7 +4170,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18203,
 			},
 		},
@@ -4231,7 +4231,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17136,
 			},
 		},
@@ -4273,7 +4273,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				21454,
 			},
 		},
@@ -4296,7 +4296,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18314,
 			},
 		},
@@ -4319,7 +4319,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17975,
 			},
 		},
@@ -4428,7 +4428,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				22016,
 			},
 		},
@@ -4451,7 +4451,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18312,
 			},
 		},
@@ -4531,7 +4531,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18325,
 			},
 		},
@@ -4554,7 +4554,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18314,
 			},
 		},
@@ -4691,7 +4691,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17801,
 				18317,
 			},
@@ -4715,7 +4715,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18317,
 			},
 		},
@@ -4922,12 +4922,12 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18805,
 				20046,
 				21212,
 				21214,
-				21932,
+		 		21216,
 			},
 		},
 		["expansion"] = 2,
@@ -4949,14 +4949,12 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
-				19622,
+			["sources"] = {
 				20046,
 				21212,
 				21213,
 				21215,
-				21845,
-				21932,
+		 		21216,
 				23054,
 			},
 		},
@@ -4979,15 +4977,15 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18805,
 				19514,
 				20046,
 				21213,
 				21214,
+				21216,
 				21215,
 				21217,
-				21932,
 			},
 		},
 		["expansion"] = 2,
@@ -5009,10 +5007,9 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18805,
 				19514,
-				19622,
 				20046,
 				21212,
 				21214,
@@ -5246,10 +5243,9 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17907,
 				17916,
-				21867,
 				22871,
 				22952,
 				23421,
@@ -5274,8 +5270,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
-				21867,
+			["sources"] = {
 				22841,
 				22871,
 				22887,
@@ -5292,7 +5287,6 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				23394,
 				23403,
 				23421,
-				23467,
 			},
 		},
 		["expansion"] = 2,
@@ -5314,8 +5308,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
-				21867,
+			["sources"] = {
 				22841,
 				22853,
 				22869,
@@ -5331,7 +5324,6 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				23049,
 				23394,
 				23421,
-				23467,
 			},
 		},
 		["expansion"] = 2,
@@ -5353,9 +5345,8 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17907,
-				21867,
 				22841,
 				22871,
 				22887,
@@ -5365,7 +5356,6 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				22948,
 				22952,
 				23421,
-				23467,
 			},
 		},
 		["expansion"] = 2,
@@ -5463,7 +5453,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -5498,7 +5488,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -5533,7 +5523,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -5568,7 +5558,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,

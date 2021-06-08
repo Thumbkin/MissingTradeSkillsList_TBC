@@ -90,6 +90,7 @@ MTSL_LOGIC_PROFESSION = {
                 end
                 -- Check availability in expansion
                 local used_expansion = v.expansion or 1
+                if not v.expansion then print(profession_name .. ' - ' .. v.id) end
                 if skill_passed_filter == true and MTSL_TOOLS:ListContainsNumber(expansions, 100 * used_expansion + v.phase) == false then
                     skill_passed_filter = false
                 end

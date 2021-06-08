@@ -4,6 +4,7 @@
 MTSL_DATA["specialisations"]["Leatherworking"] = 
 {
 	{
+		["expansion"] = 1,
 		["id"] = 10656,
 		["min_skill"] = 225,
 		["name"] = {
@@ -24,6 +25,7 @@ MTSL_DATA["specialisations"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10658,
 		["min_skill"] = 225,
 		["name"] = {
@@ -44,6 +46,7 @@ MTSL_DATA["specialisations"]["Leatherworking"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 10660,
 		["min_skill"] = 225,
 		["name"] = {

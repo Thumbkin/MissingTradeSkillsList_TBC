@@ -5093,7 +5093,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36954,
-		["min_skill"] = 1,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "空间撕裂器 - 52区",
 			["English"] = "Dimensional Ripper - Area 52",
@@ -5107,13 +5107,18 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "空間撕裂器 - 52區",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
 		["specialisation"] = 20222,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				21493,
+			}
+		}
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 36955,
-		["min_skill"] = 1,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "超级安全传送器：托什雷的基地",
 			["English"] = "Ultrasafe Transporter - Toshley's Station",
@@ -5127,8 +5132,13 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "安全傳送器:托斯利基地",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
 		["specialisation"] = 20219,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				21494,
+			}
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -5210,7 +5220,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40274,
-		["min_skill"] = 1,
+		["min_skill"] = 370,
 		["name"] = {
 			["Chinese"] = "狂野机械护目镜",
 			["English"] = "Furious Gizmatic Goggles",
@@ -5224,7 +5234,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "狂怒電磁護目鏡",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -5248,7 +5258,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41311,
-		["min_skill"] = 1,
+		["min_skill"] = 370,
 		["name"] = {
 			["Chinese"] = "审判者护目镜2000型",
 			["English"] = "Justicebringer 2000 Specs",
@@ -5262,7 +5272,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "正義化身2000護目鏡",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -5281,12 +5291,12 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "坦克電子護目鏡",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41314,
-		["min_skill"] = 1,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "必中护目镜V2.0",
 			["English"] = "Surestrike Goggles v2.0",
@@ -5300,12 +5310,12 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "絕對打擊護目鏡v2.0",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41315,
-		["min_skill"] = 1,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "齿轮风暴护目镜",
 			["English"] = "Gadgetstorm Goggles",
@@ -5319,12 +5329,12 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "機件護目鏡",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41316,
-		["min_skill"] = 1,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "活力复制器",
 			["English"] = "Living Replicator Specs",
@@ -5338,12 +5348,12 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "生命複製護目鏡",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41317,
-		["min_skill"] = 1,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "死亡一击护目镜X11型",
 			["English"] = "Deathblow X11 Goggles",
@@ -5357,12 +5367,12 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "死亡打擊X11護目鏡",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41318,
-		["min_skill"] = 1,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "奇迹治疗罩XT40型",
 			["English"] = "Wonderheal XT40 Shades",
@@ -5376,12 +5386,12 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "驚奇XT40護目鏡",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41319,
-		["min_skill"] = 1,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "月光放大护目镜",
 			["English"] = "Magnified Moon Specs",
@@ -5395,12 +5405,12 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "放大月光護目鏡",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41320,
-		["min_skill"] = 1,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "毁灭全视护目镜",
 			["English"] = "Destruction Holo-gogs",
@@ -5414,12 +5424,12 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "毀滅護目鏡",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41321,
-		["min_skill"] = 1,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "超级治疗射线4000型",
 			["English"] = "Powerheal 4000 Lens",
@@ -5433,7 +5443,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "能量4000護目鏡",
 		},
 		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -5452,7 +5462,13 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "飛行器",
 		},
 		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["trainers"] = {
+			["price"] = 120000,
+			["sources"] = {
+				24868,
+				25099
+			}
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -5471,7 +5487,13 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Taiwanese"] = "渦輪飛行器",
 		},
 		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["trainers"] = {
+			["price"] = 180000,
+			["sources"] = {
+				24868,
+				25099
+			}
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -5576,7 +5598,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de la luna de hiperamplificación",
 			["Taiwanese"] = "超放大月光眼鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5597,7 +5619,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas armonizadas con lo primigenio",
 			["Taiwanese"] = "原始調和護目鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5618,7 +5640,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Hologafas de aniquilador",
 			["Taiwanese"] = "殲滅者環視鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5639,7 +5661,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de grabados de relámpagos",
 			["Taiwanese"] = "閃電蝕刻眼鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5660,7 +5682,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de golpe seguro v3.0",
 			["Taiwanese"] = "絕對打擊護目鏡v3.0",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5681,7 +5703,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de proyección de caos",
 			["Taiwanese"] = "暴行投影護目鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5702,7 +5724,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de korio duro",
 			["Taiwanese"] = "特硬克銀護目鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5723,7 +5745,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de arremetida mortal cuádruple X44",
 			["Taiwanese"] = "四倍死亡打擊X44護目鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,

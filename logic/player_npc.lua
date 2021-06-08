@@ -763,7 +763,7 @@ MTSL_LOGIC_PLAYER_NPC = {
                     table.insert(npcs, npc)
                 end
             else
-                print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not find NPC with id " .. id .. ". Please report this bug!")
+                MTSL_TOOLS:AddMissingNpcById(id)
             end
         end
 
@@ -788,7 +788,7 @@ MTSL_LOGIC_PLAYER_NPC = {
             if npc ~= nil then
                 table.insert(npcs, npc)
             else
-                print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not find NPC with id " .. id .. ". Please report this bug!")
+                MTSL_TOOLS:AddMissingNpcById(id)
             end
         end
 
@@ -828,7 +828,7 @@ MTSL_LOGIC_PLAYER_NPC = {
                         table.insert(mobs, mob)
                     end
                 else
-                    print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not find mob with id " .. id .. " for " .. MTSL_CURRENT_PROFESSION.NAME .. ". Please report this bug!")
+                    MTSL_TOOLS:AddMissingNpcById(id)
                 end
             end
         end

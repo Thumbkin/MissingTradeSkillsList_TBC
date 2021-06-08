@@ -2042,7 +2042,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17940,
 				18314,
 			},
@@ -2091,7 +2091,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18314,
 				18327,
 				18634,
@@ -2186,7 +2186,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20207,
 			},
 		},
@@ -2209,8 +2209,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
-				15550,
+			["sources"] = {
 				16152,
 			},
 		},
@@ -2233,7 +2232,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18312,
 				18326,
 				18315,
@@ -2402,7 +2401,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18319,
 				18331,
 			},
@@ -2426,7 +2425,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17694,
 				18313,
 			},
@@ -2450,7 +2449,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17796,
 			},
 		},
@@ -2492,7 +2491,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18319,
 				18328,
 			},
@@ -2540,6 +2539,11 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				23386
+			}
+		},
 		["expansion"] = 2,
 		["id"] = 34114,
 		["name"] = {
@@ -2554,7 +2558,7 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: robot de reparación de campo 110G",
 			["Taiwanese"] = "設計圖:修理機器人110G型",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "uncommon",
 		["special_action"] = "no data available yet",
 	},
@@ -2573,9 +2577,11 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: hologafas de aniquilador",
 			["Taiwanese"] = "結構圖:殲滅者環視鏡",
 		},
-		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["quality"] = "epic",
+		["drops"] = {
+			["zones"] = 4075,
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -2592,9 +2598,11 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: gafas de la Justiciera 3000",
 			["Taiwanese"] = "結構圖:正義使者3000眼鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["drops"] = {
+			["zones"] = 4075,
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -2611,9 +2619,11 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: lente de supersanación 9000",
 			["Taiwanese"] = "結構圖:能量治癒9000鏡片",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["drops"] = {
+			["zones"] = 4075,
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -2630,9 +2640,11 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: gafas de la luna de hiperamplificación",
 			["Taiwanese"] = "結構圖:超放大月光眼鏡",
 		},
-		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["quality"] = "epic",
+		["drops"] = {
+			["zones"] = 4075,
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -2649,9 +2661,11 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: gafas de sol curamaravilla XT68",
 			["Taiwanese"] = "結構圖:奇跡治癒XT68遮光鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["drops"] = {
+			["zones"] = 4075,
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -2668,9 +2682,11 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: gafas armonizadas con primordial",
 			["Taiwanese"] = "結構圖:原始調和護目鏡",
 		},
-		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["quality"] = "epic",
+		["drops"] = {
+			["zones"] = 4075,
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -2687,9 +2703,11 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: gafas de grabados de relámpagos",
 			["Taiwanese"] = "結構圖:閃電蝕刻眼鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["drops"] = {
+			["zones"] = 4075,
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -2706,9 +2724,11 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: gafas de golpe seguro v3.0",
 			["Taiwanese"] = "結構圖:絕對打擊護目鏡v3.0",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["drops"] = {
+			["zones"] = 4075,
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -2725,9 +2745,11 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: gafas de proyección de caos",
 			["Taiwanese"] = "結構圖:暴行投影護目鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["drops"] = {
+			["zones"] = 4075,
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -2744,9 +2766,11 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: gafas de korio duro",
 			["Taiwanese"] = "結構圖:特硬克銀護目鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["drops"] = {
+			["zones"] = 4075,
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -2763,9 +2787,11 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: gafas de arremetida mortal cuádruple X44",
 			["Taiwanese"] = "結構圖:四倍死亡打擊X44護目鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["drops"] = {
+			["zones"] = 4075,
+		}
 	},
 	{
 		["expansion"] = 2,
@@ -2807,7 +2833,7 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19219,
 			},
 		},

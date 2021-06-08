@@ -2328,7 +2328,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18313,
 				18331,
 			},
@@ -2352,7 +2352,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17803,
 			},
 		},
@@ -2514,7 +2514,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18633,
 				18493,
 			},
@@ -2538,7 +2538,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18313,
 			},
 		},
@@ -2580,7 +2580,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18317,
 			},
 		},
@@ -2603,7 +2603,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18521,
 			},
 		},
@@ -2626,7 +2626,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				16472,
 			},
 		},
@@ -2692,7 +2692,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18314,
 				18498,
 				18317,
@@ -2717,7 +2717,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20136,
 			},
 		},
@@ -2783,7 +2783,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17465,
 			},
 		},
@@ -2825,7 +2825,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				20880,
 			},
 		},
@@ -2886,7 +2886,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				15687,
 			},
 		},
@@ -2909,7 +2909,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				16524,
 			},
 		},
@@ -2932,7 +2932,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				15688,
 			},
 		},
@@ -3130,7 +3130,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18314,
 			},
 		},
@@ -3269,7 +3269,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18870,
 			},
 		},
@@ -3402,13 +3402,12 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				23574,
 				23576,
 				23577,
 				23578,
 				23863,
-				24144,
 				24239,
 			},
 		},
@@ -3545,7 +3544,7 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				24560,
 			},
 		},

@@ -5157,7 +5157,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40514,
-		["min_skill"] = 1,
+		["min_skill"] = 340,
 		["name"] = {
 			["Chinese"] = "深海项链",
 			["English"] = "Necklace of the Deep",
@@ -5170,8 +5170,16 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Collar de las profundidades",
 			["Taiwanese"] = "深淵項鍊",
 		},
-		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 10000,
+			["sources"] = {
+				18751,
+				18774,
+				19063,
+				19539,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5230,7 +5238,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41418,
-		["min_skill"] = 1,
+		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "海巫之冠",
 			["English"] = "Crown of the Sea Witch",
@@ -5243,8 +5251,16 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Corona de la Bruja del Mar",
 			["Taiwanese"] = "海巫之冠",
 		},
-		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 10000,
+			["sources"] = {
+				18751,
+				18774,
+				19063,
+				19539,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5266,10 +5282,10 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 		["trainers"] = {
 			["price"] = 8500,
 			["sources"] = {
-				19063,
-				19539,
 				18751,
 				18774,
+				19063,
+				19539,
 			},
 		},
 	},
@@ -5293,10 +5309,10 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 		["trainers"] = {
 			["price"] = 10000,
 			["sources"] = {
-				19063,
-				19539,
 				18751,
 				18774,
+				19063,
+				19539,
 			},
 		},
 	},

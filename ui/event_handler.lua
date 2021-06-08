@@ -13,6 +13,7 @@ MTSLUI_EVENT_HANDLER = {
 	-- Event started when our addon is fully loaded
 	---------------------------------------------------------------------------------------
 	PLAYER_LOGIN = function (self)
+		MTSL_MISSING_DATA = nil
 		if MTSL_TOOLS:CheckIfDataIsValid() then
 			if MTSLUI_TOOLS:SetAddonLocale() then
 				-- load the data for the player

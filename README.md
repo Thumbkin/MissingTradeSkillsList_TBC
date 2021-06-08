@@ -44,12 +44,14 @@ Minimap button & Enhanced tooltip
 * Link items to a channel (Say, Guild, Party, Raid or "Auto") or add item to current chat message
 * Ability to drag each MTSL frame around
 
-### Latest version (v2.5.04)
+### Latest version (v2.5.05)
 
-* Added loads of spells/items/npcs for all professions
-* Added all "Master" level for all professions
-* Set the correct trainers for each level of each profession
-* Added specialisations for Alchemy & Tailoring
+* Added missing "expansion" number for classic specialisations
+* Added some missing NPCs
+* Updated professions to only have the correct auto learned spells
+* Set the correct phase for some skill
+* Fixed bug with data not showing mobs anymore that drop an item
+* Added code to save ids when data is missing for an object for easier missing data reports. Include the contents of "MTSL_MISSING_DATA" from saved variables to bug report if not empty
 
 ### Support
 

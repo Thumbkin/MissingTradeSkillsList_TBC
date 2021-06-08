@@ -126,7 +126,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7428,
-		["min_skill"] = 80,
+		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "附魔护腕 - 初级偏斜",
 			["English"] = "Enchant Bracer - Minor Deflection",

@@ -5,6 +5,7 @@
 * Added all "Master" level for all professions
 * Set the correct trainers for each level of each profession
 * Added specialisations for Alchemy & Tailoring
+* Updated the names of all spells, items with live ingame data
 
 ### v2.5.03 (May 30, 2021)
 * Fixed data

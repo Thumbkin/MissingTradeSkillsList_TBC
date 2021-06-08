@@ -159,7 +159,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				696,
 				938,
 				3762,
@@ -221,7 +221,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				684,
 				2242,
 				2592,
@@ -266,7 +266,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				684,
 				1551,
 				2572,
@@ -382,7 +382,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				2549,
 				2591,
 				2648,
@@ -424,7 +424,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				5267,
 				5844,
 				7036,
@@ -463,7 +463,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				2642,
 				4328,
 				4466,
@@ -526,7 +526,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				1791,
 				1809,
 				5420,
@@ -605,7 +605,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				1789,
 				1791,
 				1795,
@@ -701,7 +701,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				9736,
 			},
 		},
@@ -1349,7 +1349,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18315,
 				18331,
 			},
@@ -1436,7 +1436,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18472,
 			},
 		},
@@ -1497,7 +1497,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18315,
 				18313,
 			},
@@ -1521,7 +1521,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18313,
 				18327,
 				20210,
@@ -1547,7 +1547,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19428,
 				21891,
 			},
@@ -1571,7 +1571,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18314,
 				21891,
 				18331,
@@ -1615,7 +1615,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18323,
 			},
 		},
@@ -1657,7 +1657,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18794,
 			},
 		},
@@ -1680,7 +1680,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18315,
 			},
 		},
@@ -1703,7 +1703,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18422,
 			},
 		},
@@ -1726,7 +1726,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18096,
 			},
 		},
@@ -1990,7 +1990,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18702,
 			},
 		},
@@ -2051,7 +2051,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18320,
 				18313,
 			},
@@ -2075,7 +2075,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18314,
 			},
 		},
@@ -2136,7 +2136,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18318,
 				18320,
 			},
@@ -2160,7 +2160,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18331,
 				21891,
 			},
@@ -2184,7 +2184,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17799,
 				18312,
 				18318,
@@ -2209,7 +2209,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18331,
 			},
 		},
@@ -2232,7 +2232,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18319,
 			},
 		},
@@ -2255,7 +2255,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18331,
 			},
 		},
@@ -2278,7 +2278,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18328,
 			},
 		},
@@ -2301,7 +2301,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18318,
 			},
 		},
@@ -2324,7 +2324,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18319,
 				18331,
 				18314,
@@ -2412,7 +2412,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17134,
 			},
 		},
@@ -2435,7 +2435,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18318,
 				18331,
 				18312,
@@ -2460,7 +2460,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18495,
 				18312,
 				18313,
@@ -2486,7 +2486,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17803,
 				18312,
 				19429,
@@ -2511,7 +2511,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18323,
 				18313,
 			},
@@ -2554,7 +2554,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18314,
 				18325,
 			},
@@ -2597,7 +2597,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17840,
 			},
 		},
@@ -2711,7 +2711,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17669,
 			},
 		},
@@ -2753,7 +2753,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				16704,
 			},
 		},
@@ -2801,7 +2801,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				19428,
 			},
 		},
@@ -3018,7 +3018,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				23230,
 				23332,
 				23333,
@@ -3046,7 +3046,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				22281,
 				23061,
 				23230,
@@ -3075,7 +3075,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				22281,
 				23061,
 				23230,
@@ -3104,7 +3104,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				22281,
 				23061,
 				23230,
@@ -3133,7 +3133,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				22281,
 				23061,
 				23230,
@@ -3162,7 +3162,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17862,
 				18495,
 			},
@@ -3205,7 +3205,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18314,
 			},
 		},
@@ -3228,7 +3228,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18315,
 			},
 		},
@@ -3251,7 +3251,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				18318,
 			},
 		},
@@ -3388,7 +3388,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17767,
 				17808,
 				17842,
@@ -3472,7 +3472,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17767,
 				17808,
 				17842,
@@ -3594,7 +3594,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17767,
 				17808,
 				17842,
@@ -3621,7 +3621,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17767,
 				17808,
 				17842,
@@ -3648,7 +3648,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17767,
 				17808,
 				17842,
@@ -3675,7 +3675,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17767,
 				17808,
 				17842,
@@ -3778,7 +3778,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17767,
 				17808,
 				17842,
@@ -3862,7 +3862,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				17767,
 				17808,
 				17842,
@@ -4278,7 +4278,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -4313,7 +4313,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -4348,7 +4348,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -4383,7 +4383,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -4418,7 +4418,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,
@@ -4453,7 +4453,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["mobs"] = {
+			["sources"] = {
 				25483,
 				25484,
 				25486,

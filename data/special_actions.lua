@@ -92,6 +92,21 @@ MTSL_DATA["special_actions"] = {
             ["Taiwanese"] = "檢查祖古魯的瘋狂平板電腦",
         },
     },
+    ["learned through discovery"] = {
+        ["id"] = 2,
+        ["name"] = {
+            ["Chinese"] = "通过发现学习",
+            ["English"] = "Learned through discovery",
+            ["French"] = "Appris par la découverte",
+            ["German"] = "Durch Entdeckung gelernt",
+            ["Korean"] = "발견을 통해 배운",
+            ["Mexican"] = "Aprendido a través del descubrimiento",
+            ["Portuguese"] = "Aprendeu por meio da descoberta",
+            ["Russian"] = "Узнал через открытия",
+            ["Spanish"] = "Aprendido a través del descubrimiento",
+            ["Taiwanese"] = "通過發現學習",
+        },
+    },
     ["made gnomish engi 205"] = {
         ["id"] = 7,
         ["name"] = {

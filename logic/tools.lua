@@ -548,4 +548,22 @@ MTSL_TOOLS = {
 			return MTSLUI_TOOLS:GetLocalisedData(expansion)
 		end
 	end,
+
+	list_contains_value = function(self, list, value)
+		for _, v in pairs(list) do
+			if v == value then
+				return 1
+			end
+		end
+		return 0
+	end,
+
+	AddMissingData = function(self, type_data, object_id)
+		if not MTSL_MISSING_DATA then MTSL_MISSING_DATA = {} end
+		if not MTSL_MISSING_DATA[type_data] then MTSL_MISSING_DATA[type_data] = {} end
+		if self:list_contains_value(MTSL_MISSING_DATA[type_data], tonumber(object_id)) == false then
+			print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not find " .. type_data .. " with id " .. object_id .. ". Please report this bug!")
+			table.insert(MTSL_MISSING_DATA[type_data], tonumber(object_id))
+		end
+	end,
 }

@@ -8607,7 +8607,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44343,
-		["min_skill"] = 1,
+		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "结缔皮弹药包",
 			["English"] = "Knothide Ammo Pouch",
@@ -8620,8 +8620,15 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Faltriquera para munición de pellejo nudoso",
 			["Taiwanese"] = "境外皮彈藥包",
 		},
-		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["phase"] = 3,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				18754,
+				18771,
+				19187,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -8639,8 +8646,15 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Carcaj de pellejo nudoso",
 			["Taiwanese"] = "境外皮箭袋",
 		},
-		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["phase"] = 3,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				18754,
+				18771,
+				19187,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,

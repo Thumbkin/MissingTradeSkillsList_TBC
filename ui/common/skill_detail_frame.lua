@@ -804,10 +804,10 @@ MTSLUI_SKILL_DETAIL_FRAME = {
                         self:SetSourceType(MTSLUI_FONTS.COLORS.TEXT.NORMAL .. MTSLUI_TOOLS:GetLocalisedLabel("mobs"), 1, 1)
                         self.labels.alt_sources.title:SetText(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_TOOLS:GetLocalisedLabel("dropped by"))
                         -- check if drop of mob or world drops
-                        if item.drops.range ~= nil then
+                        if item.drops.range then
                             self:ShowWorldDropSources(item.drops.range.min_xp_level, item.drops.range.max_xp_level, 1)
                         else
-                            if item.drops.zones ~= nil then
+                            if item.drops.zones then
                                 self:ShowZoneDropSources(item.drops.zones, 1)
                             else
                                 local mobs = MTSL_LOGIC_PLAYER_NPC:GetMobsByIds(item.drops.sources)
