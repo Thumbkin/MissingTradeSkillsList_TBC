@@ -61,10 +61,6 @@ MTSL_LOGIC_PLAYER_NPC = {
             MTSL_TOOLS:SortArray(MTSL_PLAYERS)
             MTSL_TOOLS:SortArrayByProperty(MTSL_PLAYERS[realm], "name")
         else
-            if MTSLUI_SAVED_VARIABLES:GetShowWelcomeMessage() == 1 then
-                print(MTSLUI_FONTS.COLORS.TEXT.SUCCESS .. "MTSL: " .. current_player.NAME .. " (" .. current_player.XP_LEVEL .. ", " .. current_player.FACTION .. ") on " .. current_player.REALM .. " loaded")
-            end
-
             -- set the loaded or created player as current one
             MTSL_CURRENT_PLAYER = current_player
             -- Update class, faction & xp_level, just in case

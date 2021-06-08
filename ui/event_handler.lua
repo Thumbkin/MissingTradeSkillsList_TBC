@@ -50,6 +50,10 @@ MTSLUI_EVENT_HANDLER = {
 						print(MTSLUI_FONTS.COLORS.TEXT.TITLE .."MTSL: Using data for phase " .. MTSL_DATA.CURRENT_PATCH_LEVEL .. " (" .. MTSL_LOGIC_WORLD:GetZoneNameById(MTSL_DATA.PHASE_IDS[MTSL_DATA.CURRENT_PATCH_LEVEL]) .. ")")
 					end
 
+					if not MTSLUI_SAVED_VARIABLES or MTSLUI_SAVED_VARIABLES:GetShowWelcomeMessage() == 1 then
+						print(MTSLUI_FONTS.COLORS.TEXT.SUCCESS .. "MTSL: " .. MTSL_CURRENT_PLAYER.NAME .. " (" .. MTSL_CURRENT_PLAYER.XP_LEVEL .. ", " .. MTSL_CURRENT_PLAYER.FACTION .. ") on " .. MTSL_CURRENT_PLAYER.REALM .. " loaded")
+					end
+
 					self.addon_loaded = 1
 				end
 			else

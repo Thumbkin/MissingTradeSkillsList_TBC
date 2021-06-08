@@ -46,13 +46,16 @@ Minimap button & Enhanced tooltip
 
 ### Latest version (v2.5.05)
 
-* Added missing "expansion" number for classic specialisations
-* Added some missing NPCs
-* Updated professions to only have the correct auto learned spells
-* Set the correct phase for some skill
-* Fixed bug with data not showing mobs anymore that drop an item
+* Fixed data
+  * Added missing "expansion" number for classic specialisations
+  * Added some missing NPCs
+  * Updated professions to only have the correct auto learned spells
+  * Set the correct phase for some skill
 * Added code to save ids when data is missing for an object for easier missing data reports. Include the contents of "MTSL_MISSING_DATA" from saved variables to bug report if not empty
-* fixed missing icon for Jewelcrafting in skill list frame
+* Fixed bugs
+  * Fresh install could prevent addon from loading when MTSLUI_PLAYER is not yet loaded/filled
+  * Mob data is once again shown when the item they drop is selected
+  * Missing icon for Jewelcrafting in skill list frame
 
 ### Support
 
