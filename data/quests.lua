@@ -445,7 +445,7 @@ MTSL_DATA["quests"] =
 	},
 	{
 		["expansion"] = 1,
-		["id"] = 1559,
+		["id"] = 1578,
 		["min_xp_level"] = 1,
 		["name"] = {
 			["Chinese"] = "前线的补给",

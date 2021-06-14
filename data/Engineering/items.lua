@@ -2478,7 +2478,6 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "common",
 		["quests"] = {
 			9635,
-			9636,
 		}
 	},
 	{
@@ -2554,6 +2553,11 @@ MTSL_DATA["items"]["Engineering"] =
 		["quality"] = "uncommon"
 	},
 	{
+		["drops"] = {
+			["zone_ids"] = {
+				4075,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35186,
 		["name"] = {
@@ -2570,11 +2574,13 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 5,
 		["quality"] = "epic",
-		["drops"] = {
-			["zone_ids"] = 4075,
-		}
 	},
 	{
+		["drops"] = {
+			["zone_ids"] = {
+				4075,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35187,
 		["name"] = {
@@ -2591,11 +2597,13 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 5,
 		["quality"] = "epic",
-		["drops"] = {
-			["zone_ids"] = 4075,
-		}
 	},
 	{
+		["drops"] = {
+			["zone_ids"] = {
+				4075,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35189,
 		["name"] = {
@@ -2612,11 +2620,13 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 5,
 		["quality"] = "epic",
-		["drops"] = {
-			["zone_ids"] = 4075,
-		}
 	},
 	{
+		["drops"] = {
+			["zone_ids"] = {
+				4075,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35190,
 		["name"] = {
@@ -2633,11 +2643,13 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 5,
 		["quality"] = "epic",
-		["drops"] = {
-			["zone_ids"] = 4075,
-		}
 	},
 	{
+		["drops"] = {
+			["zone_ids"] = {
+				4075,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35191,
 		["name"] = {
@@ -2654,11 +2666,13 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 5,
 		["quality"] = "epic",
-		["drops"] = {
-			["zone_ids"] = 4075,
-		}
 	},
 	{
+		["drops"] = {
+			["zone_ids"] = {
+				4075,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35192,
 		["name"] = {
@@ -2675,11 +2689,13 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 5,
 		["quality"] = "epic",
-		["drops"] = {
-			["zone_ids"] = 4075,
-		}
 	},
 	{
+		["drops"] = {
+			["zone_ids"] = {
+				4075,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35193,
 		["name"] = {
@@ -2696,11 +2712,13 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 5,
 		["quality"] = "epic",
-		["drops"] = {
-			["zone_ids"] = 4075,
-		}
 	},
 	{
+		["drops"] = {
+			["zone_ids"] = {
+				4075,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35194,
 		["name"] = {
@@ -2717,11 +2735,13 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 5,
 		["quality"] = "epic",
-		["drops"] = {
-			["zone_ids"] = 4075,
-		}
 	},
 	{
+		["drops"] = {
+			["zone_ids"] = {
+				4075,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35195,
 		["name"] = {
@@ -2738,11 +2758,13 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 5,
 		["quality"] = "epic",
-		["drops"] = {
-			["zone_ids"] = 4075,
-		}
 	},
 	{
+		["drops"] = {
+			["zone_ids"] = {
+				4075,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35196,
 		["name"] = {
@@ -2759,11 +2781,13 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 5,
 		["quality"] = "epic",
-		["drops"] = {
-			["zone_ids"] = 4075,
-		}
 	},
 	{
+		["drops"] = {
+			["zone_ids"] = {
+				4075,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35197,
 		["name"] = {
@@ -2780,9 +2804,6 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 5,
 		["quality"] = "epic",
-		["drops"] = {
-			["zone_ids"] = 4075,
-		}
 	},
 	{
 		["drops"] = {

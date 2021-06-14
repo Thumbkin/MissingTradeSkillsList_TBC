@@ -5536,7 +5536,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["phase"] = 1,
 		["quality"] = "uncommon",
 		["quests"] = {
-			1578
+			1578,
 		}
 	},
 	{
