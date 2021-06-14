@@ -133,7 +133,7 @@ MTSL_DATA["items"]["First Aid"] =
 		},
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 21992,
 		["name"] = {
 			["Chinese"] = "手册：灵纹布绷带",
@@ -158,7 +158,7 @@ MTSL_DATA["items"]["First Aid"] =
 		},
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 21993,
 		["name"] = {
 			["Chinese"] = "手册：厚灵纹布绷带",
@@ -183,7 +183,7 @@ MTSL_DATA["items"]["First Aid"] =
 		},
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 22012,
 		["name"] = {
 			["Chinese"] = "大师级急救手册 - 私人医生",

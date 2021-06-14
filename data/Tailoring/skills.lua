@@ -6716,7 +6716,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Brazales implacables",
 			["Taiwanese"] = "不屈護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -6843,7 +6843,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Faja implacable",
 			["Taiwanese"] = "不屈束腰",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -7142,7 +7142,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Cinturón de detonación",
 			["Taiwanese"] = "衝擊腰帶",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -7163,7 +7163,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Cinturón del largo camino",
 			["Taiwanese"] = "長路腰帶",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -7184,7 +7184,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Botas de detonación",
 			["Taiwanese"] = "衝擊之靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -7205,7 +7205,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Botas del largo camino",
 			["Taiwanese"] = "長路之靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -7331,7 +7331,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Zapatillas de guarda de almas",
 			["Taiwanese"] = "靈魂守護軟靴",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -7352,7 +7352,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Brazales de guarda de almas",
 			["Taiwanese"] = "靈魂守護護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -7373,7 +7373,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Leotardos de guarda de almas",
 			["Taiwanese"] = "靈魂守護護腿",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -7394,7 +7394,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Faja de guarda de almas",
 			["Taiwanese"] = "靈魂守護束腰",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -7415,7 +7415,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Fin de la Noche",
 			["Taiwanese"] = "夜幕之終",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -7436,7 +7436,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Brazales de pensamiento ágil",
 			["Taiwanese"] = "靈機護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -7457,7 +7457,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Manto de pensamiento ágil",
 			["Taiwanese"] = "靈機披肩",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -7478,7 +7478,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Brazaletes Sanaveloz",
 			["Taiwanese"] = "速癒裹帶",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -7499,7 +7499,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Manto Sanaveloz",
 			["Taiwanese"] = "速癒披肩",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -7562,7 +7562,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Manijas de Fuego Solar",
 			["Taiwanese"] = "日炎裹手",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -7583,7 +7583,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Manos de Luz eterna",
 			["Taiwanese"] = "永恆之光手套",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -7604,7 +7604,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Túnica de Fuego Solar",
 			["Taiwanese"] = "日炎長袍",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -7625,7 +7625,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Toga de Luz eterna",
 			["Taiwanese"] = "永恆之光長袍",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,

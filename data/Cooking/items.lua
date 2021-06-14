@@ -2041,23 +2041,6 @@ MTSL_DATA["items"]["Cooking"] =
 			["Taiwanese"] = "食譜：煙熏蜥蜴",
 		},
 		["phase"] = 1,
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 27690,
-		["name"] = {
-			["Chinese"] = "食谱：烟熏蜥蜴",
-			["English"] = "Recipe: Blackened Basilisk",
-			["French"] = "Recette : Basilic noirci",
-			["German"] = "Rezept: Schwarzgebratener Basilisk",
-			["Korean"] = "조리법: 바실리스크 장작구이",
-			["Mexican"] = "Receta: basilisco ennegrecido",
-			["Portuguese"] = "Receita: Basilisco Esturricado",
-			["Russian"] = "Рецепт: копченый василиск",
-			["Spanish"] = "Receta: basilisco ennegrecido",
-			["Taiwanese"] = "食譜：煙熏蜥蜴",
-		},
-		["phase"] = 1,
 		["quality"] = "common",
 		["vendors"] = {
 			["price"] = 30000,
@@ -2572,7 +2555,7 @@ MTSL_DATA["items"]["Cooking"] =
 		},
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 34834,
 		["name"] = {
 			["Chinese"] = "食谱：拉姆瑟船长的特酿啤酒",

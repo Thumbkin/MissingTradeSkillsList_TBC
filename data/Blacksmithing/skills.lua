@@ -8657,7 +8657,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Cinturón del guardián",
 			["Taiwanese"] = "守衛者腰帶",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -8678,7 +8678,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Cinturón rojo de batalla",
 			["Taiwanese"] = "紅色戰鬥腰帶",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -8699,7 +8699,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Botas del protector",
 			["Taiwanese"] = "保衛者之靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -8720,7 +8720,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Botas de caos rojas",
 			["Taiwanese"] = "紅色浩劫戰靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -8867,7 +8867,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Zuecos de acero de Sombras",
 			["Taiwanese"] = "影堅戰靴",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8888,7 +8888,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Brazales de acero de Sombras",
 			["Taiwanese"] = "影堅護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8909,7 +8909,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Grebas de acero de Sombras",
 			["Taiwanese"] = "影堅護脛",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8930,7 +8930,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Faja de acero de Sombras",
 			["Taiwanese"] = "影堅束腰",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8951,7 +8951,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Brazales de acero presto",
 			["Taiwanese"] = "迅鋼護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8972,7 +8972,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Sobrehombros de acero presto",
 			["Taiwanese"] = "迅鋼護肩",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8993,7 +8993,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Brazales albacero",
 			["Taiwanese"] = "黎明鋼鐵護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -9014,7 +9014,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Sobrehombros albacero",
 			["Taiwanese"] = "黎明鋼鐵護肩",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -9057,7 +9057,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Cadena de adamantita",
 			["Taiwanese"] = "堅鋼武器鍊",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -9120,7 +9120,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Guanteletes bendecidos por el sol",
 			["Taiwanese"] = "太陽祝福護手",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -9141,7 +9141,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Puños de batalla de korio duro",
 			["Taiwanese"] = "特硬克銀戰拳",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -9162,7 +9162,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Coraza bendecida por el sol",
 			["Taiwanese"] = "太陽祝福胸甲",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -9183,6 +9183,6 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Placa de batalla de korio duro",
 			["Taiwanese"] = "特硬克銀戰甲",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 }

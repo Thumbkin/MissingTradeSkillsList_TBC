@@ -4515,7 +4515,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Espinela carmesí ostentosa",
 			["Taiwanese"] = "閃光的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -4603,7 +4603,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Zafiro empíreo tormentoso",
 			["Taiwanese"] = "激烈的蒼穹藍寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -4735,7 +4735,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Ojo de león místico",
 			["Taiwanese"] = "神秘的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -4757,7 +4757,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Gran ojo de león",
 			["Taiwanese"] = "極佳的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -4779,7 +4779,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Amatista Cantosombrío soberana",
 			["Taiwanese"] = "尊貴的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -4801,7 +4801,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Amatista Cantosombrío cambiante",
 			["Taiwanese"] = "移形的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -4911,7 +4911,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Piropiedra con inscripciones",
 			["Taiwanese"] = "雕刻的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -4999,7 +4999,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Piropiedra velada",
 			["Taiwanese"] = "矇矓的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -5526,7 +5526,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Lazada de poder forjado",
 			["Taiwanese"] = "鍛能戒環",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5548,7 +5548,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Anillo de caudal de vida",
 			["Taiwanese"] = "流動生命戒指",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5570,7 +5570,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Sortija de korio duro",
 			["Taiwanese"] = "特硬克銀指環",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5592,7 +5592,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Colgante de Fuego Solar",
 			["Taiwanese"] = "日炎墜飾",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5614,7 +5614,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Amuleto de caudal de vida",
 			["Taiwanese"] = "流動生命護符",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5636,7 +5636,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Gargantilla de korio duro",
 			["Taiwanese"] = "特硬克銀頸飾",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5762,7 +5762,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Figurilla: tortuga empírea",
 			["Taiwanese"] = "刻像 - 蒼穹巨龜",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5783,7 +5783,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Figurilla: jabalí de korio",
 			["Taiwanese"] = "設計圖:刻像 - 克銀野豬",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5804,7 +5804,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Figurilla: serpiente carmesí",
 			["Taiwanese"] = "設計圖:刻像 - 赤紅巨蛇",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5825,7 +5825,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Figurilla: pantera Cantosombrío",
 			["Taiwanese"] = "設計圖:刻像 - 影歌獵豹",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5846,7 +5846,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Figurilla: albatros de espuma marina",
 			["Taiwanese"] = "設計圖:刻像 - 海泉信天翁",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5867,7 +5867,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Ojo de noche majestuoso",
 			["Taiwanese"] = "華貴的夜眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5889,7 +5889,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Esmeralda de espuma marina fuerte",
 			["Taiwanese"] = "堅強的海泉綠寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5911,7 +5911,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Esmeralda de espuma marina firme",
 			["Taiwanese"] = "穩固的海泉綠寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5933,7 +5933,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Piropiedra temeraria",
 			["Taiwanese"] = "魯莽的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5955,7 +5955,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Ojo de león rápido",
 			["Taiwanese"] = "迅速的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,

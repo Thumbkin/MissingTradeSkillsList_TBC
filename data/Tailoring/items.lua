@@ -2308,7 +2308,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["drops"] = {
 			["range"] = {
 				["max_xp_level"] = 63,
-				["min_xp_level"] = 61,
+				["min_xp_level"] = 60,
 			},
 		},
 		["expansion"] = 1,
@@ -2332,7 +2332,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["drops"] = {
 			["range"] = {
 				["max_xp_level"] = 63,
-				["min_xp_level"] = 61,
+				["min_xp_level"] = 60,
 			},
 		},
 		["expansion"] = 1,
@@ -2356,7 +2356,7 @@ MTSL_DATA["items"]["Tailoring"] =
 		["drops"] = {
 			["range"] = {
 				["max_xp_level"] = 63,
-				["min_xp_level"] = 61,
+				["min_xp_level"] = 60,
 			},
 		},
 		["expansion"] = 1,

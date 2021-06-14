@@ -4,6 +4,7 @@
 MTSL_DATA["quests"] = 
 {
 	{
+		["expansion"] = 1,
 		["id"] = 22,
 		["min_xp_level"] = 9,
 		["name"] = {
@@ -24,6 +25,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 38,
 		["min_xp_level"] = 9,
 		["name"] = {
@@ -44,6 +46,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 90,
 		["min_xp_level"] = 19,
 		["name"] = {
@@ -64,6 +67,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 92,
 		["min_xp_level"] = 15,
 		["name"] = {
@@ -84,6 +88,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 93,
 		["min_xp_level"] = 17,
 		["name"] = {
@@ -104,6 +109,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 127,
 		["min_xp_level"] = 16,
 		["name"] = {
@@ -124,6 +130,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 296,
 		["min_xp_level"] = 22,
 		["name"] = {
@@ -144,6 +151,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 384,
 		["min_xp_level"] = 5,
 		["name"] = {
@@ -164,6 +172,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 385,
 		["min_xp_level"] = 12,
 		["name"] = {
@@ -184,6 +193,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 418,
 		["min_xp_level"] = 9,
 		["name"] = {
@@ -204,6 +214,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 429,
 		["min_xp_level"] = 11,
 		["name"] = {
@@ -224,6 +235,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 471,
 		["min_xp_level"] = 18,
 		["name"] = {
@@ -244,6 +256,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 498,
 		["min_xp_level"] = 17,
 		["name"] = {
@@ -264,6 +277,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 501,
 		["min_xp_level"] = 21,
 		["name"] = {
@@ -284,6 +298,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 555,
 		["min_xp_level"] = 28,
 		["name"] = {
@@ -304,6 +319,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 564,
 		["min_xp_level"] = 30,
 		["name"] = {
@@ -324,6 +340,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 703,
 		["min_xp_level"] = 33,
 		["name"] = {
@@ -344,6 +361,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 715,
 		["min_xp_level"] = 35,
 		["name"] = {
@@ -364,6 +382,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 769,
 		["min_xp_level"] = 4,
 		["name"] = {
@@ -384,6 +403,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 862,
 		["min_xp_level"] = 15,
 		["name"] = {
@@ -404,6 +424,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 1487,
 		["min_xp_level"] = 15,
 		["name"] = {
@@ -424,6 +445,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 1559,
 		["min_xp_level"] = 35,
 		["name"] = {
@@ -465,6 +487,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 1582,
 		["min_xp_level"] = 8,
 		["name"] = {
@@ -485,6 +508,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 1618,
 		["min_xp_level"] = 10,
 		["name"] = {
@@ -505,6 +529,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2178,
 		["min_xp_level"] = 9,
 		["name"] = {
@@ -525,6 +550,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2203,
 		["min_xp_level"] = 42,
 		["name"] = {
@@ -545,6 +571,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2359,
 		["min_xp_level"] = 20,
 		["name"] = {
@@ -565,6 +592,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2360,
 		["min_xp_level"] = 20,
 		["name"] = {
@@ -585,6 +613,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2478,
 		["min_xp_level"] = 20,
 		["name"] = {
@@ -605,6 +634,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2480,
 		["min_xp_level"] = 20,
 		["name"] = {
@@ -625,6 +655,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2501,
 		["min_xp_level"] = 39,
 		["name"] = {
@@ -645,6 +676,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2751,
 		["min_xp_level"] = 32,
 		["name"] = {
@@ -665,6 +697,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2752,
 		["min_xp_level"] = 32,
 		["name"] = {
@@ -685,6 +718,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2753,
 		["min_xp_level"] = 32,
 		["name"] = {
@@ -705,6 +739,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2754,
 		["min_xp_level"] = 32,
 		["name"] = {
@@ -725,6 +760,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2755,
 		["min_xp_level"] = 32,
 		["name"] = {
@@ -745,6 +781,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2756,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -765,6 +802,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2758,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -785,6 +823,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2761,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -805,6 +844,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2762,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -825,6 +865,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2763,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -845,6 +886,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2771,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -865,6 +907,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2772,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -885,6 +928,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2773,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -905,6 +949,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2848,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -925,6 +970,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2849,
 		["min_xp_level"] = 43,
 		["name"] = {
@@ -945,6 +991,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2850,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -965,6 +1012,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2851,
 		["min_xp_level"] = 41,
 		["name"] = {
@@ -985,6 +1033,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2852,
 		["min_xp_level"] = 41,
 		["name"] = {
@@ -1005,6 +1054,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2853,
 		["min_xp_level"] = 45,
 		["name"] = {
@@ -1025,6 +1075,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2855,
 		["min_xp_level"] = 41,
 		["name"] = {
@@ -1045,6 +1096,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2856,
 		["min_xp_level"] = 39,
 		["name"] = {
@@ -1065,6 +1117,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2857,
 		["min_xp_level"] = 44,
 		["name"] = {
@@ -1085,6 +1138,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2858,
 		["min_xp_level"] = 41,
 		["name"] = {
@@ -1105,6 +1159,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2859,
 		["min_xp_level"] = 41,
 		["name"] = {
@@ -1125,6 +1180,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 2860,
 		["min_xp_level"] = 45,
 		["name"] = {
@@ -1145,6 +1201,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3402,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -1165,6 +1222,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3629,
 		["min_skill"] = 200,
 		["min_xp_level"] = 30,
@@ -1189,6 +1247,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3630,
 		["min_xp_level"] = 30,
 		["name"] = {
@@ -1212,6 +1271,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3644,
 		["min_xp_level"] = 30,
 		["name"] = {
@@ -1233,6 +1293,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 3645,
 		["min_xp_level"] = 30,
 		["name"] = {
@@ -1254,6 +1315,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 4083,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -1274,6 +1336,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 4161,
 		["min_xp_level"] = 5,
 		["name"] = {
@@ -1294,6 +1357,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5124,
 		["min_xp_level"] = 55,
 		["name"] = {
@@ -1314,6 +1378,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5127,
 		["min_xp_level"] = 55,
 		["name"] = {
@@ -1334,6 +1399,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5141,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -1355,6 +1421,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5143,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -1376,6 +1443,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5144,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -1397,6 +1465,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5150,
 		["min_xp_level"] = 47,
 		["name"] = {
@@ -1417,6 +1486,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5283,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -1438,6 +1508,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5284,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -1459,6 +1530,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5305,
 		["min_xp_level"] = 50,
 		["name"] = {
@@ -1479,6 +1551,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5306,
 		["min_xp_level"] = 50,
 		["name"] = {
@@ -1499,6 +1572,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5307,
 		["min_xp_level"] = 50,
 		["name"] = {
@@ -1519,6 +1593,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5518,
 		["min_xp_level"] = 57,
 		["name"] = {
@@ -1539,6 +1614,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 5519,
 		["min_xp_level"] = 56,
 		["name"] = {
@@ -1559,6 +1635,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6032,
 		["min_xp_level"] = 50,
 		["name"] = {
@@ -1583,6 +1660,7 @@ MTSL_DATA["quests"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6607,
 		["min_xp_level"] = 35,
 		["name"] = {
@@ -1603,6 +1681,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6610,
 		["min_xp_level"] = 35,
 		["name"] = {
@@ -1623,6 +1702,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6622,
 		["min_xp_level"] = 35,
 		["name"] = {
@@ -1643,6 +1723,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 6624,
 		["min_xp_level"] = 35,
 		["name"] = {
@@ -1663,6 +1744,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7321,
 		["min_xp_level"] = 28,
 		["name"] = {
@@ -1683,6 +1765,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7493,
 		["min_xp_level"] = 60,
 		["name"] = {
@@ -1703,6 +1786,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7497,
 		["min_xp_level"] = 60,
 		["name"] = {
@@ -1723,6 +1807,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7604,
 		["items"] = {
 			18628,
@@ -1743,6 +1828,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7649,
 		["items"] = {
 			18769,
@@ -1763,6 +1849,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7650,
 		["items"] = {
 			18770,
@@ -1783,6 +1870,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7651,
 		["items"] = {
 			18771,
@@ -1803,6 +1891,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7653,
 		["min_xp_level"] = 50,
 		["name"] = {
@@ -1823,6 +1912,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7654,
 		["min_xp_level"] = 50,
 		["name"] = {
@@ -1843,6 +1933,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7655,
 		["min_xp_level"] = 50,
 		["name"] = {
@@ -1863,6 +1954,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7656,
 		["min_xp_level"] = 50,
 		["name"] = {
@@ -1883,6 +1975,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7657,
 		["min_xp_level"] = 50,
 		["name"] = {
@@ -1903,6 +1996,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7658,
 		["min_xp_level"] = 50,
 		["name"] = {
@@ -1923,6 +2017,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 7659,
 		["min_xp_level"] = 50,
 		["name"] = {
@@ -1943,6 +2038,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8313,
 		["min_xp_level"] = 55,
 		["name"] = {
@@ -1963,6 +2059,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8323,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -1983,6 +2080,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8586,
 		["min_xp_level"] = 60,
 		["name"] = {
@@ -2003,6 +2101,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8769,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -2021,6 +2120,7 @@ MTSL_DATA["quests"] =
 		["special_action"] = "present Christmas tree",
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8798,
 		["min_xp_level"] = 52,
 		["name"] = {
@@ -2041,6 +2141,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8876,
 		["min_xp_level"] = 25,
 		["name"] = {
@@ -2061,6 +2162,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8877,
 		["min_xp_level"] = 45,
 		["name"] = {
@@ -2081,6 +2183,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8878,
 		["min_xp_level"] = 50,
 		["name"] = {
@@ -2101,6 +2204,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8879,
 		["min_xp_level"] = 35,
 		["name"] = {
@@ -2121,6 +2225,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8880,
 		["min_xp_level"] = 45,
 		["name"] = {
@@ -2141,6 +2246,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8881,
 		["min_xp_level"] = 55,
 		["name"] = {
@@ -2161,6 +2267,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 8882,
 		["min_xp_level"] = 55,
 		["name"] = {
@@ -2181,6 +2288,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9171,
 		["min_xp_level"] = 12,
 		["name"] = {
@@ -2201,6 +2309,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9233,
 		["min_skill"] = 290,
 		["min_xp_level"] = 60,
@@ -2226,6 +2335,7 @@ MTSL_DATA["quests"] =
 		},
 	},
 	{
+		["expansion"] = 1,
 		["id"] = 9249,
 		["min_xp_level"] = 45,
 		["name"] = {
@@ -2247,6 +2357,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 9356,
 		["min_xp_level"] = 58,
 		["name"] = {
@@ -2267,6 +2378,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 9454,
 		["min_xp_level"] = 4,
 		["name"] = {
@@ -2287,6 +2399,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 9635,
 		["min_xp_level"] = 58,
 		["name"] = {
@@ -2308,6 +2421,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 10831,
 		["min_skill"] = 350,
 		["min_xp_level"] = 60,
@@ -2318,7 +2432,7 @@ MTSL_DATA["quests"] =
 			["German"] = "Wie man ein Mondstoffschneider wird",
 			["Korean"] = "[Becoming a Mooncloth Tailor]",
 			["Mexican"] = "Convertirse en un sastre de tela lunar",
-			["Portuguese"] = "[Becoming a Mooncloth Tailor]",
+			["Portuguese"] = "Como se tornar um alfaiate de lunatrama",
 			["Russian"] = "Обучение шитью из луноткани",
 			["Spanish"] = "Convertirse en un sastre de tela lunar",
 			["Taiwanese"] = "成為月布裁縫",
@@ -2329,6 +2443,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 10832,
 		["min_skill"] = 350,
 		["min_xp_level"] = 60,
@@ -2339,7 +2454,7 @@ MTSL_DATA["quests"] =
 			["German"] = "Wie man ein Zauberfeuerschneider wird",
 			["Korean"] = "[Becoming a Spellfire Tailor]",
 			["Mexican"] = "Convertirse en sastre fuego de hechizo",
-			["Portuguese"] = "[Becoming a Spellfire Tailor]",
+			["Portuguese"] = "Como se tornar um alfaiate de fogo místico",
 			["Russian"] = "Обучение шитью из чароткани",
 			["Spanish"] = "Convertirse en sastre fuego de hechizo",
 			["Taiwanese"] = "成為魔焰裁縫",
@@ -2350,6 +2465,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 10833,
 		["min_skill"] = 350,
 		["min_xp_level"] = 60,
@@ -2360,7 +2476,7 @@ MTSL_DATA["quests"] =
 			["German"] = "Wie man ein Schattenzwirnschneider wird",
 			["Korean"] = "[Becoming a Shadoweave Tailor]",
 			["Mexican"] = "Convertirse en un sastre de tejido de sombra",
-			["Portuguese"] = "[Becoming a Shadoweave Tailor]",
+			["Portuguese"] = "Como se tornar um alfaiate de umbratrama",
 			["Russian"] = "Обучение шитью из тенеткани",
 			["Spanish"] = "Convertirse en un sastre de tejido de sombra",
 			["Taiwanese"] = "成為暗紋裁縫",
@@ -2371,6 +2487,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 10897,
 		["min_skill"] = 325,
 		["min_xp_level"] = 68,
@@ -2379,7 +2496,7 @@ MTSL_DATA["quests"] =
 			["English"] = "Master of Potions",
 			["French"] = "Maître des potions",
 			["German"] = "Meister der Tränke",
-			["Korean"] = "[Master of Potions]",
+			["Korean"] = "물약의 대가",
 			["Mexican"] = "Maestro en pociones",
 			["Portuguese"] = "[Master of Potions]",
 			["Russian"] = "Мастер-изготовитель зелий",
@@ -2392,6 +2509,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 10899,
 		["min_skill"] = 325,
 		["min_xp_level"] = 68,
@@ -2401,10 +2519,10 @@ MTSL_DATA["quests"] =
 			["French"] = "Maître de la transmutation",
 			["German"] = "Meister der Transmutation",
 			["Korean"] = "[Master of Transmutation]",
-			["Mexican"] = "[Master of Transmutation]",
+			["Mexican"] = "Maestro de transmutación",
 			["Portuguese"] = "[Master of Transmutation]",
 			["Russian"] = "Мастер трансмутации",
-			["Spanish"] = "[Master of Transmutation]",
+			["Spanish"] = "Maestro de transmutación",
 			["Taiwanese"] = "轉化大師",
 		},
 		["npcs"] = {
@@ -2413,6 +2531,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 10902,
 		["min_skill"] = 325,
 		["min_xp_level"] = 68,
@@ -2421,7 +2540,7 @@ MTSL_DATA["quests"] =
 			["English"] = "Master of Elixirs",
 			["French"] = "Maître des élixirs",
 			["German"] = "Meister der Elixiere",
-			["Korean"] = "[Master of Elixirs]",
+			["Korean"] = "비약의 대가",
 			["Mexican"] = "Maestro en elixires",
 			["Portuguese"] = "[Master of Elixirs]",
 			["Russian"] = "Мастер эликсиров",
@@ -2434,6 +2553,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 11379,
 		["min_xp_level"] = 70,
 		["name"] = {
@@ -2454,6 +2574,7 @@ MTSL_DATA["quests"] =
 		["phase"] = 1,
 	},
 	{
+		["expansion"] = 2,
 		["id"] = 11665,
 		["min_xp_level"] = 70,
 		["name"] = {

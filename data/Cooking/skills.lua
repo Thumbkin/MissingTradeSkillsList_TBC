@@ -1775,7 +1775,7 @@ MTSL_DATA["skills"]["Cooking"] =
 		["phase"] = 1,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 25704,
 		["items"] = {
 			21099,
@@ -1796,7 +1796,7 @@ MTSL_DATA["skills"]["Cooking"] =
 		["phase"] = 1,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 25954,
 		["items"] = {
 			21219,
@@ -1817,7 +1817,7 @@ MTSL_DATA["skills"]["Cooking"] =
 		["phase"] = 1,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 28267,
 		["items"] = {
 			22647,
@@ -1838,7 +1838,7 @@ MTSL_DATA["skills"]["Cooking"] =
 		["phase"] = 1,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 33276,
 		["items"] = {
 			27685,
@@ -1859,7 +1859,7 @@ MTSL_DATA["skills"]["Cooking"] =
 		["phase"] = 1,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 33277,
 		["items"] = {
 			27686,
@@ -1880,7 +1880,7 @@ MTSL_DATA["skills"]["Cooking"] =
 		["phase"] = 1,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 33278,
 		["items"] = {
 			27687,
@@ -1901,7 +1901,7 @@ MTSL_DATA["skills"]["Cooking"] =
 		["phase"] = 1,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 33279,
 		["items"] = {
 			27684,
@@ -1922,7 +1922,7 @@ MTSL_DATA["skills"]["Cooking"] =
 		["phase"] = 1,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 33284,
 		["items"] = {
 			27688,
@@ -1943,7 +1943,7 @@ MTSL_DATA["skills"]["Cooking"] =
 		["phase"] = 1,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 33285,
 		["items"] = {
 			27689,

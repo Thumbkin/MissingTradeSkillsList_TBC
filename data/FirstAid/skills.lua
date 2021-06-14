@@ -362,7 +362,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		["phase"] = 1,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 27032,
 		["items"] = {
 			21992,
@@ -383,7 +383,7 @@ MTSL_DATA["skills"]["First Aid"] =
 		["phase"] = 1,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 27033,
 		["items"] = {
 			21993,

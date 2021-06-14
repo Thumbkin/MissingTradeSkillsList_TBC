@@ -8069,7 +8069,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Cinturón de poder natural",
 			["Taiwanese"] = "自然之力腰帶",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -8090,7 +8090,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Cinturón de sombra profunda",
 			["Taiwanese"] = "暗影深淵腰帶",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -8111,7 +8111,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Cinturón del águila negra",
 			["Taiwanese"] = "黑鷹腰帶",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -8132,7 +8132,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Cinturón de monzón",
 			["Taiwanese"] = "季風腰帶",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -8153,7 +8153,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Botas de gracia natural",
 			["Taiwanese"] = "自然之擁長靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -8174,7 +8174,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Botas de oscuridad absoluta",
 			["Taiwanese"] = "絕對黑暗之靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -8195,7 +8195,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Botas del halcón carmesí",
 			["Taiwanese"] = "紅鷹之靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -8216,7 +8216,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Botas de huracán",
 			["Taiwanese"] = "颶風長靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 	},
 	{
 		["expansion"] = 2,
@@ -8237,7 +8237,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Botas de almas encadenadas",
 			["Taiwanese"] = "束縛之魂長靴",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8258,7 +8258,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Brazales de almas encadenadas",
 			["Taiwanese"] = "束縛之魂護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8279,7 +8279,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Grebas de almas encadenadas",
 			["Taiwanese"] = "束縛之魂護脛",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8300,7 +8300,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Guardarrenes de almas encadenadas",
 			["Taiwanese"] = "束縛之魂護腰",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8321,7 +8321,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Mocasines de alma redimida",
 			["Taiwanese"] = "救贖之魂底鞋",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8342,7 +8342,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Guardamuñecas de alma redimida",
 			["Taiwanese"] = "救贖之魂腕甲",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8363,7 +8363,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Musleras de alma redimida",
 			["Taiwanese"] = "救贖之魂腿甲",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8384,14 +8384,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Cincho de alma redimida",
 			["Taiwanese"] = "救贖之魂繫腰",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41156,
 		["items"] = {
 			32744,
-			35519,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -8406,14 +8405,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Brazales de vida renovada",
 			["Taiwanese"] = "生命再生護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41157,
 		["items"] = {
 			32745,
-			35523,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -8428,14 +8426,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Hombreras de vida renovada",
 			["Taiwanese"] = "生命再生肩墊",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41158,
 		["items"] = {
 			32746,
-			35527,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -8450,14 +8447,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Brazales Golpeveloz",
 			["Taiwanese"] = "迅擊護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41160,
 		["items"] = {
 			32747,
-			35528,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -8472,14 +8468,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Sobrehombros Golpeveloz",
 			["Taiwanese"] = "迅擊護肩",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41161,
 		["items"] = {
 			32748,
-			35517,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -8494,14 +8489,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Ataduras de reflejos de relámpago",
 			["Taiwanese"] = "電光反射束腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41162,
 		["items"] = {
 			32749,
-			35524,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -8516,14 +8510,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Sobrehombros de reflejos de relámpago",
 			["Taiwanese"] = "電光反射護肩",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41163,
 		["items"] = {
 			32750,
-			35520,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -8538,14 +8531,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Ataduras Tierra Viva",
 			["Taiwanese"] = "大地生命束腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 41164,
 		["items"] = {
 			32751,
-			35521,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -8560,7 +8552,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Sobrehombros Tierra Viva",
 			["Taiwanese"] = "大地生命護肩",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -8824,7 +8816,6 @@ MTSL_DATA["skills"]["Leatherworking"] =
 		["id"] = 46132,
 		["items"] = {
 			35212,
-			35546,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -8839,14 +8830,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Guanteletes de cuero del sol",
 			["Taiwanese"] = "太陽皮甲護手",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 46133,
 		["items"] = {
 			35213,
-			35541,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -8861,14 +8851,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Guantes del Fénix de flechero",
 			["Taiwanese"] = "鳳凰弓匠手套",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 46134,
 		["items"] = {
 			35214,
-			35542,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -8883,14 +8872,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Guantes de anochecer inmortal",
 			["Taiwanese"] = "不朽之暮手套",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 46135,
 		["items"] = {
 			35215,
-			35550,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -8905,14 +8893,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Guantes de escamas caladas de sol",
 			["Taiwanese"] = "沁日鱗甲手套",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 46136,
 		["items"] = {
 			35216,
-			35545,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -8927,14 +8914,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Coselete de cuero del sol",
 			["Taiwanese"] = "太陽皮甲護胸",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 46137,
 		["items"] = {
 			35217,
-			35540,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -8949,14 +8935,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Abrazo del Fénix",
 			["Taiwanese"] = "鳳凰之擁",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 46138,
 		["items"] = {
 			35218,
-			35539,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -8971,14 +8956,13 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Caparazón de sol y sombra",
 			["Taiwanese"] = "日與影之殼",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 46139,
 		["items"] = {
 			35219,
-			35549,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -8993,7 +8977,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Coselete de escamas caladas de sol",
 			["Taiwanese"] = "沁日鱗甲護胸",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,

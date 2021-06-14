@@ -4747,7 +4747,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Inyector de poción de sanación",
 			["Taiwanese"] = "治療藥水注射器",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -4769,7 +4769,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Inyector de poción de maná",
 			["Taiwanese"] = "法力藥水注射器",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5091,8 +5091,8 @@ MTSL_DATA["skills"]["Engineering"] =
 			["price"] = 0,
 			["sources"] = {
 				21493,
-			}
-		}
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5116,8 +5116,8 @@ MTSL_DATA["skills"]["Engineering"] =
 			["price"] = 0,
 			["sources"] = {
 				21494,
-			}
-		}
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5553,9 +5553,9 @@ MTSL_DATA["skills"]["Engineering"] =
 			["price"] = 120000,
 			["sources"] = {
 				24868,
-				25099
-			}
-		}
+				25099,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5578,9 +5578,9 @@ MTSL_DATA["skills"]["Engineering"] =
 			["price"] = 180000,
 			["sources"] = {
 				24868,
-				25099
-			}
-		}
+				25099,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5622,7 +5622,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de sol curamaravilla XT68",
 			["Taiwanese"] = "奇跡治癒XT68遮光鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5643,7 +5643,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de la Justiciera 3000",
 			["Taiwanese"] = "正義使者3000眼鏡",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5664,7 +5664,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Lente de supersanación 9000",
 			["Taiwanese"] = "能量治癒9000鏡片",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,

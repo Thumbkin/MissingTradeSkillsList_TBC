@@ -2346,9 +2346,9 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18313,
-				18331,
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2366,7 +2366,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔護腕 - 基礎法力恢復",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "uncommon",
 	},
 	{
 		["drops"] = {
@@ -2389,7 +2389,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔護腕 - 堅韌",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "uncommon",
 	},
 	{
 		["drops"] = {
@@ -2430,7 +2430,11 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔戒指 - 打擊",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 933,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 100000,
 			["sources"] = {
@@ -2454,7 +2458,11 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔戒指 - 法術能量",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 989,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 100000,
 			["sources"] = {
@@ -2565,8 +2573,8 @@ MTSL_DATA["items"]["Enchanting"] =
 	{
 		["drops"] = {
 			["range"] = {
-				["max_xp_level"] = 65,
-				["min_xp_level"] = 75,
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2589,8 +2597,8 @@ MTSL_DATA["items"]["Enchanting"] =
 	{
 		["drops"] = {
 			["range"] = {
-				["max_xp_level"] = 65,
-				["min_xp_level"] = 75,
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -3236,7 +3244,11 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔手套 - 極效法術能量",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 989,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 80000,
 			["sources"] = {
@@ -3488,6 +3500,34 @@ MTSL_DATA["items"]["Enchanting"] =
 			["price"] = 90000,
 			["sources"] = {
 				17585,
+			},
+		},
+	},
+	{
+		["expansion"] = 1,
+		["id"] = 33152,
+		["name"] = {
+			["Chinese"] = "公式：附魔手套 - 超强敏捷",
+			["English"] = "Formula: Enchant Gloves - Superior Agility",
+			["French"] = "Formule : Enchantement de gants (Agilité excellente)",
+			["German"] = "Formel: Handschuhe - Überragende Beweglichkeit",
+			["Korean"] = "주문식: 장갑 마법부여 - 최상급 민첩",
+			["Mexican"] = "Fórmula: encantar guantes: agilidad excelente",
+			["Portuguese"] = "Fórmula: Encantamento Superior de Agilidade - Luvas",
+			["Russian"] = "Формула чар для перчаток: ловкость III",
+			["Spanish"] = "Fórmula: encantar guantes: agilidad excelente",
+			["Taiwanese"] = "公式:附魔手套 - 超強敏捷",
+		},
+		["phase"] = 1,
+		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 989,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 100000,
+			["sources"] = {
+				21643,
 			},
 		},
 	},

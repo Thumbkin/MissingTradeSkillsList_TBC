@@ -3410,6 +3410,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["id"] = 25080,
 		["items"] = {
 			20731,
+			33152,
 		},
 		["min_skill"] = 300,
 		["name"] = {
@@ -4055,7 +4056,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 			["Spanish"] = "Encantar botas: vitalidad",
 			["Taiwanese"] = "附魔靴子 - 活力",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5017,7 +5018,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 			["Spanish"] = "Encantar botas: presteza felina",
 			["Taiwanese"] = "附魔靴子 - 貓之迅捷",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5039,7 +5040,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 			["Spanish"] = "Encantar botas: velocidad del jabalí",
 			["Taiwanese"] = "附魔靴子 - 野豬之速",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5177,7 +5178,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 			["Spanish"] = "Encantar arma: verdugo",
 			["Taiwanese"] = "附魔武器 - 處決者",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
@@ -5225,12 +5226,12 @@ MTSL_DATA["skills"]["Enchanting"] =
 			["Spanish"] = "Fragmentar cristal de vacío",
 			["Taiwanese"] = "粉碎虛無",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
-		["id"] = 46578,
 		["holiday"] = 341,
+		["id"] = 46578,
 		["items"] = {
 			35498,
 		},
@@ -5268,7 +5269,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 			["Spanish"] = "Encantar pechera: defensa",
 			["Taiwanese"] = "附魔胸甲 - 防禦",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -5289,6 +5290,6 @@ MTSL_DATA["skills"]["Enchanting"] =
 			["Spanish"] = "Encantar capa: tejido de acero",
 			["Taiwanese"] = "附魔披風 - 鋼紋",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 }

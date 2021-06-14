@@ -7,6 +7,12 @@ MTSLUI_ADDON = {
     AUTHOR = "Thumbkin",
     NAME = "Missing TradeSkills List (TBC)",
     VERSION = "2.5.06",
+    PATCH_TEXT = '* All professions except Jewelcrafting have all the correct skills, items and quests added\n' ..
+                 '* Fixed data:\n' ..
+                 '   * Set the correct data for each NPC\n' ..
+                 '   * All items have the correct phase now, if they drop in specific zone(s), those zone(s) are added\n' ..
+                 '   * Removed unused NPCs\n' ..
+                 '   * Removed unused or duplicate skills/items',
     SERVER_VERSION_PHASES = {
         -- max build number from server for phase 1,
         {

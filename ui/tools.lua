@@ -256,8 +256,8 @@ MTSLUI_TOOLS = {
 	-- Prints info about newest additions to the addon to chat
 	----------------------------------------------------------------------------------------
 	PrintPatchMessage = function (self)
-		print(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_FONTS.TAB .. self:GetLocalisedLabel("version") .. MTSLUI_FONTS.COLORS.TEXT.NORMAL .. MTSLUI_ADDON.VERSION)
-		print()
+		print(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_ADDON.NAME .. ": New in  version " .. MTSLUI_FONTS.COLORS.TEXT.NORMAL .. MTSLUI_ADDON.VERSION)
+		print(MTSLUI_ADDON.PATCH_TEXT)
 	end,
 	----------------------------------------------------------------------------------------
 	-- Prints help about addon to chat
@@ -265,16 +265,17 @@ MTSLUI_TOOLS = {
 	PrintHelpMessage = function (self)
 		self:PrintAboutMessage()
 		local slashtext = "/mtsl"
-		print(slashtext  .. "                     Opens the character explorer frame")
-		print(slashtext .. " char")
-		print(slashtext .. " config         Opens the configuration/options menu")
-		print(slashtext .. " options")
-		print(slashtext .. " about          Print information about this addon")
-		print(slashtext .. " help            Print how to use this addon")
-		print(slashtext .. " acc              Opens the account explorer frame")
+		print(slashtext  .."                 Prints this help message")
+		print(slashtext .. " about           Print information about this addon")
+		print(slashtext .. " acc             Opens the account explorer frame")
 		print(slashtext .. " account")
-		print(slashtext .. " db               Opens the database explorer window")
+		print(slashtext .. " char            Opens the character explorer frame")
+		print(slashtext .. " config          Opens the configuration/options menu")
+		print(slashtext .. " options")
+		print(slashtext .. " db              Opens the database explorer window")
 		print(slashtext .. " database")
+		print(slashtext .. " help            Print how to use this addon")
+		print(slashtext .. " new             Print the release notes of the latest version")
 		print(slashtext .. " npc             Opens the NPC explorer window")
 	end,
 

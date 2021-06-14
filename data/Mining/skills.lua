@@ -412,7 +412,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 29356,
 		["min_skill"] = 300,
 		["name"] = {
@@ -437,7 +437,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 29358,
 		["min_skill"] = 325,
 		["name"] = {
@@ -462,7 +462,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 29359,
 		["min_skill"] = 350,
 		["name"] = {
@@ -487,7 +487,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 29360,
 		["min_skill"] = 350,
 		["name"] = {
@@ -512,7 +512,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 29361,
 		["min_skill"] = 375,
 		["name"] = {
@@ -537,7 +537,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 29686,
 		["min_skill"] = 375,
 		["name"] = {
@@ -583,7 +583,7 @@ MTSL_DATA["skills"]["Mining"] =
 		["phase"] = 5,
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 35750,
 		["min_skill"] = 300,
 		["name"] = {
@@ -608,7 +608,7 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
-		["expansion"] = 1,
+		["expansion"] = 2,
 		["id"] = 35751,
 		["min_skill"] = 300,
 		["name"] = {
@@ -651,6 +651,6 @@ MTSL_DATA["skills"]["Mining"] =
 			["Spanish"] = "Fundir korio endurecido",
 			["Taiwanese"] = "熔煉硬化克銀",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 }

@@ -2460,6 +2460,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["id"] = 17637,
 		["items"] = {
 			13521,
+			31355,
 		},
 		["min_skill"] = 300,
 		["name"] = {
@@ -2481,6 +2482,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 		["id"] = 17638,
 		["items"] = {
 			13522,
+			31357,
 		},
 		["min_skill"] = 300,
 		["name"] = {
@@ -3086,7 +3088,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Spanish"] = "Poción de celeridad",
 			["Taiwanese"] = "急速藥水",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -3361,7 +3363,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Spanish"] = "Elixir de empoderación",
 			["Taiwanese"] = "活效藥劑",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -4150,7 +4152,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Spanish"] = "Piedra de alquimista de guardián",
 			["Taiwanese"] = "守護者鍊金石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -4171,7 +4173,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Spanish"] = "Piedra de alquimista de hechicero",
 			["Taiwanese"] = "巫士鍊金石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -4192,7 +4194,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Spanish"] = "Piedra de alquimista de redentor",
 			["Taiwanese"] = "救贖者鍊金石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
@@ -4213,6 +4215,6 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Spanish"] = "Piedra de alquimista de asesino",
 			["Taiwanese"] = "刺客鍊金石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 }

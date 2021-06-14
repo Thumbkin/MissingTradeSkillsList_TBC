@@ -297,7 +297,7 @@ MTSLUI_EVENT_HANDLER = {
 		elseif msg == "new" or msg == "patch" then
 			MTSLUI_TOOLS:PrintPatchMessage()
 		-- Not a known parameter or "help"
-		elseif msg == nil or msg == "" or msg == "char" then
+		elseif msg == "char" then
 			MTSLUI_CHARACTER_EXPLORER_FRAME:Show()
 			MTSLUI_CHARACTER_EXPLORER_FRAME:RefreshUI()
 		else

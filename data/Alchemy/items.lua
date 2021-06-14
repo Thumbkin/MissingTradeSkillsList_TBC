@@ -1579,16 +1579,6 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
-		["reputation"] = {
-			["faction_id"] = 1011,
-			["level_id"] = 8,
-		},
-		["vendors"] = {
-			["price"] = 40000,
-			["sources"] = {
-				21655,
-			},
-		},
 	},
 	{
 		["expansion"] = 1,
@@ -2675,6 +2665,62 @@ MTSL_DATA["items"]["Alchemy"] =
 			["price"] = 80000,
 			["sources"] = {
 				20240,
+			},
+		},
+	},
+	{
+		["expansion"] = 2,
+		["id"] = 31355,
+		["name"] = {
+			["Chinese"] = "配方：超级能量合剂",
+			["English"] = "Recipe: Flask of Supreme Power",
+			["French"] = "Recette : Flacon de pouvoir suprême",
+			["German"] = "Rezept: Fläschchen der obersten Macht",
+			["Korean"] = "조제법: 강력한 마력의 영약",
+			["Mexican"] = "Receta: frasco de poder supremo",
+			["Portuguese"] = "Receita: Frasco de Poder Supremo",
+			["Russian"] = "Рецепт: настой великой силы",
+			["Spanish"] = "Receta: frasco de poder supremo",
+			["Taiwanese"] = "配方:超級能量精煉藥劑",
+		},
+		["phase"] = 2,
+		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 989,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 40000,
+			["sources"] = {
+				21643,
+			},
+		},
+	},
+	{
+		["expansion"] = 2,
+		["id"] = 31357,
+		["name"] = {
+			["Chinese"] = "配方：多重抗性合剂",
+			["English"] = "Recipe: Flask of Chromatic Resistance",
+			["French"] = "Recette : Flacon de résistance chromatique",
+			["German"] = "Rezept: Fläschchen des chromatischen Widerstands",
+			["Korean"] = "조제법: 마력 저항의 영약",
+			["Mexican"] = "Receta: frasco de resistencia cromática",
+			["Portuguese"] = "Receita: Frasco de Resistência Cromática",
+			["Russian"] = "Рецепт: настой разноцветного сопротивления",
+			["Spanish"] = "Receta: frasco de resistencia cromática",
+			["Taiwanese"] = "配方:多重抗性精煉藥劑",
+		},
+		["phase"] = 4,
+		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 1011,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 40000,
+			["sources"] = {
+				21655,
 			},
 		},
 	},

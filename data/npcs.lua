@@ -22092,6 +22092,7 @@ MTSL_DATA["npcs"] =
 	},
 	{
 		["expansion"] = 2,
+		["faction_id"] = 933,
 		["id"] = 17518,
 		["location"] = {
 			["x"] = "-",
