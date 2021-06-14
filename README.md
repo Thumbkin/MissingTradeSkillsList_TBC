@@ -46,7 +46,7 @@ Minimap button & Enhanced tooltip
 
 ### Latest version (v2.5.06)
 
-* All professions except Jewelcrafting have all the correct skills, items and quests added
+* All professions except Jewelcrafting & Leatherworking have all the correct skills, items and quests added
 * Fixed data:
   * Set the correct data for each NPC
   * All items have the correct phase now, if they drop in specific zone(s), those zone(s) are added
