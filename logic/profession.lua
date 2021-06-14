@@ -457,12 +457,15 @@ MTSL_LOGIC_PROFESSION = {
     GetAutoLearnedLevelForProfession = function(self, profession_name)
         local auto_learned_level = nil
 
-        for _, v in pairs(MTSL_DATA["levels"][profession_name]) do
-            if v.rank == 1 then
-                auto_learned_level = v.id
+        if not MTSL_DATA["levels"][profession_name] then
+            print(profession_name)
+        else
+            for _, v in pairs(MTSL_DATA["levels"][profession_name]) do
+                if v.rank == 1 then
+                    auto_learned_level = v.id
+                end
             end
         end
-
         return auto_learned_level
     end,
 }

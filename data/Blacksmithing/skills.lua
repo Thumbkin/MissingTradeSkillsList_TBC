@@ -7811,26 +7811,6 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	},
 	{
 		["expansion"] = 2,
-		["id"] = 34547,
-		["min_skill"] = 350,
-		["name"] = {
-			["Chinese"] = "雷霆",
-			["English"] = "Thunder",
-			["French"] = "Tonnerre",
-			["German"] = "Donner",
-			["Korean"] = "천둥 망치",
-			["Mexican"] = "Trueno",
-			["Portuguese"] = "Trovão",
-			["Russian"] = "Гром",
-			["Spanish"] = "Trueno",
-			["Taiwanese"] = "雷",
-		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
-		["specialisation"] = 17040,
-	},
-	{
-		["expansion"] = 2,
 		["id"] = 34548,
 		["min_skill"] = 375,
 		["name"] = {
@@ -8957,7 +8937,6 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 		["id"] = 41132,
 		["items"] = {
 			32736,
-			35531,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -8979,7 +8958,6 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 		["id"] = 41133,
 		["items"] = {
 			32737,
-			35532,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -9001,7 +8979,6 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 		["id"] = 41134,
 		["items"] = {
 			32738,
-			35529,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -9023,7 +9000,6 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 		["id"] = 41135,
 		["items"] = {
 			32739,
-			35530,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -9130,7 +9106,6 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 		["id"] = 46140,
 		["items"] = {
 			35208,
-			35556,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -9152,7 +9127,6 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 		["id"] = 46141,
 		["items"] = {
 			35209,
-			35553,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -9174,7 +9148,6 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 		["id"] = 46142,
 		["items"] = {
 			35210,
-			35555,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -9196,7 +9169,6 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 		["id"] = 46144,
 		["items"] = {
 			35211,
-			35554,
 		},
 		["min_skill"] = 365,
 		["name"] = {

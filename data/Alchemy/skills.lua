@@ -4108,9 +4108,6 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 45061,
-		["items"] = {
-			34481,
-		},
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "疯狂炼金师药水",

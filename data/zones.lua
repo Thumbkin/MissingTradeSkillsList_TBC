@@ -1967,6 +1967,24 @@ MTSL_DATA["zones"] =
 	{
 		["continent_id"] = 6,
 		["expansion"] = 2,
+		["id"] = 3606,
+		["name"] = {
+			["Chinese"] = "海加尔峰",
+			["English"] = "Hyjal Summit",
+			["French"] = "Sommet d'Hyjal",
+			["German"] = "Hyjalgipfel",
+			["Korean"] = "하이잘 정상",
+			["Mexican"] = "La Cima Hyjal",
+			["Portuguese"] = "Pico Hyjal",
+			["Russian"] = "Вершина Хиджала",
+			["Spanish"] = "La Cima Hyjal",
+			["Taiwanese"] = "海加爾峰",
+		},
+		["phase"] = 3,
+	},
+	{
+		["continent_id"] = 6,
+		["expansion"] = 2,
 		["id"] = 3607,
 		["name"] = {
 			["Chinese"] = "毒蛇神殿",
@@ -2232,7 +2250,7 @@ MTSL_DATA["zones"] =
 			["Spanish"] = "Guarida de Magtheridon",
 			["Taiwanese"] = "瑪瑟裏頓的巢穴",
 		},
-		["phase"] = 2,
+		["phase"] = 1,
 	},
 	{
 		["continent_id"] = 6,
@@ -2334,7 +2352,7 @@ MTSL_DATA["zones"] =
 			["Spanish"] = "Guarida de Gruul",
 			["Taiwanese"] = "格魯爾的巢穴",
 		},
-		["phase"] = 2,
+		["phase"] = 1,
 	},
 	{
 		["continent_id"] = 6,

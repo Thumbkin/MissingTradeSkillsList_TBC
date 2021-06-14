@@ -17,9 +17,9 @@ MTSLUI_EVENT_HANDLER = {
 		if MTSL_TOOLS:CheckIfDataIsValid() then
 			if MTSLUI_TOOLS:SetAddonLocale() then
 				-- load the data for the player
-				local error_loading_player = MTSL_LOGIC_PLAYER_NPC:LoadPlayer()
-				if error_loading_player ~= "none" then
-					print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not load player info (Empty " .. error_loading_player .." ..! Try reloading this addon")
+				local status_loading_player = MTSL_LOGIC_PLAYER_NPC:LoadPlayer()
+				if status_loading_player ~= "new" and status_loading_player ~= "existing" then
+					print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL (TBC): Could not load player info (Empty '" .. status_loading_player .."'). Try reloading this addon!")
 					self.addon_loaded = 0
 				else
 					-- Initialise the minimap button
@@ -45,23 +45,33 @@ MTSLUI_EVENT_HANDLER = {
 					MTSLUI_SAVED_VARIABLES:LoadSavedSplitModes()
 
 					-- print loaded message if possible
-					if MTSLUI_SAVED_VARIABLES:GetShowWelcomeMessage() == 1 then
+					if MTSLUI_SAVED_VARIABLES and (MTSLUI_SAVED_VARIABLES:GetShowWelcomeMessage() == 1 or MTSLUI_SAVED_VARIABLES:GetFirstRunAfterUpdate() == 1)then
 						print(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_ADDON.NAME .. MTSLUI_FONTS.COLORS.TEXT.NORMAL .. " (by " .. MTSLUI_ADDON.AUTHOR .. ")" .. MTSLUI_FONTS.COLORS.TEXT.TITLE .. " v" .. MTSLUI_ADDON.VERSION .. " loaded!")
-						print(MTSLUI_FONTS.COLORS.TEXT.TITLE .."MTSL: Using data for phase " .. MTSL_DATA.CURRENT_PATCH_LEVEL .. " (" .. MTSL_LOGIC_WORLD:GetZoneNameById(MTSL_DATA.PHASE_IDS[MTSL_DATA.CURRENT_PATCH_LEVEL]) .. ")")
+						print(MTSLUI_FONTS.COLORS.TEXT.TITLE .."MTSL (TBC):  Using data for phase " .. MTSL_DATA.CURRENT_PATCH_LEVEL .. " (" .. MTSL_LOGIC_WORLD:GetZoneNameById(MTSL_DATA.PHASE_IDS[MTSL_DATA.CURRENT_PATCH_LEVEL]) .. ")")
+						if MTSLUI_SAVED_VARIABLES:GetFirstRunAfterUpdate() == 1 then
+							print(MTSLUI_FONTS.COLORS.TEXT.SUCCESS .. "MTSL (TBC) got updatd to version " .. MTSLUI_ADDON.VERSION .. "! Use /mtsl new to view the recent changes.")
+							MTSLUI_SAVED_VARIABLES:DisableFirstRunAfterUpdate()
+						end
 					end
-
-					if not MTSLUI_SAVED_VARIABLES or MTSLUI_SAVED_VARIABLES:GetShowWelcomeMessage() == 1 then
-						print(MTSLUI_FONTS.COLORS.TEXT.SUCCESS .. "MTSL: " .. MTSL_CURRENT_PLAYER.NAME .. " (" .. MTSL_CURRENT_PLAYER.XP_LEVEL .. ", " .. MTSL_CURRENT_PLAYER.FACTION .. ") on " .. MTSL_CURRENT_PLAYER.REALM .. " loaded")
+					if MTSLUI_SAVED_VARIABLES and MTSLUI_SAVED_VARIABLES:GetShowWelcomeMessage() == 1 then
+						if status_loading_player == "existing" then
+							print(MTSLUI_FONTS.COLORS.TEXT.SUCCESS .. "MTSL: " .. MTSL_CURRENT_PLAYER.NAME .. " (" .. MTSL_CURRENT_PLAYER.XP_LEVEL .. ", " .. MTSL_CURRENT_PLAYER.FACTION .. ") on " .. MTSL_CURRENT_PLAYER.REALM .. " loaded")
+						end
+						if status_loading_player == "new" then
+							-- Get additional player info to save
+							print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: New character: " .. MTSL_CURRENT_PLAYER.NAME .. " (" .. MTSL_CURRENT_PLAYER.XP_LEVEL .. ", " .. MTSL_CURRENT_PLAYER.FACTION .. ") on " .. MTSL_CURRENT_PLAYER.REALM)
+							print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Please open all profession windows to save skills!")
+						end
 					end
 
 					self.addon_loaded = 1
 				end
 			else
-				print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Your locale " .. GetLocale() .. " is not supported!")
+				print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL (TBC): Your locale " .. GetLocale() .. " is not supported!")
 				self.addon_loaded = 0
 			end
 		else
-			print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Data for addon could not load. Please reinstall the addon!")
+			print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL (TBC): Data for addon could not load. Please reinstall the addon!")
 			self.addon_loaded = 0
 		end
 	end,
@@ -284,6 +294,8 @@ MTSLUI_EVENT_HANDLER = {
             MTSLUI_TOOLS:PrintAboutMessage()
 		elseif msg == "options" or msg == "config" then
 			MTSLUI_OPTIONS_MENU_FRAME:Show()
+		elseif msg == "new" or msg == "patch" then
+			MTSLUI_TOOLS:PrintPatchMessage()
 		-- Not a known parameter or "help"
 		elseif msg == nil or msg == "" or msg == "char" then
 			MTSLUI_CHARACTER_EXPLORER_FRAME:Show()
@@ -358,7 +370,7 @@ MTSLUI_EVENT_HANDLER = {
 		MTSLUI_MISSING_TRADESKILLS_FRAME:SetCurrentProfessionDetails(profession_name, current_skill_level, MTSL_CURRENT_PLAYER.XP_LEVEL, MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].SPELLIDS_SPECIALISATION)
 		MTSLUI_MISSING_TRADESKILLS_FRAME:NoSkillSelected()
 		-- Show the frame if option is selected "auto"
-		if MTSLUI_SAVED_VARIABLES:GetAutoShowMTSL() == 1 then
+		if MTSLUI_SAVED_VARIABLES and MTSLUI_SAVED_VARIABLES:GetAutoShowMTSL() == 1 then
 			MTSLUI_MISSING_TRADESKILLS_FRAME:Show()
 			MTSLUI_MISSING_TRADESKILLS_FRAME:RefreshUI(1)
 		end

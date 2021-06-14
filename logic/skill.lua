@@ -394,6 +394,7 @@ MTSL_LOGIC_SKILL = {
     -- returns	 		    Array		The factions
     ------------------------------------------------------------------------------------------------
     GetFactionsForSkillForProfessionById = function(self, skill_id, profession_name)
+        -- TODO: make this list dynamic
         local faction_ids = { 59, 270, 529, 576, 609, 469, 67, MTSL_LOGIC_FACTION_REPUTATION.FACTION_ID_ALLIANCE_AND_HORDE, MTSL_LOGIC_FACTION_REPUTATION.FACTION_ID_NEUTRAL }
 
         local factions = {}

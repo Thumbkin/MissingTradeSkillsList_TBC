@@ -93,11 +93,12 @@ MTSLUI_SAVED_VARIABLES = {
     -- Reset the content of the savedvariable to have a "clean" install
     ------------------------------------------------------------------------------------------------
     ResetSavedVariables = function(self)
-        print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: All saved variables have been reset to default values!")
+        print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL (TBC):  All saved variables have been reset to default values!")
         MTSLUI_PLAYER = {
             -- Follows the order as shown on options menu
             WELCOME_MSG = 1,
             AUTO_SHOW_MTSL = 1,
+            INSTALLED_VERSION = 0,
         }
         self:ResetMinimap()
         self:SetPatchLevelMTSL()
@@ -220,7 +221,7 @@ MTSLUI_SAVED_VARIABLES = {
             -- convert old to new also
             if MTSLUI_PLAYER.UI_SPLIT_MODE == nil or type(MTSLUI_PLAYER.UI_SPLIT_MODE) ~= "table" then
                 self:ResetSplitModes()
-                print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: All UI split orientations were reset to " .. self.DEFAULT_UI_SPLIT_MODE .. "!")
+                print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL (TBC):  All UI split orientations were reset to " .. self.DEFAULT_UI_SPLIT_MODE .. "!")
             else
                 self:ValidateSplitModes()
             end
@@ -238,7 +239,7 @@ MTSLUI_SAVED_VARIABLES = {
             -- reset split mode if not valid
             if not self:IsValidSplitMode(MTSLUI_PLAYER.UI_SPLIT_MODE[k]) then
                 MTSLUI_PLAYER.UI_SPLIT_MODE[k] = self.DEFAULT_UI_SPLIT_MODE
-                print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: " .. k .. " UI split oritentation was reset " .. self.DEFAULT_UI_SPLIT_MODE .. "!")
+                print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL (TBC):  " .. k .. " UI split oritentation was reset " .. self.DEFAULT_UI_SPLIT_MODE .. "!")
             end
         end
     end,
@@ -300,7 +301,7 @@ MTSLUI_SAVED_VARIABLES = {
             -- convert old to new also
             if MTSLUI_PLAYER.UI_SCALE == nil then
                 self:ResetUIScales()
-                print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: All UI scales were reset to " ..  self.DEFAULT_UI_SCALE .. "!")
+                print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL (TBC):  All UI scales were reset to " ..  self.DEFAULT_UI_SCALE .. "!")
                 -- Scales are saved, so check if valid
             else
                 self:ValidateUIScales()
@@ -320,7 +321,7 @@ MTSLUI_SAVED_VARIABLES = {
             -- reset split mode if not valid
             if not self:IsValidUIScale(MTSLUI_PLAYER.UI_SCALE[k]) then
                 MTSLUI_PLAYER.UI_SCALE[k] = self.DEFAULT_UI_SCALE
-                print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: " .. k .. " UI scale was reset to " ..  self.DEFAULT_UI_SCALE .. "!")
+                print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL (TBC):  " .. k .. " UI scale was reset to " ..  self.DEFAULT_UI_SCALE .. "!")
             end
         end
     end,
@@ -397,7 +398,7 @@ MTSLUI_SAVED_VARIABLES = {
         else
             -- convert old to new also
             if self:ValidateFont() == false then
-                print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Font was reset to default!")
+                print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL (TBC):  Font was reset to default!")
                 self:ResetFont()
             end
             MTSLUI_FONTS:Initialise()
@@ -575,7 +576,7 @@ MTSLUI_SAVED_VARIABLES = {
         local patch_level = self:GetPatchLevelServer()
         if patch_level == 0 then
             MTSL_DATA.CURRENT_PATCH_LEVEL = MTSL_DATA.MIN_PATCH_LEVEL
-            print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Could not determine patch level from server! Falling back to phase " .. MTSL_DATA.CURRENT_PATCH_LEVEL .. "(" .. MTSL_LOGIC_WORLD:GetZoneNameById (MTSL_DATA.PHASE_IDS[current_patch_level]) .. ")")
+            print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL (TBC):  Could not determine patch level from server! Falling back to phase " .. MTSL_DATA.CURRENT_PATCH_LEVEL .. "(" .. MTSL_LOGIC_WORLD:GetZoneNameById (MTSL_DATA.PHASE_IDS[current_patch_level]) .. ")")
         else
             MTSL_DATA.CURRENT_PATCH_LEVEL = patch_level
         end
@@ -869,5 +870,21 @@ MTSLUI_SAVED_VARIABLES = {
     ------------------------------------------------------------------------------------------------
     GetFontSizeTitle = function(self)
         return MTSLUI_PLAYER.FONT.SIZE.TITLE
+    end,
+
+    ------------------------------------------------------------------------------------------------
+    -- Gets the flag to say if its first time after updating the addon to a new version or not
+    --
+    -- return			Number          Flag indicating to show or not (1 = yes, 0 = no)
+    ------------------------------------------------------------------------------------------------
+    GetFirstRunAfterUpdate = function(self)
+        if MTSLUI_PLAYER.INSTALLED_VERSION and MTSLUI_PLAYER.INSTALLED_VERSION == MTSLUI_ADDON.VERSION then
+            return 0
+        end
+        return 1
+    end,
+
+    DisableFirstRunAfterUpdate = function(self)
+        MTSLUI_PLAYER.INSTALLED_VERSION = MTSLUI_ADDON.VERSION
     end,
 }

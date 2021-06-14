@@ -251,9 +251,10 @@ MTSLUI_NPC_FILTER_FRAME = {
             }
             table.insert(self.ranks, new_rank)
         end
+        -- use rank 10 for specialisation
         local new_rank = {
             ["name"] = MTSLUI_LOCALES_LABELS["specialisation"][MTSLUI_CURRENT_LANGUAGE],
-            ["id"] = 5,
+            ["id"] = 10,
         }
         table.insert(self.ranks, new_rank)
     end,
@@ -298,6 +299,7 @@ MTSLUI_NPC_FILTER_FRAME = {
             },
         }
         -- Ids of reputations used for recipes, add those factions too
+        -- TODO: ADD TBC factions that are needed
         local reputation_ids = { 59, 270, 529, 576, 609 }
         local rep_factions = {}
         for _, v in pairs(reputation_ids) do

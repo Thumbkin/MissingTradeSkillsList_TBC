@@ -4109,6 +4109,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 947,
+			["level_id"] = 5,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -4133,6 +4137,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 947,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 160000,
 			["sources"] = {
@@ -4157,6 +4165,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 947,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 160000,
 			["sources"] = {
@@ -4181,6 +4193,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 941,
+			["level_id"] = 5,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -4205,6 +4221,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 941,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -4229,6 +4249,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 941,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -4253,6 +4277,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 5,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -4277,6 +4305,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 160000,
 			["sources"] = {
@@ -4301,6 +4333,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 160000,
 			["sources"] = {
@@ -4325,6 +4361,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 978,
+			["level_id"] = 5,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -4349,6 +4389,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 978,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -4373,6 +4417,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 978,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -4397,6 +4445,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 941,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 50000,
 			["sources"] = {
@@ -4910,6 +4962,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -4982,6 +5038,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 8,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -5231,7 +5291,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 				19514,
 				20046,
 				21212,
-		 		21216,
+				21216,
 				23054,
 			},
 		},
@@ -5254,13 +5314,9 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				20046,
-				21212,
-				21213,
-				21214,
-				21215,
-				21217,
+			["zone_ids"] = {
+				3607,
+				3845,
 			},
 		},
 		["expansion"] = 2,
@@ -5277,7 +5333,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: cinturón de sombra profunda",
 			["Taiwanese"] = "圖樣:暗影深淵腰帶",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 		["quality"] = "epic",
 	},
 	{
@@ -5335,15 +5391,9 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				19514,
-				20046,
-				21212,
-				21213,
-				21214,
-				21216,
-				21215,
-				21217,
+			["zone_ids"] = {
+				3607,
+				3845,
 			},
 		},
 		["expansion"] = 2,
@@ -5360,20 +5410,14 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: botas de gracia natural",
 			["Taiwanese"] = "圖樣:自然之擁之靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				20046,
-				21212,
-				21213,
-				21215,
-				21216,
-				21217,
-				21232,
-				21863,
+			["zone_ids"] = {
+				3607,
+				3845,
 			},
 		},
 		["expansion"] = 2,
@@ -5390,21 +5434,14 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: botas de oscuridad absoluta",
 			["Taiwanese"] = "圖樣:絕對黑暗之靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				19514,
-				20046,
-				21212,
-				21213,
-				21214,
-				21215,
-				21216,
-				21217,
-				21299,
+			["zone_ids"] = {
+				3607,
+				3845,
 			},
 		},
 		["expansion"] = 2,
@@ -5421,19 +5458,14 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: botas de halcón carmesí",
 			["Taiwanese"] = "圖樣:紅鷹之靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				19514,
-				20046,
-				21213,
-				21216,
-				21217,
-				21218,
-				21246,
+			["zone_ids"] = {
+				3607,
+				3845,
 			},
 		},
 		["expansion"] = 2,
@@ -5450,7 +5482,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: botas de huracán",
 			["Taiwanese"] = "圖樣:颶風長靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 		["quality"] = "epic",
 	},
 	{
@@ -5470,6 +5502,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 978,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 50000,
 			["sources"] = {
@@ -5494,6 +5530,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 947,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -5518,6 +5558,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 947,
+			["level_id"] = 8,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -5540,9 +5584,18 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: botas de almas encadenadas",
 			["Taiwanese"] = "圖樣:束縛之魂長靴",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 80000,
+			["sources"] = {
+				23159,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5559,9 +5612,18 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: brazales de almas encadenadas",
 			["Taiwanese"] = "圖樣:束縛之魂護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 80000,
+			["sources"] = {
+				23159,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5578,9 +5640,18 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: grebas de almas encadenadas",
 			["Taiwanese"] = "圖樣:束縛之魂護脛",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 80000,
+			["sources"] = {
+				23159,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5597,9 +5668,18 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: guardarrenes de almas encadenadas",
 			["Taiwanese"] = "圖樣:束縛之魂護腰",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 80000,
+			["sources"] = {
+				23159,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5616,9 +5696,18 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: mocasines de alma redimida",
 			["Taiwanese"] = "圖樣:救贖之魂底鞋",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 80000,
+			["sources"] = {
+				23159,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5635,9 +5724,18 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: guardamuñecas de alma redimida",
 			["Taiwanese"] = "圖樣:救贖之魂腕甲",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 80000,
+			["sources"] = {
+				23159,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5654,9 +5752,18 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: musleras de alma redimida",
 			["Taiwanese"] = "圖樣:救贖之魂腿甲",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 80000,
+			["sources"] = {
+				23159,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5673,32 +5780,23 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: cincho de alma redimida",
 			["Taiwanese"] = "圖樣:救贖之魂繫腰",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 80000,
+			["sources"] = {
+				23159,
+			},
+		},
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				22841,
-				22855,
-				22869,
-				22871,
-				22887,
-				22898,
-				22917,
-				22952,
-				22959,
-				22962,
-				22965,
-				23047,
-				23049,
-				23337,
-				23339,
-				23402,
-				23403,
-				23420,
-				23421,
+			["zone_ids"] = {
+				3959,
 			},
 		},
 		["expansion"] = 2,
@@ -5715,22 +5813,14 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: brazales de vida renovada",
 			["Taiwanese"] = "圖樣:生命再生護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17907,
-				22841,
-				22871,
-				22887,
-				22898,
-				22917,
-				22947,
-				22948,
-				22952,
-				23421,
+			["zone_ids"] = {
+				3606,
+				3959,
 			},
 		},
 		["expansion"] = 2,
@@ -5747,18 +5837,14 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: hombreras de vida renovada",
 			["Taiwanese"] = "圖樣:生命再生肩墊",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17907,
-				17916,
-				22871,
-				22917,
-				22952,
-				23421,
+			["zone_ids"] = {
+				3606,
+				3959,
 			},
 		},
 		["expansion"] = 2,
@@ -5775,31 +5861,13 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: brazales Golpeveloz",
 			["Taiwanese"] = "圖樣:迅擊護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				22841,
-				22855,
-				22871,
-				22887,
-				22898,
-				22917,
-				22947,
-				22952,
-				22957,
-				22959,
-				22962,
-				22965,
-				23049,
-				23239,
-				23337,
-				23339,
-				23403,
-				23420,
-				23421,
+			["zone_ids"] = {
+				3959,
 			},
 		},
 		["expansion"] = 2,
@@ -5816,7 +5884,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: sobrehombros Golpeveloz",
 			["Taiwanese"] = "圖樣:迅擊護肩",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
 	},
 	{
@@ -5847,25 +5915,8 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				22841,
-				22846,
-				22869,
-				22871,
-				22887,
-				22898,
-				22917,
-				22952,
-				22957,
-				22962,
-				22965,
-				23047,
-				23049,
-				23239,
-				23394,
-				23402,
-				23403,
-				23421,
+			["zone_ids"] = {
+				3959,
 			},
 		},
 		["expansion"] = 2,
@@ -5882,37 +5933,13 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: sobrehombros de reflejos de relámpago",
 			["Taiwanese"] = "圖樣:電光反射護肩",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				22841,
-				22853,
-				22869,
-				22871,
-				22880,
-				22887,
-				22898,
-				22917,
-				22947,
-				22952,
-				22953,
-				22954,
-				22959,
-				22962,
-				22965,
-				23049,
-				23172,
-				23196,
-				23330,
-				23339,
-				23374,
-				23397,
-				23403,
-				23420,
-				23421,
+			["zone_ids"] = {
+				3959,
 			},
 		},
 		["expansion"] = 2,
@@ -5929,22 +5956,14 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: ataduras Tierra Viva",
 			["Taiwanese"] = "圖樣:大地生命束腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17907,
-				22841,
-				22871,
-				22887,
-				22898,
-				22917,
-				22947,
-				22948,
-				22952,
-				23421,
+			["zone_ids"] = {
+				3606,
+				3959,
 			},
 		},
 		["expansion"] = 2,
@@ -5961,7 +5980,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: sobrehombros Tierra Viva",
 			["Taiwanese"] = "圖樣:大地生命護肩",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
 	},
 	{
@@ -6029,6 +6048,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 941,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 160000,
 			["sources"] = {
@@ -6053,6 +6076,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 978,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 160000,
 			["sources"] = {
@@ -6077,6 +6104,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 941,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 160000,
 			["sources"] = {
@@ -6101,6 +6132,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 978,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 160000,
 			["sources"] = {
@@ -6125,6 +6160,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 1011,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 160000,
 			["sources"] = {
@@ -6149,6 +6188,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 947,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 160000,
 			["sources"] = {
@@ -6173,6 +6216,10 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 160000,
 			["sources"] = {
@@ -6183,6 +6230,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34262,
+		["holiday"] = 141,
 		["name"] = {
 			["Chinese"] = "图样：寒冬长靴",
 			["English"] = "Pattern: Winter Boots",
@@ -6197,7 +6245,12 @@ MTSL_DATA["items"]["Leatherworking"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
+		["vendors"] = {
+			["price"] = 5000,
+			["sources"] = {
+				13420,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -6220,20 +6273,8 @@ MTSL_DATA["items"]["Leatherworking"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				25483,
-				25484,
-				25486,
-				25506,
-				25508,
-				25509,
-				25591,
-				25592,
-				25593,
-				25595,
-				25597,
-				25599,
-				25837,
+			["zone_ids"] = {
+				4075,
 			},
 		},
 		["expansion"] = 2,
@@ -6250,25 +6291,13 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: guanteletes de cuero del sol",
 			["Taiwanese"] = "圖樣:太陽皮甲護手",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				25483,
-				25484,
-				25486,
-				25506,
-				25508,
-				25509,
-				25591,
-				25592,
-				25593,
-				25595,
-				25597,
-				25599,
-				25837,
+			["zone_ids"] = {
+				4075,
 			},
 		},
 		["expansion"] = 2,
@@ -6285,25 +6314,13 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: guantes del Fénix de flechero",
 			["Taiwanese"] = "圖樣:鳳凰弓匠手套",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				25483,
-				25484,
-				25486,
-				25506,
-				25508,
-				25509,
-				25591,
-				25592,
-				25593,
-				25595,
-				25597,
-				25599,
-				25837,
+			["zone_ids"] = {
+				4075,
 			},
 		},
 		["expansion"] = 2,
@@ -6320,25 +6337,13 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: guantes de anochecer inmortal",
 			["Taiwanese"] = "圖樣:不朽之暮手套",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				25483,
-				25484,
-				25486,
-				25506,
-				25508,
-				25509,
-				25591,
-				25592,
-				25593,
-				25595,
-				25597,
-				25599,
-				25837,
+			["zone_ids"] = {
+				4075,
 			},
 		},
 		["expansion"] = 2,
@@ -6355,25 +6360,13 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: guantes de escamas caladas de sol",
 			["Taiwanese"] = "圖樣:沁日鱗甲手套",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "poor",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				25483,
-				25484,
-				25486,
-				25506,
-				25508,
-				25509,
-				25591,
-				25592,
-				25593,
-				25595,
-				25597,
-				25599,
-				25837,
+			["zone_ids"] = {
+				4075,
 			},
 		},
 		["expansion"] = 2,
@@ -6390,25 +6383,13 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: coselete de cuero del sol",
 			["Taiwanese"] = "圖樣:太陽皮甲護胸",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				25483,
-				25484,
-				25486,
-				25506,
-				25508,
-				25509,
-				25591,
-				25592,
-				25593,
-				25595,
-				25597,
-				25599,
-				25837,
+			["zone_ids"] = {
+				4075,
 			},
 		},
 		["expansion"] = 2,
@@ -6425,25 +6406,13 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: abrazo del Fénix",
 			["Taiwanese"] = "圖樣:鳳凰之擁",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				25483,
-				25484,
-				25486,
-				25506,
-				25508,
-				25509,
-				25591,
-				25592,
-				25593,
-				25595,
-				25597,
-				25599,
-				25837,
+			["zone_ids"] = {
+				4075,
 			},
 		},
 		["expansion"] = 2,
@@ -6460,25 +6429,13 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: caparazón de sol y sombra",
 			["Taiwanese"] = "圖樣:日與影之殼",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				25483,
-				25484,
-				25486,
-				25506,
-				25508,
-				25509,
-				25591,
-				25592,
-				25593,
-				25595,
-				25597,
-				25599,
-				25837,
+			["zone_ids"] = {
+				4075,
 			},
 		},
 		["expansion"] = 2,
@@ -6495,7 +6452,7 @@ MTSL_DATA["items"]["Leatherworking"] =
 			["Spanish"] = "Patrón: coselete de escamas caladas de sol",
 			["Taiwanese"] = "圖樣:沁日鱗甲護胸",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "poor",
 	},
 	{

@@ -44,18 +44,13 @@ Minimap button & Enhanced tooltip
 * Link items to a channel (Say, Guild, Party, Raid or "Auto") or add item to current chat message
 * Ability to drag each MTSL frame around
 
-### Latest version (v2.5.05)
+### Latest version (v2.5.06)
 
-* Fixed data
-  * Added missing "expansion" number for classic specialisations
-  * Added some missing NPCs
-  * Updated professions to only have the correct auto learned spells
-  * Set the correct phase for some skill
-* Added code to save ids when data is missing for an object for easier missing data reports. Include the contents of "MTSL_MISSING_DATA" from saved variables to bug report if not empty
-* Fixed bugs
-  * Fresh install could prevent addon from loading when MTSLUI_PLAYER is not yet loaded/filled
-  * Mob data is once again shown when the item they drop is selected
-  * Missing icon for Jewelcrafting in skill list frame
+* All professions except Jewelcrafting have all the skills & items added
+* Fixed data:
+  * Set the correct data for each NPC
+  * All items have the correct phase now, if they drop in specific zone(s), those zone(s) are added
+  * Removed unused NPCs
 
 ### Support
 

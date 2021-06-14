@@ -2022,6 +2022,11 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				19960,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23800,
 		["name"] = {
@@ -2038,7 +2043,6 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
@@ -2131,7 +2135,7 @@ MTSL_DATA["items"]["Engineering"] =
 			["Taiwanese"] = "結構圖:超光學偵測護目鏡",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "common",
 		["vendors"] = {
 			["price"] = 80000,
 			["sources"] = {
@@ -2141,6 +2145,11 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				19755,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23806,
 		["name"] = {
@@ -2156,8 +2165,7 @@ MTSL_DATA["items"]["Engineering"] =
 			["Taiwanese"] = "結構圖:超視覺護目鏡",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "rare",
 	},
 	{
 		["expansion"] = 2,
@@ -2358,25 +2366,6 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["expansion"] = 2,
-		["id"] = 23817,
-		["name"] = {
-			["Chinese"] = "结构图：氪金工具箱",
-			["English"] = "Schematic: Khorium Toolbox",
-			["French"] = "Schéma : Boîte à outils en khorium",
-			["German"] = "Bauplan: Werkzeugkasten aus Khorium",
-			["Korean"] = "설계도: 코륨 연장통",
-			["Mexican"] = "Esquema: caja de herramientas de korio",
-			["Portuguese"] = "Diagrama: Caixa de Ferramentas de Kório",
-			["Russian"] = "Чертеж: кориевый ящик с инструментами",
-			["Spanish"] = "Esquema: caja de herramientas de korio",
-			["Taiwanese"] = "結構圖:克銀工具箱",
-		},
-		["phase"] = 1,
-		["quality"] = "common",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
 		["id"] = 23874,
 		["name"] = {
 			["Chinese"] = "结构图：元素爆盐炸弹",
@@ -2401,9 +2390,9 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18319,
-				18331,
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2425,9 +2414,9 @@ MTSL_DATA["items"]["Engineering"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17694,
-				18313,
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2487,7 +2476,10 @@ MTSL_DATA["items"]["Engineering"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["quests"] = {
+			9635,
+			9636,
+		}
 	},
 	{
 		["drops"] = {
@@ -2559,8 +2551,7 @@ MTSL_DATA["items"]["Engineering"] =
 			["Taiwanese"] = "設計圖:修理機器人110G型",
 		},
 		["phase"] = 3,
-		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
+		["quality"] = "uncommon"
 	},
 	{
 		["expansion"] = 2,
@@ -2580,7 +2571,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["phase"] = 5,
 		["quality"] = "epic",
 		["drops"] = {
-			["zones"] = 4075,
+			["zone_ids"] = 4075,
 		}
 	},
 	{
@@ -2601,7 +2592,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["phase"] = 5,
 		["quality"] = "epic",
 		["drops"] = {
-			["zones"] = 4075,
+			["zone_ids"] = 4075,
 		}
 	},
 	{
@@ -2622,7 +2613,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["phase"] = 5,
 		["quality"] = "epic",
 		["drops"] = {
-			["zones"] = 4075,
+			["zone_ids"] = 4075,
 		}
 	},
 	{
@@ -2643,7 +2634,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["phase"] = 5,
 		["quality"] = "epic",
 		["drops"] = {
-			["zones"] = 4075,
+			["zone_ids"] = 4075,
 		}
 	},
 	{
@@ -2664,7 +2655,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["phase"] = 5,
 		["quality"] = "epic",
 		["drops"] = {
-			["zones"] = 4075,
+			["zone_ids"] = 4075,
 		}
 	},
 	{
@@ -2685,7 +2676,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["phase"] = 5,
 		["quality"] = "epic",
 		["drops"] = {
-			["zones"] = 4075,
+			["zone_ids"] = 4075,
 		}
 	},
 	{
@@ -2706,7 +2697,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["phase"] = 5,
 		["quality"] = "epic",
 		["drops"] = {
-			["zones"] = 4075,
+			["zone_ids"] = 4075,
 		}
 	},
 	{
@@ -2727,7 +2718,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["phase"] = 5,
 		["quality"] = "epic",
 		["drops"] = {
-			["zones"] = 4075,
+			["zone_ids"] = 4075,
 		}
 	},
 	{
@@ -2748,7 +2739,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["phase"] = 5,
 		["quality"] = "epic",
 		["drops"] = {
-			["zones"] = 4075,
+			["zone_ids"] = 4075,
 		}
 	},
 	{
@@ -2769,7 +2760,7 @@ MTSL_DATA["items"]["Engineering"] =
 		["phase"] = 5,
 		["quality"] = "epic",
 		["drops"] = {
-			["zones"] = 4075,
+			["zone_ids"] = 4075,
 		}
 	},
 	{
@@ -2790,10 +2781,15 @@ MTSL_DATA["items"]["Engineering"] =
 		["phase"] = 5,
 		["quality"] = "epic",
 		["drops"] = {
-			["zones"] = 4075,
+			["zone_ids"] = 4075,
 		}
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				24664,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35310,
 		["name"] = {
@@ -2808,11 +2804,15 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: inyector de poción de sanación",
 			["Taiwanese"] = "結構圖:治療藥水注射器",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				24664,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35311,
 		["name"] = {
@@ -2827,9 +2827,8 @@ MTSL_DATA["items"]["Engineering"] =
 			["Spanish"] = "Esquema: inyector de poción de maná",
 			["Taiwanese"] = "結構圖:法力藥水注射器",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {

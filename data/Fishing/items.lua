@@ -67,7 +67,7 @@ MTSL_DATA["items"]["Fishing"] =
 			["Taiwanese"] = "天候征服日誌",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "common",
 		["special_action"] = "no data available yet",
 	},
 }

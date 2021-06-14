@@ -25,6 +25,8 @@ MTSL_LOGIC_WORLD = {
         local zone = MTSL_TOOLS:GetItemFromArrayByKeyValue(MTSL_DATA["zones"], "id", zone_id)
         if zone then
             return MTSLUI_TOOLS:GetLocalisedData(zone)
+        else
+            MTSL_TOOLS:AddMissingData("zone", zone_id)
         end
         return ""
     end,

@@ -253,6 +253,13 @@ MTSLUI_TOOLS = {
 	end,
 
 	----------------------------------------------------------------------------------------
+	-- Prints info about newest additions to the addon to chat
+	----------------------------------------------------------------------------------------
+	PrintPatchMessage = function (self)
+		print(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_FONTS.TAB .. self:GetLocalisedLabel("version") .. MTSLUI_FONTS.COLORS.TEXT.NORMAL .. MTSLUI_ADDON.VERSION)
+		print()
+	end,
+	----------------------------------------------------------------------------------------
 	-- Prints help about addon to chat
 	----------------------------------------------------------------------------------------
 	PrintHelpMessage = function (self)
@@ -412,7 +419,8 @@ MTSLUI_TOOLS = {
 		if MTSL_DATA["special_actions"][label] and MTSL_DATA["special_actions"][label]["name"][MTSLUI_CURRENT_LANGUAGE] then
 			return MTSL_DATA["special_actions"][label]["name"][MTSLUI_CURRENT_LANGUAGE]
 		end
-		print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not find localised labels for special action '" .. label .. "'. Please report this bug!")
+
+		MTSL_TOOLS:AddMissingData("special action", label)
 		return ""
 	end,
 

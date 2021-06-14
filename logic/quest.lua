@@ -17,15 +17,17 @@ MTSL_LOGIC_QUEST = {
             local quest = MTSL_TOOLS:GetItemFromSortedListById(MTSL_DATA["quests"], ids[i])
             -- Check if q started from NPC
             if quest ~= nil then
-                if quest.npcs ~= nil then
+                if quest.npcs then
                     local npcs = MTSL_LOGIC_PLAYER_NPC:GetNpcsByIds(quest.npcs)
-                    if npcs == nil  then
-                        MTSL_TOOLS:AddMissingData("npc ", id)
+                    if not npcs then
+                        for _, npc_id in pairs(quest.npcs) do
+                            MTSL_TOOLS:AddMissingData("npc", npc_id)
+                        end
                     else
                         -- only 1 NPC possible
                         local npc = npcs[1]
                         -- check if we are able to interact with npc
-                        if npc ~= nil then
+                        if not npc then
                             if npc.reacts == "Neutral" or npc.reacts == MTSL_CURRENT_PLAYER.FACTION then
                                 return quest
                             end

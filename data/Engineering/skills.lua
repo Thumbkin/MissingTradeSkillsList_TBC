@@ -4687,27 +4687,6 @@ MTSL_DATA["skills"]["Engineering"] =
 	},
 	{
 		["expansion"] = 2,
-		["id"] = 30349,
-		["items"] = {
-			23817,
-		},
-		["min_skill"] = 350,
-		["name"] = {
-			["Chinese"] = "氪金工具箱",
-			["English"] = "Khorium Toolbox",
-			["French"] = "Boîte à outils en khorium",
-			["German"] = "Werkzeugkasten aus Khorium",
-			["Korean"] = "코륨 연장통",
-			["Mexican"] = "Caja de herramientas de korio",
-			["Portuguese"] = "Caixa de Ferramentas de Kório",
-			["Russian"] = "Кориевый ящик с инструментами",
-			["Spanish"] = "Caja de herramientas de korio",
-			["Taiwanese"] = "克銀工具箱",
-		},
-		["phase"] = 1,
-	},
-	{
-		["expansion"] = 2,
 		["id"] = 30547,
 		["items"] = {
 			23874,
@@ -5220,7 +5199,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40274,
-		["min_skill"] = 370,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "狂野机械护目镜",
 			["English"] = "Furious Gizmatic Goggles",
@@ -5233,8 +5212,17 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas cacharráticas frenéticas",
 			["Taiwanese"] = "狂怒電磁護目鏡",
 		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				17634,
+				17637,
+				18752,
+				18775,
+				19576,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5252,8 +5240,17 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Destructor de korio giroequilibrado",
 			["Taiwanese"] = "迴轉平衡克銀毀滅火槍",
 		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				17634,
+				17637,
+				18752,
+				18775,
+				19576,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5271,8 +5268,17 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de la Justiciera 2000",
 			["Taiwanese"] = "正義化身2000護目鏡",
 		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				17634,
+				17637,
+				18752,
+				18775,
+				19576,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5290,8 +5296,17 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas tanquetrónicas",
 			["Taiwanese"] = "坦克電子護目鏡",
 		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				17634,
+				17637,
+				18752,
+				18775,
+				19576,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5309,8 +5324,17 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de golpe seguro v2,0",
 			["Taiwanese"] = "絕對打擊護目鏡v2.0",
 		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				17634,
+				17637,
+				18752,
+				18775,
+				19576,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5328,8 +5352,17 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas trastotormenta",
 			["Taiwanese"] = "機件護目鏡",
 		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				17634,
+				17637,
+				18752,
+				18775,
+				19576,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5347,8 +5380,17 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas del Replicador viviente",
 			["Taiwanese"] = "生命複製護目鏡",
 		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				17634,
+				17637,
+				18752,
+				18775,
+				19576,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5366,8 +5408,17 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas X11 Arremetida mortal",
 			["Taiwanese"] = "死亡打擊X11護目鏡",
 		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				17634,
+				17637,
+				18752,
+				18775,
+				19576,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5385,8 +5436,17 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de sol curamaravilla XT40",
 			["Taiwanese"] = "驚奇XT40護目鏡",
 		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				17634,
+				17637,
+				18752,
+				18775,
+				19576,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5404,8 +5464,17 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de la luna de amplificación",
 			["Taiwanese"] = "放大月光護目鏡",
 		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				17634,
+				17637,
+				18752,
+				18775,
+				19576,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5423,8 +5492,17 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas holográficas de destrucción",
 			["Taiwanese"] = "毀滅護目鏡",
 		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				17634,
+				17637,
+				18752,
+				18775,
+				19576,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5442,8 +5520,17 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Lente de supersanación 4000",
 			["Taiwanese"] = "能量4000護目鏡",
 		},
-		["phase"] = 1,
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["trainers"] = {
+			["price"] = 0,
+			["sources"] = {
+				17634,
+				17637,
+				18752,
+				18775,
+				19576,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,

@@ -33,17 +33,25 @@ MTSL_LOGIC_PLAYER_NPC = {
         if not xp_level then return "xp_level" end
         if not player_class then return "player_class" end
 
-        local current_player = MTSL_PLAYERS[realm]
-        -- Realm not yet registered so create it
-        if current_player then
-            current_player = MTSL_PLAYERS[realm][name]
-        -- Realm exists, so see if we have saved the char already
-        else
-            MTSL_PLAYERS[realm] = {}
-        end
+        -- First time ever we save a character, so create a new array
+        if not MTSL_PLAYERS then MTSL_PLAYERS = {} end
+        -- First time we save a character on this realm, so create a new realm
+        if not MTSL_PLAYERS[realm] then MTSL_PLAYERS[realm] = {} end
+        -- try and load a previously saved characrter
+        local current_player = MTSL_PLAYERS[realm][name]
 
-        -- Player not found on realm, so save him
-        if not current_player then
+        local return_code = "none"
+
+        -- Player was saved before, so update it
+        if current_player then
+            -- Update class, faction & xp_level, just in case
+            MTSL_CURRENT_PLAYER.CLASS = string.lower(player_class)
+            MTSL_CURRENT_PLAYER.XP_LEVEL = xp_level
+            MTSL_CURRENT_PLAYER.FACTION = faction
+
+            return_code = "existing"
+            -- new player so create it and add it
+        else
             -- Not found so create a new one
             current_player = {
                 NAME = name,
@@ -53,27 +61,22 @@ MTSL_LOGIC_PLAYER_NPC = {
                 CLASS = player_class,
                 TRADESKILLS = {},
             }
-            -- Get additional player info to save
-            print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Saving new player: " .. current_player.NAME .. " (" .. current_player.XP_LEVEL .. ", " .. current_player.FACTION .. ") on " .. current_player.REALM)
-            print(MTSLUI_FONTS.COLORS.TEXT.WARNING .. "MTSL: Please open all profession windows to save skills")
             -- new player added so sort the table (first the realms, then for new realm, sort by name
             MTSL_PLAYERS[realm][name] = current_player
             MTSL_TOOLS:SortArray(MTSL_PLAYERS)
             MTSL_TOOLS:SortArrayByProperty(MTSL_PLAYERS[realm], "name")
-        else
-            -- set the loaded or created player as current one
-            MTSL_CURRENT_PLAYER = current_player
-            -- Update class, faction & xp_level, just in case
-            MTSL_CURRENT_PLAYER.CLASS = string.lower(player_class)
-            MTSL_CURRENT_PLAYER.XP_LEVEL = xp_level
-            MTSL_CURRENT_PLAYER.FACTION = faction
+
+            return_code = "new"
         end
+
+        -- set the loaded or created player as current one
+        MTSL_CURRENT_PLAYER = current_player
 
         self:CheckSavedProfessions()
         self:RemoveUnlearnedProfessions()
         self:UpdatePlayerSkillLevels()
 
-        return "none"
+        return return_code
     end,
 
     ------------------------------------------------------------------------------------------------
@@ -754,12 +757,13 @@ MTSL_LOGIC_PLAYER_NPC = {
         do
             local npc = self:GetNpcById(id)
             -- If we found one, check if the faction is valid (= neutral OR the same faction as player
-            if npc ~= nil then
+            if npc then
                 if MTSL_CURRENT_PLAYER.FACTION == npc.reacts or npc.reacts == "Neutral" then
                     table.insert(npcs, npc)
                 end
             else
-                MTSL_TOOLS:AddMissingNpcById(id)
+                print("player_npc line 765")
+                MTSL_TOOLS:AddMissingData("npc", id)
             end
         end
 
@@ -781,10 +785,10 @@ MTSL_LOGIC_PLAYER_NPC = {
         do
             local npc = self:GetNpcById(id)
             -- If we found one, check if the faction is valid (= neutral OR the same faction as player
-            if npc ~= nil then
+            if npc then
                 table.insert(npcs, npc)
             else
-                MTSL_TOOLS:AddMissingNpcById(id)
+                MTSL_TOOLS:AddMissingData("npc", id)
             end
         end
 
@@ -810,21 +814,21 @@ MTSL_LOGIC_PLAYER_NPC = {
     --
     -- return				Array		List of found mobs
     ------------------------------------------------------------------------------------------------
-    GetMobsByIds = function(self, ids)
+    GetMobsByIds = function(self, npc_ids)
         local mobs = {}
 
-        if ids and #ids > 0 then
-            for k, id in pairs(ids)
+        if npc_ids and #npc_ids > 0 then
+            for _, npc_id in pairs(npc_ids)
             do
-                local mob = self:GetNpcById(id)
+                local mob = self:GetNpcById(npc_id)
                 -- Check if we found one
-                if mob ~= nil then
+                if mob then
                     -- only add mob if player can attack it
                     if mob.reacts ~= MTSL_CURRENT_PLAYER.FACTION then
                         table.insert(mobs, mob)
                     end
                 else
-                    MTSL_TOOLS:AddMissingNpcById(id)
+                    MTSL_TOOLS:AddMissingData("npc", npc_id)
                 end
             end
         end
@@ -902,7 +906,7 @@ MTSL_LOGIC_PLAYER_NPC = {
     end,
 
     GetCurrentPlayerIsInParty = function (self)
-        return GetNumGroupMembers() > 1
+        return GetNumGroupMembers() > 0
     end,
 
     GetCurrentPlayerIsInRaid = function (self)

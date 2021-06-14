@@ -48,10 +48,12 @@ MTSL_TOOLS = {
 		for _, v in pairs(objects_to_check) do
 			-- object not present
 			if MTSL_DATA[v] == nil then
-				print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not load all the data needed for the addon! Missing " .. v .. ". Please reinstall the addon!")
+				print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL (TBC):  Could not load all the data needed for the addon! Missing " .. v .. ". Please reinstall the addon!")
 				return false
 			end
 		end
+
+		-- TODO: add loops to check if each item/quest/npc is present, COPY CODE FROM DEBUG
 
 		-- Count the data
 		self:CountSkillsPerProfessionAndPhase()
@@ -489,7 +491,7 @@ MTSL_TOOLS = {
 				-- Check if class only
 				local classes = MTSL_LOGIC_SKILL:GetClassesOnlyForSkill(skill.id, prof_name)
 				local class_only = false
-				if MTSL_TOOLS:CountItemsInArray(classes) > 0 then class_only = true end
+				if self:CountItemsInArray(classes) > 0 then class_only = true end
 				-- Check if faction only
 				local available_horde = MTSL_LOGIC_SKILL:IsAvailableForFaction(skill.id, prof_name, horde_id)
 				local available_alliance = MTSL_LOGIC_SKILL:IsAvailableForFaction(skill.id, prof_name, alliance_id)
@@ -542,7 +544,7 @@ MTSL_TOOLS = {
 	GetExpansionNameById = function(self, expansion_id)
 		local expansion = MTSL_TOOLS:GetItemFromUnsortedListById(MTSL_DATA["expansions"], expansion_id)
 		if expansion == nil then
-			print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: No expansion found for id " .. expansion_id .. "! Please report this bug!")
+			self:AddMissingData("expansion", expansion_id)
 			return ""
 		else
 			return MTSLUI_TOOLS:GetLocalisedData(expansion)
@@ -559,11 +561,30 @@ MTSL_TOOLS = {
 	end,
 
 	AddMissingData = function(self, type_data, object_id)
-		if not MTSL_MISSING_DATA then MTSL_MISSING_DATA = {} end
-		if not MTSL_MISSING_DATA[type_data] then MTSL_MISSING_DATA[type_data] = {} end
-		if self:list_contains_value(MTSL_MISSING_DATA[type_data], tonumber(object_id)) == false then
-			print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Could not find " .. type_data .. " with id " .. object_id .. ". Please report this bug!")
-			table.insert(MTSL_MISSING_DATA[type_data], tonumber(object_id))
+		if object_id then
+			if not MTSL_MISSING_DATA then MTSL_MISSING_DATA = {} end
+			if not MTSL_MISSING_DATA[type_data] then MTSL_MISSING_DATA[type_data] = {} end
+			if self:list_contains_value(MTSL_MISSING_DATA[type_data], tonumber(object_id)) == 0 then
+				MTSLUI_TOOLS:GetLocalisedLabel("report bug")
+
+				local error_messages = {
+					["Chinese"] = "MTSL (TBC):  找不到 ID 為 " .. object_id .. " 的" .. type_data .. "。",
+					["English"] = "MTSL (TBC):  Could not find '" .. type_data .. "' with id " .. object_id .. ".",
+					["French"] = "MTSL (TBC) : Impossible de trouver '" .. type_data .. "' avec l'identifiant " .. object_id .. ".",
+					["German"] = "MTSL (TBC):  '" .. type_data .. "' mit ID " .. object_id .. " konnte nicht gefunden werden.",
+					["Mexican"] = "MTSL (TBC):  No se pudo encontrar '" .. type_data .. "' con id " .. object_id .. ".",
+					["Portuguese"] = "MTSL (TBC):  Não foi possível encontrar '" .. type_data .. "' com id " .. object_id .. ".",
+					["Russian"] = "MTSL (TBC):  Не удалось найти '" .. type_data .. "' c идентификатором " .. object_id .. ".",
+					["Spanish"] = "MTSL (TBC):  No se pudo encontrar '" .. type_data .. "' con id " .. object_id .. ".",
+					["Taiwanese"] = "MTSL (TBC):  找不到 ID 为 " .. object_id .. " 的" .. type_data .. "。",
+				}
+				if not MTSLUI_CURRENT_LANGUAGE then MTSLUI_CURRENT_LANGUAGE = "English" end
+				print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. error_messages[MTSLUI_CURRENT_LANGUAGE] .. " ".. MTSLUI_TOOLS:GetLocalisedLabel("report bug"))
+				table.insert(MTSL_MISSING_DATA[type_data], tonumber(object_id))
+			end
+		else
+			-- TODO: remove after debugging
+			print("Empty id of type " .. type_data )
 		end
 	end,
 }

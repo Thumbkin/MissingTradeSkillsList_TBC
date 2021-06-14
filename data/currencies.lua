@@ -3,6 +3,21 @@
 -------------------------------------------------------
 MTSL_DATA["currencies"] = {
     {
+        ["id"] = 17203,
+        ["name"] = {
+            ["Chinese"] = "萨弗隆铁锭",
+            ["English"] = "Sulfuron Ingot",
+            ["French"] = "Lingot de sulfuron",
+            ["German"] = "Sulfuronblock",
+            ["Korean"] = "설퍼론 주괴",
+            ["Mexican"] = "Lingote de sulfuron",
+            ["Portuguese"] = "Lingote de Sulfuron",
+            ["Russian"] = "Сульфуронский слиток",
+            ["Spanish"] = "Lingote de sulfuron",
+            ["Taiwanese"] = "薩弗隆鐵錠",
+        },
+    },
+    {
         ["id"] = 24245,
         ["name"] = {
             ["Chinese"] = "亮顶蘑菇",

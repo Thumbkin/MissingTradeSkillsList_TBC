@@ -701,7 +701,7 @@ MTSLUI_SKILL_DETAIL_FRAME = {
     ShowDetailsOfSkillTypeItem = function(self, item_id, profession_name, current_xp_level, is_alternative_source, is_primary_type)
         local item = MTSL_LOGIC_ITEM_OBJECT:GetItemForProfessionById(item_id, profession_name)
         if item  == nil then
-            print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. "MTSL: Count not find item with id " .. item_id .. " for profession " .. profession_name .. ". Please report this bug!")
+            MTSL_TOOLS:AddMissingData("item", item_id)
         else
             self:SetRequiredXPLevel(item.min_xp_level)
             self:SetRequiredReputationWithFaction(item.reputation)
@@ -789,8 +789,9 @@ MTSLUI_SKILL_DETAIL_FRAME = {
                         if item.drops.range ~= nil then
                             self:ShowWorldDropSources(item.drops.range.min_xp_level, item.drops.range.max_xp_level, 0)
                         else
-                            if item.drops.zones ~= nil then
-                                self:ShowZoneDropSources(item.drops.zones, 0)
+                            if item.drops.zone_ids ~= nil then
+                                self.labels.sources.title:SetText(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_TOOLS:GetLocalisedLabel("zone"))
+                                self:ShowZoneDropSources(item.drops.zone_ids, 0)
                             else
                                 local mobs = MTSL_LOGIC_PLAYER_NPC:GetMobsByIds(item.drops.sources)
                                 self:ShowDetailsOfNpcs(mobs, 0)
@@ -807,8 +808,9 @@ MTSLUI_SKILL_DETAIL_FRAME = {
                         if item.drops.range then
                             self:ShowWorldDropSources(item.drops.range.min_xp_level, item.drops.range.max_xp_level, 1)
                         else
-                            if item.drops.zones then
-                                self:ShowZoneDropSources(item.drops.zones, 1)
+                            if item.drops.zone_ids then
+                                self.labels.alt_sources.title:SetText(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_TOOLS:GetLocalisedLabel("zone"))
+                                self:ShowZoneDropSources(item.drops.zone_ids, 1)
                             else
                                 local mobs = MTSL_LOGIC_PLAYER_NPC:GetMobsByIds(item.drops.sources)
                                 self:ShowDetailsOfNpcs(mobs, 1)

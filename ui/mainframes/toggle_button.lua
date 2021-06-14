@@ -72,6 +72,11 @@ function MTSLUI_TOGGLE_BUTTON:ReanchorToNewParent(parent_frame)
 		gap_left = 0
 		gap_top = 0
 	end
+	if TSM_UI_ELEMENT then
+		parent_frame = TSM_UI_ELEMENT
+		gap_left = 0
+		gap_top = 0
+	end
 	if parent_frame ~= nil then
 		self.ui_frame:SetParent(parent_frame)
 		self.ui_frame:ClearAllPoints()

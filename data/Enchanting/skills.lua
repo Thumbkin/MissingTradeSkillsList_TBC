@@ -3494,6 +3494,8 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["id"] = 25084,
 		["items"] = {
 			20735,
+			33150,
+			33151,
 		},
 		["min_skill"] = 300,
 		["name"] = {
@@ -3927,7 +3929,6 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["id"] = 27927,
 		["items"] = {
 			22538,
-			186683,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -4145,27 +4146,6 @@ MTSL_DATA["skills"]["Enchanting"] =
 				18773,
 			},
 		},
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 27958,
-		["items"] = {
-			22546,
-		},
-		["min_skill"] = 325,
-		["name"] = {
-			["Chinese"] = "附魔胸甲 - 杰出法力",
-			["English"] = "Enchant Chest - Exceptional Mana",
-			["French"] = "Ench. de plastron (Pts de mana exceptionnels)",
-			["German"] = "Brust - Außergewöhnliches Mana",
-			["Korean"] = "가슴보호구 마법부여 - 특급 마나",
-			["Mexican"] = "Encantar pechera: maná excepcional",
-			["Portuguese"] = "Encantamento Excepcional de Mana - Torso",
-			["Russian"] = "Чары для нагрудника - мана VII",
-			["Spanish"] = "Encantar pechera: maná excepcional",
-			["Taiwanese"] = "附魔胸甲 - 特殊法力",
-		},
-		["phase"] = 1,
 	},
 	{
 		["expansion"] = 2,
@@ -5250,6 +5230,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46578,
+		["holiday"] = 341,
 		["items"] = {
 			35498,
 		},

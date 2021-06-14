@@ -194,7 +194,7 @@ MTSLOPTUI_CONFIG_FRAME = {
         self.minimap_button_check = MTSLUI_TOOLS:CreateCheckbox(self.ui_frame, "MTSLOPTUI_ConfigFrame_Minimap", self.MARGIN_RIGHT + self.MARGIN_RIGHT_CHECKBOX, margin_top + 5)
 
         self.ui_frame.minimap_shape_drop_down = MTSLUI_TOOLS:CreateDropDown("MTSLOPTUI_CONFIG_FRAME_DD_MINIMAP_SHAPE", self.ui_frame, self.minimap_button_check, "TOPRIGHT", -5, 2, self.CreateDropDownMinimapShape, self.WIDTH_DD)
-        self.ui_frame.minimap_shape_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame.minimap_shape_drop_down, MTSLUI_TOOLS:GetLocalisedLabel("shape"), 0, self.TOP_LABEL_ABOVE_DD, "LABEL", "CENTER")
+        self.ui_frame.minimap_shape_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame.minimap_shape_drop_down, MTSLUI_TOOLS:GetLocalisedLabel("minimap shape"), 0, self.TOP_LABEL_ABOVE_DD, "LABEL", "CENTER")
 
         self.ui_frame.minimap_radius_drop_down = MTSLUI_TOOLS:CreateDropDown("MTSLOPTUI_CONFIG_FRAME_DD_MINIMAP_RADIUS", self.ui_frame, self.ui_frame.minimap_shape_drop_down, "TOPRIGHT", -20, 0, self.CreateDropDownMinimapRadius, self.WIDTH_DD)
         self.ui_frame.minimap_radius_text = MTSLUI_TOOLS:CreateLabel(self.ui_frame.minimap_radius_drop_down, MTSLUI_TOOLS:GetLocalisedLabel("radius"), 0, self.TOP_LABEL_ABOVE_DD, "LABEL", "CENTER")

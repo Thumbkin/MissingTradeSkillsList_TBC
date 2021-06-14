@@ -2054,6 +2054,16 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 1011,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 100000,
+			["sources"] = {
+				21655,
+			},
+		},
 	},
 	{
 		["expansion"] = 1,
@@ -2284,6 +2294,11 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				22822,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22530,
 		["name"] = {
@@ -2299,8 +2314,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔護腕 - 極效防禦",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "uncommon",
 	},
 	{
 		["expansion"] = 2,
@@ -2318,7 +2332,11 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔護腕 - 超強治療",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 5,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -2374,6 +2392,11 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "poor",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				19552,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22534,
 		["name"] = {
@@ -2389,8 +2412,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔護腕 - 法術能量",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "uncommon",
 	},
 	{
 		["expansion"] = 2,
@@ -2480,7 +2502,11 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔戒指 - 屬性",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 1011,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 200000,
 			["sources"] = {
@@ -2538,8 +2564,9 @@ MTSL_DATA["items"]["Enchanting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18313,
+			["range"] = {
+				["max_xp_level"] = 65,
+				["min_xp_level"] = 75,
 			},
 		},
 		["expansion"] = 2,
@@ -2557,9 +2584,15 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔盾牌 - 抗性",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "uncommon",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 65,
+				["min_xp_level"] = 75,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22542,
 		["name"] = {
@@ -2575,8 +2608,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔靴子 - 活力",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "uncommon",
 	},
 	{
 		["drops"] = {
@@ -2599,7 +2631,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔靴子 - 堅韌",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "uncommon",
 	},
 	{
 		["drops"] = {
@@ -2622,7 +2654,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔靴子 - 靈巧",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "uncommon",
 	},
 	{
 		["drops"] = {
@@ -2645,26 +2677,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔靴子 - 穩固",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 22546,
-		["name"] = {
-			["Chinese"] = "公式：附魔胸甲 - 优异法力",
-			["English"] = "Formula: Enchant Chest - Exceptional Mana",
-			["French"] = "Formule : Enchantement de plastron (Mana exceptionnel)",
-			["German"] = "Formel: Brust - Außergewöhnliches Mana",
-			["Korean"] = "주문식: 가슴보호구 마법부여 - 특급 마나",
-			["Mexican"] = "Fórmula: encantar pechera: maná excepcional",
-			["Portuguese"] = "Fórmula: Encantamento Excepcional de Mana - Torso",
-			["Russian"] = "Формула: зачаровывание нагрудника - мана, VI ступень",
-			["Spanish"] = "Fórmula: encantar pechera: maná excepcional",
-			["Taiwanese"] = "公式:附魔胸甲 - 特殊法力",
-		},
-		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "uncommon",
 	},
 	{
 		["expansion"] = 2,
@@ -2682,7 +2695,11 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔胸甲 - 特殊屬性",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -2763,6 +2780,12 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22553,
 		["name"] = {
@@ -2778,8 +2801,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔武器 - 潛能",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "uncommon",
 	},
 	{
 		["drops"] = {
@@ -2802,9 +2824,15 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔雙手武器 - 兇蠻",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "uncommon",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				22242,
+				22243,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22555,
 		["name"] = {
@@ -2820,8 +2848,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔武器 - 極效法術能量",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "uncommon",
 	},
 	{
 		["drops"] = {
@@ -2847,6 +2874,12 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "poor",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22557,
 		["name"] = {
@@ -2862,10 +2895,15 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔武器 - 戰鬥大師",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "uncommon",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22558,
 		["name"] = {
@@ -2881,8 +2919,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔武器 - 法力回流",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "uncommon",
 	},
 	{
 		["drops"] = {
@@ -2905,7 +2942,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔武器 - 貓鼬",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "rare",
 	},
 	{
 		["drops"] = {
@@ -2928,7 +2965,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔武器 - 烈日火焰",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "rare",
 	},
 	{
 		["drops"] = {
@@ -2951,7 +2988,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔武器 - 靈魂冰霜",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "rare",
 	},
 	{
 		["expansion"] = 2,
@@ -3047,7 +3084,11 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔護腕 - 超強治療",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 947,
+			["level_id"] = 5,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -3071,7 +3112,11 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔胸甲 - 特殊屬性",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 947,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -3249,6 +3294,11 @@ MTSL_DATA["items"]["Enchanting"] =
 		},
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				19796,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 28276,
 		["name"] = {
@@ -3264,8 +3314,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔披風 - 強效秘法抗性",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "rare",
 	},
 	{
 		["drops"] = {
@@ -3291,6 +3340,12 @@ MTSL_DATA["items"]["Enchanting"] =
 		["quality"] = "poor",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 28279,
 		["name"] = {
@@ -3306,10 +3361,15 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔靴子 - 貓之迅捷",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 28280,
 		["name"] = {
@@ -3325,8 +3385,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔靴子 - 野豬之速",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "rare",
 	},
 	{
 		["expansion"] = 2,
@@ -3344,7 +3403,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔武器 - 極效治療",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "uncommon",
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -3368,11 +3427,67 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔盾牌 - 極效耐力",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "common",
 		["vendors"] = {
 			["price"] = 40000,
 			["sources"] = {
 				19663,
+			},
+		},
+	},
+	{
+		["expansion"] = 2,
+		["id"] = 33150,
+		["name"] = {
+			["Chinese"] = "公式：附魔披风 - 狡诈",
+			["English"] = "Formula: Enchant Cloak - Subtlety",
+			["French"] = "Formule : Enchantement de cape (Discrétion)",
+			["German"] = "Formel: Umhang - Feingefühl",
+			["Korean"] = "주문식: 망토 마법부여 - 미묘함",
+			["Mexican"] = "Fórmula: encantar capa: sutileza",
+			["Portuguese"] = "Fórmula: Encantamento de Sutileza - Manto",
+			["Russian"] = "Формула чар для плаща: скрытность",
+			["Spanish"] = "Fórmula: encantar capa: sutileza",
+			["Taiwanese"] = "公式:附魔披風 - 狡詐",
+		},
+		["phase"] = 2,
+		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 90000,
+			["sources"] = {
+				17657,
+			},
+		},
+	},
+	{
+		["expansion"] = 2,
+		["id"] = 33151,
+		["name"] = {
+			["Chinese"] = "公式：附魔披风 - 狡诈",
+			["English"] = "Formula: Enchant Cloak - Subtlety",
+			["French"] = "Formule : Enchantement de cape (Discrétion)",
+			["German"] = "Formel: Umhang - Feingefühl",
+			["Korean"] = "주문식: 망토 마법부여 - 미묘함",
+			["Mexican"] = "Fórmula: encantar capa: sutileza",
+			["Portuguese"] = "Fórmula: Encantamento de Sutileza - Manto",
+			["Russian"] = "Формула чар для плаща: скрытность",
+			["Spanish"] = "Fórmula: encantar capa: sutileza",
+			["Taiwanese"] = "公式:附魔披風 - 狡詐",
+		},
+		["phase"] = 2,
+		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 947,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 90000,
+			["sources"] = {
+				17585,
 			},
 		},
 	},
@@ -3392,7 +3507,11 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔武器 - 強效敏捷",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 967,
+			["level_id"] = 8,
+		},
 		["vendors"] = {
 			["price"] = 30000,
 			["sources"] = {
@@ -3443,11 +3562,25 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Spanish"] = "Fórmula: Fragmentar cristal de vacío",
 			["Taiwanese"] = "公式:粉碎虛無",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 150000,
+			["sources"] = {
+				25032,
+			},
+		},
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				24664,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35297,
 		["name"] = {
@@ -3462,11 +3595,15 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Spanish"] = "Fórmula: encantar botas: velocidad del jabalí",
 			["Taiwanese"] = "公式:附魔靴子 - 野豬之速",
 		},
-		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				24664,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35298,
 		["name"] = {
@@ -3481,11 +3618,15 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Spanish"] = "Fórmula: encantar botas: vitalidad",
 			["Taiwanese"] = "公式:附魔靴子 - 活力",
 		},
-		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				24664,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35299,
 		["name"] = {
@@ -3500,11 +3641,15 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Spanish"] = "Fórmula: encantar botas: presteza felina",
 			["Taiwanese"] = "公式:附魔靴子 - 貓之迅捷",
 		},
-		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				25740,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35498,
 		["name"] = {
@@ -3520,8 +3665,7 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔武器 - 死亡冰霜",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "rare",
 	},
 	{
 		["expansion"] = 2,
@@ -3538,9 +3682,18 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Spanish"] = "Fórmula: encantar pechera: defensa",
 			["Taiwanese"] = "公式:附魔胸甲 - 防禦",
 		},
-		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["phase"] = 5,
+		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 150000,
+			["sources"] = {
+				25032,
+			},
+		},
 	},
 	{
 		["drops"] = {
@@ -3563,25 +3716,6 @@ MTSL_DATA["items"]["Enchanting"] =
 			["Taiwanese"] = "公式:附魔披風 - 鋼紋",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 186683,
-		["name"] = {
-			["Chinese"] = "公式：附魔戒指 - 属性",
-			["English"] = "Formula: Enchant Ring - Stats",
-			["French"] = "Formule : Enchantement d'anneau (Caractéristiques)",
-			["German"] = "Formel: Ring - Werte",
-			["Korean"] = "주문식: 반지 마법부여 - 능력치",
-			["Mexican"] = "Fórmula: encantar anillo: estadísticas",
-			["Portuguese"] = "Fórmula: Encantamento de Atributos - Anel",
-			["Russian"] = "Формула чар для кольца: все характеристики",
-			["Spanish"] = "Fórmula: encantar anillo: estadísticas",
-			["Taiwanese"] = "公式:附魔戒指 - 屬性",
-		},
-		["phase"] = 1,
-		["quality"] = "poor",
-		["special_action"] = "no data available yet",
+		["quality"] = "rare",
 	},
 }

@@ -1579,6 +1579,16 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 1011,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 40000,
+			["sources"] = {
+				21655,
+			},
+		},
 	},
 	{
 		["expansion"] = 1,
@@ -1961,6 +1971,10 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 50000,
 			["sources"] = {
@@ -2084,6 +2098,10 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 1011,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 80000,
 			["sources"] = {
@@ -2117,6 +2135,12 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22912,
 		["name"] = {
@@ -2133,9 +2157,14 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22913,
 		["name"] = {
@@ -2152,7 +2181,6 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
@@ -2243,6 +2271,10 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 941,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 80000,
 			["sources"] = {
@@ -2275,6 +2307,12 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22919,
 		["name"] = {
@@ -2291,7 +2329,6 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
@@ -2364,6 +2401,11 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				17150,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22923,
 		["name"] = {
@@ -2380,9 +2422,13 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				21302,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22924,
 		["name"] = {
@@ -2399,9 +2445,13 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				19973,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 22925,
 		["name"] = {
@@ -2418,13 +2468,12 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18317,
-				18323,
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2510,6 +2559,10 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 947,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 50000,
 			["sources"] = {
@@ -2558,6 +2611,10 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 80000,
 			["sources"] = {
@@ -2582,6 +2639,10 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 947,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 80000,
 			["sources"] = {
@@ -2606,6 +2667,10 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 978,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 80000,
 			["sources"] = {
@@ -2614,6 +2679,14 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				19740,
+				19755,
+				21302,
+				21314,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 31680,
 		["name"] = {
@@ -2630,9 +2703,16 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				19754,
+				19756,
+				20878,
+				20887,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 31681,
 		["name"] = {
@@ -2649,7 +2729,6 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
@@ -2749,25 +2828,11 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 	},
 	{
-		["expansion"] = 2,
-		["id"] = 34481,
-		["name"] = {
-			["Chinese"] = "配方：疯狂炼金师药水",
-			["English"] = "Recipe: Mad Alchemist's Potion",
-			["French"] = "Recette : Potion de l'alchimiste fou",
-			["German"] = "Rezept: Trank des verrückten Alchimisten",
-			["Korean"] = "조제법: 미치광이 연금술사의 물약",
-			["Mexican"] = "Receta: poción de alquimista loco",
-			["Portuguese"] = "Receita: Poção do Alquimista Louco",
-			["Russian"] = "Рецепт: зелье безумного алхимика",
-			["Spanish"] = "Receta: poción de alquimista loco",
-			["Taiwanese"] = "配方:瘋狂鍊金師藥水",
+		["drops"] = {
+			["sources"] = {
+				24664,
+			},
 		},
-		["phase"] = 1,
-		["quality"] = "common",
-		["special_action"] = "no data available yet",
-	},
-	{
 		["expansion"] = 2,
 		["id"] = 35294,
 		["name"] = {
@@ -2784,9 +2849,13 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				24664,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35295,
 		["name"] = {
@@ -2801,9 +2870,8 @@ MTSL_DATA["items"]["Alchemy"] =
 			["Spanish"] = "Receta: poción de celeridad",
 			["Taiwanese"] = "配方:急速藥水",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -2822,7 +2890,16 @@ MTSL_DATA["items"]["Alchemy"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 250000,
+			["sources"] = {
+				25032,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -2839,9 +2916,18 @@ MTSL_DATA["items"]["Alchemy"] =
 			["Spanish"] = "Receta: piedra de alquimista de hechicero",
 			["Taiwanese"] = "配方:巫士鍊金石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 250000,
+			["sources"] = {
+				25032,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -2858,12 +2944,22 @@ MTSL_DATA["items"]["Alchemy"] =
 			["Spanish"] = "Receta: piedra de alquimista de redentor",
 			["Taiwanese"] = "配方:救贖者鍊金石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 250000,
+			["sources"] = {
+				25032,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
+		["faction_id"] = 1077,
 		["id"] = 35755,
 		["name"] = {
 			["Chinese"] = "配方：刺客的炼金石",
@@ -2877,8 +2973,17 @@ MTSL_DATA["items"]["Alchemy"] =
 			["Spanish"] = "Receta: piedra de alquimista de asesino",
 			["Taiwanese"] = "配方:刺客鍊金石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 250000,
+			["sources"] = {
+				25032,
+			},
+		},
 	},
 }

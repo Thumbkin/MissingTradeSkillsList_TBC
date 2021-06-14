@@ -2783,7 +2783,8 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["phase"] = 1,
 		["quality"] = "epic",
 		["vendors"] = {
-			["price"] = 0,
+			["currency"] = 17203,
+			["price"] = 1,
 			["sources"] = {
 				12944,
 			},
@@ -4192,6 +4193,11 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				20878,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23609,
 		["name"] = {
@@ -4208,9 +4214,13 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				18873,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23610,
 		["name"] = {
@@ -4227,7 +4237,6 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
@@ -4253,6 +4262,11 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				16952,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23612,
 		["name"] = {
@@ -4269,7 +4283,6 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
@@ -4381,6 +4394,10 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 8,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -4389,6 +4406,12 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23620,
 		["name"] = {
@@ -4405,9 +4428,14 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23621,
 		["name"] = {
@@ -4424,7 +4452,6 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
@@ -4473,6 +4500,12 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "epic",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23624,
 		["name"] = {
@@ -4489,9 +4522,14 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23625,
 		["name"] = {
@@ -4508,9 +4546,14 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23626,
 		["name"] = {
@@ -4527,12 +4570,12 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18325,
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -4554,8 +4597,9 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18314,
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -4576,6 +4620,12 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "epic",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23629,
 		["name"] = {
@@ -4592,9 +4642,14 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23630,
 		["name"] = {
@@ -4611,9 +4666,14 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23631,
 		["name"] = {
@@ -4630,9 +4690,14 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23632,
 		["name"] = {
@@ -4649,9 +4714,14 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23633,
 		["name"] = {
@@ -4668,9 +4738,14 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23634,
 		["name"] = {
@@ -4687,13 +4762,12 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17801,
-				18317,
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -4715,8 +4789,9 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18317,
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -4737,6 +4812,12 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		["quality"] = "epic",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23637,
 		["name"] = {
@@ -4753,7 +4834,6 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -4781,6 +4861,11 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				18853,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 23639,
 		["name"] = {
@@ -4797,7 +4882,6 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -4816,6 +4900,10 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 947,
+			["level_id"] = 8,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -4927,7 +5015,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 				20046,
 				21212,
 				21214,
-		 		21216,
+				21216,
 			},
 		},
 		["expansion"] = 2,
@@ -4949,13 +5037,9 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				20046,
-				21212,
-				21213,
-				21215,
-		 		21216,
-				23054,
+			["zone_ids"] = {
+				3607,
+				3845,
 			},
 		},
 		["expansion"] = 2,
@@ -4972,20 +5056,14 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: cinturón rojo de batalla",
 			["Taiwanese"] = "設計圖:紅色戰鬥腰帶",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18805,
-				19514,
-				20046,
-				21213,
-				21214,
-				21216,
-				21215,
-				21217,
+			["zone_ids"] = {
+				3607,
+				3845,
 			},
 		},
 		["expansion"] = 2,
@@ -5002,21 +5080,14 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: botas del protector",
 			["Taiwanese"] = "設計圖:保衛者之靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18805,
-				19514,
-				20046,
-				21212,
-				21214,
-				21215,
-				21226,
-				21227,
-				23054,
+			["zone_ids"] = {
+				3607,
+				3845,
 			},
 		},
 		["expansion"] = 2,
@@ -5033,7 +5104,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: botas de caos rojas",
 			["Taiwanese"] = "設計圖:紅色浩劫長靴",
 		},
-		["phase"] = 1,
+		["phase"] = 2,
 		["quality"] = "epic",
 	},
 	{
@@ -5125,7 +5196,16 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 967,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 240000,
+			["sources"] = {
+				16388,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5144,7 +5224,16 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 967,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 240000,
+			["sources"] = {
+				16388,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5163,7 +5252,16 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 967,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 240000,
+			["sources"] = {
+				16388,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5180,9 +5278,18 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: zuecos de acero de Sombras",
 			["Taiwanese"] = "設計圖:影堅戰靴",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 80000,
+			["sources"] = {
+				23159,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5199,9 +5306,18 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: brazales de acero de Sombras",
 			["Taiwanese"] = "設計圖:影堅護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 80000,
+			["sources"] = {
+				23159,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5218,9 +5334,18 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: grebas de acero de Sombras",
 			["Taiwanese"] = "設計圖:影堅護脛",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 80000,
+			["sources"] = {
+				23159,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5237,18 +5362,23 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: faja de acero de Sombras",
 			["Taiwanese"] = "設計圖:影堅束腰",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 80000,
+			["sources"] = {
+				23159,
+			},
+		},
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17907,
-				17916,
-				22871,
-				22952,
-				23421,
+			["zone_ids"] = {
+				3959,
 			},
 		},
 		["expansion"] = 2,
@@ -5270,23 +5400,8 @@ MTSL_DATA["items"]["Blacksmithing"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				22841,
-				22871,
-				22887,
-				22898,
-				22917,
-				22947,
-				22948,
-				22952,
-				22959,
-				22962,
-				22964,
-				22965,
-				23049,
-				23394,
-				23403,
-				23421,
+			["zone_ids"] = {
+				3959,
 			},
 		},
 		["expansion"] = 2,
@@ -5303,27 +5418,13 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: sobrehombros de acero presto",
 			["Taiwanese"] = "設計圖:迅鋼護肩",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				22841,
-				22853,
-				22869,
-				22871,
-				22887,
-				22898,
-				22917,
-				22947,
-				22948,
-				22952,
-				22962,
-				22965,
-				23049,
-				23394,
-				23421,
+			["zone_ids"] = {
+				3959,
 			},
 		},
 		["expansion"] = 2,
@@ -5340,22 +5441,14 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: brazales albacero",
 			["Taiwanese"] = "設計圖:黎明鋼鐵護腕",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17907,
-				22841,
-				22871,
-				22887,
-				22898,
-				22917,
-				22947,
-				22948,
-				22952,
-				23421,
+			["zone_ids"] = {
+				3606,
+				3959,
 			},
 		},
 		["expansion"] = 2,
@@ -5372,10 +5465,18 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: sobrehombros albacero",
 			["Taiwanese"] = "設計圖:黎明鋼鐵護肩",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				21050,
+				21059,
+				21060,
+				21061,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 33174,
 		["name"] = {
@@ -5392,9 +5493,14 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 33186,
 		["name"] = {
@@ -5411,7 +5517,6 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -5430,9 +5535,17 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
+		["quests"] = {
+			1578
+		}
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 75,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 33954,
 		["name"] = {
@@ -5449,24 +5562,11 @@ MTSL_DATA["items"]["Blacksmithing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				25483,
-				25484,
-				25486,
-				25506,
-				25508,
-				25509,
-				25591,
-				25592,
-				25593,
-				25595,
-				25597,
-				25599,
-				25837,
+			["zone_ids"] = {
+				4075,
 			},
 		},
 		["expansion"] = 2,
@@ -5483,25 +5583,13 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: guanteletes bendecidos por el sol",
 			["Taiwanese"] = "設計圖:太陽祝福護手",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				25483,
-				25484,
-				25486,
-				25506,
-				25508,
-				25509,
-				25591,
-				25592,
-				25593,
-				25595,
-				25597,
-				25599,
-				25837,
+			["zone_ids"] = {
+				4075,
 			},
 		},
 		["expansion"] = 2,
@@ -5518,25 +5606,13 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: puños de batalla de korio duro",
 			["Taiwanese"] = "設計圖:特硬克銀戰拳",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				25483,
-				25484,
-				25486,
-				25506,
-				25508,
-				25509,
-				25591,
-				25592,
-				25593,
-				25595,
-				25597,
-				25599,
-				25837,
+			["zone_ids"] = {
+				4075,
 			},
 		},
 		["expansion"] = 2,
@@ -5553,25 +5629,13 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: coraza bendecida por el sol",
 			["Taiwanese"] = "設計圖:太陽祝福胸甲",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				25483,
-				25484,
-				25486,
-				25506,
-				25508,
-				25509,
-				25591,
-				25592,
-				25593,
-				25595,
-				25597,
-				25599,
-				25837,
+			["zone_ids"] = {
+				4075,
 			},
 		},
 		["expansion"] = 2,
@@ -5588,10 +5652,15 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: placa de batalla de korio duro",
 			["Taiwanese"] = "設計圖:特硬克銀戰甲",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "epic",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				24664,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35296,
 		["name"] = {
@@ -5606,160 +5675,7 @@ MTSL_DATA["items"]["Blacksmithing"] =
 			["Spanish"] = "Diseño: cadena de adamantita",
 			["Taiwanese"] = "設計圖:堅鋼武器鍊",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35529,
-		["name"] = {
-			["Chinese"] = "设计图：晨钢护腕",
-			["English"] = "Plans: Dawnsteel Bracers",
-			["French"] = "Plans : Brassards en acier de l'aube",
-			["German"] = "Pläne: Morgenstahlarmschienen",
-			["Korean"] = "도면: 여명의 강철 팔보호구",
-			["Mexican"] = "Diseño: brazales albacero",
-			["Portuguese"] = "Instruções: Braçadeiras de Alvoraço",
-			["Russian"] = "Чертеж: наручи рассветной стали",
-			["Spanish"] = "Diseño: brazales albacero",
-			["Taiwanese"] = "設計圖:黎明鋼鐵護腕",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35530,
-		["name"] = {
-			["Chinese"] = "设计图：晨钢护肩",
-			["English"] = "Plans: Dawnsteel Shoulders",
-			["French"] = "Plans : Epaulières en acier de l'aube",
-			["German"] = "Pläne: Morgenstahlschultern",
-			["Korean"] = "도면: 여명의 강철 어깨보호구",
-			["Mexican"] = "Diseño: sobrehombros albacero",
-			["Portuguese"] = "Instruções: Omoplatas de Alvoraço",
-			["Russian"] = "Чертеж: наплечники рассветной стали",
-			["Spanish"] = "Diseño: sobrehombros albacero",
-			["Taiwanese"] = "設計圖:黎明鋼鐵護肩",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35531,
-		["name"] = {
-			["Chinese"] = "设计图：迅钢护腕",
-			["English"] = "Plans: Swiftsteel Bracers",
-			["French"] = "Plans : Brassards en vif-acier",
-			["German"] = "Pläne: Flinkstahlarmschienen",
-			["Korean"] = "도면: 신속의 강철 팔보호구",
-			["Mexican"] = "Diseño: brazales de acero presto",
-			["Portuguese"] = "Instruções: Braçadeiras de Celeraço",
-			["Russian"] = "Чертеж: наручи из быстростали",
-			["Spanish"] = "Diseño: brazales de acero presto",
-			["Taiwanese"] = "設計圖:迅鋼護腕",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35532,
-		["name"] = {
-			["Chinese"] = "设计图：迅钢护肩",
-			["English"] = "Plans: Swiftsteel Shoulders",
-			["French"] = "Plans : Epaulières en vif-acier",
-			["German"] = "Pläne: Flinkstahlschultern",
-			["Korean"] = "도면: 신속의 강철 어깨보호구",
-			["Mexican"] = "Diseño: sobrehombros de acero presto",
-			["Portuguese"] = "Instruções: Omoplatas de Celeraço",
-			["Russian"] = "Чертеж: наплечники из быстростали",
-			["Spanish"] = "Diseño: sobrehombros de acero presto",
-			["Taiwanese"] = "設計圖:迅鋼護肩",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35553,
-		["name"] = {
-			["Chinese"] = "设计图：硬化氪金拳甲",
-			["English"] = "Plans: Hard Khorium Battlefists",
-			["French"] = "Plans : Poings armés en khorium durci",
-			["German"] = "Pläne: Kampffäuste aus Hartkhorium",
-			["Korean"] = "도면: 단단한 코륨 전투판금 건틀릿",
-			["Mexican"] = "Diseño: puños de batalla de korio duro",
-			["Portuguese"] = "Instruções: Manápulas de Kório Duro",
-			["Russian"] = "Чертеж: кулачные перчатки из закаленного кория",
-			["Spanish"] = "Diseño: puños de batalla de korio duro",
-			["Taiwanese"] = "設計圖:特硬克銀戰拳",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35554,
-		["name"] = {
-			["Chinese"] = "设计图：硬化氪金战甲",
-			["English"] = "Plans: Hard Khorium Battleplate",
-			["French"] = "Plans : Armure de bataille en khorium durci",
-			["German"] = "Pläne: Kampfplatte aus Hartkhorium",
-			["Korean"] = "도면: 단단한 코륨 전투판금 흉갑",
-			["Mexican"] = "Diseño: placa de batalla de korio duro",
-			["Portuguese"] = "Instruções: Loriga de Kório Duro",
-			["Russian"] = "Чертеж: боевой доспех из закаленного кория",
-			["Spanish"] = "Diseño: placa de batalla de korio duro",
-			["Taiwanese"] = "設計圖:特硬克銀戰甲",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35555,
-		["name"] = {
-			["Chinese"] = "设计图：圣日胸甲",
-			["English"] = "Plans: Sunblessed Breastplate",
-			["French"] = "Plans : Cuirasse bénie par le soleil",
-			["German"] = "Pläne: Sonnengesegnete Brustplatte",
-			["Korean"] = "도면: 태양의 축복 흉갑",
-			["Mexican"] = "Diseño: coraza bendecida por el sol",
-			["Portuguese"] = "Instruções: Peitoral Abençoado pelo Sol",
-			["Russian"] = "Чертеж: кираса солнечного благословения",
-			["Spanish"] = "Diseño: coraza bendecida por el sol",
-			["Taiwanese"] = "設計圖:太陽祝福胸甲",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35556,
-		["name"] = {
-			["Chinese"] = "设计图：圣日护手",
-			["English"] = "Plans: Sunblessed Gauntlets",
-			["French"] = "Plans : Gantelets bénis par le soleil",
-			["German"] = "Pläne: Sonnengesegnete Stulpen",
-			["Korean"] = "도면: 태양의 축복 건틀릿",
-			["Mexican"] = "Diseño: guanteletes bendecidos por el sol",
-			["Portuguese"] = "Instruções: Manoplas Abençoadas pelo Sol",
-			["Russian"] = "Чертеж: рукавицы солнечного благословения",
-			["Spanish"] = "Diseño: guanteletes bendecidos por el sol",
-			["Taiwanese"] = "設計圖:太陽祝福護手",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 }

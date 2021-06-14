@@ -5,7 +5,7 @@ MTSL_DATA["items"]["Mining"] =
 {
 	{
 		["drops"] = {
-			["zones"] = {
+			["zone_ids"] = {
 				4075,
 			},
 		},

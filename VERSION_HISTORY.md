@@ -1,5 +1,13 @@
 ## Version History
 
+### v2.5.06 (June 14, 2021)
+
+* All professions except Jewelcrafting have all the skills & items added
+* Fixed data:
+  * Set the correct data for each NPC
+  * All items have the correct phase now, if they drop in specific zone(s), those zone(s) are added
+  * Removed unused NPCs
+  
 ### v2.5.05 (June 8, 2021)
 
 * Fixed data
@@ -7,13 +15,14 @@
   * Added some missing NPCs
   * Updated professions to only have the correct auto learned spells
   * Set the correct phase for some skill
-* Added code to save ids when data is missing for an object for easier missing data reports. Include the contents of "MTSL_MISSING_DATA" from saved variables to bug report if not empty
+* Added code to save ids when data is missing for an object for easier missing data reports. Include the contents of "MTSL\_MISSING\_DATA" from saved variables to bug report if not empty
 * Fixed bugs
-  * Fresh install could prevent addon from loading when MTSLUI_PLAYER is not yet loaded/filled
+  * Fresh install could prevent addon from loading when MTSLUI\_PLAYER is not yet loaded/filled
   * Mob data is once again shown when the item they drop is selected
   * Missing icon for Jewelcrafting in skill list frame
 
 ### v2.5.04 (June 8, 2021)
+
 * Added loads of spells/items/npcs for all professions
 * Added all "Master" level for all professions
 * Set the correct trainers for each level of each profession
@@ -21,6 +30,7 @@
 * Updated the names of all spells, items with live ingame data
 
 ### v2.5.03 (May 30, 2021)
+
 * Fixed data
   * Updated French & German translations for continents, factions, zones & some NPCs
 

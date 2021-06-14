@@ -7422,7 +7422,6 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["id"] = 41205,
 		["items"] = {
 			32754,
-			35518,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -7444,7 +7443,6 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["id"] = 41206,
 		["items"] = {
 			32755,
-			35522,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -7466,7 +7464,6 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["id"] = 41207,
 		["items"] = {
 			32752,
-			35526,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -7488,7 +7485,6 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["id"] = 41208,
 		["items"] = {
 			32753,
-			35525,
 		},
 		["min_skill"] = 375,
 		["name"] = {
@@ -7552,7 +7548,6 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["id"] = 46128,
 		["items"] = {
 			35204,
-			35551,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -7574,7 +7569,6 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["id"] = 46129,
 		["items"] = {
 			35205,
-			35544,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -7596,7 +7590,6 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["id"] = 46130,
 		["items"] = {
 			35206,
-			35552,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -7618,7 +7611,6 @@ MTSL_DATA["skills"]["Tailoring"] =
 		["id"] = 46131,
 		["items"] = {
 			35207,
-			35548,
 		},
 		["min_skill"] = 365,
 		["name"] = {
