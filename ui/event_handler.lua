@@ -305,27 +305,6 @@ MTSLUI_EVENT_HANDLER = {
 		end
     end,
 
-	print_trade_skills = function(self, prof_name)
-		-- print the skills of current opened tradeskill
-		print(prof_name .. " has " .. GetNumTradeSkills() .. " skills")
-		for i=1,GetNumTradeSkills() do
-			local skill_name, skill_type = GetTradeSkillInfo(i)
-			-- Skip the headers, only check real skills
-			if skill_name ~= nil and skill_type ~= "header" then
-				print(skill_name)
-			end
-		end
-	end,
-
-	print_profession = function(self)
-		for i = 1, select("#", GetProfessions()) do
-			local prof = select(i, GetProfessions())
-			if prof then
-				print(select(2, GetSpellLink(GetProfessionInfo(prof))))
-			end
-		end
-	end,
-
 	---------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
 	-- Initialise the handler and hook all events

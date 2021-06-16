@@ -591,12 +591,6 @@ MTSL_LOGIC_PLAYER_NPC = {
         end
 
         self:UpdateMissingLevelsForProfessionCurrentPlayer(profession_name, max_level)
-
-        if profession_name == "First Aid" then
-            print("After updating First Aid:")
-            print(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED .. " - " ..
-                    MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING)
-        end
     end,
 
     UpdateSpecialisations = function(self, profession_name)

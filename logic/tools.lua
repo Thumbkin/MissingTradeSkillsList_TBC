@@ -582,9 +582,6 @@ MTSL_TOOLS = {
 				print(MTSLUI_FONTS.COLORS.TEXT.ERROR .. error_messages[MTSLUI_CURRENT_LANGUAGE] .. " ".. MTSLUI_TOOLS:GetLocalisedLabel("report bug"))
 				table.insert(MTSL_MISSING_DATA[type_data], tonumber(object_id))
 			end
-		else
-			-- TODO: remove after debugging
-			print("Empty id of type " .. type_data )
 		end
 	end,
 }
