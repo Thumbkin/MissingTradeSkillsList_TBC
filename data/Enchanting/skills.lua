@@ -3305,6 +3305,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 		["id"] = 25072,
 		["items"] = {
 			20726,
+			33153,
 		},
 		["min_skill"] = 300,
 		["name"] = {

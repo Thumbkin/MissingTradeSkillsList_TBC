@@ -107,6 +107,21 @@ MTSL_DATA["special_actions"] = {
             ["Taiwanese"] = "通過發現學習",
         },
     },
+    ["looted from within containers found when fishing"] = {
+        ["id"] = 18,
+        ["name"] = {
+            ["Chinese"] = "从钓鱼时发现的容器内掠夺",
+            ["English"] = "Looted from within containers found when fishing",
+            ["French"] = "Pillé dans des conteneurs trouvés lors de la pêche",
+            ["German"] = "Geplündert aus Containern, die beim Angeln gefunden wurden",
+            ["Korean"] = "낚시 할 때 발견 된 컨테이너에서 약탈",
+            ["Mexican"] = "Saqueado dentro de los contenedores encontrados al pescar",
+            ["Portuguese"] = "Roubado de contêineres encontrados durante a pesca",
+            ["Russian"] = "Добывается из контейнеров, найденных при рыбалке",
+            ["Spanish"] = "Saqueado dentro de los contenedores encontrados al pescar",
+            ["Taiwanese"] = "從釣魚時發現的容器內掠奪",
+        }
+    },
     ["made gnomish engi 205"] = {
         ["id"] = 7,
         ["name"] = {

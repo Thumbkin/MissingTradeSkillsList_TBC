@@ -9,7 +9,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：月之护符",
 			["English"] = "Design: Amulet of the Moon",
-			["French"] = "Dessin : Amulette de la lune",
+			["French"] = "Dessin : Amulette de la lune",
 			["German"] = "Vorlage: Amulett des Mondes",
 			["Korean"] = "디자인: 달의 아뮬렛",
 			["Mexican"] = "Boceto: amuleto de la Luna",
@@ -36,7 +36,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：邪恶月亮石戒指",
 			["English"] = "Design: Wicked Moonstone Ring",
-			["French"] = "Dessin : Anneau de pierre de lune pernicieux",
+			["French"] = "Dessin : Anneau de pierre de lune pernicieux",
 			["German"] = "Vorlage: Tückischer Mondsteinring",
 			["Korean"] = "디자인: 부정한 월장석 반지",
 			["Mexican"] = "Boceto: anillo de piedra lunar maligno",
@@ -61,7 +61,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：重型作战金项链",
 			["English"] = "Design: Heavy Golden Necklace of Battle",
-			["French"] = "Dessin : Collier de bataille épais doré",
+			["French"] = "Dessin : Collier de bataille épais doré",
 			["German"] = "Vorlage: Schwere goldene Halskette des Kampfes",
 			["Korean"] = "디자인: 전투의 묵직한 황금 목걸이",
 			["Mexican"] = "Boceto: collar de batalla dorado pesado",
@@ -71,7 +71,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Taiwanese"] = "設計圖:戰爭之黃金項鍊",
 		},
 		["phase"] = 1,
-		["quality"] = "poor",
+		["quality"] = "common",
 		["vendors"] = {
 			["price"] = 1500,
 			["sources"] = {
@@ -88,7 +88,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：玛瑙护盾坠饰",
 			["English"] = "Design: Pendant of the Agate Shield",
-			["French"] = "Dessin : Pendentif du bouclier d'agate",
+			["French"] = "Dessin : Pendentif du bouclier d'agate",
 			["German"] = "Vorlage: Anhänger des Achatschilds",
 			["Korean"] = "디자인: 보호의 태마노 펜던트",
 			["Mexican"] = "Boceto: colgante del escudo de ágata",
@@ -113,7 +113,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：重型铁拳套",
 			["English"] = "Design: Heavy Iron Knuckles",
-			["French"] = "Dessin : Coup de poing lourd en fer",
+			["French"] = "Dessin : Coup de poing lourd en fer",
 			["German"] = "Vorlage: Schwerer Eisenschlagring",
 			["Korean"] = "디자인: 묵직한 철제 너클",
 			["Mexican"] = "Boceto: nudillos de hierro pesados",
@@ -138,7 +138,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：闪耀黄水晶之戒",
 			["English"] = "Design: Blazing Citrine Ring",
-			["French"] = "Dessin : Anneau de citrine flamboyant",
+			["French"] = "Dessin : Anneau de citrine flamboyant",
 			["German"] = "Vorlage: Citrinring der Loderflamme",
 			["Korean"] = "디자인: 타오르는 황수정 반지",
 			["Mexican"] = "Boceto: anillo de citrino llameante",
@@ -169,7 +169,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：冲击之碧玉坠饰",
 			["English"] = "Design: Jade Pendant of Blasting",
-			["French"] = "Dessin : Pendentif de jade d'explosion",
+			["French"] = "Dessin : Pendentif de jade d'explosion",
 			["German"] = "Vorlage: Jadeanhänger der Zauberwucht",
 			["Korean"] = "디자인: 작렬하는 비취 펜던트",
 			["Mexican"] = "Boceto: colgante de jade de Detonación",
@@ -187,7 +187,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：翡翠之眼",
 			["English"] = "Design: The Jade Eye",
-			["French"] = "Dessin : L'oeil de jade",
+			["French"] = "Dessin : L'oeil de jade",
 			["German"] = "Vorlage: Das Jadeauge",
 			["Korean"] = "디자인: 비취의 눈",
 			["Mexican"] = "Boceto: El ojo de jade",
@@ -220,7 +220,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：金色治疗之黄水晶坠饰",
 			["English"] = "Design: Citrine Pendant of Golden Healing",
-			["French"] = "Dessin : Pendentif de citrine de soin doré",
+			["French"] = "Dessin : Pendentif de citrine de soin doré",
 			["German"] = "Vorlage: Citrinanhänger der goldenen Heilung",
 			["Korean"] = "디자인: 황금빛 치유의 황수정 펜던트",
 			["Mexican"] = "Boceto: colgante de citrino de sanación dorada",
@@ -244,7 +244,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：金兔",
 			["English"] = "Design: Golden Hare",
-			["French"] = "Dessin : Lièvre doré",
+			["French"] = "Dessin : Lièvre doré",
 			["German"] = "Vorlage: Goldener Hase",
 			["Korean"] = "디자인: 황금 토끼",
 			["Mexican"] = "Boceto: liebre dorada",
@@ -262,7 +262,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：黑珍珠猎豹",
 			["English"] = "Design: Black Pearl Panther",
-			["French"] = "Dessin : Panthère de perle noire",
+			["French"] = "Dessin : Panthère de perle noire",
 			["German"] = "Vorlage: Schwarzer Perlenpanther",
 			["Korean"] = "디자인: 검은 진주 표범",
 			["Mexican"] = "Boceto: pantera de perla negra",
@@ -287,7 +287,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：恢复之红宝石王冠",
 			["English"] = "Design: Ruby Crown of Restoration",
-			["French"] = "Dessin : Couronne de rubis de restauration",
+			["French"] = "Dessin : Couronne de rubis de restauration",
 			["German"] = "Vorlage: Rubinkrone der Wiederherstellung",
 			["Korean"] = "디자인: 회복의 루비 왕관",
 			["Mexican"] = "Boceto: corona de rubí de restauración",
@@ -312,7 +312,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：真银螃蟹",
 			["English"] = "Design: Truesilver Crab",
-			["French"] = "Dessin : Crabe en vrai-argent",
+			["French"] = "Dessin : Crabe en vrai-argent",
 			["German"] = "Vorlage: Echtsilberkrebs",
 			["Korean"] = "디자인: 진은 게",
 			["Mexican"] = "Boceto: cangrejo de veraplata",
@@ -343,7 +343,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：真银野猪",
 			["English"] = "Design: Truesilver Boar",
-			["French"] = "Dessin : Sanglier en vrai-argent",
+			["French"] = "Dessin : Sanglier en vrai-argent",
 			["German"] = "Vorlage: Echtsilbereber",
 			["Korean"] = "디자인: 진은 멧돼지",
 			["Mexican"] = "Boceto: jabalí de veraplata",
@@ -367,7 +367,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：青绿石屏障",
 			["English"] = "Design: The Aquamarine Ward",
-			["French"] = "Dessin : La garde d'aigue-marine",
+			["French"] = "Dessin : La garde d'aigue-marine",
 			["German"] = "Vorlage: Der Aquamarinbeschützer",
 			["Korean"] = "디자인: 남옥 수호 반지",
 			["Mexican"] = "Boceto: La protección aguamarina",
@@ -391,7 +391,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：宝石镶嵌指环",
 			["English"] = "Design: Gem Studded Band",
-			["French"] = "Dessin : Bague émaillée de gemmes",
+			["French"] = "Dessin : Bague émaillée de gemmes",
 			["German"] = "Vorlage: Edelsteinbesetztes Band",
 			["Korean"] = "디자인: 보석 박힌 고리",
 			["Mexican"] = "Boceto: sortija con incrustaciones de gemas",
@@ -409,7 +409,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：冲击之猫眼石项链",
 			["English"] = "Design: Opal Necklace of Impact",
-			["French"] = "Dessin : Collier d'opale d'impact",
+			["French"] = "Dessin : Collier d'opale d'impact",
 			["German"] = "Vorlage: Opalhalskette des Einschlags",
 			["Korean"] = "디자인: 충돌의 오팔 목걸이",
 			["Mexican"] = "Boceto: collar de ópalo de impacto",
@@ -442,7 +442,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：红宝石蛇",
 			["English"] = "Design: Ruby Serpent",
-			["French"] = "Dessin : Serpent de rubis",
+			["French"] = "Dessin : Serpent de rubis",
 			["German"] = "Vorlage: Rubinschlange",
 			["Korean"] = "디자인: 루비 뱀",
 			["Mexican"] = "Boceto: serpiente de rubí",
@@ -460,7 +460,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：毁灭之翡翠王冠",
 			["English"] = "Design: Emerald Crown of Destruction",
-			["French"] = "Dessin : Couronne d'émeraude de destruction",
+			["French"] = "Dessin : Couronne d'émeraude de destruction",
 			["German"] = "Vorlage: Smaragdkrone der Zerstörung",
 			["Korean"] = "디자인: 파괴의 에메랄드 왕관",
 			["Mexican"] = "Boceto: corona de esmeralda de destrucción",
@@ -490,7 +490,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：翡翠猫头鹰",
 			["English"] = "Design: Emerald Owl",
-			["French"] = "Dessin : Chouette d'émeraude",
+			["French"] = "Dessin : Chouette d'émeraude",
 			["German"] = "Vorlage: Smaragdeule",
 			["Korean"] = "디자인: 에메랄드 올빼미",
 			["Mexican"] = "Boceto: búho de esmeralda",
@@ -508,7 +508,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：苦痛暗影之戒",
 			["English"] = "Design: Ring of Bitter Shadows",
-			["French"] = "Dessin : Anneau des ombres amères",
+			["French"] = "Dessin : Anneau des ombres amères",
 			["German"] = "Vorlage: Ring der qualvollen Schatten",
 			["Korean"] = "디자인: 가혹한 어둠의 반지",
 			["Mexican"] = "Boceto: anillo de sombras amargas",
@@ -537,7 +537,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：黑钻石螃蟹",
 			["English"] = "Design: Black Diamond Crab",
-			["French"] = "Dessin : Crabe de diamant noir",
+			["French"] = "Dessin : Crabe de diamant noir",
 			["German"] = "Vorlage: Schwarzer Diamantkrebs",
 			["Korean"] = "디자인: 검은 다이아몬드 게",
 			["Mexican"] = "Boceto: cangrejo de diamante negro",
@@ -550,12 +550,17 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "uncommon",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				8983,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 21956,
 		["name"] = {
 			["Chinese"] = "图鉴：黑铁蝎",
 			["English"] = "Design: Dark Iron Scorpid",
-			["French"] = "Dessin : Scorpide en sombrefer",
+			["French"] = "Dessin : Scorpide en sombrefer",
 			["German"] = "Vorlage: Dunkeleisenskorpid",
 			["Korean"] = "디자인: 검은무쇠 전갈",
 			["Mexican"] = "Boceto: escórpido de hierro negro",
@@ -566,7 +571,6 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -574,7 +578,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：钻石之塔项链",
 			["English"] = "Design: Necklace of the Diamond Tower",
-			["French"] = "Dessin : Collier de la tour de diamant",
+			["French"] = "Dessin : Collier de la tour de diamant",
 			["German"] = "Vorlage: Halskette des Diamantturms",
 			["Korean"] = "디자인: 다이아몬드 탑 목걸이",
 			["Mexican"] = "Boceto: collar de la torre de diamantes",
@@ -594,49 +598,11 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["expansion"] = 2,
-		["id"] = 21958,
-		["name"] = {
-			["Chinese"] = "图鉴：奥金短剑坠饰",
-			["English"] = "Design: Arcanite Sword Pendant",
-			["French"] = "Dessin : Pendentif de l'épée en arcanite",
-			["German"] = "Vorlage: Arkanitschwertanhänger",
-			["Korean"] = "디자인: 아케이나이트 검 펜던트",
-			["Mexican"] = "Boceto: colgante de espada de arcanita",
-			["Portuguese"] = "Desenho: Pingente de Espada de Arcanita",
-			["Russian"] = "Эскиз: подвеска из арканитового меча",
-			["Spanish"] = "Boceto: colgante de espada de arcanita",
-			["Taiwanese"] = "設計圖:奧金劍墜飾",
-		},
-		["phase"] = 1,
-		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 21959,
-		["name"] = {
-			["Chinese"] = "图鉴：血冠",
-			["English"] = "Design: Blood Crown",
-			["French"] = "Dessin : Couronne de sang",
-			["German"] = "Vorlage: Blutkrone",
-			["Korean"] = "디자인: 피의 왕관",
-			["Mexican"] = "Boceto: corona de sangre",
-			["Portuguese"] = "Desenho: Coroa de Sangue",
-			["Russian"] = "Эскиз: Корона Крови",
-			["Spanish"] = "Boceto: corona de sangre",
-			["Taiwanese"] = "設計圖:血之冠",
-		},
-		["phase"] = 1,
-		["quality"] = "uncommon",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
 		["id"] = 23130,
 		["name"] = {
 			["Chinese"] = "图鉴：泪珠血榴石",
 			["English"] = "Design: Teardrop Blood Garnet",
-			["French"] = "Dessin : Larme de grenat sanguin",
+			["French"] = "Dessin : Larme de grenat sanguin",
 			["German"] = "Vorlage: Tränenförmiger Blutgranat",
 			["Korean"] = "디자인: 눈물모양 혈류석",
 			["Mexican"] = "Boceto: Lágrima de granate de sangre",
@@ -661,7 +627,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：朴素血榴石",
 			["English"] = "Design: Bold Blood Garnet",
-			["French"] = "Dessin : Grenat sanguin soutenu",
+			["French"] = "Dessin : Grenat sanguin soutenu",
 			["German"] = "Vorlage: Klobiger Blutgranat",
 			["Korean"] = "디자인: 굵은 혈류석",
 			["Mexican"] = "Boceto: granate de sangre llamativo",
@@ -686,7 +652,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：符文血榴石",
 			["English"] = "Design: Runed Blood Garnet",
-			["French"] = "Dessin : Grenat sanguin runique",
+			["French"] = "Dessin : Grenat sanguin runique",
 			["German"] = "Vorlage: Runenverzierter Blutgranat",
 			["Korean"] = "디자인: 룬이 새겨진 혈류석",
 			["Mexican"] = "Boceto: granate de sangre rúnico",
@@ -697,6 +663,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 934,
+			["level_id"] = 5,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -710,7 +680,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：精致血榴石",
 			["English"] = "Design: Delicate Blood Garnet",
-			["French"] = "Dessin : Grenat sanguin délicat",
+			["French"] = "Dessin : Grenat sanguin délicat",
 			["German"] = "Vorlage: Feingeschliffener Blutgranat",
 			["Korean"] = "디자인: 섬세하게 연마된 혈류석",
 			["Mexican"] = "Boceto: granate de sangre delicado",
@@ -721,6 +691,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 933,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -735,7 +709,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：铭文火榴石",
 			["English"] = "Design: Inscribed Flame Spessarite",
-			["French"] = "Dessin : Spessarite de flamme intaillée",
+			["French"] = "Dessin : Spessarite de flamme intaillée",
 			["German"] = "Vorlage: Gravierter Flammenspessarit",
 			["Korean"] = "디자인: 문자가 새겨진 불꽃석류석",
 			["Mexican"] = "Boceto: espesartita de llamas con inscripciones",
@@ -760,7 +734,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：辉光火榴石",
 			["English"] = "Design: Luminous Flame Spessarite",
-			["French"] = "Dessin : Spessarite de flamme lumineuse",
+			["French"] = "Dessin : Spessarite de flamme lumineuse",
 			["German"] = "Vorlage: Glänzender Flammenspessarit",
 			["Korean"] = "디자인: 영롱한 불꽃석류석",
 			["Mexican"] = "Boceto: espesartita de llamas luminosa",
@@ -771,6 +745,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 933,
+			["level_id"] = 5,
+		},
 		["vendors"] = {
 			["price"] = 50000,
 			["sources"] = {
@@ -785,7 +763,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：反光火榴石",
 			["English"] = "Design: Glinting Flame Spessarite",
-			["French"] = "Dessin : Spessarite de flamme luisante",
+			["French"] = "Dessin : Spessarite de flamme luisante",
 			["German"] = "Vorlage: Glitzernder Flammenspessarit",
 			["Korean"] = "디자인: 예리하게 빛나는 불꽃석류석",
 			["Mexican"] = "Boceto: espesartita de llamas destellante",
@@ -810,7 +788,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：高能火榴石",
 			["English"] = "Design: Potent Flame Spessarite",
-			["French"] = "Dessin : Spessarite de flamme toute-puissante",
+			["French"] = "Dessin : Spessarite de flamme toute-puissante",
 			["German"] = "Vorlage: Mächtiger Flammenspessarit",
 			["Korean"] = "디자인: 마력이 담긴 불꽃석류석",
 			["Mexican"] = "Boceto: espesartita de llamas pujante",
@@ -838,7 +816,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：辐光翠榄石",
 			["English"] = "Design: Radiant Deep Peridot",
-			["French"] = "Dessin : Olivine radieuse",
+			["French"] = "Dessin : Olivine radieuse",
 			["German"] = "Vorlage: Strahlender Tiefenperidot",
 			["Korean"] = "디자인: 눈부신 심연의 감람석",
 			["Mexican"] = "Boceto: peridoto intenso radiante",
@@ -863,7 +841,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：裂纹翠榄石",
 			["English"] = "Design: Jagged Deep Peridot",
-			["French"] = "Dessin : Olivine dentelée",
+			["French"] = "Dessin : Olivine dentelée",
 			["German"] = "Vorlage: Gezackter Tiefenperidot",
 			["Korean"] = "디자인: 톱니모양 심연의 감람석",
 			["Mexican"] = "Boceto: peridoto intenso dentado",
@@ -888,7 +866,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：坚硬翠榄石",
 			["English"] = "Design: Enduring Deep Peridot",
-			["French"] = "Dessin : Olivine durcie",
+			["French"] = "Dessin : Olivine durcie",
 			["German"] = "Vorlage: Robuster Tiefenperidot",
 			["Korean"] = "디자인: 견고한 심연의 감람석",
 			["Mexican"] = "Boceto: peridoto intenso duradero",
@@ -899,6 +877,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 5,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -912,7 +894,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：眩光翠榄石",
 			["English"] = "Design: Dazzling Deep Peridot",
-			["French"] = "Dessin : Olivine éblouissante",
+			["French"] = "Dessin : Olivine éblouissante",
 			["German"] = "Vorlage: Schillernder Tiefenperidot",
 			["Korean"] = "디자인: 휘황찬란한 심연의 감람석",
 			["Mexican"] = "Boceto: peridoto intenso deslumbrante",
@@ -923,6 +905,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 934,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -936,7 +922,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：炽热德拉诺影钻",
 			["English"] = "Design: Glowing Shadow Draenite",
-			["French"] = "Dessin : Draénite ombreuse luminescente",
+			["French"] = "Dessin : Draénite ombreuse luminescente",
 			["German"] = "Vorlage: Leuchtender Schattendraenit",
 			["Korean"] = "디자인: 작열하는 암흑 드레나이트",
 			["Mexican"] = "Boceto: draenita de Sombras resplandeciente",
@@ -961,7 +947,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：皇家德拉诺影钻",
 			["English"] = "Design: Royal Shadow Draenite",
-			["French"] = "Dessin : Draénite ombreuse royale",
+			["French"] = "Dessin : Draénite ombreuse royale",
 			["German"] = "Vorlage: Königlicher Schattendraenit",
 			["Korean"] = "디자인: 호화로운 암흑 드레나이트",
 			["Mexican"] = "Boceto: draenita de Sombras real",
@@ -972,6 +958,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 932,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 50000,
 			["sources"] = {
@@ -985,7 +975,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：狡诈德拉诺影钻",
 			["English"] = "Design: Shifting Shadow Draenite",
-			["French"] = "Dessin : Draénite ombreuse changeante",
+			["French"] = "Dessin : Draénite ombreuse changeante",
 			["German"] = "Vorlage: Unbeständiger Schattendraenit",
 			["Korean"] = "디자인: 아른거리는 암흑 드레나이트",
 			["Mexican"] = "Boceto: draenita de sombras cambiante",
@@ -996,6 +986,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 933,
+			["level_id"] = 5,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -1010,7 +1004,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：统御德拉诺影钻",
 			["English"] = "Design: Sovereign Shadow Draenite",
-			["French"] = "Dessin : Draénite ombreuse souveraine",
+			["French"] = "Dessin : Draénite ombreuse souveraine",
 			["German"] = "Vorlage: Stattlicher Schattendraenit",
 			["Korean"] = "디자인: 최상급 암흑 드레나이트",
 			["Mexican"] = "Boceto: draenita de sombras soberana",
@@ -1035,7 +1029,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：闪耀德拉诺金钻",
 			["English"] = "Design: Brilliant Golden Draenite",
-			["French"] = "Dessin : Draénite dorée brillante",
+			["French"] = "Dessin : Draénite dorée brillante",
 			["German"] = "Vorlage: Brillantierter Golddraenit",
 			["Korean"] = "디자인: 찬란한 황금 드레나이트",
 			["Mexican"] = "Boceto: draenita dorada luminosa",
@@ -1060,7 +1054,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：柔光德拉诺金钻",
 			["English"] = "Design: Gleaming Golden Draenite",
-			["French"] = "Dessin : Draénite dorée resplendissante",
+			["French"] = "Dessin : Draénite dorée resplendissante",
 			["German"] = "Vorlage: Schimmernder Golddraenit",
 			["Korean"] = "디자인: 번뜩이는 황금 드레나이트",
 			["Mexican"] = "Boceto: draenita dorada reluciente",
@@ -1071,6 +1065,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 932,
+			["level_id"] = 5,
+		},
 		["vendors"] = {
 			["price"] = 50000,
 			["sources"] = {
@@ -1084,7 +1082,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：厚重德拉诺金钻",
 			["English"] = "Design: Thick Golden Draenite",
-			["French"] = "Dessin : Draénite dorée bombée",
+			["French"] = "Dessin : Draénite dorée bombée",
 			["German"] = "Vorlage: Kompakter Golddraenit",
 			["Korean"] = "디자인: 두꺼운 황금 드레나이트",
 			["Mexican"] = "Boceto: draenita dorada gruesa",
@@ -1095,6 +1093,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 933,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -1109,7 +1111,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：刚硬德拉诺金钻",
 			["English"] = "Design: Rigid Golden Draenite",
-			["French"] = "Dessin : Draénite dorée rigide",
+			["French"] = "Dessin : Draénite dorée rigide",
 			["German"] = "Vorlage: Massiver Golddraenit",
 			["Korean"] = "디자인: 강도 높은 황금 드레나이트",
 			["Mexican"] = "Boceto: draenita dorada rígida",
@@ -1134,7 +1136,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：致密碧月石",
 			["English"] = "Design: Solid Azure Moonstone",
-			["French"] = "Dessin : Pierre de lune azur solide",
+			["French"] = "Dessin : Pierre de lune azur solide",
 			["German"] = "Vorlage: Gediegener Azurmondstein",
 			["Korean"] = "디자인: 단단한 하늘월장석",
 			["Mexican"] = "Boceto: piedra lunar azur maciza",
@@ -1159,7 +1161,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：火花碧月石",
 			["English"] = "Design: Sparkling Azure Moonstone",
-			["French"] = "Dessin : Pierre de lune azur étincelante",
+			["French"] = "Dessin : Pierre de lune azur étincelante",
 			["German"] = "Vorlage: Funkelnder Azurmondstein",
 			["Korean"] = "디자인: 반짝거리는 하늘월장석",
 			["Mexican"] = "Boceto: piedra lunar azur chispeante",
@@ -1180,9 +1182,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18315,
-				18331,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -1190,7 +1192,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：风暴碧月石",
 			["English"] = "Design: Stormy Azure Moonstone",
-			["French"] = "Dessin : Pierre de lune azur orageuse",
+			["French"] = "Dessin : Pierre de lune azur orageuse",
 			["German"] = "Vorlage: Stürmischer Azurmondstein",
 			["Korean"] = "디자인: 휘몰아치는 하늘월장석",
 			["Mexican"] = "Boceto: piedra lunar azur tormentosa",
@@ -1208,7 +1210,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：异彩碧月石",
 			["English"] = "Design: Lustrous Azure Moonstone",
-			["French"] = "Dessin : Pierre de lune azur satinée",
+			["French"] = "Dessin : Pierre de lune azur satinée",
 			["German"] = "Vorlage: Irisierender Azurmondstein",
 			["Korean"] = "디자인: 빛나는 하늘월장석",
 			["Mexican"] = "Boceto: piedra lunar azur luciente",
@@ -1219,6 +1221,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 933,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -1228,12 +1234,17 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				19826,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24158,
 		["name"] = {
 			["Chinese"] = "图鉴：暗影氪金指环",
 			["English"] = "Design: Khorium Band of Shadows",
-			["French"] = "Dessin : Bague des ombres en khorium",
+			["French"] = "Dessin : Bague des ombres en khorium",
 			["German"] = "Vorlage: Khoriumband der Schatten",
 			["Korean"] = "디자인: 암흑의 코륨 고리",
 			["Mexican"] = "Boceto: sortija de korio de las Sombras",
@@ -1244,15 +1255,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				17722,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24159,
 		["name"] = {
 			["Chinese"] = "图鉴：冰霜氪金指环",
 			["English"] = "Design: Khorium Band of Frost",
-			["French"] = "Dessin : Bague de givre en khorium",
+			["French"] = "Dessin : Bague de givre en khorium",
 			["German"] = "Vorlage: Khoriumband des Frosts",
 			["Korean"] = "디자인: 냉기의 코륨 고리",
 			["Mexican"] = "Boceto: sortija de korio de Escarcha",
@@ -1263,7 +1278,6 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
@@ -1276,7 +1290,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：炼狱氪金指环",
 			["English"] = "Design: Khorium Inferno Band",
-			["French"] = "Dessin : Bague d'Inferno en khorium",
+			["French"] = "Dessin : Bague d'Inferno en khorium",
 			["German"] = "Vorlage: Khoriuminfernoband",
 			["Korean"] = "디자인: 불지옥의 코륨 고리",
 			["Mexican"] = "Boceto: sortija de korio del inferno",
@@ -1289,12 +1303,17 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				19984,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24161,
 		["name"] = {
 			["Chinese"] = "图鉴：绿叶氪金指环",
 			["English"] = "Design: Khorium Band of Leaves",
-			["French"] = "Dessin : Bague des feuilles en khorium",
+			["French"] = "Dessin : Bague des feuilles en khorium",
 			["German"] = "Vorlage: Khoriumband des Laubs",
 			["Korean"] = "디자인: 나뭇잎의 코륨 고리",
 			["Mexican"] = "Boceto: sortija de korio de hojas",
@@ -1305,15 +1324,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				18866,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24162,
 		["name"] = {
 			["Chinese"] = "图鉴：奥法氪金指环",
 			["English"] = "Design: Arcane Khorium Band",
-			["French"] = "Dessin : Bague des arcanes en khorium",
+			["French"] = "Dessin : Bague des arcanes en khorium",
 			["German"] = "Vorlage: Arkanes Khoriumband",
 			["Korean"] = "디자인: 비전의 코륨 고리",
 			["Mexican"] = "Boceto: sortija de korio Arcana",
@@ -1324,13 +1347,12 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18315,
-				18313,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -1338,7 +1360,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：重魔钢戒指",
 			["English"] = "Design: Heavy Felsteel Ring",
-			["French"] = "Dessin : Anneau épais en gangracier",
+			["French"] = "Dessin : Anneau épais en gangracier",
 			["German"] = "Vorlage: Schwerer Teufelsstahlring",
 			["Korean"] = "디자인: 무거운 지옥강철 반지",
 			["Mexican"] = "Boceto: anillo de acero vil pesado",
@@ -1352,11 +1374,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18313,
-				18327,
-				20210,
-				18314,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -1364,7 +1384,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：精致恒金戒指",
 			["English"] = "Design: Delicate Eternium Ring",
-			["French"] = "Dessin : Anneau délicat en éternium",
+			["French"] = "Dessin : Anneau délicat en éternium",
 			["German"] = "Vorlage: Feiner Eterniumring",
 			["Korean"] = "디자인: 섬세한 이터늄 반지",
 			["Mexican"] = "Boceto: anillo de eternio delicado",
@@ -1378,9 +1398,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				19428,
-				21891,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -1388,7 +1408,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：闪耀恒金指环",
 			["English"] = "Design: Blazing Eternium Band",
-			["French"] = "Dessin : Bague flamboyante en éternium",
+			["French"] = "Dessin : Bague flamboyante en éternium",
 			["German"] = "Vorlage: Eterniumband der Loderflamme",
 			["Korean"] = "디자인: 타오르는 이터늄 반지",
 			["Mexican"] = "Boceto: sortija de eternio llameante",
@@ -1402,10 +1422,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18314,
-				21891,
-				18331,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -1413,7 +1432,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：厚重魔钢项链",
 			["English"] = "Design: Thick Felsteel Necklace",
-			["French"] = "Dessin : Collier épais en gangracier",
+			["French"] = "Dessin : Collier épais en gangracier",
 			["German"] = "Vorlage: Dicke Teufelsstahlhalskette",
 			["Korean"] = "디자인: 두꺼운 지옥강철 목걸이",
 			["Mexican"] = "Boceto: collar de acero vil grueso",
@@ -1426,12 +1445,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24167,
 		["name"] = {
 			["Chinese"] = "图鉴：红曜石坠饰",
 			["English"] = "Design: Living Ruby Pendant",
-			["French"] = "Dessin : Pendentif de rubis vivant",
+			["French"] = "Dessin : Pendentif de rubis vivant",
 			["German"] = "Vorlage: Lebendiger Rubinanhänger",
 			["Korean"] = "디자인: 생명의 루비 펜던트",
 			["Mexican"] = "Boceto: colgante de rubí vivo",
@@ -1442,12 +1467,12 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18323,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -1455,7 +1480,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：恒金饰链",
 			["English"] = "Design: Braided Eternium Chain",
-			["French"] = "Dessin : Chaîne en éternium tressé",
+			["French"] = "Dessin : Chaîne en éternium tressé",
 			["German"] = "Vorlage: Geflochtene Eterniumkette",
 			["Korean"] = "디자인: 이터늄 고리 목걸이",
 			["Mexican"] = "Boceto: cadena de eternio trenzada",
@@ -1468,12 +1493,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24169,
 		["name"] = {
 			["Chinese"] = "图鉴：夜晚之眼",
 			["English"] = "Design: Eye of the Night",
-			["French"] = "Dessin : Oeil de la nuit",
+			["French"] = "Dessin : Oeil de la nuit",
 			["German"] = "Vorlage: Auge der Nacht",
 			["Korean"] = "디자인: 밤의 눈",
 			["Mexican"] = "Boceto: ojo de la noche",
@@ -1484,12 +1515,12 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18794,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -1497,7 +1528,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：黎明的拥抱",
 			["English"] = "Design: Embrace of the Dawn",
-			["French"] = "Dessin : Etreinte de l'aube",
+			["French"] = "Dessin : Etreinte de l'aube",
 			["German"] = "Vorlage: Zärtliche Morgenröte",
 			["Korean"] = "디자인: 여명의 선물",
 			["Mexican"] = "Boceto: Abrazo del alba",
@@ -1511,8 +1542,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18315,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -1520,7 +1552,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：夜枭之链",
 			["English"] = "Design: Chain of the Twilight Owl",
-			["French"] = "Dessin : Chaîne de la chouette du crépuscule",
+			["French"] = "Dessin : Chaîne de la chouette du crépuscule",
 			["German"] = "Vorlage: Kette der Nebeleule",
 			["Korean"] = "디자인: 황혼의 올빼미 사슬 목걸이",
 			["Mexican"] = "Boceto: cadena del búho Crepuscular",
@@ -1543,7 +1575,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：翠绿火焰宝冠",
 			["English"] = "Design: Coronet of Verdant Flame",
-			["French"] = "Dessin : Cerclet de la flamme verdoyante",
+			["French"] = "Dessin : Cerclet de la flamme verdoyante",
 			["German"] = "Vorlage: Kronenreif der grünen Flamme",
 			["Korean"] = "디자인: 푸른 불길의 화관",
 			["Mexican"] = "Boceto: nimbo de la llama verdeante",
@@ -1566,7 +1598,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：奥术力量头饰",
 			["English"] = "Design: Circlet of Arcane Might",
-			["French"] = "Dessin : Diadème de puissance des arcanes",
+			["French"] = "Dessin : Diadème de puissance des arcanes",
 			["German"] = "Vorlage: Reif der arkanen Macht",
 			["Korean"] = "디자인: 신비한 힘의 화관",
 			["Mexican"] = "Boceto: aro de poderío Arcano",
@@ -1584,7 +1616,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：冰冷烈焰坠饰",
 			["English"] = "Design: Pendant of Frozen Flame",
-			["French"] = "Dessin : Pendentif de la flamme gelée",
+			["French"] = "Dessin : Pendentif de la flamme gelée",
 			["German"] = "Vorlage: Anhänger der Eisflamme",
 			["Korean"] = "디자인: 얼어붙은 불길의 펜던트",
 			["Mexican"] = "Boceto: colgante de la llama helada",
@@ -1612,7 +1644,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：融雪坠饰",
 			["English"] = "Design: Pendant of Thawing",
-			["French"] = "Dessin : Pendentif du dégel",
+			["French"] = "Dessin : Pendentif du dégel",
 			["German"] = "Vorlage: Anhänger des Tauens",
 			["Korean"] = "디자인: 해빙의 펜던트",
 			["Mexican"] = "Boceto: colgante de deshielo",
@@ -1640,7 +1672,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：凋零坠饰",
 			["English"] = "Design: Pendant of Withering",
-			["French"] = "Dessin : Pendentif de flétrissure",
+			["French"] = "Dessin : Pendentif de flétrissure",
 			["German"] = "Vorlage: Anhänger des Erlöschens",
 			["Korean"] = "디자인: 가뭄의 펜던트",
 			["Mexican"] = "Boceto: colgante de fulminación",
@@ -1651,6 +1683,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 934,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -1664,7 +1700,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：暗影终结坠饰",
 			["English"] = "Design: Pendant of Shadow's End",
-			["French"] = "Dessin : Pendentif de la fin des ombres",
+			["French"] = "Dessin : Pendentif de la fin des ombres",
 			["German"] = "Vorlage: Anhänger der Schattenneige",
 			["Korean"] = "디자인: 암흑 종말의 펜던트",
 			["Mexican"] = "Boceto: colgante del final de las Sombras",
@@ -1675,6 +1711,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 932,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -1688,7 +1728,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：空洞符文坠饰",
 			["English"] = "Design: Pendant of the Null Rune",
-			["French"] = "Dessin : Pendentif de la rune abolie",
+			["French"] = "Dessin : Pendentif de la rune abolie",
 			["German"] = "Vorlage: Anhänger der Nullrune",
 			["Korean"] = "디자인: 무의미한 룬의 펜던트",
 			["Mexican"] = "Boceto: colgante de la runa anodina",
@@ -1699,6 +1739,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 933,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -1713,7 +1757,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：魔钢野猪",
 			["English"] = "Design: Felsteel Boar",
-			["French"] = "Dessin : Sanglier en gangracier",
+			["French"] = "Dessin : Sanglier en gangracier",
 			["German"] = "Vorlage: Teufelsstahleber",
 			["Korean"] = "디자인: 조각상 - 지옥강철 멧돼지",
 			["Mexican"] = "Boceto: jabalí de acero vil",
@@ -1741,7 +1785,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：黎明石螃蟹",
 			["English"] = "Design: Dawnstone Crab",
-			["French"] = "Dessin : Crabe de pierre d'aube",
+			["French"] = "Dessin : Crabe de pierre d'aube",
 			["German"] = "Vorlage: Dämmersteinkrebs",
 			["Korean"] = "디자인: 조각상 - 여명석 게",
 			["Mexican"] = "Boceto: cangrejo de piedra del alba",
@@ -1752,6 +1796,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 946,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -1765,7 +1813,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：红曜石毒蛇",
 			["English"] = "Design: Living Ruby Serpent",
-			["French"] = "Dessin : Serpent de rubis vivant",
+			["French"] = "Dessin : Serpent de rubis vivant",
 			["German"] = "Vorlage: Lebendige Rubinschlange",
 			["Korean"] = "디자인: 조각상 - 생명의 루비 뱀",
 			["Mexican"] = "Boceto: serpiente de rubí vivo",
@@ -1793,7 +1841,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：水玉猫头鹰",
 			["English"] = "Design: Talasite Owl",
-			["French"] = "Dessin : Chouette de talasite",
+			["French"] = "Dessin : Chouette de talasite",
 			["German"] = "Vorlage: Talasiteule",
 			["Korean"] = "디자인: 조각상 - 탈라사이트 올빼미",
 			["Mexican"] = "Boceto: búho de talasita",
@@ -1804,6 +1852,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 935,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -1817,7 +1869,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：夜目石猎豹",
 			["English"] = "Design: Nightseye Panther",
-			["French"] = "Dessin : Panthère d'oeil de nuit",
+			["French"] = "Dessin : Panthère d'oeil de nuit",
 			["German"] = "Vorlage: Nachtaugenpanther",
 			["Korean"] = "디자인: 조각상 - 야안석 표범",
 			["Mexican"] = "Boceto: pantera de ojo de noche",
@@ -1828,6 +1880,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 942,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -1837,8 +1893,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18702,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -1846,7 +1903,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：明亮红曜石",
 			["English"] = "Design: Bright Living Ruby",
-			["French"] = "Dessin : Rubis vivant éclatant",
+			["French"] = "Dessin : Rubis vivant éclatant",
 			["German"] = "Vorlage: Heller lebendiger Rubin",
 			["Korean"] = "디자인: 광채나는 여명의 루비",
 			["Mexican"] = "Boceto: rubí vivo brillante",
@@ -1859,12 +1916,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24193,
 		["name"] = {
 			["Chinese"] = "图鉴：朴素红曜石",
 			["English"] = "Design: Bold Living Ruby",
-			["French"] = "Dessin : Rubis vivant soutenu",
+			["French"] = "Dessin : Rubis vivant soutenu",
 			["German"] = "Vorlage: Klobiger lebendiger Rubin",
 			["Korean"] = "디자인: 굵은 여명의 루비",
 			["Mexican"] = "Boceto: rubí vivo llamativo",
@@ -1875,15 +1938,20 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24194,
 		["name"] = {
 			["Chinese"] = "图鉴：精致红曜石",
 			["English"] = "Design: Delicate Living Ruby",
-			["French"] = "Dessin : Rubis vivant délicat",
+			["French"] = "Dessin : Rubis vivant délicat",
 			["German"] = "Vorlage: Feingeschliffener lebendiger Rubin",
 			["Korean"] = "디자인: 섬세하게 연마된 생명의 루비",
 			["Mexican"] = "Boceto: rubí vivo delicado",
@@ -1894,13 +1962,12 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18320,
-				18313,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -1908,7 +1975,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：泪珠红曜石",
 			["English"] = "Design: Teardrop Living Ruby",
-			["French"] = "Dessin : Larme de rubis vivant",
+			["French"] = "Dessin : Larme de rubis vivant",
 			["German"] = "Vorlage: Tränenförmiger lebendiger Rubin",
 			["Korean"] = "디자인: 눈물모양 생명의 루비",
 			["Mexican"] = "Boceto: Lágrima de rubí vivo",
@@ -1922,8 +1989,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18314,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -1931,7 +1999,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：符文红曜石",
 			["English"] = "Design: Runed Living Ruby",
-			["French"] = "Dessin : Rubis vivant runique",
+			["French"] = "Dessin : Rubis vivant runique",
 			["German"] = "Vorlage: Runenverzierter lebendiger Rubin",
 			["Korean"] = "디자인: 룬이 새겨진 생명의 루비",
 			["Mexican"] = "Boceto: rubí vivo rúnico",
@@ -1944,12 +2012,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24197,
 		["name"] = {
 			["Chinese"] = "图鉴：诡秘红曜石",
 			["English"] = "Design: Subtle Living Ruby",
-			["French"] = "Dessin : Rubis vivant subtil",
+			["French"] = "Dessin : Rubis vivant subtil",
 			["German"] = "Vorlage: Fragiler lebendiger Rubin",
 			["Korean"] = "디자인: 정교하게 연마된 생명의 루비",
 			["Mexican"] = "Boceto: rubí vivo sutil",
@@ -1960,15 +2034,20 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24198,
 		["name"] = {
 			["Chinese"] = "图鉴：闪光红曜石",
 			["English"] = "Design: Flashing Living Ruby",
-			["French"] = "Dessin : Rubis vivant miroitant",
+			["French"] = "Dessin : Rubis vivant miroitant",
 			["German"] = "Vorlage: Scheinender lebendiger Rubin",
 			["Korean"] = "디자인: 번쩍이는 생명의 루비",
 			["Mexican"] = "Boceto: rubí vivo ostentoso",
@@ -1979,13 +2058,12 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18318,
-				18320,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -1993,7 +2071,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：致密艾露恩之星",
 			["English"] = "Design: Solid Star of Elune",
-			["French"] = "Dessin : Etoile d'Elune solide",
+			["French"] = "Dessin : Etoile d'Elune solide",
 			["German"] = "Vorlage: Gediegener Stern der Elune",
 			["Korean"] = "디자인: 단단한 엘룬의 별",
 			["Mexican"] = "Boceto: estrella de Elune sólida",
@@ -2007,9 +2085,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18331,
-				21891,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2017,7 +2095,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：火花艾露恩之星",
 			["English"] = "Design: Sparkling Star of Elune",
-			["French"] = "Dessin : Etoile d'Elune étincelante",
+			["French"] = "Dessin : Etoile d'Elune étincelante",
 			["German"] = "Vorlage: Funkelnder Stern der Elune",
 			["Korean"] = "디자인: 반짝거리는 엘룬의 별",
 			["Mexican"] = "Boceto: estrella de Elune chispeante",
@@ -2031,10 +2109,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17799,
-				18312,
-				18318,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2042,7 +2119,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：异彩艾露恩之星",
 			["English"] = "Design: Lustrous Star of Elune",
-			["French"] = "Dessin : Etoile d'Elune satinée",
+			["French"] = "Dessin : Etoile d'Elune satinée",
 			["German"] = "Vorlage: Irisierender Stern der Elune",
 			["Korean"] = "디자인: 빛나는 엘룬의 별",
 			["Mexican"] = "Boceto: estrella de Elune luciente",
@@ -2056,8 +2133,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18331,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2065,7 +2143,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：风暴艾露恩之星",
 			["English"] = "Design: Stormy Star of Elune",
-			["French"] = "Dessin : Etoile d'Elune orageuse",
+			["French"] = "Dessin : Etoile d'Elune orageuse",
 			["German"] = "Vorlage: Stürmischer Stern der Elune",
 			["Korean"] = "디자인: 휘몰아치는 엘룬의 별",
 			["Mexican"] = "Boceto: estrella de Elune tormentosa",
@@ -2079,8 +2157,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18319,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2088,7 +2167,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：闪耀黎明石",
 			["English"] = "Design: Brilliant Dawnstone",
-			["French"] = "Dessin : Pierre d'aube brillante",
+			["French"] = "Dessin : Pierre d'aube brillante",
 			["German"] = "Vorlage: Brillantierter Dämmerstein",
 			["Korean"] = "디자인: 찬란한 여명석",
 			["Mexican"] = "Boceto: piedra del alba luminosa",
@@ -2102,8 +2181,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18331,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2111,7 +2191,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：圆润黎明石",
 			["English"] = "Design: Smooth Dawnstone",
-			["French"] = "Dessin : Pierre d'aube lisse",
+			["French"] = "Dessin : Pierre d'aube lisse",
 			["German"] = "Vorlage: Glatter Dämmerstein",
 			["Korean"] = "디자인: 매끄러운 여명석",
 			["Mexican"] = "Boceto: piedra del alba lisa",
@@ -2125,8 +2205,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18328,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2134,7 +2215,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：刚硬黎明石",
 			["English"] = "Design: Rigid Dawnstone",
-			["French"] = "Dessin : Pierre d'aube rigide",
+			["French"] = "Dessin : Pierre d'aube rigide",
 			["German"] = "Vorlage: Massiver Dämmerstein",
 			["Korean"] = "디자인: 강도 높은 여명석",
 			["Mexican"] = "Boceto: piedra del alba rígida",
@@ -2148,8 +2229,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18318,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2157,7 +2239,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：柔光黎明石",
 			["English"] = "Design: Gleaming Dawnstone",
-			["French"] = "Dessin : Pierre d'aube resplendissante",
+			["French"] = "Dessin : Pierre d'aube resplendissante",
 			["German"] = "Vorlage: Schimmernder Dämmerstein",
 			["Korean"] = "디자인: 번뜩이는 여명석",
 			["Mexican"] = "Boceto: piedra del alba reluciente",
@@ -2171,10 +2253,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18319,
-				18331,
-				18314,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2182,7 +2263,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：厚重黎明石",
 			["English"] = "Design: Thick Dawnstone",
-			["French"] = "Dessin : Pierre d'aube bombée",
+			["French"] = "Dessin : Pierre d'aube bombée",
 			["German"] = "Vorlage: Kompakter Dämmerstein",
 			["Korean"] = "디자인: 두꺼운 여명석",
 			["Mexican"] = "Boceto: piedra del alba gruesa",
@@ -2200,7 +2281,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：秘法黎明石",
 			["English"] = "Design: Mystic Dawnstone",
-			["French"] = "Dessin : Pierre d'aube mystique",
+			["French"] = "Dessin : Pierre d'aube mystique",
 			["German"] = "Vorlage: Mystischer Dämmerstein",
 			["Korean"] = "디자인: 신비로운 여명석",
 			["Mexican"] = "Boceto: piedra del alba mística",
@@ -2220,12 +2301,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24209,
 		["name"] = {
 			["Chinese"] = "图鉴：统御夜目石",
 			["English"] = "Design: Sovereign Nightseye",
-			["French"] = "Dessin : Oeil de nuit souverain",
+			["French"] = "Dessin : Oeil de nuit souverain",
 			["German"] = "Vorlage: Stattliches Nachtauge",
 			["Korean"] = "디자인: 최상급 야안석",
 			["Mexican"] = "Boceto: ojo de noche soberano",
@@ -2236,15 +2323,20 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24210,
 		["name"] = {
 			["Chinese"] = "图鉴：狡诈夜目石",
 			["English"] = "Design: Shifting Nightseye",
-			["French"] = "Dessin : Oeil de nuit changeant",
+			["French"] = "Dessin : Oeil de nuit changeant",
 			["German"] = "Vorlage: Unbeständiges Nachtauge",
 			["Korean"] = "디자인: 아른거리는 야안석",
 			["Mexican"] = "Boceto: ojo de noche cambiante",
@@ -2255,12 +2347,12 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17134,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2268,7 +2360,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：炽热夜目石",
 			["English"] = "Design: Glowing Nightseye",
-			["French"] = "Dessin : Oeil de nuit luminescent",
+			["French"] = "Dessin : Oeil de nuit luminescent",
 			["German"] = "Vorlage: Leuchtendes Nachtauge",
 			["Korean"] = "디자인: 작열하는 야안석",
 			["Mexican"] = "Boceto: Ojo de noche resplandeciente",
@@ -2282,10 +2374,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18318,
-				18331,
-				18312,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2293,7 +2384,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：皇家夜目石",
 			["English"] = "Design: Royal Nightseye",
-			["French"] = "Dessin : Oeil de nuit royal",
+			["French"] = "Dessin : Oeil de nuit royal",
 			["German"] = "Vorlage: Königliches Nachtauge",
 			["Korean"] = "디자인: 호화로운 야안석",
 			["Mexican"] = "Boceto: Ojo de noche real",
@@ -2307,11 +2398,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18495,
-				18312,
-				18313,
-				18314,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2319,7 +2408,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：铭文黄晶玉",
 			["English"] = "Design: Inscribed Noble Topaz",
-			["French"] = "Dessin : Topaze noble intaillée",
+			["French"] = "Dessin : Topaze noble intaillée",
 			["German"] = "Vorlage: Gravierter Edeltopas",
 			["Korean"] = "디자인: 문자가 새겨진 귀황옥",
 			["Mexican"] = "Boceto: topacio noble con inscripciones",
@@ -2333,10 +2422,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17803,
-				18312,
-				19429,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2344,7 +2432,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：高能黄晶玉",
 			["English"] = "Design: Potent Noble Topaz",
-			["French"] = "Dessin : Topaze noble toute-puissante",
+			["French"] = "Dessin : Topaze noble toute-puissante",
 			["German"] = "Vorlage: Mächtiger Edeltopas",
 			["Korean"] = "디자인: 마력이 담긴 귀황옥",
 			["Mexican"] = "Boceto: topacio noble pujante",
@@ -2358,9 +2446,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18323,
-				18313,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2368,7 +2456,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：辉光黄晶玉",
 			["English"] = "Design: Luminous Noble Topaz",
-			["French"] = "Dessin : Topaze noble lumineuse",
+			["French"] = "Dessin : Topaze noble lumineuse",
 			["German"] = "Vorlage: Glänzender Edeltopas",
 			["Korean"] = "디자인: 영롱한 귀황옥",
 			["Mexican"] = "Boceto: topacio noble luminoso",
@@ -2381,12 +2469,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24216,
 		["name"] = {
 			["Chinese"] = "图鉴：反光黄晶玉",
 			["English"] = "Design: Glinting Noble Topaz",
-			["French"] = "Dessin : Topaze noble luisante",
+			["French"] = "Dessin : Topaze noble luisante",
 			["German"] = "Vorlage: Glitzernder Edeltopas",
 			["Korean"] = "디자인: 예리하게 빛나는 귀황옥",
 			["Mexican"] = "Boceto: topacio noble destellante",
@@ -2397,13 +2491,12 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18314,
-				18325,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2411,7 +2504,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：坚硬水玉",
 			["English"] = "Design: Enduring Talasite",
-			["French"] = "Dessin : Talasite durcie",
+			["French"] = "Dessin : Talasite durcie",
 			["German"] = "Vorlage: Robuster Talasit",
 			["Korean"] = "디자인: 견고한 탈라사이트",
 			["Mexican"] = "Boceto: talasita duradera",
@@ -2424,12 +2517,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24218,
 		["name"] = {
 			["Chinese"] = "图鉴：辐光水玉",
 			["English"] = "Design: Radiant Talasite",
-			["French"] = "Dessin : Talasite radieuse",
+			["French"] = "Dessin : Talasite radieuse",
 			["German"] = "Vorlage: Strahlender Talasit",
 			["Korean"] = "디자인: 눈부신 탈라사이트",
 			["Mexican"] = "Boceto: talasita radiante",
@@ -2440,12 +2539,12 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17840,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2453,7 +2552,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：眩光水玉",
 			["English"] = "Design: Dazzling Talasite",
-			["French"] = "Dessin : Talasite éblouissante",
+			["French"] = "Dessin : Talasite éblouissante",
 			["German"] = "Vorlage: Schillernder Talasit",
 			["Korean"] = "디자인: 휘황찬란한 탈라사이트",
 			["Mexican"] = "Boceto: talasita deslumbrante",
@@ -2466,12 +2565,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 24220,
 		["name"] = {
 			["Chinese"] = "图鉴：裂纹水玉",
 			["English"] = "Design: Jagged Talasite",
-			["French"] = "Dessin : Talasite dentelée",
+			["French"] = "Dessin : Talasite dentelée",
 			["German"] = "Vorlage: Gezackter Talasit",
 			["Korean"] = "디자인: 톱니모양 탈라사이트",
 			["Mexican"] = "Boceto: talasita dentada",
@@ -2482,7 +2587,6 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -2490,7 +2594,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：强能之大地风暴钻石",
 			["English"] = "Design: Powerful Earthstorm Diamond",
-			["French"] = "Dessin : Diamant tonneterre de puissance",
+			["French"] = "Dessin : Diamant tonneterre de puissance",
 			["German"] = "Vorlage: Mächtiger Erdsturmdiamant",
 			["Korean"] = "디자인: 강력한 대지폭풍 다이아몬드",
 			["Mexican"] = "Boceto: diamante de tormenta de tierra potente",
@@ -2518,7 +2622,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：鼓舞之大地风暴钻石",
 			["English"] = "Design: Bracing Earthstorm Diamond",
-			["French"] = "Dessin : Diamant tonneterre tonifiant",
+			["French"] = "Dessin : Diamant tonneterre tonifiant",
 			["German"] = "Vorlage: Starker Erdsturmdiamant",
 			["Korean"] = "디자인: 원기 회복의 대지폭풍 다이아몬드",
 			["Mexican"] = "Boceto: diamante de tormenta de tierra vigorizante",
@@ -2546,7 +2650,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：洞察之大地风暴钻石",
 			["English"] = "Design: Insightful Earthstorm Diamond",
-			["French"] = "Dessin : Diamant tonneterre de perspicacité",
+			["French"] = "Dessin : Diamant tonneterre de perspicacité",
 			["German"] = "Vorlage: Bemerkenswerter Erdsturmdiamant",
 			["Korean"] = "디자인: 통찰의 대지폭풍 다이아몬드",
 			["Mexican"] = "Boceto: diamante de tormenta de tierra perspicaz",
@@ -2557,6 +2661,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 935,
+			["level_id"] = 5,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -2566,8 +2674,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17669,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2575,7 +2684,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：坚韧之大地风暴钻石",
 			["English"] = "Design: Tenacious Earthstorm Diamond",
-			["French"] = "Dessin : Diamant tonneterre de ténacité",
+			["French"] = "Dessin : Diamant tonneterre de ténacité",
 			["German"] = "Vorlage: Harter Erdsturmdiamant",
 			["Korean"] = "디자인: 불굴의 대지폭풍 다이아몬드",
 			["Mexican"] = "Boceto: diamante de tormenta de tierra tenaz",
@@ -2588,12 +2697,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 25906,
 		["name"] = {
 			["Chinese"] = "图鉴：蛮力之大地风暴钻石",
 			["English"] = "Design: Brutal Earthstorm Diamond",
-			["French"] = "Dessin : Diamant tonneterre de brutalité",
+			["French"] = "Dessin : Diamant tonneterre de brutalité",
 			["German"] = "Vorlage: Grober Erdsturmdiamant",
 			["Korean"] = "디자인: 무자비의 대지폭풍 다이아몬드",
 			["Mexican"] = "Boceto: diamante de tormenta de tierra brutal",
@@ -2604,12 +2719,12 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				16704,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2617,7 +2732,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：毁灭之天火钻石",
 			["English"] = "Design: Destructive Skyfire Diamond",
-			["French"] = "Dessin : Diamant brûleciel de destruction",
+			["French"] = "Dessin : Diamant brûleciel de destruction",
 			["German"] = "Vorlage: Zerstörerischer Himmelsfeuerdiamant",
 			["Korean"] = "디자인: 파괴의 하늘불꽃 다이아몬드",
 			["Mexican"] = "Boceto: diamante de fuego celeste destructor",
@@ -2635,7 +2750,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：迅捷之天火钻石",
 			["English"] = "Design: Swift Skyfire Diamond",
-			["French"] = "Dessin : Diamant brûleciel de rapidité",
+			["French"] = "Dessin : Diamant brûleciel de rapidité",
 			["German"] = "Vorlage: Flüchtiger Himmelsfeuerdiamant",
 			["Korean"] = "디자인: 신속의 하늘불꽃 다이아몬드",
 			["Mexican"] = "Boceto: diamante de fuego celeste presto",
@@ -2646,6 +2761,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 933,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -2656,8 +2775,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				19428,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -2665,7 +2785,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：秘法之天火钻石",
 			["English"] = "Design: Mystical Skyfire Diamond",
-			["French"] = "Dessin : Diamant brûleciel de mysticisme",
+			["French"] = "Dessin : Diamant brûleciel de mysticisme",
 			["German"] = "Vorlage: Mystischer Himmelsfeuerdiamant",
 			["Korean"] = "디자인: 신비의 하늘불꽃 다이아몬드",
 			["Mexican"] = "Boceto: diamante de fuego celeste místico",
@@ -2683,7 +2803,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：神秘之天火钻石",
 			["English"] = "Design: Enigmatic Skyfire Diamond",
-			["French"] = "Dessin : Diamant brûleciel de mystère",
+			["French"] = "Dessin : Diamant brûleciel de mystère",
 			["German"] = "Vorlage: Rätselhafter Himmelsfeuerdiamant",
 			["Korean"] = "디자인: 불가사의의 하늘불꽃 다이아몬드",
 			["Mexican"] = "Boceto: diamante de fuego celeste enigmático",
@@ -2711,7 +2831,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：圆润德拉诺金钻",
 			["English"] = "Design: Smooth Golden Draenite",
-			["French"] = "Dessin : Draénite dorée lisse",
+			["French"] = "Dessin : Draénite dorée lisse",
 			["German"] = "Vorlage: Glatter Golddraenit",
 			["Korean"] = "디자인: 매끄러운 황금 드레나이트",
 			["Mexican"] = "Boceto: draenita dorada lisa",
@@ -2736,7 +2856,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：明亮血榴石",
 			["English"] = "Design: Bright Blood Garnet",
-			["French"] = "Dessin : Grenat sanguin éclatant",
+			["French"] = "Dessin : Grenat sanguin éclatant",
 			["German"] = "Vorlage: Heller Blutgranat",
 			["Korean"] = "디자인: 광채나는 혈류석",
 			["Mexican"] = "Boceto: granate de sangre brillante",
@@ -2761,7 +2881,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：奥术护盾指环",
 			["English"] = "Design: Ring of Arcane Shielding",
-			["French"] = "Dessin : Anneau de protection contre les arcanes",
+			["French"] = "Dessin : Anneau de protection contre les arcanes",
 			["German"] = "Vorlage: Ring des Arkanschutzes",
 			["Korean"] = "디자인: 비전 보호의 반지",
 			["Mexican"] = "Boceto: anillo de protección Arcana",
@@ -2772,6 +2892,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 935,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -2785,7 +2909,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：黎明石螃蟹",
 			["English"] = "Design: Dawnstone Crab",
-			["French"] = "Dessin : Crabe de pierre d'aube",
+			["French"] = "Dessin : Crabe de pierre d'aube",
 			["German"] = "Vorlage: Dämmersteinkrebs",
 			["Korean"] = "디자인: 조각상 - 여명석 게",
 			["Mexican"] = "Boceto: cangrejo de piedra del alba",
@@ -2809,7 +2933,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：坚硬翠榄石",
 			["English"] = "Design: Enduring Deep Peridot",
-			["French"] = "Dessin : Olivine durcie",
+			["French"] = "Dessin : Olivine durcie",
 			["German"] = "Vorlage: Robuster Tiefenperidot",
 			["Korean"] = "디자인: 견고한 심연의 감람석",
 			["Mexican"] = "Boceto: peridoto intenso duradero",
@@ -2857,7 +2981,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：自然屏障",
 			["English"] = "Design: The Natural Ward",
-			["French"] = "Dessin : La garde naturelle",
+			["French"] = "Dessin : La garde naturelle",
 			["German"] = "Vorlage: Der Schutz der Natur",
 			["Korean"] = "디자인: 자연의 수호",
 			["Mexican"] = "Boceto: El resguardo natural",
@@ -2868,6 +2992,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
+		["reputation"] = {
+			["faction_id"] = 942,
+			["level_id"] = 8,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -3021,9 +3149,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				17862,
-				18495,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -3044,12 +3172,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "rare",
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 31876,
 		["name"] = {
 			["Chinese"] = "图鉴：平衡夜目石",
 			["English"] = "Design: Balanced Nightseye",
-			["French"] = "Dessin : Oeil de nuit équilibré",
+			["French"] = "Dessin : Oeil de nuit équilibré",
 			["German"] = "Vorlage: Ausbalanciertes Nachtauge",
 			["Korean"] = "디자인: 균형 잡힌 야안석",
 			["Mexican"] = "Boceto: Ojo de noche equilibrado",
@@ -3060,12 +3194,12 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18314,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -3087,8 +3221,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18315,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -3096,7 +3231,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：隐秘黄晶玉",
 			["English"] = "Design: Veiled Noble Topaz",
-			["French"] = "Dessin : Topaze noble voilée",
+			["French"] = "Dessin : Topaze noble voilée",
 			["German"] = "Vorlage: Verschleierter Edeltopas",
 			["Korean"] = "디자인: 가리어진 귀황옥",
 			["Mexican"] = "Boceto: topacio noble velado",
@@ -3110,8 +3245,9 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 	},
 	{
 		["drops"] = {
-			["sources"] = {
-				18318,
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
 			},
 		},
 		["expansion"] = 2,
@@ -3119,7 +3255,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：邪恶黄晶玉",
 			["English"] = "Design: Wicked Noble Topaz",
-			["French"] = "Dessin : Topaze noble pernicieuse",
+			["French"] = "Dessin : Topaze noble pernicieuse",
 			["German"] = "Vorlage: Tückischer Edeltopas",
 			["Korean"] = "디자인: 악의의 귀황옥",
 			["Mexican"] = "Boceto: topacio noble maligno",
@@ -3146,9 +3282,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: espinela carmesí llamativa",
 			["Taiwanese"] = "設計圖:清晰的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3165,9 +3310,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: espinela carmesí delicada",
 			["Taiwanese"] = "設計圖:精緻的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3175,7 +3329,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：泪珠赤尖石",
 			["English"] = "Design: Teardrop Crimson Spinel",
-			["French"] = "Dessin : Larme de spinelle cramoisi",
+			["French"] = "Dessin : Larme de spinelle cramoisi",
 			["German"] = "Vorlage: Tränenförmiger Purpurspinell",
 			["Korean"] = "디자인: 눈물모양 진홍빛 첨정석",
 			["Mexican"] = "Boceto: Lágrima de espinela carmesí",
@@ -3184,9 +3338,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Lágrima de espinela carmesí",
 			["Taiwanese"] = "設計圖:淚滴的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3203,9 +3366,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: espinela carmesí rúnica",
 			["Taiwanese"] = "設計圖:符文的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3222,9 +3394,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: espinela carmesí brillante",
 			["Taiwanese"] = "設計圖:明亮的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3241,9 +3422,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: espinela carmesí sutil",
 			["Taiwanese"] = "設計圖:精巧的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["drops"] = {
@@ -3278,7 +3468,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：致密天蓝宝石",
 			["English"] = "Design: Solid Empyrean Sapphire",
-			["French"] = "Dessin : Saphir empyréen solide",
+			["French"] = "Dessin : Saphir empyréen solide",
 			["German"] = "Vorlage: Gediegener Engelssaphir",
 			["Korean"] = "디자인: 단단한 창공의 사파이어",
 			["Mexican"] = "Boceto: zafiro empíreo sólido",
@@ -3287,9 +3477,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: zafiro empíreo sólido",
 			["Taiwanese"] = "設計圖:堅固的蒼穹藍寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3306,9 +3505,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: zafiro empíreo chispeante",
 			["Taiwanese"] = "設計圖:閃亮的蒼穹藍寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3325,9 +3533,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: zafiro empíreo luciente",
 			["Taiwanese"] = "設計圖:光輝的蒼穹藍寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["drops"] = {
@@ -3371,9 +3588,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de león luminoso",
 			["Taiwanese"] = "設計圖:明亮的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3381,7 +3607,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：圆润狮眼石",
 			["English"] = "Design: Smooth Lionseye",
-			["French"] = "Dessin : Oeil de lion lisse",
+			["French"] = "Dessin : Oeil de lion lisse",
 			["German"] = "Vorlage: Glattes Löwenauge",
 			["Korean"] = "디자인: 매끄러운 사안석",
 			["Mexican"] = "Boceto: ojo de león liso",
@@ -3390,9 +3616,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de león liso",
 			["Taiwanese"] = "設計圖:光滑的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3409,9 +3644,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de león rígido",
 			["Taiwanese"] = "設計圖:堅硬的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3428,9 +3672,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de león reluciente",
 			["Taiwanese"] = "設計圖:微光的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3438,7 +3691,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：厚重狮眼石",
 			["English"] = "Design: Thick Lionseye",
-			["French"] = "Dessin : Oeil de lion bombé",
+			["French"] = "Dessin : Oeil de lion bombé",
 			["German"] = "Vorlage: Kompaktes Löwenauge",
 			["Korean"] = "디자인: 두꺼운 사안석",
 			["Mexican"] = "Boceto: Ojo de león grueso",
@@ -3447,9 +3700,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de león grueso",
 			["Taiwanese"] = "設計圖:厚重的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["drops"] = {
@@ -3520,7 +3782,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：统御影歌紫玉",
 			["English"] = "Design: Sovereign Shadowsong Amethyst",
-			["French"] = "Dessin : Améthyste chantelombre souveraine",
+			["French"] = "Dessin : Améthyste chantelombre souveraine",
 			["German"] = "Vorlage: Stattlicher Schattensangamethyst",
 			["Korean"] = "디자인: 최상급 어둠노래 자수정",
 			["Mexican"] = "Boceto: amatista Cantosombrío soberana",
@@ -3574,9 +3836,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: amatista Cantosombrío equilibrada",
 			["Taiwanese"] = "設計圖:平衡的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3593,9 +3864,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: amatista Cantosombrío imbuida",
 			["Taiwanese"] = "設計圖:灌能的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3612,9 +3892,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: amatista Cantosombrío resplandeciente",
 			["Taiwanese"] = "設計圖:發光的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3631,9 +3920,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: amatista Cantosombrío real",
 			["Taiwanese"] = "設計圖:皇家的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["drops"] = {
@@ -3677,9 +3975,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piropiedra pujante",
 			["Taiwanese"] = "設計圖:高效的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3696,9 +4003,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piropiedra luminosa",
 			["Taiwanese"] = "設計圖:夜光的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3715,9 +4031,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piropiedra destelleante",
 			["Taiwanese"] = "設計圖:閃爍的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["drops"] = {
@@ -3761,9 +4086,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piropiedra maligna",
 			["Taiwanese"] = "設計圖:邪惡的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3771,7 +4105,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：坚硬海浪翡翠",
 			["English"] = "Design: Enduring Seaspray Emerald",
-			["French"] = "Dessin : Emeraude d'écume durcie",
+			["French"] = "Dessin : Emeraude d'écume durcie",
 			["German"] = "Vorlage: Robuster Gischtsmaragd",
 			["Korean"] = "디자인: 견고한 바다안개 에메랄드",
 			["Mexican"] = "Boceto: esmeralda de espuma marina duradera",
@@ -3780,9 +4114,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: esmeralda de espuma marina duradera",
 			["Taiwanese"] = "設計圖:耐久的海泉綠寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3799,9 +4142,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: esmeralda de espuma marina radiante",
 			["Taiwanese"] = "設計圖:輻光的海泉綠寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3809,7 +4161,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：眩光海浪翡翠",
 			["English"] = "Design: Dazzling Seaspray Emerald",
-			["French"] = "Dessin : Emeraude d'écume éblouissante",
+			["French"] = "Dessin : Emeraude d'écume éblouissante",
 			["German"] = "Vorlage: Schillernder Gischtsmaragd",
 			["Korean"] = "디자인: 휘황찬란한 바다안개 에메랄드",
 			["Mexican"] = "Boceto: esmeralda de espuma marina deslumbrante",
@@ -3818,9 +4170,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: esmeralda de espuma marina deslumbrante",
 			["Taiwanese"] = "設計圖:燦爛的海泉綠寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -3837,11 +4198,26 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: esmeralda de espuma marina irregular",
 			["Taiwanese"] = "設計圖:鋸齒的海泉綠寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "epic",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
 	},
 	{
+		["drops"] = {
+			["range"] = {
+				["max_xp_level"] = 73,
+				["min_xp_level"] = 65,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 32411,
 		["name"] = {
@@ -3858,26 +4234,6 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 32412,
-		["name"] = {
-			["Chinese"] = "图鉴：残酷之大地风暴钻石",
-			["English"] = "Design: Relentless Earthstorm Diamond",
-			["French"] = "Dessin : Diamant tonneterre implacable",
-			["German"] = "Vorlage: Unerbittlicher Erdsturmdiamant",
-			["Korean"] = "디자인: 냉혹의 대지폭풍 다이아몬드",
-			["Mexican"] = "Boceto: diamante de tormenta de tierra incansable",
-			["Portuguese"] = "Desenho: Diamante Tempesterra Implacável",
-			["Russian"] = "Эскиз: алмаз жестокой земной бури",
-			["Spanish"] = "Boceto: diamante de tormenta de tierra incansable",
-			["Taiwanese"] = "設計圖:不懈的大地風暴鑽石",
-		},
-		["phase"] = 1,
-		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -3885,7 +4241,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：凯蕾的玫瑰",
 			["English"] = "Design: Kailee's Rose",
-			["French"] = "Dessin : Rose de Kailee",
+			["French"] = "Dessin : Rose de Kailee",
 			["German"] = "Vorlage: Kailees Rose",
 			["Korean"] = "디자인: 카일리의 장미",
 			["Mexican"] = "Boceto: Rosa de Kailee",
@@ -3896,6 +4252,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 935,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -3909,7 +4269,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：血色残阳",
 			["English"] = "Design: Crimson Sun",
-			["French"] = "Dessin : Soleil cramoisi",
+			["French"] = "Dessin : Soleil cramoisi",
 			["German"] = "Vorlage: Blutrote Sonne",
 			["Korean"] = "디자인: 진홍빛 태양",
 			["Mexican"] = "Boceto: sol carmesí",
@@ -3920,10 +4280,15 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 933,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
 				20242,
+				23007,
 			},
 		},
 	},
@@ -3933,7 +4298,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：坠星石",
 			["English"] = "Design: Falling Star",
-			["French"] = "Dessin : Etoile filante",
+			["French"] = "Dessin : Etoile filante",
 			["German"] = "Vorlage: Sternschnuppe",
 			["Korean"] = "디자인: 별똥별",
 			["Mexican"] = "Boceto: estrella fugaz",
@@ -3961,7 +4326,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：刀锋之石",
 			["English"] = "Design: Stone of Blades",
-			["French"] = "Dessin : Pierre des lames",
+			["French"] = "Dessin : Pierre des lames",
 			["German"] = "Vorlage: Stein der Klingen",
 			["Korean"] = "디자인: 검단석",
 			["Mexican"] = "Boceto: piedra tajadera",
@@ -3989,7 +4354,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：琥珀之血",
 			["English"] = "Design: Blood of Amber",
-			["French"] = "Dessin : Sang d'ambre",
+			["French"] = "Dessin : Sang d'ambre",
 			["German"] = "Vorlage: Bernsteinblut",
 			["Korean"] = "디자인: 호박석 조각",
 			["Mexican"] = "Boceto: sangre de ámbar",
@@ -4000,6 +4365,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 935,
+			["level_id"] = 6,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -4041,7 +4410,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：胡里奥之心",
 			["English"] = "Design: Don Julio's Heart",
-			["French"] = "Dessin : Coeur de don Julio",
+			["French"] = "Dessin : Coeur de don Julio",
 			["German"] = "Vorlage: Don Julios Herz",
 			["Korean"] = "디자인: 돈 훌리오의 심장",
 			["Mexican"] = "Boceto: Corazón de Don Julio",
@@ -4052,10 +4421,15 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
+		["reputation"] = {
+			["faction_id"] = 933,
+			["level_id"] = 7,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
 				20242,
+				23007,
 			},
 		},
 	},
@@ -4065,7 +4439,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：残酷之大地风暴钻石",
 			["English"] = "Design: Relentless Earthstorm Diamond",
-			["French"] = "Dessin : Diamant tonneterre implacable",
+			["French"] = "Dessin : Diamant tonneterre implacable",
 			["German"] = "Vorlage: Unerbittlicher Erdsturmdiamant",
 			["Korean"] = "디자인: 냉혹의 대지폭풍 다이아몬드",
 			["Mexican"] = "Boceto: diamante de tormenta de tierra incansable",
@@ -4076,10 +4450,15 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
+		["reputation"] = {
+			["faction_id"] = 933,
+			["level_id"] = 8,
+		},
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
 				20242,
+				23007,
 			},
 		},
 	},
@@ -4089,7 +4468,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：稳固水玉",
 			["English"] = "Design: Steady Talasite",
-			["French"] = "Dessin : Talasite stable",
+			["French"] = "Dessin : Talasite stable",
 			["German"] = "Vorlage: Beständiger Talasit",
 			["Korean"] = "디자인: 한결같은 탈라사이트",
 			["Mexican"] = "Boceto: talasita firme",
@@ -4110,31 +4489,17 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 	},
 	{
-		["expansion"] = 2,
-		["id"] = 34221,
-		["name"] = {
-			["Chinese"] = "图鉴：混乱之天火钻石",
-			["English"] = "Design: Chaotic Skyfire Diamond",
-			["French"] = "Dessin : Diamant brûleciel chaotique",
-			["German"] = "Vorlage: Wechselhafter Himmelsfeuerdiamant",
-			["Korean"] = "디자인: 혼돈의 하늘불꽃 다이아몬드",
-			["Mexican"] = "Boceto: diamante de fuego celeste caótico",
-			["Portuguese"] = "Design: Chaotic Skyfire Diamond",
-			["Russian"] = "Эскиз: хаотический алмаз небесного огня",
-			["Spanish"] = "Boceto: diamante de fuego celeste caótico",
-			["Taiwanese"] = "設計圖:混沌的天火鑽石",
+		["drops"] = {
+			["sources"] = {
+				19768,
+			},
 		},
-		["phase"] = 1,
-		["quality"] = "rare",
-		["special_action"] = "no data available yet",
-	},
-	{
 		["expansion"] = 2,
 		["id"] = 34689,
 		["name"] = {
 			["Chinese"] = "图鉴：混乱之天火钻石",
 			["English"] = "Design: Chaotic Skyfire Diamond",
-			["French"] = "Dessin : Diamant brûleciel chaotique",
+			["French"] = "Dessin : Diamant brûleciel chaotique",
 			["German"] = "Vorlage: Wechselhafter Himmelsfeuerdiamant",
 			["Korean"] = "디자인: 혼돈의 하늘불꽃 다이아몬드",
 			["Mexican"] = "Boceto: diamante de fuego celeste caótico",
@@ -4145,7 +4510,6 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["drops"] = {
@@ -4158,7 +4522,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：熔铸能量指环",
 			["English"] = "Design: Loop of Forged Power",
-			["French"] = "Dessin : Boucle de la puissance forgée",
+			["French"] = "Dessin : Boucle de la puissance forgée",
 			["German"] = "Vorlage: Ring der geschmiedeten Macht",
 			["Korean"] = "디자인: 벼려낸 힘의 고리",
 			["Mexican"] = "Boceto: lazada de poder forjado",
@@ -4181,7 +4545,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：涌动生命指环",
 			["English"] = "Design: Ring of Flowing Life",
-			["French"] = "Dessin : Anneau de la vie fluide",
+			["French"] = "Dessin : Anneau de la vie fluide",
 			["German"] = "Vorlage: Ring des fließenden Lebens",
 			["Korean"] = "디자인: 샘솟는 생명의 반지",
 			["Mexican"] = "Boceto: anillo de caudal de vida",
@@ -4227,7 +4591,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：阳炎坠饰",
 			["English"] = "Design: Pendant of Sunfire",
-			["French"] = "Dessin : Pendentif du feu solaire",
+			["French"] = "Dessin : Pendentif du feu solaire",
 			["German"] = "Vorlage: Anhänger aus Sonnenfeuer",
 			["Korean"] = "디자인: 태양불꽃 펜던트",
 			["Mexican"] = "Boceto: colgante de fuego solar",
@@ -4250,7 +4614,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：涌动生命护符",
 			["English"] = "Design: Amulet of Flowing Life",
-			["French"] = "Dessin : Amulette de la vie fluide",
+			["French"] = "Dessin : Amulette de la vie fluide",
 			["German"] = "Vorlage: Amulett des fließenden Lebens",
 			["Korean"] = "디자인: 샘솟는 생명의 아뮬렛",
 			["Mexican"] = "Boceto: amuleto de caudal de vida",
@@ -4300,9 +4664,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: amatista Cantosombrío equilibrada",
 			["Taiwanese"] = "設計圖:平衡的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4319,9 +4693,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: amatista Cantosombrío resplandeciente",
 			["Taiwanese"] = "設計圖:發光的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4338,9 +4722,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: amatista Cantosombrío imbuida",
 			["Taiwanese"] = "設計圖:灌能的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4357,9 +4751,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: amatista Cantosombrío real",
 			["Taiwanese"] = "設計圖:皇家的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4376,9 +4780,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: amatista Cantosombrío cambiante",
 			["Taiwanese"] = "設計圖:移形的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4386,7 +4800,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：统御影歌紫玉",
 			["English"] = "Design: Sovereign Shadowsong Amethyst",
-			["French"] = "Dessin : Améthyste chantelombre souveraine",
+			["French"] = "Dessin : Améthyste chantelombre souveraine",
 			["German"] = "Vorlage: Stattlicher Schattensangamethyst",
 			["Korean"] = "디자인: 최상급 어둠노래 자수정",
 			["Mexican"] = "Boceto: amatista Cantosombrío soberana",
@@ -4395,9 +4809,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: amatista Cantosombrío soberana",
 			["Taiwanese"] = "設計圖:尊貴的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4414,9 +4838,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: espinela carmesí llamativa",
 			["Taiwanese"] = "設計圖:清晰的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4433,9 +4867,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: espinela carmesí brillante",
 			["Taiwanese"] = "設計圖:明亮的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4452,9 +4896,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: espinela carmesí delicada",
 			["Taiwanese"] = "設計圖:精緻的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4471,9 +4925,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: espinela carmesí ostentosa",
 			["Taiwanese"] = "設計圖:閃光的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4490,9 +4954,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: espinela carmesí rúnica",
 			["Taiwanese"] = "設計圖:符文的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4509,9 +4983,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: espinela carmesí sutil",
 			["Taiwanese"] = "設計圖:精巧的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4519,7 +5003,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：泪珠赤尖石",
 			["English"] = "Design: Teardrop Crimson Spinel",
-			["French"] = "Dessin : Larme de spinelle cramoisi",
+			["French"] = "Dessin : Larme de spinelle cramoisi",
 			["German"] = "Vorlage: Tränenförmiger Purpurspinell",
 			["Korean"] = "디자인: 눈물모양 진홍빛 첨정석",
 			["Mexican"] = "Boceto: Lágrima de espinela carmesí",
@@ -4528,9 +5012,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Lágrima de espinela carmesí",
 			["Taiwanese"] = "設計圖:淚滴的赤紅尖晶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4538,7 +5032,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：眩光海浪翡翠",
 			["English"] = "Design: Dazzling Seaspray Emerald",
-			["French"] = "Dessin : Emeraude d'écume éblouissante",
+			["French"] = "Dessin : Emeraude d'écume éblouissante",
 			["German"] = "Vorlage: Schillernder Gischtsmaragd",
 			["Korean"] = "디자인: 휘황찬란한 바다안개 에메랄드",
 			["Mexican"] = "Boceto: esmeralda de espuma marina deslumbrante",
@@ -4547,9 +5041,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: esmeralda de espuma marina deslumbrante",
 			["Taiwanese"] = "設計圖:燦爛的海泉綠寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4557,7 +5061,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：坚硬海浪翡翠",
 			["English"] = "Design: Enduring Seaspray Emerald",
-			["French"] = "Dessin : Emeraude d'écume durcie",
+			["French"] = "Dessin : Emeraude d'écume durcie",
 			["German"] = "Vorlage: Robuster Gischtsmaragd",
 			["Korean"] = "디자인: 견고한 바다안개 에메랄드",
 			["Mexican"] = "Boceto: esmeralda de espuma marina duradera",
@@ -4566,9 +5070,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: esmeralda de espuma marina duradera",
 			["Taiwanese"] = "設計圖:耐久的海泉綠寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4585,9 +5099,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: esmeralda de espuma marina irregular",
 			["Taiwanese"] = "設計圖:鋸齒的海泉綠寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4604,9 +5128,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: esmeralda de espuma marina radiante",
 			["Taiwanese"] = "設計圖:輻光的海泉綠寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4623,9 +5157,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de león luminoso",
 			["Taiwanese"] = "設計圖:明亮的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4642,9 +5186,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de león reluciente",
 			["Taiwanese"] = "設計圖:微光的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4661,9 +5215,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: gran Ojo de león",
 			["Taiwanese"] = "設計圖:絕佳的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4680,9 +5244,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de león místico",
 			["Taiwanese"] = "設計圖:神秘的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4699,9 +5273,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de león rígido",
 			["Taiwanese"] = "設計圖:堅硬的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4709,7 +5293,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：圆润狮眼石",
 			["English"] = "Design: Smooth Lionseye",
-			["French"] = "Dessin : Oeil de lion lisse",
+			["French"] = "Dessin : Oeil de lion lisse",
 			["German"] = "Vorlage: Glattes Löwenauge",
 			["Korean"] = "디자인: 매끄러운 사안석",
 			["Mexican"] = "Boceto: ojo de león liso",
@@ -4718,9 +5302,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de león liso",
 			["Taiwanese"] = "設計圖:光滑的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4728,7 +5322,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：厚重狮眼石",
 			["English"] = "Design: Thick Lionseye",
-			["French"] = "Dessin : Oeil de lion bombé",
+			["French"] = "Dessin : Oeil de lion bombé",
 			["German"] = "Vorlage: Kompaktes Löwenauge",
 			["Korean"] = "디자인: 두꺼운 사안석",
 			["Mexican"] = "Boceto: Ojo de león grueso",
@@ -4737,9 +5331,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de león grueso",
 			["Taiwanese"] = "設計圖:厚重的獅眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4756,9 +5360,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: zafiro empíreo luciente",
 			["Taiwanese"] = "設計圖:光輝的蒼穹藍寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4766,7 +5380,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：致密天蓝宝石",
 			["English"] = "Design: Solid Empyrean Sapphire",
-			["French"] = "Dessin : Saphir empyréen solide",
+			["French"] = "Dessin : Saphir empyréen solide",
 			["German"] = "Vorlage: Gediegener Engelssaphir",
 			["Korean"] = "디자인: 단단한 창공의 사파이어",
 			["Mexican"] = "Boceto: zafiro empíreo sólido",
@@ -4775,9 +5389,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: zafiro empíreo sólido",
 			["Taiwanese"] = "設計圖:堅固的蒼穹藍寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4794,9 +5418,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: zafiro empíreo chispeante",
 			["Taiwanese"] = "設計圖:閃亮的蒼穹藍寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 5,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4813,9 +5447,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: zafiro empíreo tormentoso",
 			["Taiwanese"] = "設計圖:激烈的蒼穹藍寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4832,9 +5476,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piropiedra destelleante",
 			["Taiwanese"] = "設計圖:閃爍的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4851,9 +5505,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piropiedra con inscripciones",
 			["Taiwanese"] = "設計圖:雕刻的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4870,9 +5534,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piropiedra luminosa",
 			["Taiwanese"] = "設計圖:夜光的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4889,9 +5563,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piropiedra pujante",
 			["Taiwanese"] = "設計圖:高效的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4908,9 +5592,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piropiedra velada",
 			["Taiwanese"] = "設計圖:矇矓的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -4927,17 +5621,32 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piropiedra maligna",
 			["Taiwanese"] = "設計圖:邪惡的焚石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				24664,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35304,
 		["name"] = {
 			["Chinese"] = "图鉴：致密艾露恩之星",
 			["English"] = "Design: Solid Star of Elune",
-			["French"] = "Dessin : Etoile d'Elune solide",
+			["French"] = "Dessin : Etoile d'Elune solide",
 			["German"] = "Vorlage: Gediegener Stern der Elune",
 			["Korean"] = "디자인: 단단한 엘룬의 별",
 			["Mexican"] = "Boceto: estrella de Elune sólida",
@@ -4946,17 +5655,21 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: estrella de Elune sólida",
 			["Taiwanese"] = "設計圖:堅固的伊露恩之星",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				24664,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35305,
 		["name"] = {
 			["Chinese"] = "图鉴：符文红曜石",
 			["English"] = "Design: Runed Living Ruby",
-			["French"] = "Dessin : Rubis vivant runique",
+			["French"] = "Dessin : Rubis vivant runique",
 			["German"] = "Vorlage: Runenverzierter lebendiger Rubin",
 			["Korean"] = "디자인: 룬이 새겨진 생명의 루비",
 			["Mexican"] = "Boceto: rubí vivo rúnico",
@@ -4965,17 +5678,21 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: rubí vivo rúnico",
 			["Taiwanese"] = "設計圖:符文的生命紅寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				24664,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35306,
 		["name"] = {
 			["Chinese"] = "图鉴：明亮红曜石",
 			["English"] = "Design: Bright Living Ruby",
-			["French"] = "Dessin : Rubis vivant éclatant",
+			["French"] = "Dessin : Rubis vivant éclatant",
 			["German"] = "Vorlage: Heller lebendiger Rubin",
 			["Korean"] = "디자인: 광채나는 여명의 루비",
 			["Mexican"] = "Boceto: rubí vivo brillante",
@@ -4984,17 +5701,21 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: rubí vivo brillante",
 			["Taiwanese"] = "設計圖:光亮的生命紅寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
+		["drops"] = {
+			["sources"] = {
+				24664,
+			},
+		},
 		["expansion"] = 2,
 		["id"] = 35307,
 		["name"] = {
 			["Chinese"] = "图鉴：刚硬黎明石",
 			["English"] = "Design: Rigid Dawnstone",
-			["French"] = "Dessin : Pierre d'aube rigide",
+			["French"] = "Dessin : Pierre d'aube rigide",
 			["German"] = "Vorlage: Massiver Dämmerstein",
 			["Korean"] = "디자인: 강도 높은 여명석",
 			["Mexican"] = "Boceto: piedra del alba rígida",
@@ -5003,9 +5724,8 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piedra del alba rígida",
 			["Taiwanese"] = "設計圖:堅硬的黎明石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -5013,7 +5733,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：迅捷黎明石",
 			["English"] = "Design: Quick Dawnstone",
-			["French"] = "Dessin : Pierre d'aube rapide",
+			["French"] = "Dessin : Pierre d'aube rapide",
 			["German"] = "Vorlage: Spiegelnder Dämmerstein",
 			["Korean"] = "디자인: 쾌속의 여명석",
 			["Mexican"] = "Boceto: piedra del alba rápida",
@@ -5022,9 +5742,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piedra del alba rápida",
 			["Taiwanese"] = "設計圖:迅速的黎明石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5032,7 +5762,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：鲁莽黄晶玉",
 			["English"] = "Design: Reckless Noble Topaz",
-			["French"] = "Dessin : Topaze noble téméraire",
+			["French"] = "Dessin : Topaze noble téméraire",
 			["German"] = "Vorlage: Tollkühner Edeltopas",
 			["Korean"] = "디자인: 무모의 귀황옥",
 			["Mexican"] = "Boceto: topacio noble temerario",
@@ -5041,9 +5771,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: topacio noble temerario",
 			["Taiwanese"] = "設計圖:魯莽的皇家黃寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5051,7 +5791,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：坚强水玉",
 			["English"] = "Design: Forceful Talasite",
-			["French"] = "Dessin : Talasite énergique",
+			["French"] = "Dessin : Talasite énergique",
 			["German"] = "Vorlage: Kraftvoller Talasit",
 			["Korean"] = "디자인: 강인한 탈라사이트",
 			["Mexican"] = "Boceto: talasita fuerte",
@@ -5060,9 +5800,19 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: talasita fuerte",
 			["Taiwanese"] = "設計圖:堅強的泰拉寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "rare",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5070,7 +5820,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：永恒之大地风暴钻石",
 			["English"] = "Design: Eternal Earthstorm Diamond",
-			["French"] = "Dessin : Diamant tonneterre éternel",
+			["French"] = "Dessin : Diamant tonneterre éternel",
 			["German"] = "Vorlage: Ewiger Erdsturmdiamant",
 			["Korean"] = "디자인: 영원의 대지폭풍 다이아몬드",
 			["Mexican"] = "Boceto: diamante de tormenta de tierra eterno",
@@ -5079,9 +5829,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: diamante de tormenta de tierra eterna",
 			["Taiwanese"] = "設計圖:永恆的大地風暴鑽石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 150000,
+			["sources"] = {
+				25032,
+			},
+		},
 	},
 	{
 		["expansion"] = 2,
@@ -5089,7 +5848,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：灰烬之天火钻石",
 			["English"] = "Design: Ember Skyfire Diamond",
-			["French"] = "Dessin : Diamant brûleciel brasillé",
+			["French"] = "Dessin : Diamant brûleciel brasillé",
 			["German"] = "Vorlage: Glimmender Himmelsfeuerdiamant",
 			["Korean"] = "디자인: 이글거리는 하늘불꽃 다이아몬드",
 			["Mexican"] = "Boceto: diamante de fuego celeste de ascuas",
@@ -5098,123 +5857,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: diamante de fuego celeste de ascuas",
 			["Taiwanese"] = "設計圖:餘燼的天火鑽石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35533,
-		["name"] = {
-			["Chinese"] = "图鉴：涌动生命护符",
-			["English"] = "Design: Amulet of Flowing Life",
-			["French"] = "Dessin : Amulette de la vie fluide",
-			["German"] = "Vorlage: Amulett des fließenden Lebens",
-			["Korean"] = "디자인: 샘솟는 생명의 아뮬렛",
-			["Mexican"] = "Boceto: amuleto de caudal de vida",
-			["Portuguese"] = "Desenho: Amuleto da Vida Fluida",
-			["Russian"] = "Эскиз: амулет бьющего ключа",
-			["Spanish"] = "Boceto: amuleto de caudal de vida",
-			["Taiwanese"] = "設計圖:流動生命護符",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 7,
 		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35534,
-		["name"] = {
-			["Chinese"] = "图鉴：硬化氪金指环",
-			["English"] = "Design: Hard Khorium Band",
-			["French"] = "Dessin : Bague en khorium durci",
-			["German"] = "Vorlage: Band aus Hartkhorium",
-			["Korean"] = "디자인: 단단한 코륨 반지",
-			["Mexican"] = "Boceto: sortija de korio duro",
-			["Portuguese"] = "Desenho: Anel de Kório Duro",
-			["Russian"] = "Эскиз: кольцо из закаленного кория",
-			["Spanish"] = "Boceto: sortija de korio duro",
-			["Taiwanese"] = "設計圖:特硬克銀指環",
+		["vendors"] = {
+			["price"] = 150000,
+			["sources"] = {
+				25032,
+			},
 		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35535,
-		["name"] = {
-			["Chinese"] = "图鉴：硬化氪金项链",
-			["English"] = "Design: Hard Khorium Choker",
-			["French"] = "Dessin : Sautoir en khorium durci",
-			["German"] = "Vorlage: Kropfband aus Hartkhorium",
-			["Korean"] = "디자인: 단단한 코륨 목걸이",
-			["Mexican"] = "Boceto: gargantilla de korio duro",
-			["Portuguese"] = "Desenho: Gargantilha de Kório Duro",
-			["Russian"] = "Эскиз: колье из закаленного кория",
-			["Spanish"] = "Boceto: gargantilla de korio duro",
-			["Taiwanese"] = "設計圖:特硬克銀頸飾",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35536,
-		["name"] = {
-			["Chinese"] = "图鉴：熔铸能量指环",
-			["English"] = "Design: Loop of Forged Power",
-			["French"] = "Dessin : Boucle de la puissance forgée",
-			["German"] = "Vorlage: Ring der geschmiedeten Macht",
-			["Korean"] = "디자인: 벼려낸 힘의 고리",
-			["Mexican"] = "Boceto: lazada de poder forjado",
-			["Portuguese"] = "Desenho: Anel do Poder Forjado",
-			["Russian"] = "Эскиз: кольцо скованной мощи",
-			["Spanish"] = "Boceto: lazada de poder forjado",
-			["Taiwanese"] = "設計圖:鍛能戒環",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35537,
-		["name"] = {
-			["Chinese"] = "图鉴：阳炎坠饰",
-			["English"] = "Design: Pendant of Sunfire",
-			["French"] = "Dessin : Pendentif du feu solaire",
-			["German"] = "Vorlage: Anhänger aus Sonnenfeuer",
-			["Korean"] = "디자인: 태양불꽃 펜던트",
-			["Mexican"] = "Boceto: colgante de fuego solar",
-			["Portuguese"] = "Desenho: Pingente do Fogo Solar",
-			["Russian"] = "Эскиз: подвеска солнечного огня",
-			["Spanish"] = "Boceto: colgante de Fuego Solar",
-			["Taiwanese"] = "設計圖:日炎墜飾",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35538,
-		["name"] = {
-			["Chinese"] = "图鉴：涌动生命指环",
-			["English"] = "Design: Ring of Flowing Life",
-			["French"] = "Dessin : Anneau de la vie fluide",
-			["German"] = "Vorlage: Ring des fließenden Lebens",
-			["Korean"] = "디자인: 샘솟는 생명의 반지",
-			["Mexican"] = "Boceto: anillo de caudal de vida",
-			["Portuguese"] = "Desenho: Anel da Vida Fluida",
-			["Russian"] = "Эскиз: кольцо бьющего ключа",
-			["Spanish"] = "Boceto: anillo de caudal de vida",
-			["Taiwanese"] = "設計圖:流動生命戒指",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -5222,7 +5876,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：雕像 - 天蓝宝石海龟",
 			["English"] = "Design: Figurine - Empyrean Tortoise",
-			["French"] = "Dessin : Figurine de tortue empyréenne",
+			["French"] = "Dessin : Figurine de tortue empyréenne",
 			["German"] = "Vorlage: Figur - Himmlische Schildkröte",
 			["Korean"] = "디자인: 조각상 - 창공의 거북이",
 			["Mexican"] = "Boceto: figurilla: tortuga empírea",
@@ -5250,7 +5904,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：雕像 - 氪金野猪",
 			["English"] = "Design: Figurine - Khorium Boar",
-			["French"] = "Dessin : Figurine de sanglier en khorium",
+			["French"] = "Dessin : Figurine de sanglier en khorium",
 			["German"] = "Vorlage: Figur - Khoriumeber",
 			["Korean"] = "디자인: 조각상 - 코륨 멧돼지",
 			["Mexican"] = "Boceto: figurilla: jabalí de korio",
@@ -5278,7 +5932,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：雕像 - 赤尖蛇",
 			["English"] = "Design: Figurine - Crimson Serpent",
-			["French"] = "Dessin : Figurine de cobra cramoisi",
+			["French"] = "Dessin : Figurine de cobra cramoisi",
 			["German"] = "Vorlage: Figur - Scharlachrote Schlange",
 			["Korean"] = "디자인: 조각상 - 진홍빛 뱀",
 			["Mexican"] = "Boceto: figurilla: serpiente carmesí",
@@ -5306,7 +5960,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：雕像 - 影歌猎豹",
 			["English"] = "Design: Figurine - Shadowsong Panther",
-			["French"] = "Dessin : Figurine de panthère de chantelombre",
+			["French"] = "Dessin : Figurine de panthère de chantelombre",
 			["German"] = "Vorlage: Figur - Schattensangpanther",
 			["Korean"] = "디자인: 조각상 - 어둠노래 퓨마",
 			["Mexican"] = "Boceto: figurilla: pantera Cantosombrío",
@@ -5334,7 +5988,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：雕像 - 海浪信天翁",
 			["English"] = "Design: Figurine - Seaspray Albatross",
-			["French"] = "Dessin : Figurine d'albatros en écume",
+			["French"] = "Dessin : Figurine d'albatros en écume",
 			["German"] = "Vorlage: Figur - Gischtalbatross",
 			["Korean"] = "디자인: 조각상 - 바다안개 알바트로스",
 			["Mexican"] = "Boceto: figurilla: albatros de espuma marina",
@@ -5362,7 +6016,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：华丽夜目石",
 			["English"] = "Design: Regal Nightseye",
-			["French"] = "Dessin : Oeil de nuit régalien",
+			["French"] = "Dessin : Oeil de nuit régalien",
 			["German"] = "Vorlage: Majestätisches Nachtauge",
 			["Korean"] = "디자인: 제왕의 야안석",
 			["Mexican"] = "Boceto: Ojo de noche majestuoso",
@@ -5371,7 +6025,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de noche majestuoso",
 			["Taiwanese"] = "設計圖:華貴的夜眼石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
 		["reputation"] = {
 			["faction_id"] = 1077,
@@ -5390,7 +6044,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：鲁莽焚石",
 			["English"] = "Design: Reckless Pyrestone",
-			["French"] = "Dessin : Pyrolithe téméraire",
+			["French"] = "Dessin : Pyrolithe téméraire",
 			["German"] = "Vorlage: Tollkühner Pyrostein",
 			["Korean"] = "디자인: 무모의 열화석",
 			["Mexican"] = "Boceto: piropiedra temeraria",
@@ -5399,16 +6053,16 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: piropiedra temeraria",
 			["Taiwanese"] = "設計圖:魯莽的焚石",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["quality"] = "epic",
 		["reputation"] = {
-			["faction_id"] = 1077,
-			["level_id"] = 7,
+			["faction_id"] = 990,
+			["level_id"] = 6,
 		},
 		["vendors"] = {
-			["price"] = 500000,
+			["price"] = 60000,
 			["sources"] = {
-				25032,
+				23437,
 			},
 		},
 	},
@@ -5418,7 +6072,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：迅捷狮眼石",
 			["English"] = "Design: Quick Lionseye",
-			["French"] = "Dessin : Oeil de lion rapide",
+			["French"] = "Dessin : Oeil de lion rapide",
 			["German"] = "Vorlage: Spiegelndes Löwenauge",
 			["Korean"] = "디자인: 쾌속의 사안석",
 			["Mexican"] = "Boceto: ojo de león rápido",
@@ -5427,16 +6081,16 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: Ojo de león rápido",
 			["Taiwanese"] = "設計圖:迅速的獅眼石",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["quality"] = "epic",
 		["reputation"] = {
-			["faction_id"] = 1077,
-			["level_id"] = 7,
+			["faction_id"] = 990,
+			["level_id"] = 6,
 		},
 		["vendors"] = {
-			["price"] = 500000,
+			["price"] = 60000,
 			["sources"] = {
-				25032,
+				23437,
 			},
 		},
 	},
@@ -5446,7 +6100,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：稳固海浪翡翠",
 			["English"] = "Design: Steady Seaspray Emerald",
-			["French"] = "Dessin : Emeraude d'écume stable",
+			["French"] = "Dessin : Emeraude d'écume stable",
 			["German"] = "Vorlage: Beständiger Gischtsmaragd",
 			["Korean"] = "디자인: 한결같은 바다안개 에메랄드",
 			["Mexican"] = "Boceto: esmeralda de espuma marina firme",
@@ -5455,16 +6109,16 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: esmeralda de espuma marina firme",
 			["Taiwanese"] = "設計圖:穩固的海泉綠寶石",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["quality"] = "epic",
 		["reputation"] = {
-			["faction_id"] = 1077,
-			["level_id"] = 7,
+			["faction_id"] = 990,
+			["level_id"] = 6,
 		},
 		["vendors"] = {
-			["price"] = 500000,
+			["price"] = 60000,
 			["sources"] = {
-				25032,
+				23437,
 			},
 		},
 	},
@@ -5474,7 +6128,125 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：坚强海浪翡翠",
 			["English"] = "Design: Forceful Seaspray Emerald",
-			["French"] = "Dessin : Emeraude d'écume énergique",
+			["French"] = "Dessin : Emeraude d'écume énergique",
+			["German"] = "Vorlage: Kraftvoller Gischtsmaragd",
+			["Korean"] = "디자인: 강인한 바다안개 에메랄드",
+			["Mexican"] = "Boceto: esmeralda de espuma marina fuerte",
+			["Portuguese"] = "Desenho: Esmeralda Espuma-marinha Vigorosa",
+			["Russian"] = "Эскиз: мощный морской изумруд",
+			["Spanish"] = "Boceto: esmeralda de espuma marina fuerte",
+			["Taiwanese"] = "設計圖:堅強的海泉綠寶石",
+		},
+		["phase"] = 3,
+		["quality"] = "epic",
+		["reputation"] = {
+			["faction_id"] = 990,
+			["level_id"] = 6,
+		},
+		["vendors"] = {
+			["price"] = 60000,
+			["sources"] = {
+				23437,
+			},
+		},
+	},
+	{
+		["expansion"] = 2,
+		["id"] = 35766,
+		["name"] = {
+			["Chinese"] = "图鉴：稳固海浪翡翠",
+			["English"] = "Design: Steady Seaspray Emerald",
+			["French"] = "Dessin : Emeraude d'écume stable",
+			["German"] = "Vorlage: Beständiger Gischtsmaragd",
+			["Korean"] = "디자인: 한결같은 바다안개 에메랄드",
+			["Mexican"] = "Boceto: esmeralda de espuma marina firme",
+			["Portuguese"] = "Desenho: Esmeralda Espuma-marinha Estável",
+			["Russian"] = "Эскиз: неизменный морской изумруд",
+			["Spanish"] = "Boceto: esmeralda de espuma marina firme",
+			["Taiwanese"] = "設計圖:穩固的海泉綠寶石",
+		},
+		["phase"] = 5,
+		["quality"] = "epic",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25032,
+				25950,
+				27666,
+			},
+		},
+	},
+	{
+		["expansion"] = 2,
+		["id"] = 35767,
+		["name"] = {
+			["Chinese"] = "图鉴：鲁莽焚石",
+			["English"] = "Design: Reckless Pyrestone",
+			["French"] = "Dessin : Pyrolithe téméraire",
+			["German"] = "Vorlage: Tollkühner Pyrostein",
+			["Korean"] = "디자인: 무모의 열화석",
+			["Mexican"] = "Boceto: piropiedra temeraria",
+			["Portuguese"] = "Desenho: Lumepedra Temerária",
+			["Russian"] = "Эскиз: тревожный огнекамень",
+			["Spanish"] = "Boceto: piropiedra temeraria",
+			["Taiwanese"] = "設計圖:魯莽的焚石",
+		},
+		["phase"] = 5,
+		["quality"] = "epic",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25032,
+				25950,
+				27666,
+			},
+		},
+	},
+	{
+		["expansion"] = 2,
+		["id"] = 35768,
+		["name"] = {
+			["Chinese"] = "图鉴：迅捷狮眼石",
+			["English"] = "Design: Quick Lionseye",
+			["French"] = "Dessin : Oeil de lion rapide",
+			["German"] = "Vorlage: Spiegelndes Löwenauge",
+			["Korean"] = "디자인: 쾌속의 사안석",
+			["Mexican"] = "Boceto: ojo de león rápido",
+			["Portuguese"] = "Desenho: Olho-de-leão Veloz",
+			["Russian"] = "Эскиз: мягкий львиный глаз",
+			["Spanish"] = "Boceto: Ojo de león rápido",
+			["Taiwanese"] = "設計圖:迅速的獅眼石",
+		},
+		["phase"] = 5,
+		["quality"] = "epic",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 7,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25032,
+				25950,
+				27666,
+			},
+		},
+	},
+	{
+		["expansion"] = 2,
+		["id"] = 35769,
+		["name"] = {
+			["Chinese"] = "图鉴：坚强海浪翡翠",
+			["English"] = "Design: Forceful Seaspray Emerald",
+			["French"] = "Dessin : Emeraude d'écume énergique",
 			["German"] = "Vorlage: Kraftvoller Gischtsmaragd",
 			["Korean"] = "디자인: 강인한 바다안개 에메랄드",
 			["Mexican"] = "Boceto: esmeralda de espuma marina fuerte",
@@ -5493,84 +6265,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["price"] = 500000,
 			["sources"] = {
 				25032,
+				25950,
+				27666,
 			},
 		},
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35766,
-		["name"] = {
-			["Chinese"] = "图鉴：稳固海浪翡翠",
-			["English"] = "Design: Steady Seaspray Emerald",
-			["French"] = "Dessin : Emeraude d'écume stable",
-			["German"] = "Vorlage: Beständiger Gischtsmaragd",
-			["Korean"] = "디자인: 한결같은 바다안개 에메랄드",
-			["Mexican"] = "Boceto: esmeralda de espuma marina firme",
-			["Portuguese"] = "Desenho: Esmeralda Espuma-marinha Estável",
-			["Russian"] = "Эскиз: неизменный морской изумруд",
-			["Spanish"] = "Boceto: esmeralda de espuma marina firme",
-			["Taiwanese"] = "設計圖:穩固的海泉綠寶石",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35767,
-		["name"] = {
-			["Chinese"] = "图鉴：鲁莽焚石",
-			["English"] = "Design: Reckless Pyrestone",
-			["French"] = "Dessin : Pyrolithe téméraire",
-			["German"] = "Vorlage: Tollkühner Pyrostein",
-			["Korean"] = "디자인: 무모의 열화석",
-			["Mexican"] = "Boceto: piropiedra temeraria",
-			["Portuguese"] = "Desenho: Lumepedra Temerária",
-			["Russian"] = "Эскиз: тревожный огнекамень",
-			["Spanish"] = "Boceto: piropiedra temeraria",
-			["Taiwanese"] = "設計圖:魯莽的焚石",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35768,
-		["name"] = {
-			["Chinese"] = "图鉴：迅捷狮眼石",
-			["English"] = "Design: Quick Lionseye",
-			["French"] = "Dessin : Oeil de lion rapide",
-			["German"] = "Vorlage: Spiegelndes Löwenauge",
-			["Korean"] = "디자인: 쾌속의 사안석",
-			["Mexican"] = "Boceto: ojo de león rápido",
-			["Portuguese"] = "Desenho: Olho-de-leão Veloz",
-			["Russian"] = "Эскиз: мягкий львиный глаз",
-			["Spanish"] = "Boceto: Ojo de león rápido",
-			["Taiwanese"] = "設計圖:迅速的獅眼石",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 35769,
-		["name"] = {
-			["Chinese"] = "图鉴：坚强海浪翡翠",
-			["English"] = "Design: Forceful Seaspray Emerald",
-			["French"] = "Dessin : Emeraude d'écume énergique",
-			["German"] = "Vorlage: Kraftvoller Gischtsmaragd",
-			["Korean"] = "디자인: 강인한 바다안개 에메랄드",
-			["Mexican"] = "Boceto: esmeralda de espuma marina fuerte",
-			["Portuguese"] = "Desenho: Esmeralda Espuma-marinha Vigorosa",
-			["Russian"] = "Эскиз: мощный морской изумруд",
-			["Spanish"] = "Boceto: esmeralda de espuma marina fuerte",
-			["Taiwanese"] = "設計圖:堅強的海泉綠寶石",
-		},
-		["phase"] = 1,
-		["quality"] = "epic",
-		["special_action"] = "no data available yet",
 	},
 	{
 		["expansion"] = 2,
@@ -5578,7 +6276,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["name"] = {
 			["Chinese"] = "图鉴：纯净影歌紫玉",
 			["English"] = "Design: Purified Shadowsong Amethyst",
-			["French"] = "Dessin : Améthyste chantelombre purifiée",
+			["French"] = "Dessin : Améthyste chantelombre purifiée",
 			["German"] = "Vorlage: Geläuterter Schattensangamethyst",
 			["Korean"] = "디자인: 정화된 어둠노래 자수정",
 			["Mexican"] = "Boceto: amatista Cantosombrío purificada",
@@ -5587,8 +6285,18 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 			["Spanish"] = "Boceto: amatista Cantosombrío purificada",
 			["Taiwanese"] = "設計圖:純淨的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["reputation"] = {
+			["faction_id"] = 1077,
+			["level_id"] = 8,
+		},
+		["vendors"] = {
+			["price"] = 500000,
+			["sources"] = {
+				25950,
+				27666,
+			},
+		},
 	},
 }

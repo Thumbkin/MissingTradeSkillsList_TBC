@@ -1354,48 +1354,6 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	},
 	{
 		["expansion"] = 2,
-		["id"] = 26918,
-		["items"] = {
-			21958,
-		},
-		["min_skill"] = 315,
-		["name"] = {
-			["Chinese"] = "奥金短剑坠饰",
-			["English"] = "Arcanite Sword Pendant",
-			["French"] = "Pendentif de l'épée en arcanite",
-			["German"] = "Arkanitschwertanhänger",
-			["Korean"] = "아케이나이트 검 펜던트",
-			["Mexican"] = "Colgante de espada de arcanita",
-			["Portuguese"] = "Pingente de Espada de Arcanita",
-			["Russian"] = "Подвеска из арканитового меча",
-			["Spanish"] = "Colgante de espada de arcanita",
-			["Taiwanese"] = "奧金劍墜飾",
-		},
-		["phase"] = 1,
-	},
-	{
-		["expansion"] = 2,
-		["id"] = 26920,
-		["items"] = {
-			21959,
-		},
-		["min_skill"] = 325,
-		["name"] = {
-			["Chinese"] = "血冠",
-			["English"] = "Blood Crown",
-			["French"] = "Couronne de sang",
-			["German"] = "Blutkrone",
-			["Korean"] = "피의 왕관",
-			["Mexican"] = "Corona de sangre",
-			["Portuguese"] = "Coroa de Sangue",
-			["Russian"] = "Корона Крови",
-			["Spanish"] = "Corona de sangre",
-			["Taiwanese"] = "血之冠",
-		},
-		["phase"] = 1,
-	},
-	{
-		["expansion"] = 2,
 		["id"] = 26925,
 		["min_skill"] = 1,
 		["name"] = {
@@ -1580,7 +1538,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["German"] = "Feingeschliffener Blutgranat",
 			["Korean"] = "섬세하게 연마된 혈류석",
 			["Mexican"] = "Granate de sangre delicado",
-			["Portuguese"] = "Delicate Blood Garnet",
+			["Portuguese"] = "Granada Vermelha Delicada",
 			["Russian"] = "Хрупкий кровавый гранат",
 			["Spanish"] = "Granate de sangre delicado",
 			["Taiwanese"] = "精緻的血石榴石",
@@ -5115,7 +5073,6 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 		["expansion"] = 2,
 		["id"] = 39961,
 		["items"] = {
-			32412,
 			33622,
 		},
 		["min_skill"] = 365,
@@ -5488,7 +5445,6 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 		["expansion"] = 2,
 		["id"] = 44794,
 		["items"] = {
-			34221,
 			34689,
 		},
 		["min_skill"] = 365,
@@ -5511,7 +5467,6 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 		["id"] = 46122,
 		["items"] = {
 			35198,
-			35536,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -5533,7 +5488,6 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 		["id"] = 46123,
 		["items"] = {
 			35199,
-			35538,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -5555,7 +5509,6 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 		["id"] = 46124,
 		["items"] = {
 			35200,
-			35534,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -5577,7 +5530,6 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 		["id"] = 46125,
 		["items"] = {
 			35201,
-			35537,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -5599,7 +5551,6 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 		["id"] = 46126,
 		["items"] = {
 			35202,
-			35533,
 		},
 		["min_skill"] = 365,
 		["name"] = {
@@ -5621,7 +5572,6 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 		["id"] = 46127,
 		["items"] = {
 			35203,
-			35535,
 		},
 		["min_skill"] = 365,
 		["name"] = {

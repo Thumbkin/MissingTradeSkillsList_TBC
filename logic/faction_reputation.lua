@@ -16,7 +16,7 @@ MTSL_LOGIC_FACTION_REPUTATION = {
     GetFactionNameById = function(self, faction_id)
         local faction = MTSL_TOOLS:GetItemFromUnsortedListById(MTSL_DATA["factions"], faction_id)
         if faction == nil then
-            MTSL_TOOLS:AddMissingData("faction", faction_id)
+            MTSLUI_TOOLS:AddMissingData("faction", faction_id)
             return ""
         else
             return MTSLUI_TOOLS:GetLocalisedData(faction)
@@ -103,5 +103,50 @@ MTSL_LOGIC_FACTION_REPUTATION = {
         end
 
         return rep_level_eng
+    end,
+
+    GetFactionsThatSell = function(self)
+        local faction_ids_that_sell = {}
+
+        for prof_name, _ in pairs(MTSL_DATA["skills"]) do
+            for _, skill in pairs(MTSL_DATA["skills"][prof_name]) do
+                if skill.reputation then
+                    faction_ids_that_sell[skill.reputation.faction_id] = 1
+                end
+            end
+        end
+
+        for prof_name, _ in pairs(MTSL_DATA["items"]) do
+            for _, item in pairs(MTSL_DATA["items"][prof_name]) do
+                if item.reputation then
+                    faction_ids_that_sell[item.reputation.faction_id] = 1
+                end
+            end
+        end
+
+        for prof_name, _ in pairs(MTSL_DATA["levels"]) do
+            for _, item in pairs(MTSL_DATA["levels"][prof_name]) do
+                if item.reputation then
+                    faction_ids_that_sell[item.reputation.faction_id] = 1
+                end
+            end
+        end
+        for _, quest in pairs(MTSL_DATA["quests"]) do
+            if quest.reputation then
+                faction_ids_that_sell[quest.reputation.faction_id] = 1
+            end
+        end
+
+        local factions = {}
+
+        for faction_id, _ in pairs(faction_ids_that_sell) do
+            local new_faction = {
+                ["name"] = self:GetFactionNameById(faction_id),
+                ["id"] = faction_id,
+            }
+            table.insert(factions, new_faction)
+        end
+
+        return factions
     end,
 }

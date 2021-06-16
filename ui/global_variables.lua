@@ -6,13 +6,11 @@
 MTSLUI_ADDON = {
     AUTHOR = "Thumbkin",
     NAME = "Missing TradeSkills List (TBC)",
-    VERSION = "2.5.06",
-    PATCH_TEXT = '* All professions except Jewelcrafting & Leatherworking have all the correct skills, items and quests added\n' ..
-                 '* Fixed data:\n' ..
-                 '   * Set the correct data for each NPC\n' ..
-                 '   * All items have the correct phase now, if they drop in specific zone(s), those zone(s) are added\n' ..
-                 '   * Removed unused NPCs\n' ..
-                 '   * Removed unused or duplicate skills/items',
+    VERSION = "2.5.07",
+    PATCH_TEXT = '* All professions should now have all the correct data\n' ..
+                 '* Fixed bug when showing the details of a Quest with NPCs lead to "nil" error\n' ..
+                 '* Added the reputation needed for all items sold by any TBC faction quartermaster\n' ..
+                 '* Added the TBC factions to the filter frame\n',
     SERVER_VERSION_PHASES = {
         -- max build number from server for phase 1,
         {

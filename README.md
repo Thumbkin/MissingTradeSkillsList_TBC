@@ -44,14 +44,12 @@ Minimap button & Enhanced tooltip
 * Link items to a channel (Say, Guild, Party, Raid or "Auto") or add item to current chat message
 * Ability to drag each MTSL frame around
 
-### Latest version (v2.5.06)
+### Latest version (v2.5.07)
 
-* All professions except Jewelcrafting & Leatherworking have all the correct skills, items and quests added
-* Fixed data:
-  * Set the correct data for each NPC
-  * All items have the correct phase now, if they drop in specific zone(s), those zone(s) are added
-  * Removed unused NPCs
-  * Removed unused or duplicate skills/items
+* All professions should now have all the correct data
+* Fixed bug when showing the details of a Quest with NPCs lead to "nil" error
+* Added the reputation needed for all items sold by any TBC faction quartermaster
+* Added the TBC factions to the filter frame
 
 ### Support
 

@@ -925,8 +925,8 @@ MTSLUI_SKILL_DETAIL_FRAME = {
                         if npcs[i].xp_level["min"] ~= npcs[i].xp_level["max"] then
                             text = text .. "-" .. npcs[i].xp_level["max"]
                         end
-                        -- add a + for elite
-                        if npcs[i].xp_level.is_elite == 1 then
+                        -- add a + for elite but not a boss mob
+                        if npcs[i].xp_level.is_elite == 1 and npcs[i].xp_level["min"] ~= "??" then
                             text = text .. "+"
                         end
                         --end the text

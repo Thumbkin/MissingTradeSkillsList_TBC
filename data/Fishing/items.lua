@@ -68,6 +68,6 @@ MTSL_DATA["items"]["Fishing"] =
 		},
 		["phase"] = 1,
 		["quality"] = "common",
-		["special_action"] = "no data available yet",
+		["special_action"] = "looted from within containers found when fishing",
 	},
 }

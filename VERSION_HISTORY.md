@@ -1,5 +1,12 @@
 ## Version History
 
+### v2.5.07 (June 16, 2021)
+
+* All professions should now have all the correct data
+* Fixed bug when showing the details of a Quest with NPCs lead to "nil" error
+* Added the reputation needed for all items sold by any TBC faction quartermaster
+* Added the TBC factions to the filter frame
+
 ### v2.5.06 (June 14, 2021)
 
 * All professions except Jewelcrafting & Leatherworking have all the skills & items added

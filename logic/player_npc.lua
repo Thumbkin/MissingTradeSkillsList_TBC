@@ -591,6 +591,12 @@ MTSL_LOGIC_PLAYER_NPC = {
         end
 
         self:UpdateMissingLevelsForProfessionCurrentPlayer(profession_name, max_level)
+
+        if profession_name == "First Aid" then
+            print("After updating First Aid:")
+            print(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED .. " - " ..
+                    MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING)
+        end
     end,
 
     UpdateSpecialisations = function(self, profession_name)
@@ -625,6 +631,13 @@ MTSL_LOGIC_PLAYER_NPC = {
     UpdateMissingSkillsForTradeSkillCurrentPlayer = function(self, profession_name, amount_specs_learned)
         -- get the list of learned skills
         local known_skill_names = MTSL_LOGIC_PROFESSION:GetSkillNamesCurrentTradeSkill()
+
+        if profession_name == "First Aid" then
+            for _, skill_name in pairs(known_skill_names) do
+                print(skill_name)
+            end
+        end
+
 
         -- get the list of available skills in the current phase for the profession,
         local available_skills = MTSL_LOGIC_PROFESSION:GetAllAvailableSkillsForProfession(profession_name, MTSL_DATA.CURRENT_PATCH_LEVEL, MTSL_CURRENT_PLAYER.CLASS)
@@ -762,7 +775,6 @@ MTSL_LOGIC_PLAYER_NPC = {
                     table.insert(npcs, npc)
                 end
             else
-                print("player_npc line 765")
                 MTSL_TOOLS:AddMissingData("npc", id)
             end
         end

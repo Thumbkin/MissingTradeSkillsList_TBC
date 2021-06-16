@@ -11,37 +11,39 @@ MTSL_LOGIC_QUEST = {
     -- return			Object		Found quest (nil if not found)
     ------------------------------------------------------------------------------------------------
     GetQuestByIds = function(self, ids)
-        local i = 1
+        if ids then
+            local i = 1
 
-        while ids[i] ~= nil do
-            local quest = MTSL_TOOLS:GetItemFromSortedListById(MTSL_DATA["quests"], ids[i])
-            -- Check if q started from NPC
-            if quest ~= nil then
-                if quest.npcs then
-                    local npcs = MTSL_LOGIC_PLAYER_NPC:GetNpcsByIds(quest.npcs)
-                    if not npcs then
-                        for _, npc_id in pairs(quest.npcs) do
-                            MTSL_TOOLS:AddMissingData("npc", npc_id)
-                        end
-                    else
-                        -- only 1 NPC possible
-                        local npc = npcs[1]
-                        -- check if we are able to interact with npc
-                        if not npc then
-                            if npc.reacts == "Neutral" or npc.reacts == MTSL_CURRENT_PLAYER.FACTION then
-                                return quest
+            while ids[i] ~= nil do
+                local quest = MTSL_TOOLS:GetItemFromSortedListById(MTSL_DATA["quests"], ids[i])
+                -- Check if q started from NPC
+                if quest ~= nil then
+                    if quest.npcs then
+                        local npcs = MTSL_LOGIC_PLAYER_NPC:GetNpcsByIds(quest.npcs)
+                        if not npcs then
+                            for _, npc_id in pairs(quest.npcs) do
+                                MTSL_TOOLS:AddMissingData("npc", npc_id)
+                            end
+                        else
+                            -- only 1 NPC possible
+                            local npc = npcs[1]
+                            -- check if we are able to interact with npc
+                            if npc then
+                                if npc.reacts == "Neutral" or npc.reacts == MTSL_CURRENT_PLAYER.FACTION then
+                                    return quest
+                                end
                             end
                         end
+                        -- Started from item/object so available to all
+                    else
+                        return quest
                     end
-                    -- Started from item/object so available to all
                 else
-                    return quest
+                    MTSL_TOOLS:AddMissingData("quest", ids[i])
                 end
-            else
-                MTSL_TOOLS:AddMissingData("quest", ids[i])
-            end
 
-            i = i + 1
+                i = i + 1
+            end
         end
 
         return nil

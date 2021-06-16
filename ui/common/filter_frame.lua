@@ -297,12 +297,12 @@ MTSLUI_FILTER_FRAME = {
 
         self.drop_down_lists.expansion = {}
 
-        table.sort(MTSL_DATA["expansions"], function(a, b) return a.id < b.id end)
+        MTSL_TOOLS:SortArrayByProperty(MTSL_DATA["expansions"], "id")
         for _, expansion in pairs(MTSL_DATA["expansions"]) do
             -- not current expansion, so only add it once
             if expansion.id ~= MTSL_DATA.CURRENT_EXPANSION_ID then
                 local new_expansion = {
-                    ["id"] = 100 * expansion.id + 1,
+                    ["id"] = expansion.id + 1,
                     ["expansion"] = expansion.id,
                     ["phase"] = 1,
                     ["checked"] = true,
@@ -314,7 +314,7 @@ MTSLUI_FILTER_FRAME = {
                 local patch_level = MTSL_DATA.MIN_PATCH_LEVEL
                 while patch_level <= self.max_used_patch_level do
                     local new_phase = {
-                        ["id"] = 100 * expansion.id + patch_level,
+                        ["id"] = expansion.id + patch_level,
                         ["expansion"] = expansion.id,
                         ["phase"] = patch_level,
                         ["checked"] = true,
@@ -375,22 +375,13 @@ MTSLUI_FILTER_FRAME = {
             },
         }
         -- Ids of reputations used for recipes, add those factions too
-        local reputation_ids = { 59, 270, 529, 576, 609 }
-        local rep_factions = {}
-        for _, v in pairs(reputation_ids) do
-            local new_faction = {
-                ["name"] = MTSL_LOGIC_FACTION_REPUTATION:GetFactionNameById(v),
-                -- auto check all
-                ["checked"] = true,
-                ["id"] = v,
-            }
-            table.insert(rep_factions, new_faction)
-        end
-        -- Sort them by name
-        MTSL_TOOLS:SortArrayByProperty(rep_factions, "name")
-        -- Add them sorted to factions
-        for _, r in pairs(rep_factions) do
-            table.insert(self.drop_down_lists.faction, r)
+        local factions_that_sell = MTSL_LOGIC_FACTION_REPUTATION:GetFactionsThatSell()
+        -- Sort based on name
+        MTSL_TOOLS:SortArrayByProperty(factions_that_sell, "name")
+        for _, faction in pairs(factions_that_sell) do
+            -- auto check all
+            faction["checked"] = true,
+            table.insert(self.drop_down_lists.faction, faction)
         end
     end,
 

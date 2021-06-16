@@ -2232,7 +2232,7 @@ MTSL_DATA["zones"] =
 			["Spanish"] = "Zul'Aman",
 			["Taiwanese"] = "祖阿曼",
 		},
-		["phase"] = 3,
+		["phase"] = 4,
 	},
 	{
 		["continent_id"] = 6,
