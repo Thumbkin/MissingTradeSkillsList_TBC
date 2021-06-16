@@ -626,13 +626,6 @@ MTSL_LOGIC_PLAYER_NPC = {
         -- get the list of learned skills
         local known_skill_names = MTSL_LOGIC_PROFESSION:GetSkillNamesCurrentTradeSkill()
 
-        if profession_name == "First Aid" then
-            for _, skill_name in pairs(known_skill_names) do
-                print(skill_name)
-            end
-        end
-
-
         -- get the list of available skills in the current phase for the profession,
         local available_skills = MTSL_LOGIC_PROFESSION:GetAllAvailableSkillsForProfession(profession_name, MTSL_DATA.CURRENT_PATCH_LEVEL, MTSL_CURRENT_PLAYER.CLASS)
 
@@ -642,12 +635,23 @@ MTSL_LOGIC_PLAYER_NPC = {
                  table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].LEARNED_SKILLS, skill.id)
                  MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED + 1
              else
-            -- Add skill to unlearned if we dont have a specialisation, skill doenst have specialisation or if player specialisation is same as the skill specialisation
-                 if amount_specs_learned <= 0 or skill.specialisation == nil or (skill.specialisation ~= nil and
-                         MTSL_TOOLS:ListContainsNumber(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].SPELLIDS_SPECIALISATION, skill.specialisation) == true) then
-                     table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].MISSING_SKILLS, skill.id)
-                     MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING + 1
-                 end
+                -- it might be a spellbook spell, so it does not show in the tradeskill frame
+                if skill.spellbook then
+                    if IsSpellKnown(skill.id) then
+                        table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].LEARNED_SKILLS, skill.id)
+                        MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED + 1
+                    else
+                        table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].MISSING_SKILLS, skill.id)
+                        MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING + 1
+                    end
+                else
+                    -- Add skill to unlearned if we dont have a specialisation, skill doenst have specialisation or if player specialisation is same as the skill specialisation
+                    if amount_specs_learned <= 0 or skill.specialisation == nil or (skill.specialisation ~= nil and
+                            MTSL_TOOLS:ListContainsNumber(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].SPELLIDS_SPECIALISATION, skill.specialisation) == true) then
+                        table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].MISSING_SKILLS, skill.id)
+                        MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING + 1
+                    end
+                end
              end
         end
     end,

@@ -3278,6 +3278,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Taiwanese"] = "勘探",
 		},
 		["phase"] = 1,
+		["spellbook"] = 1,
 		["trainers"] = {
 			["price"] = 100,
 			["sources"] = {

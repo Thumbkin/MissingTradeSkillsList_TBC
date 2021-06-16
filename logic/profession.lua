@@ -3,7 +3,11 @@
 ---------------------------------------------
 
 MTSL_LOGIC_PROFESSION = {
-    RACIAL_BONUS = 15,
+    BONUS_RACIAL = {
+        ["Enchanting"] = 10,  -- Blood Elf,
+        ["Herbalism"] = 15,   -- Tauren
+        ["Jewelcrafting"] = 5,  -- Draenei
+    },
 
     ----------------------------------------------------------------------------------------
     -- Returns the current rank learned for a profession (1 Apprentice to  4 Artisan)
@@ -16,8 +20,8 @@ MTSL_LOGIC_PROFESSION = {
     GetRankForProfessionByMaxLevel = function(self, profession_name, max_level)
         local ranks = self:GetRanksForProfession(profession_name)
         for _, v in pairs(ranks) do
-            -- calculate Tauren racial bonus as well
-            if v.max_skill == max_level or v.max_skill + self.RACIAL_BONUS == max_level then
+            -- also add racial if exsists
+            if v.max_skill == max_level or (self.BONUS_RACIAL[profession_name] and v.max_skill + self.BONUS_RACIAL[profession_name] == max_level) then
                 return v.rank
             end
         end

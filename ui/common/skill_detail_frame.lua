@@ -403,6 +403,10 @@ MTSLUI_SKILL_DETAIL_FRAME = {
 
             if skill.items ~= nil then
                 self:ShowDetailsOfSkillTypeItem(skill.items[1], profession_name, current_xp_level, 0, 0)
+                -- Fix for a 2nd vendor for same item
+                if skill.items[2] then
+                    self:ShowDetailsOfSkillTypeItem(skill.items[2], profession_name, current_xp_level, 1, 0)
+                end
             elseif skill.trainers ~= nil then
                 self:ShowDetailsOfSkillTypeTrainer(skill.trainers)
             elseif skill.quests ~= nil then
@@ -492,6 +496,7 @@ MTSLUI_SKILL_DETAIL_FRAME = {
     ----------------------------------------------------------------------------
     SetRequiredReputationWithFaction = function(self, reputation, current_xp_level)
         -- Check if require reputation to acquire
+        local current_text = self.labels.requires_rep.value:GetText()
         if reputation ~= nil then
             local faction = MTSL_LOGIC_FACTION_REPUTATION:GetFactionNameById(reputation.faction_id)
             local rep_level = MTSL_LOGIC_FACTION_REPUTATION:GetReputationLevelById(reputation.level_id)
@@ -505,9 +510,16 @@ MTSLUI_SKILL_DETAIL_FRAME = {
                     rep_status = MTSLUI_FONTS.COLORS.AVAILABLE.NO
                 end
             end
-            self.labels.requires_rep.value:SetText(rep_status .. faction .. " [" .. MTSLUI_TOOLS:GetLocalisedData(rep_level) .. "]")
+            -- append if needed
+            if not current_text or current_text == "" or current_text == "-" then
+                self.labels.requires_rep.value:SetText(rep_status .. faction .. " [" .. MTSLUI_TOOLS:GetLocalisedData(rep_level) .. "]")
+            else
+                self.labels.requires_rep.value:SetText(current_text .. " / " .. rep_status .. faction .. " [" .. MTSLUI_TOOLS:GetLocalisedData(rep_level) .. "]")
+            end
         else
-            self.labels.requires_rep.value:SetText(MTSLUI_FONTS.COLORS.TEXT.NORMAL .. "-")
+            if not current_text or current_text == "" then
+                self.labels.requires_rep.value:SetText(MTSLUI_FONTS.COLORS.TEXT.NORMAL .. "-")
+            end
         end
     end,
 
@@ -740,7 +752,7 @@ MTSLUI_SKILL_DETAIL_FRAME = {
                 self:HideTooltipFrameShowAltSourceName()
             else
                 -- check if we have more then 1 source to activate the split
-                if amount_sources > 1 then
+                if amount_sources > 1 or is_alternative_source == 1 then
                     -- adjust the height of the source frames to split situation
                     self.labels.alt_sources.title:Show()
                     self.labels.alt_source.title:Show()
@@ -755,16 +767,29 @@ MTSLUI_SKILL_DETAIL_FRAME = {
                 if has_vendors > 0 then
                     self:SetSourceType(MTSLUI_FONTS.COLORS.TEXT.NORMAL .. MTSLUI_TOOLS:GetLocalisedLabel("vendor"), is_alternative_source, 1)
                     self.tooltip_source_name = "item:" .. item_id
-                    self.labels.sources.title:SetText(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_TOOLS:GetLocalisedLabel("sold by"))
+                    if is_alternative_source == 1 then
+                        self.labels.sources.title:SetText(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_TOOLS:GetLocalisedLabel("sold by"))
+                    else
+                        self.labels.alt_sources.title:SetText(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_TOOLS:GetLocalisedLabel("sold by"))
+                    end
+
                     -- if its a currency, dont convert price to gold
                     if item.vendors.currency then
-                        self.labels.price.value:SetText(item.vendors.price .. " " .. MTSL_LOGIC_ITEM_OBJECT:GetCurrencyNameById(item.vendors.currency))
+                        if is_alternative_source == 1 and self.labels.price.value:GetText() ~= "" then
+                            self.labels.price.value:SetText(self.labels.price.value:GetText() .. " / " .. item.vendors.price .. " " .. MTSL_LOGIC_ITEM_OBJECT:GetCurrencyNameById(item.vendors.currency))
+                        else
+                            self.labels.price.value:SetText(item.vendors.price .. " " .. MTSL_LOGIC_ITEM_OBJECT:GetCurrencyNameById(item.vendors.currency))
+                        end
                     else
-                        self.labels.price.value:SetText(MTSL_TOOLS:GetNumberAsMoneyString(item.vendors.price))
+                        if is_alternative_source == 1 and self.labels.price.value:GetText() ~= "" then
+                            self.labels.price.value:SetText(self.labels.price.value:GetText() .. " / " .. MTSL_TOOLS:GetNumberAsMoneyString(item.vendors.price))
+                        else
+                            self.labels.price.value:SetText(MTSL_TOOLS:GetNumberAsMoneyString(item.vendors.price))
+                        end
                     end
                     -- Get all "available" vendors for the player
                     local vendors = MTSL_LOGIC_PLAYER_NPC:GetNpcsByIds(item.vendors.sources)
-                    self:ShowDetailsOfNpcs(vendors, 0)
+                    self:ShowDetailsOfNpcs(vendors, is_alternative_source)
                 end
                 -- Obtained from a quest
                 if has_quests > 0 then

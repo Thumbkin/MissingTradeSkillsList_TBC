@@ -23,5 +23,6 @@ MTSL_DATA["skills"]["Fishing"] =
 			["Taiwanese"] = "尋找漁點",
 		},
 		["phase"] = 1,
+		["spellbook"] = 1,
 	},
 }

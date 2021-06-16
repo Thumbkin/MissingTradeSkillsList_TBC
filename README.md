@@ -47,9 +47,12 @@ Minimap button & Enhanced tooltip
 ### Latest version (v2.5.07)
 
 * All professions should now have all the correct data
-* Fixed bug when showing the details of a Quest with NPCs lead to "nil" error
 * Added the reputation needed for all items sold by any TBC faction quartermaster
 * Added the TBC factions to the filter frame
+* Addded racial bonus for Enchanting (Blood Elf) & Jewelcrafting (Draenei)
+* Fixed bug when showing the details of a Quest with NPCs lead to "nil" error
+* Fixed bug where skills learned in spellbook still showed as unlearned 
+* Added ability to show the 2nd vendor using reputation when available
 
 ### Support
 

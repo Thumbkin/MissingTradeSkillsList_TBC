@@ -8,9 +8,13 @@ MTSLUI_ADDON = {
     NAME = "Missing TradeSkills List (TBC)",
     VERSION = "2.5.07",
     PATCH_TEXT = '* All professions should now have all the correct data\n' ..
-                 '* Fixed bug when showing the details of a Quest with NPCs lead to "nil" error\n' ..
-                 '* Added the reputation needed for all items sold by any TBC faction quartermaster\n' ..
-                 '* Added the TBC factions to the filter frame\n',
+                '* Fixed bug when showing the details of a Quest with NPCs lead to "nil" error\n' ..
+                '* Fixed bug where skills learned in spellbook still showed as unlearned\n' ..
+                '* Added the reputation needed for all items sold by any TBC faction quartermaster\n' ..
+                '* Added the TBC factions to the filter frame\n' ..
+                '* Addded racial bonus for Enchanting (Blood Elf) & Jewelcrafting (Draenei)\n' ..
+                '* Added ability to show the 2nd vendor using reputation when available\n',
+
     SERVER_VERSION_PHASES = {
         -- max build number from server for phase 1,
         {
@@ -41,10 +45,10 @@ MTSLUI_ICONS_PROFESSION = {
     -- Primary professions
     ["Alchemy"] = "136240",
     ["Blacksmithing"] = "136241",
-    ["Enchanting"] = "136244",		-- craft
+    ["Enchanting"] = "136244", -- craft
     ["Engineering"] = "136243",
     ["Herbalism"] = "136065",
-    ["Jewelcrafting"] = "134071",   -- New for TBC
+    ["Jewelcrafting"] = "134071", -- New for TBC
     ["Leatherworking"] = "133611",
     ["Mining"] = "136248",
     ["Skinning"] = "134366",
@@ -54,7 +58,7 @@ MTSLUI_ICONS_PROFESSION = {
     ["First Aid"] = "135966",
     ["Fishing"] = "136245",
     -- Rogue only
-    ["Poisons"] =  "136242",
+    ["Poisons"] = "136242",
 }
 
 MTSLUI_ADDON_PATH = "Interface\\AddOns\\MissingTradeSkillsList_TBC"
