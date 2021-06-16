@@ -22083,7 +22083,7 @@ MTSL_DATA["npcs"] =
 			["Taiwanese"] = "伊薩爾",
 		},
 		["phase"] = 1,
-		["reacts"] = "Hostile",
+		["reacts"] = "Neutral",
 		["xp_level"] = {
 			["is_elite"] = 1,
 			["max"] = 70,
@@ -25700,7 +25700,7 @@ MTSL_DATA["npcs"] =
 			["Taiwanese"] = "阿隆德",
 		},
 		["phase"] = 1,
-		["reacts"] = "Hostile",
+		["reacts"] = "Neutral",
 		["xp_level"] = {
 			["is_elite"] = 1,
 			["max"] = 70,
@@ -27778,7 +27778,7 @@ MTSL_DATA["npcs"] =
 			["Taiwanese"] = "安迪恩·達克斯賓",
 		},
 		["phase"] = 1,
-		["reacts"] = "Hostile",
+		["reacts"] = "Neutral",
 		["xp_level"] = {
 			["is_elite"] = 0,
 			["max"] = 68,
@@ -27807,7 +27807,7 @@ MTSL_DATA["npcs"] =
 			["Taiwanese"] = "金吉·斯比維爾",
 		},
 		["phase"] = 1,
-		["reacts"] = "Hostile",
+		["reacts"] = "Neutral",
 		["xp_level"] = {
 			["is_elite"] = 0,
 			["max"] = 68,
@@ -27976,7 +27976,7 @@ MTSL_DATA["npcs"] =
 			["Taiwanese"] = "帕斯塔茲",
 		},
 		["phase"] = 1,
-		["reacts"] = "Hostile",
+		["reacts"] = "Neutral",
 		["xp_level"] = {
 			["is_elite"] = 0,
 			["max"] = 66,
@@ -28314,7 +28314,7 @@ MTSL_DATA["npcs"] =
 			["Taiwanese"] = "因多米",
 		},
 		["phase"] = 3,
-		["reacts"] = "Hostile",
+		["reacts"] = "Neutral",
 		["xp_level"] = {
 			["is_elite"] = 0,
 			["max"] = 70,
@@ -28623,7 +28623,7 @@ MTSL_DATA["npcs"] =
 			["Taiwanese"] = "艾爾達拉·晨行者",
 		},
 		["phase"] = 5,
-		["reacts"] = "Hostile",
+		["reacts"] = "Neutral",
 		["xp_level"] = {
 			["is_elite"] = 0,
 			["max"] = 70,
