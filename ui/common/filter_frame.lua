@@ -312,14 +312,18 @@ MTSLUI_FILTER_FRAME = {
             else
                 -- add an entry for each phase
                 local patch_level = MTSL_DATA.MIN_PATCH_LEVEL
-                while patch_level <= self.max_used_patch_level do
+                -- changed to add ALL phases, but only auto set the ones up to current ones to active
+                while patch_level <= MTSL_DATA.MAX_PATCH_LEVEL do
                     local new_phase = {
                         ["id"] = expansion.id + patch_level,
                         ["expansion"] = expansion.id,
                         ["phase"] = patch_level,
-                        ["checked"] = true,
+                        ["checked"] = false,
                         ["name"] = MTSL_TOOLS:GetExpansionNameById(expansion.id) .. " (" .. MTSLUI_TOOLS:GetLocalisedLabel("phase") .. " " .. patch_level .. ": " .. MTSL_LOGIC_WORLD:GetZoneNameById (MTSL_DATA.PHASE_IDS[patch_level]) ..")",
                     }
+                    if patch_level <= self.max_used_patch_level then
+                        new_phase["checked"] = true
+                    end
                     patch_level = patch_level + 1
                     table.insert(self.drop_down_lists.expansion, new_phase)
                 end

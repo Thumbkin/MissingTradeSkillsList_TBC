@@ -21695,6 +21695,35 @@ MTSL_DATA["npcs"] =
 	},
 	{
 		["expansion"] = 2,
+		["faction_id"] = 946,
+		["id"] = 16826,
+		["location"] = {
+			["x"] = "54.20",
+			["y"] = "63.50",
+		},
+		["name"] = {
+			["Chinese"] = "希德·利巴迪",
+			["English"] = "Sid Limbardi",
+			["French"] = "Sid Limbardi",
+			["German"] = "Sid Limbardi",
+			["Korean"] = "시드 림발디",
+			["Mexican"] = "Sid Limbardi",
+			["Portuguese"] = "Sílvio Lombardi",
+			["Russian"] = "Сид Лимбарди",
+			["Spanish"] = "Sid Limbardi",
+			["Taiwanese"] = "希德·利巴迪",
+		},
+		["phase"] = 1,
+		["reacts"] = "Alliance",
+		["xp_level"] = {
+			["is_elite"] = 0,
+			["max"] = 55,
+			["min"] = 55,
+		},
+		["zone_id"] = 3483,
+	},
+	{
+		["expansion"] = 2,
 		["id"] = 16949,
 		["location"] = {
 			["x"] = "37.70",
@@ -25713,8 +25742,8 @@ MTSL_DATA["npcs"] =
 		["faction_id"] = 933,
 		["id"] = 19539,
 		["location"] = {
-			["x"] = "44.40",
-			["y"] = "34.00",
+			["x"] = "44.52",
+			["y"] = "34.04",
 		},
 		["name"] = {
 			["Chinese"] = "贾达莱德",
@@ -25742,8 +25771,8 @@ MTSL_DATA["npcs"] =
 		["faction_id"] = 933,
 		["id"] = 19540,
 		["location"] = {
-			["x"] = "44.20",
-			["y"] = "33.60",
+			["x"] = "44.23",
+			["y"] = "33.67",
 		},
 		["name"] = {
 			["Chinese"] = "阿萨纳",

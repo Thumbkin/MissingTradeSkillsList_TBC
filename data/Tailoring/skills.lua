@@ -6,6 +6,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2385,
+		["item_id"] = 2568,
 		["min_skill"] = 10,
 		["name"] = {
 			["Chinese"] = "棕色亚麻外衣",
@@ -52,6 +53,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2386,
+		["item_id"] = 2569,
 		["min_skill"] = 65,
 		["name"] = {
 			["Chinese"] = "亚麻靴",
@@ -117,6 +119,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2389,
+		["item_id"] = 2572,
 		["items"] = {
 			2598,
 		},
@@ -138,6 +141,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2392,
+		["item_id"] = 2575,
 		["min_skill"] = 40,
 		["name"] = {
 			["Chinese"] = "红色亚麻衬衣",
@@ -184,6 +188,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2393,
+		["item_id"] = 2576,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "白色亚麻衬衣",
@@ -230,6 +235,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2394,
+		["item_id"] = 2577,
 		["min_skill"] = 40,
 		["name"] = {
 			["Chinese"] = "蓝色亚麻衬衣",
@@ -276,6 +282,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2395,
+		["item_id"] = 2578,
 		["min_skill"] = 70,
 		["name"] = {
 			["Chinese"] = "野人亚麻外衣",
@@ -322,6 +329,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2396,
+		["item_id"] = 2579,
 		["min_skill"] = 70,
 		["name"] = {
 			["Chinese"] = "绿色亚麻衬衣",
@@ -368,6 +376,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2397,
+		["item_id"] = 2580,
 		["min_skill"] = 60,
 		["name"] = {
 			["Chinese"] = "强化亚麻斗篷",
@@ -414,6 +423,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2399,
+		["item_id"] = 2582,
 		["min_skill"] = 85,
 		["name"] = {
 			["Chinese"] = "绿色毛纺外衣",
@@ -450,6 +460,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2401,
+		["item_id"] = 2583,
 		["min_skill"] = 95,
 		["name"] = {
 			["Chinese"] = "毛纺靴",
@@ -486,6 +497,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2402,
+		["item_id"] = 2584,
 		["min_skill"] = 75,
 		["name"] = {
 			["Chinese"] = "毛纺斗篷",
@@ -532,6 +544,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2403,
+		["item_id"] = 2585,
 		["items"] = {
 			2601,
 		},
@@ -553,6 +566,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2406,
+		["item_id"] = 2587,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "灰色毛纺衬衣",
@@ -608,6 +622,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2964,
+		["item_id"] = 2997,
 		["min_skill"] = 75,
 		["name"] = {
 			["Chinese"] = "毛布卷",
@@ -654,6 +669,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3755,
+		["item_id"] = 4238,
 		["min_skill"] = 45,
 		["name"] = {
 			["Chinese"] = "亚麻包",
@@ -700,6 +716,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3757,
+		["item_id"] = 4240,
 		["min_skill"] = 80,
 		["name"] = {
 			["Chinese"] = "毛纺包",
@@ -736,6 +753,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3758,
+		["item_id"] = 4241,
 		["items"] = {
 			4292,
 		},
@@ -757,6 +775,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3813,
+		["item_id"] = 4245,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "丝绸小包",
@@ -793,6 +812,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3839,
+		["item_id"] = 4305,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "丝绸卷",
@@ -829,6 +849,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3840,
+		["item_id"] = 4307,
 		["min_skill"] = 35,
 		["name"] = {
 			["Chinese"] = "高级亚麻手套",
@@ -875,6 +896,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3841,
+		["item_id"] = 4308,
 		["min_skill"] = 60,
 		["name"] = {
 			["Chinese"] = "绿色亚麻护腕",
@@ -921,6 +943,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3842,
+		["item_id"] = 4309,
 		["min_skill"] = 70,
 		["name"] = {
 			["Chinese"] = "手工亚麻裤",
@@ -967,6 +990,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3843,
+		["item_id"] = 4310,
 		["min_skill"] = 85,
 		["name"] = {
 			["Chinese"] = "高级毛纺手套",
@@ -1003,6 +1027,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3844,
+		["item_id"] = 4311,
 		["items"] = {
 			4346,
 		},
@@ -1024,6 +1049,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3845,
+		["item_id"] = 4312,
 		["min_skill"] = 80,
 		["name"] = {
 			["Chinese"] = "软底亚麻靴",
@@ -1060,6 +1086,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3847,
+		["item_id"] = 4313,
 		["items"] = {
 			4345,
 		},
@@ -1081,6 +1108,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3848,
+		["item_id"] = 4314,
 		["min_skill"] = 110,
 		["name"] = {
 			["Chinese"] = "双线毛纺护肩",
@@ -1117,6 +1145,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3849,
+		["item_id"] = 4315,
 		["items"] = {
 			4347,
 		},
@@ -1138,6 +1167,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3850,
+		["item_id"] = 4316,
 		["min_skill"] = 110,
 		["name"] = {
 			["Chinese"] = "高级毛纺短裤",
@@ -1174,6 +1204,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3851,
+		["item_id"] = 4317,
 		["items"] = {
 			4349,
 		},
@@ -1195,6 +1226,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3852,
+		["item_id"] = 4318,
 		["min_skill"] = 130,
 		["name"] = {
 			["Chinese"] = "冥想手套",
@@ -1231,6 +1263,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3854,
+		["item_id"] = 4319,
 		["items"] = {
 			7114,
 		},
@@ -1252,6 +1285,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3855,
+		["item_id"] = 4320,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "蛛丝之靴",
@@ -1288,6 +1322,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3856,
+		["item_id"] = 4321,
 		["items"] = {
 			4350,
 		},
@@ -1309,6 +1344,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3857,
+		["item_id"] = 4322,
 		["items"] = {
 			14630,
 		},
@@ -1330,6 +1366,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3858,
+		["item_id"] = 4323,
 		["items"] = {
 			4351,
 		},
@@ -1351,6 +1388,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3859,
+		["item_id"] = 4324,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "碧蓝丝质外衣",
@@ -1387,6 +1425,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3860,
+		["item_id"] = 4325,
 		["items"] = {
 			4352,
 		},
@@ -1408,6 +1447,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3861,
+		["item_id"] = 4326,
 		["min_skill"] = 185,
 		["name"] = {
 			["Chinese"] = "丝质长披风",
@@ -1436,6 +1476,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3862,
+		["item_id"] = 4327,
 		["items"] = {
 			4355,
 		},
@@ -1457,6 +1498,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3863,
+		["item_id"] = 4328,
 		["items"] = {
 			4353,
 		},
@@ -1478,6 +1520,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3864,
+		["item_id"] = 4329,
 		["items"] = {
 			4356,
 		},
@@ -1499,6 +1542,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3865,
+		["item_id"] = 4339,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "魔纹布卷",
@@ -1527,6 +1571,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3866,
+		["item_id"] = 4330,
 		["min_skill"] = 110,
 		["name"] = {
 			["Chinese"] = "漂亮的红衬衣",
@@ -1563,6 +1608,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3868,
+		["item_id"] = 4331,
 		["items"] = {
 			4348,
 		},
@@ -1584,6 +1630,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3869,
+		["item_id"] = 4332,
 		["items"] = {
 			14627,
 		},
@@ -1605,6 +1652,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3870,
+		["item_id"] = 4333,
 		["items"] = {
 			6401,
 		},
@@ -1626,6 +1674,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3871,
+		["item_id"] = 4334,
 		["min_skill"] = 170,
 		["name"] = {
 			["Chinese"] = "体面的白衬衣",
@@ -1654,6 +1703,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3872,
+		["item_id"] = 4335,
 		["items"] = {
 			4354,
 		},
@@ -1675,6 +1725,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3873,
+		["item_id"] = 4336,
 		["items"] = {
 			10728,
 		},
@@ -1696,6 +1747,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3914,
+		["item_id"] = 4343,
 		["min_skill"] = 30,
 		["name"] = {
 			["Chinese"] = "棕色亚麻短裤",
@@ -1761,6 +1813,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6521,
+		["item_id"] = 5542,
 		["min_skill"] = 90,
 		["name"] = {
 			["Chinese"] = "珍珠披风",
@@ -1797,6 +1850,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6686,
+		["item_id"] = 5762,
 		["items"] = {
 			5771,
 		},
@@ -1818,6 +1872,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6688,
+		["item_id"] = 5763,
 		["items"] = {
 			5772,
 		},
@@ -1839,6 +1894,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6690,
+		["item_id"] = 5766,
 		["min_skill"] = 135,
 		["name"] = {
 			["Chinese"] = "次级巫师袍",
@@ -1875,6 +1931,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6692,
+		["item_id"] = 5770,
 		["items"] = {
 			5773,
 		},
@@ -1896,6 +1953,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6693,
+		["item_id"] = 5764,
 		["items"] = {
 			5774,
 		},
@@ -1917,6 +1975,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6695,
+		["item_id"] = 5765,
 		["items"] = {
 			5775,
 		},
@@ -1938,6 +1997,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7623,
+		["item_id"] = 6238,
 		["min_skill"] = 30,
 		["name"] = {
 			["Chinese"] = "棕色亚麻长袍",
@@ -1984,6 +2044,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7624,
+		["item_id"] = 6241,
 		["min_skill"] = 30,
 		["name"] = {
 			["Chinese"] = "白色亚麻长袍",
@@ -2030,6 +2091,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7629,
+		["item_id"] = 6239,
 		["items"] = {
 			6271,
 		},
@@ -2051,6 +2113,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7630,
+		["item_id"] = 6240,
 		["items"] = {
 			6270,
 		},
@@ -2072,6 +2135,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7633,
+		["item_id"] = 6242,
 		["items"] = {
 			6272,
 		},
@@ -2093,6 +2157,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7639,
+		["item_id"] = 6263,
 		["items"] = {
 			6274,
 		},
@@ -2114,6 +2179,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7643,
+		["item_id"] = 6264,
 		["items"] = {
 			6275,
 		},
@@ -2135,6 +2201,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7892,
+		["item_id"] = 6384,
 		["items"] = {
 			6390,
 		},
@@ -2156,6 +2223,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7893,
+		["item_id"] = 6385,
 		["items"] = {
 			6391,
 		},
@@ -2177,6 +2245,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8465,
+		["item_id"] = 6786,
 		["min_skill"] = 40,
 		["name"] = {
 			["Chinese"] = "简易的裙子",
@@ -2223,6 +2292,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8467,
+		["item_id"] = 6787,
 		["min_skill"] = 110,
 		["name"] = {
 			["Chinese"] = "白色毛绒裙",
@@ -2259,6 +2329,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8483,
+		["item_id"] = 6795,
 		["min_skill"] = 160,
 		["name"] = {
 			["Chinese"] = "白色冒险者衬衣",
@@ -2287,6 +2358,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8489,
+		["item_id"] = 6796,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "红色冒险者衬衣",
@@ -2315,6 +2387,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8758,
+		["item_id"] = 7046,
 		["min_skill"] = 140,
 		["name"] = {
 			["Chinese"] = "碧蓝丝质短裤",
@@ -2351,6 +2424,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8760,
+		["item_id"] = 7048,
 		["min_skill"] = 145,
 		["name"] = {
 			["Chinese"] = "碧蓝丝质头巾",
@@ -2387,6 +2461,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8762,
+		["item_id"] = 7050,
 		["min_skill"] = 160,
 		["name"] = {
 			["Chinese"] = "丝质头带",
@@ -2415,6 +2490,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8764,
+		["item_id"] = 7051,
 		["min_skill"] = 170,
 		["name"] = {
 			["Chinese"] = "土灵外衣",
@@ -2443,6 +2519,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8766,
+		["item_id"] = 7052,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "碧蓝丝质腰带",
@@ -2471,6 +2548,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8770,
+		["item_id"] = 7054,
 		["min_skill"] = 190,
 		["name"] = {
 			["Chinese"] = "力量法袍",
@@ -2499,6 +2577,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8772,
+		["item_id"] = 7055,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "深红丝质腰带",
@@ -2527,6 +2606,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8774,
+		["item_id"] = 7057,
 		["min_skill"] = 180,
 		["name"] = {
 			["Chinese"] = "绿色丝质护肩",
@@ -2555,6 +2635,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8776,
+		["item_id"] = 7026,
 		["min_skill"] = 15,
 		["name"] = {
 			["Chinese"] = "亚麻腰带",
@@ -2601,6 +2682,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8780,
+		["item_id"] = 7047,
 		["items"] = {
 			7092,
 		},
@@ -2622,6 +2704,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8782,
+		["item_id"] = 7049,
 		["items"] = {
 			7091,
 		},
@@ -2643,6 +2726,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8784,
+		["item_id"] = 7065,
 		["items"] = {
 			7090,
 		},
@@ -2664,6 +2748,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8786,
+		["item_id"] = 7053,
 		["items"] = {
 			7089,
 		},
@@ -2685,6 +2770,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8789,
+		["item_id"] = 7056,
 		["items"] = {
 			7087,
 		},
@@ -2706,6 +2792,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8791,
+		["item_id"] = 7058,
 		["min_skill"] = 185,
 		["name"] = {
 			["Chinese"] = "深红丝质外衣",
@@ -2734,6 +2821,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8793,
+		["item_id"] = 7059,
 		["items"] = {
 			7084,
 		},
@@ -2755,6 +2843,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8795,
+		["item_id"] = 7060,
 		["items"] = {
 			7085,
 		},
@@ -2776,6 +2865,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8797,
+		["item_id"] = 7061,
 		["items"] = {
 			7086,
 		},
@@ -2797,6 +2887,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8799,
+		["item_id"] = 7062,
 		["min_skill"] = 195,
 		["name"] = {
 			["Chinese"] = "深红丝质马裤",
@@ -2825,6 +2916,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8802,
+		["item_id"] = 7063,
 		["items"] = {
 			7088,
 		},
@@ -2846,6 +2938,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8804,
+		["item_id"] = 7064,
 		["min_skill"] = 210,
 		["name"] = {
 			["Chinese"] = "深红丝质手套",
@@ -2893,6 +2986,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12045,
+		["item_id"] = 10046,
 		["min_skill"] = 20,
 		["name"] = {
 			["Chinese"] = "简易的亚麻靴",
@@ -2939,6 +3033,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12046,
+		["item_id"] = 10047,
 		["min_skill"] = 75,
 		["name"] = {
 			["Chinese"] = "简易的褶裙",
@@ -2985,6 +3080,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12047,
+		["item_id"] = 10048,
 		["items"] = {
 			10316,
 		},
@@ -3006,6 +3102,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12048,
+		["item_id"] = 9998,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "黑色魔纹外衣",
@@ -3034,6 +3131,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12049,
+		["item_id"] = 9999,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "黑色魔纹短裤",
@@ -3062,6 +3160,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12050,
+		["item_id"] = 10001,
 		["min_skill"] = 210,
 		["name"] = {
 			["Chinese"] = "黑色魔纹长袍",
@@ -3090,6 +3189,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12052,
+		["item_id"] = 10002,
 		["min_skill"] = 210,
 		["name"] = {
 			["Chinese"] = "暗纹短裤",
@@ -3115,6 +3215,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12053,
+		["item_id"] = 10003,
 		["min_skill"] = 215,
 		["name"] = {
 			["Chinese"] = "黑色魔纹手套",
@@ -3143,6 +3244,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12055,
+		["item_id"] = 10004,
 		["min_skill"] = 215,
 		["name"] = {
 			["Chinese"] = "暗纹长袍",
@@ -3168,6 +3270,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12056,
+		["item_id"] = 10007,
 		["items"] = {
 			10300,
 		},
@@ -3189,6 +3292,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12059,
+		["item_id"] = 10008,
 		["items"] = {
 			10301,
 		},
@@ -3210,6 +3314,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12060,
+		["item_id"] = 10009,
 		["items"] = {
 			10302,
 		},
@@ -3231,6 +3336,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12061,
+		["item_id"] = 10056,
 		["min_skill"] = 215,
 		["name"] = {
 			["Chinese"] = "橙色魔纹衬衣",
@@ -3259,6 +3365,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12064,
+		["item_id"] = 10052,
 		["items"] = {
 			10311,
 		},
@@ -3280,6 +3387,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12065,
+		["item_id"] = 10050,
 		["min_skill"] = 225,
 		["name"] = {
 			["Chinese"] = "魔纹包",
@@ -3308,6 +3416,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12066,
+		["item_id"] = 10018,
 		["items"] = {
 			10312,
 		},
@@ -3329,6 +3438,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12067,
+		["item_id"] = 10019,
 		["min_skill"] = 225,
 		["name"] = {
 			["Chinese"] = "梦纹手套",
@@ -3357,6 +3467,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12069,
+		["item_id"] = 10042,
 		["min_skill"] = 225,
 		["name"] = {
 			["Chinese"] = "灰布长袍",
@@ -3385,6 +3496,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12070,
+		["item_id"] = 10021,
 		["min_skill"] = 225,
 		["name"] = {
 			["Chinese"] = "梦纹外衣",
@@ -3413,6 +3525,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12071,
+		["item_id"] = 10023,
 		["min_skill"] = 225,
 		["name"] = {
 			["Chinese"] = "暗纹手套",
@@ -3438,6 +3551,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12072,
+		["item_id"] = 10024,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "黑色魔纹头带",
@@ -3464,6 +3578,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12073,
+		["item_id"] = 10026,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "黑色魔纹之靴",
@@ -3490,6 +3605,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12074,
+		["item_id"] = 10027,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "黑色魔纹护肩",
@@ -3516,6 +3632,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12075,
+		["item_id"] = 10054,
 		["items"] = {
 			10314,
 		},
@@ -3537,6 +3654,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12076,
+		["item_id"] = 10028,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "暗纹护肩",
@@ -3562,6 +3680,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12077,
+		["item_id"] = 10053,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "简易的黑裙子",
@@ -3588,6 +3707,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12078,
+		["item_id"] = 10029,
 		["items"] = {
 			10315,
 		},
@@ -3609,6 +3729,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12079,
+		["item_id"] = 10051,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "红色魔纹包",
@@ -3635,6 +3756,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12080,
+		["item_id"] = 10055,
 		["items"] = {
 			10317,
 		},
@@ -3656,6 +3778,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12081,
+		["item_id"] = 10030,
 		["items"] = {
 			10318,
 		},
@@ -3677,6 +3800,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12082,
+		["item_id"] = 10031,
 		["min_skill"] = 240,
 		["name"] = {
 			["Chinese"] = "暗纹之靴",
@@ -3702,6 +3826,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12084,
+		["item_id"] = 10033,
 		["items"] = {
 			10320,
 		},
@@ -3723,6 +3848,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12085,
+		["item_id"] = 10034,
 		["items"] = {
 			10321,
 		},
@@ -3744,6 +3870,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12086,
+		["item_id"] = 10025,
 		["items"] = {
 			10463,
 		},
@@ -3765,6 +3892,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12088,
+		["item_id"] = 10044,
 		["min_skill"] = 245,
 		["name"] = {
 			["Chinese"] = "灰布长靴",
@@ -3791,6 +3919,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12089,
+		["item_id"] = 10035,
 		["items"] = {
 			10323,
 		},
@@ -3812,6 +3941,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12091,
+		["item_id"] = 10040,
 		["items"] = {
 			10325,
 		},
@@ -3833,6 +3963,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12092,
+		["item_id"] = 10041,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "梦纹头饰",
@@ -3859,6 +3990,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12093,
+		["item_id"] = 10036,
 		["items"] = {
 			10326,
 		},
@@ -3880,6 +4012,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18401,
+		["item_id"] = 14048,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "符文布卷",
@@ -3906,6 +4039,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18402,
+		["item_id"] = 13856,
 		["min_skill"] = 255,
 		["name"] = {
 			["Chinese"] = "符文布腰带",
@@ -3932,6 +4066,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18403,
+		["item_id"] = 13869,
 		["items"] = {
 			14466,
 		},
@@ -3953,6 +4088,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18404,
+		["item_id"] = 13868,
 		["items"] = {
 			14467,
 		},
@@ -3974,6 +4110,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18405,
+		["item_id"] = 14046,
 		["items"] = {
 			14468,
 		},
@@ -3995,6 +4132,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18406,
+		["item_id"] = 13858,
 		["items"] = {
 			14469,
 		},
@@ -4016,6 +4154,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18407,
+		["item_id"] = 13857,
 		["items"] = {
 			14470,
 		},
@@ -4037,6 +4176,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18408,
+		["item_id"] = 14042,
 		["items"] = {
 			14471,
 		},
@@ -4058,6 +4198,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18409,
+		["item_id"] = 13860,
 		["items"] = {
 			14472,
 		},
@@ -4079,6 +4220,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18410,
+		["item_id"] = 14143,
 		["items"] = {
 			14473,
 		},
@@ -4100,6 +4242,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18411,
+		["item_id"] = 13870,
 		["items"] = {
 			14474,
 		},
@@ -4121,6 +4264,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18412,
+		["item_id"] = 14043,
 		["items"] = {
 			14476,
 		},
@@ -4142,6 +4286,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18413,
+		["item_id"] = 14142,
 		["items"] = {
 			14477,
 		},
@@ -4163,6 +4308,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18414,
+		["item_id"] = 14100,
 		["items"] = {
 			14478,
 		},
@@ -4184,6 +4330,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18415,
+		["item_id"] = 14101,
 		["items"] = {
 			14479,
 		},
@@ -4205,6 +4352,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18416,
+		["item_id"] = 14141,
 		["items"] = {
 			14480,
 		},
@@ -4226,6 +4374,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18417,
+		["item_id"] = 13863,
 		["items"] = {
 			14481,
 		},
@@ -4247,6 +4396,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18418,
+		["item_id"] = 14044,
 		["items"] = {
 			14482,
 		},
@@ -4268,6 +4418,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18419,
+		["item_id"] = 14107,
 		["items"] = {
 			14483,
 		},
@@ -4289,6 +4440,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18420,
+		["item_id"] = 14103,
 		["items"] = {
 			14484,
 		},
@@ -4310,6 +4462,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18421,
+		["item_id"] = 14132,
 		["items"] = {
 			14485,
 		},
@@ -4331,6 +4484,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18422,
+		["item_id"] = 14134,
 		["items"] = {
 			14486,
 		},
@@ -4352,6 +4506,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18423,
+		["item_id"] = 13864,
 		["items"] = {
 			14488,
 		},
@@ -4373,6 +4528,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18424,
+		["item_id"] = 13871,
 		["items"] = {
 			14489,
 		},
@@ -4394,6 +4550,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18434,
+		["item_id"] = 14045,
 		["items"] = {
 			14490,
 		},
@@ -4415,6 +4572,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18436,
+		["item_id"] = 14136,
 		["items"] = {
 			14493,
 		},
@@ -4436,6 +4594,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18437,
+		["item_id"] = 14108,
 		["items"] = {
 			14492,
 		},
@@ -4457,6 +4616,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18438,
+		["item_id"] = 13865,
 		["items"] = {
 			14491,
 		},
@@ -4478,6 +4638,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18439,
+		["item_id"] = 14104,
 		["items"] = {
 			14494,
 		},
@@ -4499,6 +4660,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18440,
+		["item_id"] = 14137,
 		["items"] = {
 			14497,
 		},
@@ -4520,6 +4682,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18441,
+		["item_id"] = 14144,
 		["items"] = {
 			14495,
 		},
@@ -4541,6 +4704,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18442,
+		["item_id"] = 14111,
 		["items"] = {
 			14496,
 		},
@@ -4562,6 +4726,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18444,
+		["item_id"] = 13866,
 		["items"] = {
 			14498,
 		},
@@ -4583,6 +4748,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18445,
+		["item_id"] = 14155,
 		["items"] = {
 			14499,
 		},
@@ -4604,6 +4770,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18446,
+		["item_id"] = 14128,
 		["items"] = {
 			14500,
 		},
@@ -4625,6 +4792,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18447,
+		["item_id"] = 14138,
 		["items"] = {
 			14501,
 		},
@@ -4646,6 +4814,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18448,
+		["item_id"] = 14139,
 		["items"] = {
 			14507,
 		},
@@ -4667,6 +4836,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18449,
+		["item_id"] = 13867,
 		["items"] = {
 			14504,
 		},
@@ -4688,6 +4858,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18450,
+		["item_id"] = 14130,
 		["items"] = {
 			14505,
 		},
@@ -4709,6 +4880,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18451,
+		["item_id"] = 14106,
 		["items"] = {
 			14506,
 		},
@@ -4730,6 +4902,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18452,
+		["item_id"] = 14140,
 		["items"] = {
 			14509,
 		},
@@ -4751,6 +4924,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18453,
+		["item_id"] = 14112,
 		["items"] = {
 			14508,
 		},
@@ -4772,6 +4946,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18454,
+		["item_id"] = 14146,
 		["items"] = {
 			14511,
 		},
@@ -4793,6 +4968,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18455,
+		["item_id"] = 14156,
 		["items"] = {
 			14510,
 		},
@@ -4814,6 +4990,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18456,
+		["item_id"] = 14154,
 		["items"] = {
 			14512,
 		},
@@ -4835,6 +5012,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18457,
+		["item_id"] = 14152,
 		["items"] = {
 			14513,
 		},
@@ -4856,6 +5034,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18458,
+		["item_id"] = 14153,
 		["items"] = {
 			14514,
 		},
@@ -4877,6 +5056,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18560,
+		["item_id"] = 14342,
 		["items"] = {
 			14526,
 		},
@@ -4898,6 +5078,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19435,
+		["item_id"] = 15802,
 		["min_skill"] = 290,
 		["name"] = {
 			["Chinese"] = "月布长靴",
@@ -4919,6 +5100,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20848,
+		["item_id"] = 16980,
 		["items"] = {
 			17017,
 		},
@@ -4940,6 +5122,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20849,
+		["item_id"] = 16979,
 		["items"] = {
 			17018,
 		},
@@ -4961,6 +5144,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 21945,
+		["item_id"] = 17723,
 		["items"] = {
 			17724,
 		},
@@ -4982,6 +5166,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22759,
+		["item_id"] = 18263,
 		["items"] = {
 			18265,
 		},
@@ -5003,6 +5188,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22813,
+		["item_id"] = 18258,
 		["min_skill"] = 285,
 		["name"] = {
 			["Chinese"] = "戈多克食人魔装",
@@ -5025,6 +5211,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22866,
+		["item_id"] = 18405,
 		["items"] = {
 			18414,
 		},
@@ -5046,6 +5233,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22867,
+		["item_id"] = 18407,
 		["items"] = {
 			18415,
 		},
@@ -5067,6 +5255,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22868,
+		["item_id"] = 18408,
 		["items"] = {
 			18416,
 		},
@@ -5088,6 +5277,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22869,
+		["item_id"] = 18409,
 		["items"] = {
 			18417,
 		},
@@ -5109,6 +5299,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22870,
+		["item_id"] = 18413,
 		["items"] = {
 			18418,
 		},
@@ -5130,6 +5321,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22902,
+		["item_id"] = 18486,
 		["items"] = {
 			18487,
 		},
@@ -5151,6 +5343,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23662,
+		["item_id"] = 19047,
 		["items"] = {
 			19215,
 		},
@@ -5172,6 +5365,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23663,
+		["item_id"] = 19050,
 		["items"] = {
 			19218,
 		},
@@ -5193,6 +5387,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23664,
+		["item_id"] = 19056,
 		["items"] = {
 			19216,
 		},
@@ -5214,6 +5409,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23665,
+		["item_id"] = 19059,
 		["items"] = {
 			19217,
 		},
@@ -5235,6 +5431,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23666,
+		["item_id"] = 19156,
 		["items"] = {
 			19219,
 		},
@@ -5256,6 +5453,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23667,
+		["item_id"] = 19165,
 		["items"] = {
 			19220,
 		},
@@ -5277,6 +5475,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24091,
+		["item_id"] = 19682,
 		["items"] = {
 			19764,
 		},
@@ -5298,6 +5497,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24092,
+		["item_id"] = 19683,
 		["items"] = {
 			19765,
 		},
@@ -5319,6 +5519,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24093,
+		["item_id"] = 19684,
 		["items"] = {
 			19766,
 		},
@@ -5340,6 +5541,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24901,
+		["item_id"] = 20538,
 		["items"] = {
 			20546,
 		},
@@ -5361,6 +5563,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24902,
+		["item_id"] = 20539,
 		["items"] = {
 			20548,
 		},
@@ -5382,6 +5585,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24903,
+		["item_id"] = 20537,
 		["items"] = {
 			20547,
 		},
@@ -5403,6 +5607,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26085,
+		["item_id"] = 21340,
 		["items"] = {
 			21358,
 		},
@@ -5424,6 +5629,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26086,
+		["item_id"] = 21341,
 		["min_skill"] = 285,
 		["name"] = {
 			["Chinese"] = "恶魔布包",
@@ -5446,6 +5652,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26087,
+		["item_id"] = 21342,
 		["items"] = {
 			21371,
 		},
@@ -5467,6 +5674,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26403,
+		["item_id"] = 21154,
 		["items"] = {
 			21722,
 		},
@@ -5488,6 +5696,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26407,
+		["item_id"] = 21542,
 		["items"] = {
 			21723,
 		},
@@ -5509,6 +5718,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26745,
+		["item_id"] = 21840,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "灵纹布卷",
@@ -5534,6 +5744,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26746,
+		["item_id"] = 21841,
 		["min_skill"] = 315,
 		["name"] = {
 			["Chinese"] = "灵纹布包",
@@ -5559,6 +5770,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26747,
+		["item_id"] = 21842,
 		["items"] = {
 			21892,
 		},
@@ -5580,6 +5792,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26749,
+		["item_id"] = 21843,
 		["items"] = {
 			21893,
 		},
@@ -5601,6 +5814,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26750,
+		["item_id"] = 21844,
 		["items"] = {
 			21894,
 		},
@@ -5622,6 +5836,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26751,
+		["item_id"] = 21845,
 		["items"] = {
 			21895,
 		},
@@ -5643,6 +5858,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26752,
+		["item_id"] = 21846,
 		["items"] = {
 			21908,
 		},
@@ -5665,6 +5881,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26753,
+		["item_id"] = 21847,
 		["items"] = {
 			21909,
 		},
@@ -5687,6 +5904,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26754,
+		["item_id"] = 21848,
 		["items"] = {
 			21910,
 		},
@@ -5709,6 +5927,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26755,
+		["item_id"] = 21858,
 		["items"] = {
 			21911,
 		},
@@ -5730,6 +5949,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26756,
+		["item_id"] = 21869,
 		["items"] = {
 			21912,
 		},
@@ -5752,6 +5972,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26757,
+		["item_id"] = 21870,
 		["items"] = {
 			21914,
 		},
@@ -5774,6 +5995,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26758,
+		["item_id"] = 21871,
 		["items"] = {
 			21913,
 		},
@@ -5796,6 +6018,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26759,
+		["item_id"] = 21872,
 		["items"] = {
 			21915,
 		},
@@ -5817,6 +6040,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26760,
+		["item_id"] = 21873,
 		["items"] = {
 			21916,
 		},
@@ -5839,6 +6063,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26761,
+		["item_id"] = 21874,
 		["items"] = {
 			21918,
 		},
@@ -5861,6 +6086,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26762,
+		["item_id"] = 21875,
 		["items"] = {
 			21917,
 		},
@@ -5883,6 +6109,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26763,
+		["item_id"] = 21876,
 		["items"] = {
 			21919,
 		},
@@ -5904,6 +6131,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26764,
+		["item_id"] = 21849,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "灵纹护腕",
@@ -5929,6 +6157,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26765,
+		["item_id"] = 21850,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "灵纹腰带",
@@ -5954,6 +6183,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26770,
+		["item_id"] = 21851,
 		["min_skill"] = 320,
 		["name"] = {
 			["Chinese"] = "灵纹手套",
@@ -5979,6 +6209,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26771,
+		["item_id"] = 21852,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "灵纹短裤",
@@ -6004,6 +6235,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26772,
+		["item_id"] = 21853,
 		["min_skill"] = 335,
 		["name"] = {
 			["Chinese"] = "灵纹长靴",
@@ -6029,6 +6261,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26773,
+		["item_id"] = 21854,
 		["items"] = {
 			21896,
 		},
@@ -6050,6 +6283,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26774,
+		["item_id"] = 21855,
 		["items"] = {
 			21897,
 		},
@@ -6071,6 +6305,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26775,
+		["item_id"] = 21859,
 		["items"] = {
 			21898,
 		},
@@ -6092,6 +6327,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26776,
+		["item_id"] = 21860,
 		["items"] = {
 			21899,
 		},
@@ -6113,6 +6349,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26777,
+		["item_id"] = 21861,
 		["items"] = {
 			21900,
 		},
@@ -6134,6 +6371,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26778,
+		["item_id"] = 21862,
 		["items"] = {
 			21901,
 		},
@@ -6155,6 +6393,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26779,
+		["item_id"] = 21863,
 		["items"] = {
 			21902,
 		},
@@ -6176,6 +6415,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26780,
+		["item_id"] = 21864,
 		["items"] = {
 			21903,
 		},
@@ -6197,6 +6437,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26781,
+		["item_id"] = 21865,
 		["items"] = {
 			21904,
 		},
@@ -6218,6 +6459,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26782,
+		["item_id"] = 21866,
 		["items"] = {
 			21905,
 		},
@@ -6239,6 +6481,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26783,
+		["item_id"] = 21867,
 		["items"] = {
 			21906,
 		},
@@ -6260,6 +6503,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26784,
+		["item_id"] = 21868,
 		["items"] = {
 			21907,
 		},
@@ -6281,6 +6525,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27658,
+		["item_id"] = 22246,
 		["items"] = {
 			22307,
 		},
@@ -6302,6 +6547,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27659,
+		["item_id"] = 22248,
 		["items"] = {
 			22308,
 		},
@@ -6323,6 +6569,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27660,
+		["item_id"] = 22249,
 		["items"] = {
 			22309,
 		},
@@ -6344,6 +6591,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27724,
+		["item_id"] = 22251,
 		["items"] = {
 			22310,
 		},
@@ -6365,6 +6613,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27725,
+		["item_id"] = 22252,
 		["items"] = {
 			22312,
 		},
@@ -6386,6 +6635,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28205,
+		["item_id"] = 22654,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "冰川手套",
@@ -6417,6 +6667,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28207,
+		["item_id"] = 22652,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "冰川外衣",
@@ -6448,6 +6699,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28208,
+		["item_id"] = 22658,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "冰川披风",
@@ -6479,6 +6731,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28209,
+		["item_id"] = 22655,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "冰川护腕",
@@ -6510,6 +6763,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28210,
+		["item_id"] = 22660,
 		["items"] = {
 			22683,
 		},
@@ -6531,6 +6785,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28480,
+		["item_id"] = 22756,
 		["items"] = {
 			22774,
 		},
@@ -6552,6 +6807,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28481,
+		["item_id"] = 22757,
 		["items"] = {
 			22773,
 		},
@@ -6573,6 +6829,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28482,
+		["item_id"] = 22758,
 		["items"] = {
 			22772,
 		},
@@ -6594,6 +6851,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31373,
+		["item_id"] = 24271,
 		["items"] = {
 			24316,
 		},
@@ -6615,6 +6873,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31430,
+		["item_id"] = 24273,
 		["items"] = {
 			24292,
 		},
@@ -6636,6 +6895,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31431,
+		["item_id"] = 24275,
 		["items"] = {
 			24293,
 		},
@@ -6657,6 +6917,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31432,
+		["item_id"] = 24274,
 		["items"] = {
 			24294,
 		},
@@ -6678,6 +6939,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31433,
+		["item_id"] = 24276,
 		["items"] = {
 			24295,
 		},
@@ -6699,6 +6961,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31434,
+		["item_id"] = 24249,
 		["items"] = {
 			24296,
 			35308,
@@ -6716,11 +6979,12 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Brazales implacables",
 			["Taiwanese"] = "不屈護腕",
 		},
-		["phase"] = 5,
+		["phase"] = 1,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 31435,
+		["item_id"] = 24250,
 		["items"] = {
 			24297,
 		},
@@ -6742,6 +7006,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31437,
+		["item_id"] = 24251,
 		["items"] = {
 			24298,
 		},
@@ -6763,6 +7028,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31438,
+		["item_id"] = 24252,
 		["items"] = {
 			24299,
 		},
@@ -6784,6 +7050,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31440,
+		["item_id"] = 24253,
 		["items"] = {
 			24300,
 		},
@@ -6805,6 +7072,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31441,
+		["item_id"] = 24254,
 		["items"] = {
 			24301,
 		},
@@ -6826,6 +7094,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31442,
+		["item_id"] = 24255,
 		["items"] = {
 			24302,
 			35309,
@@ -6843,11 +7112,12 @@ MTSL_DATA["skills"]["Tailoring"] =
 			["Spanish"] = "Faja implacable",
 			["Taiwanese"] = "不屈束腰",
 		},
-		["phase"] = 5,
+		["phase"] = 1,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 31443,
+		["item_id"] = 24256,
 		["items"] = {
 			24303,
 		},
@@ -6869,6 +7139,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31444,
+		["item_id"] = 24257,
 		["items"] = {
 			24304,
 		},
@@ -6890,6 +7161,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31448,
+		["item_id"] = 24258,
 		["items"] = {
 			24305,
 		},
@@ -6911,6 +7183,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31449,
+		["item_id"] = 24259,
 		["items"] = {
 			24306,
 		},
@@ -6932,6 +7205,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31450,
+		["item_id"] = 24260,
 		["items"] = {
 			24307,
 		},
@@ -6953,6 +7227,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31451,
+		["item_id"] = 24261,
 		["items"] = {
 			24308,
 		},
@@ -6974,6 +7249,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31452,
+		["item_id"] = 24262,
 		["items"] = {
 			24309,
 		},
@@ -6995,6 +7271,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31453,
+		["item_id"] = 24263,
 		["items"] = {
 			24310,
 		},
@@ -7016,6 +7293,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31454,
+		["item_id"] = 24264,
 		["items"] = {
 			24311,
 		},
@@ -7037,6 +7315,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31455,
+		["item_id"] = 24266,
 		["items"] = {
 			24312,
 		},
@@ -7058,6 +7337,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31456,
+		["item_id"] = 24267,
 		["items"] = {
 			24313,
 		},
@@ -7079,6 +7359,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31459,
+		["item_id"] = 24270,
 		["items"] = {
 			24314,
 		},
@@ -7100,6 +7381,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31460,
+		["item_id"] = 24268,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "灵纹投网",
@@ -7126,6 +7408,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36315,
+		["item_id"] = 30038,
 		["items"] = {
 			30280,
 		},
@@ -7147,6 +7430,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36316,
+		["item_id"] = 30036,
 		["items"] = {
 			30281,
 		},
@@ -7168,6 +7452,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36317,
+		["item_id"] = 30037,
 		["items"] = {
 			30282,
 		},
@@ -7189,6 +7474,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36318,
+		["item_id"] = 30035,
 		["items"] = {
 			30283,
 		},
@@ -7210,6 +7496,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36686,
+		["item_id"] = 24272,
 		["items"] = {
 			30483,
 		},
@@ -7231,6 +7518,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 37873,
+		["item_id"] = 30831,
 		["items"] = {
 			30833,
 		},
@@ -7252,6 +7540,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 37882,
+		["item_id"] = 30837,
 		["items"] = {
 			30842,
 		},
@@ -7273,6 +7562,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 37883,
+		["item_id"] = 30838,
 		["items"] = {
 			30843,
 		},
@@ -7294,6 +7584,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 37884,
+		["item_id"] = 30839,
 		["items"] = {
 			30844,
 		},
@@ -7315,6 +7606,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40020,
+		["item_id"] = 32391,
 		["items"] = {
 			32437,
 		},
@@ -7336,6 +7628,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40021,
+		["item_id"] = 32392,
 		["items"] = {
 			32438,
 		},
@@ -7357,6 +7650,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40023,
+		["item_id"] = 32389,
 		["items"] = {
 			32439,
 		},
@@ -7378,6 +7672,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40024,
+		["item_id"] = 32390,
 		["items"] = {
 			32440,
 		},
@@ -7399,6 +7694,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40060,
+		["item_id"] = 32420,
 		["items"] = {
 			32447,
 		},
@@ -7420,6 +7716,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41205,
+		["item_id"] = 32586,
 		["items"] = {
 			32754,
 		},
@@ -7441,6 +7738,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41206,
+		["item_id"] = 32587,
 		["items"] = {
 			32755,
 		},
@@ -7462,6 +7760,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41207,
+		["item_id"] = 32584,
 		["items"] = {
 			32752,
 		},
@@ -7483,6 +7782,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41208,
+		["item_id"] = 32585,
 		["items"] = {
 			32753,
 		},
@@ -7504,6 +7804,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44950,
+		["item_id"] = 34087,
 		["items"] = {
 			34261,
 		},
@@ -7525,6 +7826,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44958,
+		["item_id"] = 34085,
 		["items"] = {
 			34319,
 		},
@@ -7546,6 +7848,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46128,
+		["item_id"] = 34366,
 		["items"] = {
 			35204,
 		},
@@ -7567,6 +7870,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46129,
+		["item_id"] = 34367,
 		["items"] = {
 			35205,
 		},
@@ -7588,6 +7892,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46130,
+		["item_id"] = 34364,
 		["items"] = {
 			35206,
 		},
@@ -7609,6 +7914,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46131,
+		["item_id"] = 34365,
 		["items"] = {
 			35207,
 		},
@@ -7630,6 +7936,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 49677,
+		["item_id"] = 6836,
 		["items"] = {
 			37915,
 		},
@@ -7651,6 +7958,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 50194,
+		["item_id"] = 38225,
 		["items"] = {
 			38229,
 		},
@@ -7672,6 +7980,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 50644,
+		["item_id"] = 38277,
 		["items"] = {
 			38327,
 		},
@@ -7693,6 +8002,7 @@ MTSL_DATA["skills"]["Tailoring"] =
 	{
 		["expansion"] = 2,
 		["id"] = 50647,
+		["item_id"] = 38278,
 		["items"] = {
 			38328,
 		},

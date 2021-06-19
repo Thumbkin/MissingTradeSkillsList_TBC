@@ -44,6 +44,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2153,
+		["item_id"] = 2303,
 		["min_skill"] = 15,
 		["name"] = {
 			["Chinese"] = "手工皮短裤",
@@ -92,6 +93,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2158,
+		["item_id"] = 2307,
 		["items"] = {
 			2406,
 		},
@@ -113,6 +115,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2159,
+		["item_id"] = 2308,
 		["min_skill"] = 85,
 		["name"] = {
 			["Chinese"] = "优质皮披风",
@@ -150,6 +153,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2160,
+		["item_id"] = 2300,
 		["min_skill"] = 40,
 		["name"] = {
 			["Chinese"] = "雕花皮外衣",
@@ -198,6 +202,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2161,
+		["item_id"] = 2309,
 		["min_skill"] = 55,
 		["name"] = {
 			["Chinese"] = "雕花皮靴",
@@ -246,6 +251,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2162,
+		["item_id"] = 2310,
 		["min_skill"] = 60,
 		["name"] = {
 			["Chinese"] = "雕花皮质披风",
@@ -294,6 +300,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2163,
+		["item_id"] = 2311,
 		["items"] = {
 			2407,
 		},
@@ -315,6 +322,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2164,
+		["item_id"] = 2312,
 		["items"] = {
 			2408,
 		},
@@ -336,6 +344,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2165,
+		["item_id"] = 2313,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "中型护甲片",
@@ -373,6 +382,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2166,
+		["item_id"] = 2314,
 		["min_skill"] = 120,
 		["name"] = {
 			["Chinese"] = "韧化皮甲",
@@ -410,6 +420,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2167,
+		["item_id"] = 2315,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "黑皮战靴",
@@ -447,6 +458,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2168,
+		["item_id"] = 2316,
 		["min_skill"] = 110,
 		["name"] = {
 			["Chinese"] = "黑皮披风",
@@ -484,6 +496,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2169,
+		["item_id"] = 2317,
 		["items"] = {
 			2409,
 		},
@@ -524,6 +537,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3753,
+		["item_id"] = 4237,
 		["min_skill"] = 25,
 		["name"] = {
 			["Chinese"] = "手工皮带",
@@ -572,6 +586,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3756,
+		["item_id"] = 4239,
 		["min_skill"] = 55,
 		["name"] = {
 			["Chinese"] = "雕花皮手套",
@@ -620,6 +635,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3759,
+		["item_id"] = 4242,
 		["min_skill"] = 75,
 		["name"] = {
 			["Chinese"] = "雕花皮短裤",
@@ -668,6 +684,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3760,
+		["item_id"] = 3719,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "山地披风",
@@ -705,6 +722,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3761,
+		["item_id"] = 4243,
 		["min_skill"] = 85,
 		["name"] = {
 			["Chinese"] = "优质皮外套",
@@ -742,6 +760,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3762,
+		["item_id"] = 4244,
 		["items"] = {
 			4293,
 		},
@@ -763,6 +782,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3763,
+		["item_id"] = 4246,
 		["min_skill"] = 80,
 		["name"] = {
 			["Chinese"] = "优质皮带",
@@ -800,6 +820,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3764,
+		["item_id"] = 4247,
 		["min_skill"] = 145,
 		["name"] = {
 			["Chinese"] = "山地皮手套",
@@ -837,6 +858,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3765,
+		["item_id"] = 4248,
 		["items"] = {
 			7360,
 		},
@@ -858,6 +880,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3766,
+		["item_id"] = 4249,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "黑皮腰带",
@@ -895,6 +918,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3767,
+		["item_id"] = 4250,
 		["items"] = {
 			4294,
 		},
@@ -916,6 +940,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3768,
+		["item_id"] = 4251,
 		["min_skill"] = 130,
 		["name"] = {
 			["Chinese"] = "山地护肩",
@@ -953,6 +978,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3769,
+		["item_id"] = 4252,
 		["items"] = {
 			4296,
 		},
@@ -974,6 +1000,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3770,
+		["item_id"] = 4253,
 		["min_skill"] = 135,
 		["name"] = {
 			["Chinese"] = "韧化皮手套",
@@ -1011,6 +1038,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3771,
+		["item_id"] = 4254,
 		["items"] = {
 			4297,
 		},
@@ -1032,6 +1060,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3772,
+		["item_id"] = 4255,
 		["items"] = {
 			7613,
 		},
@@ -1053,6 +1082,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3773,
+		["item_id"] = 4256,
 		["items"] = {
 			4299,
 		},
@@ -1074,6 +1104,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3774,
+		["item_id"] = 4257,
 		["min_skill"] = 160,
 		["name"] = {
 			["Chinese"] = "绿色皮带",
@@ -1101,6 +1132,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3775,
+		["item_id"] = 4258,
 		["items"] = {
 			4298,
 		},
@@ -1122,6 +1154,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3776,
+		["item_id"] = 4259,
 		["min_skill"] = 180,
 		["name"] = {
 			["Chinese"] = "绿色皮护腕",
@@ -1149,6 +1182,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3777,
+		["item_id"] = 4260,
 		["items"] = {
 			4300,
 		},
@@ -1170,6 +1204,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3778,
+		["item_id"] = 4262,
 		["items"] = {
 			14635,
 		},
@@ -1191,6 +1226,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3779,
+		["item_id"] = 4264,
 		["items"] = {
 			4301,
 		},
@@ -1212,6 +1248,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3780,
+		["item_id"] = 4265,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "重型护甲片",
@@ -1249,6 +1286,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3816,
+		["item_id"] = 4231,
 		["min_skill"] = 35,
 		["name"] = {
 			["Chinese"] = "熟化轻毛皮",
@@ -1297,6 +1335,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3817,
+		["item_id"] = 4233,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "熟化中毛皮",
@@ -1334,6 +1373,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3818,
+		["item_id"] = 4236,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "熟化重毛皮",
@@ -1371,6 +1411,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 4096,
+		["item_id"] = 4455,
 		["items"] = {
 			13287,
 		},
@@ -1392,6 +1433,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 4097,
+		["item_id"] = 4456,
 		["items"] = {
 			13288,
 		},
@@ -1413,6 +1455,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 5244,
+		["item_id"] = 5081,
 		["items"] = {
 			5083,
 		},
@@ -1434,6 +1477,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6661,
+		["item_id"] = 5739,
 		["min_skill"] = 190,
 		["name"] = {
 			["Chinese"] = "野人背心",
@@ -1461,6 +1505,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6702,
+		["item_id"] = 5780,
 		["items"] = {
 			5786,
 		},
@@ -1482,6 +1527,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6703,
+		["item_id"] = 5781,
 		["items"] = {
 			5787,
 		},
@@ -1503,6 +1549,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6704,
+		["item_id"] = 5782,
 		["items"] = {
 			5788,
 		},
@@ -1524,6 +1571,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6705,
+		["item_id"] = 5783,
 		["items"] = {
 			5789,
 		},
@@ -1564,6 +1612,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7133,
+		["item_id"] = 5958,
 		["items"] = {
 			5972,
 		},
@@ -1585,6 +1634,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7135,
+		["item_id"] = 5961,
 		["min_skill"] = 115,
 		["name"] = {
 			["Chinese"] = "黑皮短裤",
@@ -1622,6 +1672,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7147,
+		["item_id"] = 5962,
 		["min_skill"] = 160,
 		["name"] = {
 			["Chinese"] = "守护短裤",
@@ -1649,6 +1700,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7149,
+		["item_id"] = 5963,
 		["items"] = {
 			5973,
 		},
@@ -1670,6 +1722,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7151,
+		["item_id"] = 5964,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "野人护肩",
@@ -1697,6 +1750,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7153,
+		["item_id"] = 5965,
 		["items"] = {
 			5974,
 		},
@@ -1718,6 +1772,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7156,
+		["item_id"] = 5966,
 		["min_skill"] = 190,
 		["name"] = {
 			["Chinese"] = "守护手套",
@@ -1745,6 +1800,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7953,
+		["item_id"] = 6466,
 		["items"] = {
 			6474,
 		},
@@ -1766,6 +1822,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7954,
+		["item_id"] = 6467,
 		["items"] = {
 			6475,
 		},
@@ -1787,6 +1844,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7955,
+		["item_id"] = 6468,
 		["items"] = {
 			6476,
 		},
@@ -1808,6 +1866,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8322,
+		["item_id"] = 6709,
 		["items"] = {
 			6710,
 		},
@@ -1867,6 +1926,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9060,
+		["item_id"] = 7278,
 		["min_skill"] = 30,
 		["name"] = {
 			["Chinese"] = "轻皮箭袋",
@@ -1915,6 +1975,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9062,
+		["item_id"] = 7279,
 		["min_skill"] = 30,
 		["name"] = {
 			["Chinese"] = "皮质小弹药包",
@@ -1963,6 +2024,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9064,
+		["item_id"] = 7280,
 		["items"] = {
 			7288,
 		},
@@ -1984,6 +2046,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9065,
+		["item_id"] = 7281,
 		["min_skill"] = 70,
 		["name"] = {
 			["Chinese"] = "轻皮护腕",
@@ -2032,6 +2095,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9068,
+		["item_id"] = 7282,
 		["min_skill"] = 95,
 		["name"] = {
 			["Chinese"] = "轻皮短裤",
@@ -2069,6 +2133,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9070,
+		["item_id"] = 7283,
 		["items"] = {
 			7289,
 		},
@@ -2090,6 +2155,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9072,
+		["item_id"] = 7284,
 		["items"] = {
 			7290,
 		},
@@ -2111,6 +2177,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9074,
+		["item_id"] = 7285,
 		["min_skill"] = 120,
 		["name"] = {
 			["Chinese"] = "轻巧的皮手套",
@@ -2144,6 +2211,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9145,
+		["item_id"] = 7348,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "造弓师手套",
@@ -2181,6 +2249,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9146,
+		["item_id"] = 7349,
 		["items"] = {
 			7361,
 		},
@@ -2202,6 +2271,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9147,
+		["item_id"] = 7352,
 		["items"] = {
 			7362,
 		},
@@ -2223,6 +2293,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9148,
+		["item_id"] = 7358,
 		["items"] = {
 			7363,
 		},
@@ -2244,6 +2315,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9149,
+		["item_id"] = 7359,
 		["items"] = {
 			7364,
 		},
@@ -2265,6 +2337,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9193,
+		["item_id"] = 7371,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "重型箭袋",
@@ -2302,6 +2375,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9194,
+		["item_id"] = 7372,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "重皮弹药包",
@@ -2339,6 +2413,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9195,
+		["item_id"] = 7373,
 		["items"] = {
 			7449,
 		},
@@ -2360,6 +2435,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9196,
+		["item_id"] = 7374,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "暗色皮甲",
@@ -2387,6 +2463,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9197,
+		["item_id"] = 7375,
 		["items"] = {
 			7450,
 		},
@@ -2408,6 +2485,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9198,
+		["item_id"] = 7377,
 		["min_skill"] = 180,
 		["name"] = {
 			["Chinese"] = "冰霜皮质披风",
@@ -2435,6 +2513,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9201,
+		["item_id"] = 7378,
 		["min_skill"] = 185,
 		["name"] = {
 			["Chinese"] = "暗色护腕",
@@ -2462,6 +2541,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9202,
+		["item_id"] = 7386,
 		["items"] = {
 			7451,
 		},
@@ -2483,6 +2563,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9206,
+		["item_id"] = 7387,
 		["min_skill"] = 195,
 		["name"] = {
 			["Chinese"] = "暗色皮带",
@@ -2510,6 +2591,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9207,
+		["item_id"] = 7390,
 		["items"] = {
 			7452,
 		},
@@ -2531,6 +2613,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9208,
+		["item_id"] = 7391,
 		["items"] = {
 			7453,
 		},
@@ -2552,6 +2635,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10482,
+		["item_id"] = 8172,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "熟化厚毛皮",
@@ -2579,6 +2663,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10487,
+		["item_id"] = 8173,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "厚重护甲片",
@@ -2606,6 +2691,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10490,
+		["item_id"] = 8174,
 		["items"] = {
 			8384,
 		},
@@ -2627,6 +2713,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10499,
+		["item_id"] = 8175,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "夜色外套",
@@ -2654,6 +2741,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10507,
+		["item_id"] = 8176,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "夜色头带",
@@ -2681,6 +2769,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10509,
+		["item_id"] = 8187,
 		["items"] = {
 			8385,
 		},
@@ -2702,6 +2791,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10511,
+		["item_id"] = 8189,
 		["min_skill"] = 210,
 		["name"] = {
 			["Chinese"] = "龟壳胸甲",
@@ -2729,6 +2819,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10516,
+		["item_id"] = 8192,
 		["items"] = {
 			8409,
 		},
@@ -2750,6 +2841,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10518,
+		["item_id"] = 8198,
 		["min_skill"] = 210,
 		["name"] = {
 			["Chinese"] = "龟壳护腕",
@@ -2777,6 +2869,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10520,
+		["item_id"] = 8200,
 		["items"] = {
 			8386,
 		},
@@ -2798,6 +2891,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10525,
+		["item_id"] = 8203,
 		["items"] = {
 			8395,
 		},
@@ -2819,6 +2913,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10529,
+		["item_id"] = 8210,
 		["items"] = {
 			8403,
 		},
@@ -2840,6 +2935,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10531,
+		["item_id"] = 8201,
 		["items"] = {
 			8387,
 		},
@@ -2861,6 +2957,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10533,
+		["item_id"] = 8205,
 		["items"] = {
 			8397,
 		},
@@ -2882,6 +2979,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10542,
+		["item_id"] = 8204,
 		["items"] = {
 			8398,
 		},
@@ -2903,6 +3001,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10544,
+		["item_id"] = 8211,
 		["items"] = {
 			8404,
 		},
@@ -2924,6 +3023,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10546,
+		["item_id"] = 8214,
 		["items"] = {
 			8405,
 		},
@@ -2945,6 +3045,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10548,
+		["item_id"] = 8193,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "夜色短裤",
@@ -2970,6 +3071,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10552,
+		["item_id"] = 8191,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "龟壳头盔",
@@ -2995,6 +3097,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10554,
+		["item_id"] = 8209,
 		["items"] = {
 			8399,
 		},
@@ -3016,6 +3119,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10556,
+		["item_id"] = 8185,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "龟壳护腿",
@@ -3041,6 +3145,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10558,
+		["item_id"] = 8197,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "夜色长靴",
@@ -3066,6 +3171,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10560,
+		["item_id"] = 8202,
 		["items"] = {
 			8389,
 		},
@@ -3087,6 +3193,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10562,
+		["item_id"] = 8216,
 		["items"] = {
 			8390,
 		},
@@ -3108,6 +3215,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10564,
+		["item_id"] = 8207,
 		["items"] = {
 			8400,
 		},
@@ -3129,6 +3237,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10566,
+		["item_id"] = 8213,
 		["items"] = {
 			8406,
 		},
@@ -3150,6 +3259,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10568,
+		["item_id"] = 8206,
 		["items"] = {
 			8401,
 		},
@@ -3171,6 +3281,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10570,
+		["item_id"] = 8208,
 		["items"] = {
 			8402,
 		},
@@ -3192,6 +3303,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10572,
+		["item_id"] = 8212,
 		["items"] = {
 			8407,
 		},
@@ -3213,6 +3325,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10574,
+		["item_id"] = 8215,
 		["items"] = {
 			8408,
 		},
@@ -3234,6 +3347,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10619,
+		["item_id"] = 8347,
 		["min_skill"] = 225,
 		["name"] = {
 			["Chinese"] = "龙鳞护手",
@@ -3260,6 +3374,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10621,
+		["item_id"] = 8345,
 		["min_skill"] = 225,
 		["min_xp_level"] = 40,
 		["name"] = {
@@ -3287,6 +3402,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10630,
+		["item_id"] = 8346,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "深海护手",
@@ -3313,6 +3429,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10632,
+		["item_id"] = 8348,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "火焰头盔",
@@ -3339,6 +3456,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10647,
+		["item_id"] = 8349,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "羽饰胸甲",
@@ -3365,6 +3483,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10650,
+		["item_id"] = 8367,
 		["min_skill"] = 255,
 		["name"] = {
 			["Chinese"] = "龙鳞胸甲",
@@ -3391,6 +3510,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 14930,
+		["item_id"] = 8217,
 		["min_skill"] = 225,
 		["name"] = {
 			["Chinese"] = "快捷箭袋",
@@ -3418,6 +3538,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 14932,
+		["item_id"] = 8218,
 		["min_skill"] = 225,
 		["name"] = {
 			["Chinese"] = "厚皮弹药包",
@@ -3445,6 +3566,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19047,
+		["item_id"] = 15407,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "熟化毛皮",
@@ -3470,6 +3592,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19048,
+		["item_id"] = 15077,
 		["items"] = {
 			15724,
 		},
@@ -3491,6 +3614,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19049,
+		["item_id"] = 15083,
 		["items"] = {
 			15725,
 		},
@@ -3512,6 +3636,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19050,
+		["item_id"] = 15045,
 		["items"] = {
 			15726,
 		},
@@ -3534,6 +3659,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19051,
+		["item_id"] = 15076,
 		["items"] = {
 			15727,
 		},
@@ -3555,6 +3681,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19052,
+		["item_id"] = 15084,
 		["items"] = {
 			15728,
 		},
@@ -3576,6 +3703,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19053,
+		["item_id"] = 15074,
 		["items"] = {
 			15729,
 		},
@@ -3598,6 +3726,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19054,
+		["item_id"] = 15047,
 		["items"] = {
 			15730,
 		},
@@ -3620,6 +3749,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19055,
+		["item_id"] = 15091,
 		["items"] = {
 			15731,
 		},
@@ -3641,6 +3771,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19058,
+		["item_id"] = 15564,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "毛皮护甲片",
@@ -3666,6 +3797,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19059,
+		["item_id"] = 15054,
 		["items"] = {
 			15732,
 		},
@@ -3688,6 +3820,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19060,
+		["item_id"] = 15046,
 		["items"] = {
 			15733,
 		},
@@ -3710,6 +3843,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19061,
+		["item_id"] = 15061,
 		["items"] = {
 			15734,
 		},
@@ -3732,6 +3866,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19062,
+		["item_id"] = 15067,
 		["items"] = {
 			15735,
 		},
@@ -3754,6 +3889,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19063,
+		["item_id"] = 15073,
 		["items"] = {
 			15737,
 		},
@@ -3776,6 +3912,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19064,
+		["item_id"] = 15078,
 		["items"] = {
 			15738,
 		},
@@ -3797,6 +3934,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19065,
+		["item_id"] = 15092,
 		["items"] = {
 			15739,
 		},
@@ -3818,6 +3956,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19066,
+		["item_id"] = 15071,
 		["items"] = {
 			15740,
 		},
@@ -3840,6 +3979,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19067,
+		["item_id"] = 15057,
 		["items"] = {
 			15741,
 		},
@@ -3862,6 +4002,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19068,
+		["item_id"] = 15064,
 		["items"] = {
 			20253,
 		},
@@ -3884,6 +4025,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19070,
+		["item_id"] = 15082,
 		["items"] = {
 			15743,
 		},
@@ -3905,6 +4047,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19071,
+		["item_id"] = 15086,
 		["items"] = {
 			15744,
 		},
@@ -3926,6 +4069,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19072,
+		["item_id"] = 15093,
 		["items"] = {
 			15745,
 		},
@@ -3947,6 +4091,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19073,
+		["item_id"] = 15072,
 		["items"] = {
 			15746,
 		},
@@ -3969,6 +4114,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19074,
+		["item_id"] = 15069,
 		["items"] = {
 			15747,
 		},
@@ -3991,6 +4137,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19075,
+		["item_id"] = 15079,
 		["items"] = {
 			15748,
 		},
@@ -4012,6 +4159,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19076,
+		["item_id"] = 15053,
 		["items"] = {
 			15749,
 		},
@@ -4034,6 +4182,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19077,
+		["item_id"] = 15048,
 		["items"] = {
 			15751,
 		},
@@ -4056,6 +4205,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19078,
+		["item_id"] = 15060,
 		["items"] = {
 			15752,
 		},
@@ -4078,6 +4228,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19079,
+		["item_id"] = 15056,
 		["items"] = {
 			15753,
 		},
@@ -4100,6 +4251,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19080,
+		["item_id"] = 15065,
 		["items"] = {
 			20254,
 		},
@@ -4122,6 +4274,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19081,
+		["item_id"] = 15075,
 		["items"] = {
 			15755,
 		},
@@ -4144,6 +4297,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19082,
+		["item_id"] = 15094,
 		["items"] = {
 			15756,
 		},
@@ -4165,6 +4319,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19083,
+		["item_id"] = 15087,
 		["items"] = {
 			15757,
 		},
@@ -4186,6 +4341,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19084,
+		["item_id"] = 15063,
 		["items"] = {
 			15758,
 		},
@@ -4208,6 +4364,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19085,
+		["item_id"] = 15050,
 		["items"] = {
 			15759,
 		},
@@ -4230,6 +4387,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19086,
+		["item_id"] = 15066,
 		["items"] = {
 			15760,
 		},
@@ -4252,6 +4410,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19087,
+		["item_id"] = 15070,
 		["items"] = {
 			15761,
 		},
@@ -4274,6 +4433,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19088,
+		["item_id"] = 15080,
 		["items"] = {
 			15762,
 		},
@@ -4295,6 +4455,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19089,
+		["item_id"] = 15049,
 		["items"] = {
 			15763,
 		},
@@ -4317,6 +4478,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19090,
+		["item_id"] = 15058,
 		["items"] = {
 			15764,
 		},
@@ -4339,6 +4501,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19091,
+		["item_id"] = 15095,
 		["items"] = {
 			15765,
 		},
@@ -4360,6 +4523,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19092,
+		["item_id"] = 15088,
 		["items"] = {
 			15768,
 		},
@@ -4381,6 +4545,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19093,
+		["item_id"] = 15138,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "奥妮克希亚鳞片披风",
@@ -4403,6 +4568,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19094,
+		["item_id"] = 15051,
 		["items"] = {
 			15770,
 		},
@@ -4425,6 +4591,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19095,
+		["item_id"] = 15059,
 		["items"] = {
 			15771,
 		},
@@ -4447,6 +4614,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19097,
+		["item_id"] = 15062,
 		["items"] = {
 			15772,
 		},
@@ -4469,6 +4637,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19098,
+		["item_id"] = 15085,
 		["items"] = {
 			15773,
 		},
@@ -4490,6 +4659,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19100,
+		["item_id"] = 15081,
 		["items"] = {
 			15774,
 		},
@@ -4511,6 +4681,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19101,
+		["item_id"] = 15055,
 		["items"] = {
 			15775,
 		},
@@ -4533,6 +4704,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19102,
+		["item_id"] = 15090,
 		["items"] = {
 			15776,
 		},
@@ -4554,6 +4726,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19103,
+		["item_id"] = 15096,
 		["items"] = {
 			15777,
 		},
@@ -4575,6 +4748,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19104,
+		["item_id"] = 15068,
 		["items"] = {
 			15779,
 		},
@@ -4597,6 +4771,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19107,
+		["item_id"] = 15052,
 		["items"] = {
 			15781,
 		},
@@ -4619,6 +4794,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20648,
+		["item_id"] = 2319,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "中皮",
@@ -4656,6 +4832,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20649,
+		["item_id"] = 4234,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "重皮",
@@ -4693,6 +4870,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20650,
+		["item_id"] = 4304,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "厚皮",
@@ -4720,6 +4898,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20853,
+		["item_id"] = 16982,
 		["items"] = {
 			17022,
 		},
@@ -4742,6 +4921,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20854,
+		["item_id"] = 16983,
 		["items"] = {
 			17023,
 		},
@@ -4764,6 +4944,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20855,
+		["item_id"] = 16984,
 		["items"] = {
 			17025,
 		},
@@ -4786,6 +4967,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 21943,
+		["item_id"] = 17721,
 		["items"] = {
 			17722,
 		},
@@ -4807,6 +4989,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22331,
+		["item_id"] = 8170,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "硬甲皮",
@@ -4832,6 +5015,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22711,
+		["item_id"] = 18238,
 		["items"] = {
 			18239,
 		},
@@ -4853,6 +5037,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22727,
+		["item_id"] = 18251,
 		["items"] = {
 			18252,
 		},
@@ -4874,6 +5059,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22815,
+		["item_id"] = 18258,
 		["min_skill"] = 285,
 		["name"] = {
 			["Chinese"] = "戈多克食人魔装",
@@ -4896,6 +5082,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22921,
+		["item_id"] = 18504,
 		["items"] = {
 			18514,
 		},
@@ -4917,6 +5104,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22922,
+		["item_id"] = 18506,
 		["items"] = {
 			18515,
 		},
@@ -4938,6 +5126,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22923,
+		["item_id"] = 18508,
 		["items"] = {
 			18516,
 		},
@@ -4959,6 +5148,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22926,
+		["item_id"] = 18509,
 		["items"] = {
 			18517,
 		},
@@ -4981,6 +5171,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22927,
+		["item_id"] = 18510,
 		["items"] = {
 			18518,
 		},
@@ -5003,6 +5194,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22928,
+		["item_id"] = 18511,
 		["items"] = {
 			18519,
 		},
@@ -5025,6 +5217,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23190,
+		["item_id"] = 18662,
 		["items"] = {
 			18731,
 		},
@@ -5046,6 +5239,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23399,
+		["item_id"] = 18948,
 		["items"] = {
 			18949,
 		},
@@ -5067,6 +5261,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23703,
+		["item_id"] = 19044,
 		["items"] = {
 			19326,
 		},
@@ -5088,6 +5283,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23704,
+		["item_id"] = 19049,
 		["items"] = {
 			19327,
 		},
@@ -5109,6 +5305,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23705,
+		["item_id"] = 19052,
 		["items"] = {
 			19328,
 		},
@@ -5130,6 +5327,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23706,
+		["item_id"] = 19058,
 		["items"] = {
 			19329,
 		},
@@ -5151,6 +5349,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23707,
+		["item_id"] = 19149,
 		["items"] = {
 			19330,
 		},
@@ -5172,6 +5371,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23708,
+		["item_id"] = 19157,
 		["items"] = {
 			19331,
 		},
@@ -5194,6 +5394,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23709,
+		["item_id"] = 19162,
 		["items"] = {
 			19332,
 		},
@@ -5216,6 +5417,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23710,
+		["item_id"] = 19163,
 		["items"] = {
 			19333,
 		},
@@ -5238,6 +5440,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24121,
+		["item_id"] = 19685,
 		["items"] = {
 			19769,
 		},
@@ -5259,6 +5462,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24122,
+		["item_id"] = 19686,
 		["items"] = {
 			19770,
 		},
@@ -5280,6 +5484,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24123,
+		["item_id"] = 19687,
 		["items"] = {
 			19771,
 		},
@@ -5301,6 +5506,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24124,
+		["item_id"] = 19688,
 		["items"] = {
 			19772,
 		},
@@ -5322,6 +5528,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24125,
+		["item_id"] = 19689,
 		["items"] = {
 			19773,
 		},
@@ -5343,6 +5550,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24654,
+		["item_id"] = 20295,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "蓝龙鳞片护腿",
@@ -5369,6 +5577,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24655,
+		["item_id"] = 20296,
 		["min_skill"] = 280,
 		["name"] = {
 			["Chinese"] = "绿色龙鳞护手",
@@ -5395,6 +5604,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24703,
+		["item_id"] = 20380,
 		["items"] = {
 			20382,
 		},
@@ -5417,6 +5627,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24846,
+		["item_id"] = 20481,
 		["items"] = {
 			20506,
 		},
@@ -5438,6 +5649,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24847,
+		["item_id"] = 20480,
 		["items"] = {
 			20507,
 		},
@@ -5459,6 +5671,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24848,
+		["item_id"] = 20479,
 		["items"] = {
 			20508,
 		},
@@ -5480,6 +5693,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24849,
+		["item_id"] = 20476,
 		["items"] = {
 			20509,
 		},
@@ -5501,6 +5715,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24850,
+		["item_id"] = 20477,
 		["items"] = {
 			20510,
 		},
@@ -5522,6 +5737,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24851,
+		["item_id"] = 20478,
 		["items"] = {
 			20511,
 		},
@@ -5543,6 +5759,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24940,
+		["item_id"] = 20575,
 		["items"] = {
 			20576,
 		},
@@ -5564,6 +5781,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26279,
+		["item_id"] = 21278,
 		["items"] = {
 			21548,
 		},
@@ -5586,6 +5804,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28219,
+		["item_id"] = 22661,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "北极外套",
@@ -5617,6 +5836,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28220,
+		["item_id"] = 22662,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "北极手套",
@@ -5648,6 +5868,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28221,
+		["item_id"] = 22663,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "北极护腕",
@@ -5679,6 +5900,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28222,
+		["item_id"] = 22664,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "寒鳞胸甲",
@@ -5710,6 +5932,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28223,
+		["item_id"] = 22666,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "寒鳞护手",
@@ -5741,6 +5964,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28224,
+		["item_id"] = 22665,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "寒鳞护腕",
@@ -5772,6 +5996,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28472,
+		["item_id"] = 22759,
 		["items"] = {
 			22771,
 		},
@@ -5793,6 +6018,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28473,
+		["item_id"] = 22760,
 		["items"] = {
 			22770,
 		},
@@ -5814,6 +6040,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28474,
+		["item_id"] = 22761,
 		["items"] = {
 			22769,
 		},
@@ -5835,6 +6062,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32454,
+		["item_id"] = 21887,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "结缔皮",
@@ -5861,6 +6089,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32455,
+		["item_id"] = 23793,
 		["items"] = {
 			25720,
 		},
@@ -5882,6 +6111,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32456,
+		["item_id"] = 25650,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "结缔皮护甲片",
@@ -5908,6 +6138,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32457,
+		["item_id"] = 25651,
 		["items"] = {
 			25721,
 		},
@@ -5929,6 +6160,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32458,
+		["item_id"] = 25652,
 		["items"] = {
 			25722,
 		},
@@ -5950,6 +6182,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32461,
+		["item_id"] = 25653,
 		["items"] = {
 			25725,
 		},
@@ -5971,6 +6204,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32462,
+		["item_id"] = 25654,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "魔鳞手套",
@@ -5997,6 +6231,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32463,
+		["item_id"] = 25655,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "魔鳞长靴",
@@ -6023,6 +6258,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32464,
+		["item_id"] = 25656,
 		["min_skill"] = 320,
 		["name"] = {
 			["Chinese"] = "魔鳞短裤",
@@ -6049,6 +6285,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32465,
+		["item_id"] = 25657,
 		["min_skill"] = 335,
 		["name"] = {
 			["Chinese"] = "魔鳞胸甲",
@@ -6075,6 +6312,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32466,
+		["item_id"] = 25662,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "缀鳞德拉诺短裤",
@@ -6101,6 +6339,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32467,
+		["item_id"] = 25661,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "缀鳞德拉诺手套",
@@ -6127,6 +6366,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32468,
+		["item_id"] = 25660,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "缀鳞德拉诺外套",
@@ -6153,6 +6393,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32469,
+		["item_id"] = 25659,
 		["min_skill"] = 335,
 		["name"] = {
 			["Chinese"] = "缀鳞德拉诺长靴",
@@ -6179,6 +6420,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32470,
+		["item_id"] = 25669,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "厚重德莱尼手套",
@@ -6205,6 +6447,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32471,
+		["item_id"] = 25670,
 		["min_skill"] = 315,
 		["name"] = {
 			["Chinese"] = "厚重德莱尼短裤",
@@ -6231,6 +6474,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32472,
+		["item_id"] = 25668,
 		["min_skill"] = 320,
 		["name"] = {
 			["Chinese"] = "厚重德莱尼长靴",
@@ -6257,6 +6501,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32473,
+		["item_id"] = 25671,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "厚重德莱尼外套",
@@ -6283,6 +6528,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32478,
+		["item_id"] = 25673,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "野性德莱尼长靴",
@@ -6309,6 +6555,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32479,
+		["item_id"] = 25674,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "野性德莱尼手套",
@@ -6335,6 +6582,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32480,
+		["item_id"] = 25675,
 		["min_skill"] = 320,
 		["name"] = {
 			["Chinese"] = "野性德莱尼护腿",
@@ -6361,6 +6609,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32481,
+		["item_id"] = 25676,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "野性德莱尼外套",
@@ -6387,6 +6636,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32482,
+		["item_id"] = 25679,
 		["items"] = {
 			25726,
 		},
@@ -6408,6 +6658,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32485,
+		["item_id"] = 25680,
 		["items"] = {
 			25728,
 		},
@@ -6429,6 +6680,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32487,
+		["item_id"] = 25681,
 		["items"] = {
 			25729,
 		},
@@ -6450,6 +6702,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32488,
+		["item_id"] = 25683,
 		["items"] = {
 			25731,
 		},
@@ -6471,6 +6724,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32489,
+		["item_id"] = 25682,
 		["items"] = {
 			25730,
 		},
@@ -6492,6 +6746,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32490,
+		["item_id"] = 25685,
 		["items"] = {
 			25732,
 		},
@@ -6513,6 +6768,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32493,
+		["item_id"] = 25686,
 		["items"] = {
 			25733,
 		},
@@ -6534,6 +6790,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32494,
+		["item_id"] = 25687,
 		["items"] = {
 			25734,
 		},
@@ -6555,6 +6812,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32495,
+		["item_id"] = 25689,
 		["items"] = {
 			25735,
 		},
@@ -6576,6 +6834,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32496,
+		["item_id"] = 25690,
 		["items"] = {
 			25736,
 		},
@@ -6597,6 +6856,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32497,
+		["item_id"] = 25691,
 		["items"] = {
 			25737,
 		},
@@ -6618,6 +6878,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32498,
+		["item_id"] = 25695,
 		["items"] = {
 			25738,
 			29213,
@@ -6640,6 +6901,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32499,
+		["item_id"] = 25697,
 		["items"] = {
 			25739,
 			29214,
@@ -6662,6 +6924,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32500,
+		["item_id"] = 25696,
 		["items"] = {
 			25740,
 			29215,
@@ -6684,6 +6947,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32501,
+		["item_id"] = 25694,
 		["items"] = {
 			25741,
 			29217,
@@ -6706,6 +6970,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32502,
+		["item_id"] = 25692,
 		["items"] = {
 			25742,
 			29219,
@@ -6728,6 +6993,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32503,
+		["item_id"] = 25693,
 		["items"] = {
 			25743,
 			29218,
@@ -6750,6 +7016,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35520,
+		["item_id"] = 29483,
 		["items"] = {
 			29669,
 		},
@@ -6771,6 +7038,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35521,
+		["item_id"] = 29485,
 		["items"] = {
 			29672,
 		},
@@ -6792,6 +7060,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35522,
+		["item_id"] = 29486,
 		["items"] = {
 			29673,
 		},
@@ -6813,6 +7082,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35523,
+		["item_id"] = 29487,
 		["items"] = {
 			29674,
 		},
@@ -6834,6 +7104,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35524,
+		["item_id"] = 29488,
 		["items"] = {
 			29675,
 		},
@@ -6855,6 +7126,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35525,
+		["item_id"] = 29489,
 		["items"] = {
 			29677,
 		},
@@ -6876,6 +7148,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35526,
+		["item_id"] = 29490,
 		["items"] = {
 			29682,
 		},
@@ -6897,6 +7170,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35527,
+		["item_id"] = 29491,
 		["items"] = {
 			29684,
 		},
@@ -6918,6 +7192,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35528,
+		["item_id"] = 29493,
 		["items"] = {
 			29691,
 		},
@@ -6939,6 +7214,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35529,
+		["item_id"] = 29492,
 		["items"] = {
 			29689,
 		},
@@ -6960,6 +7236,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35530,
+		["item_id"] = 29540,
 		["items"] = {
 			29664,
 			30444,
@@ -6982,6 +7259,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35531,
+		["item_id"] = 29494,
 		["items"] = {
 			29693,
 		},
@@ -7003,6 +7281,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35532,
+		["item_id"] = 29495,
 		["items"] = {
 			29698,
 		},
@@ -7024,6 +7303,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35533,
+		["item_id"] = 29496,
 		["items"] = {
 			29700,
 		},
@@ -7045,6 +7325,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35534,
+		["item_id"] = 29497,
 		["items"] = {
 			29701,
 		},
@@ -7066,6 +7347,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35535,
+		["item_id"] = 29498,
 		["items"] = {
 			29702,
 		},
@@ -7087,6 +7369,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35536,
+		["item_id"] = 29499,
 		["items"] = {
 			29703,
 		},
@@ -7108,6 +7391,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35537,
+		["item_id"] = 29500,
 		["items"] = {
 			29704,
 		},
@@ -7129,6 +7413,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35538,
+		["item_id"] = 29532,
 		["items"] = {
 			29713,
 		},
@@ -7150,6 +7435,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35539,
+		["item_id"] = 29531,
 		["items"] = {
 			29714,
 			34174,
@@ -7173,6 +7459,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35540,
+		["item_id"] = 29528,
 		["min_skill"] = 340,
 		["name"] = {
 			["Chinese"] = "战争之鼓",
@@ -7199,6 +7486,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35543,
+		["item_id"] = 29529,
 		["items"] = {
 			29717,
 		},
@@ -7220,6 +7508,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35544,
+		["item_id"] = 29530,
 		["items"] = {
 			29718,
 			34172,
@@ -7243,6 +7532,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35549,
+		["item_id"] = 29533,
 		["items"] = {
 			29719,
 			31361,
@@ -7265,6 +7555,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35554,
+		["item_id"] = 29535,
 		["items"] = {
 			29722,
 			31362,
@@ -7287,6 +7578,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35555,
+		["item_id"] = 29534,
 		["items"] = {
 			29720,
 		},
@@ -7308,6 +7600,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35557,
+		["item_id"] = 29536,
 		["items"] = {
 			29721,
 		},
@@ -7329,6 +7622,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35558,
+		["item_id"] = 29502,
 		["items"] = {
 			29723,
 		},
@@ -7350,6 +7644,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35559,
+		["item_id"] = 29503,
 		["items"] = {
 			29724,
 			35302,
@@ -7372,6 +7667,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35560,
+		["item_id"] = 29504,
 		["items"] = {
 			29725,
 		},
@@ -7393,6 +7689,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35561,
+		["item_id"] = 29505,
 		["items"] = {
 			29726,
 		},
@@ -7414,6 +7711,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35562,
+		["item_id"] = 29506,
 		["items"] = {
 			29727,
 			35303,
@@ -7436,6 +7734,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35563,
+		["item_id"] = 29507,
 		["items"] = {
 			29728,
 		},
@@ -7457,6 +7756,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35564,
+		["item_id"] = 29508,
 		["items"] = {
 			29729,
 		},
@@ -7478,6 +7778,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35567,
+		["item_id"] = 29512,
 		["items"] = {
 			29730,
 		},
@@ -7499,6 +7800,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35568,
+		["item_id"] = 29509,
 		["items"] = {
 			29731,
 			35300,
@@ -7521,6 +7823,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35572,
+		["item_id"] = 29510,
 		["items"] = {
 			29732,
 		},
@@ -7542,6 +7845,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35573,
+		["item_id"] = 29511,
 		["items"] = {
 			29733,
 			35301,
@@ -7564,6 +7868,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35574,
+		["item_id"] = 29514,
 		["items"] = {
 			29734,
 		},
@@ -7585,6 +7890,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35575,
+		["item_id"] = 29515,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "黑色虚鳞胸甲",
@@ -7611,6 +7917,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35576,
+		["item_id"] = 29516,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "黑色虚鳞腰带",
@@ -7637,6 +7944,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35577,
+		["item_id"] = 29517,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "黑色虚鳞护腕",
@@ -7663,6 +7971,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35580,
+		["item_id"] = 29519,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "虚空打击胸甲",
@@ -7689,6 +7998,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35582,
+		["item_id"] = 29520,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "虚空打击腰带",
@@ -7715,6 +8025,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35584,
+		["item_id"] = 29521,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "虚空打击护腕",
@@ -7741,6 +8052,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35585,
+		["item_id"] = 29522,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "风鹰胸甲",
@@ -7767,6 +8079,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35587,
+		["item_id"] = 29524,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "风鹰腰带",
@@ -7793,6 +8106,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35588,
+		["item_id"] = 29523,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "风鹰护腕",
@@ -7819,6 +8133,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35589,
+		["item_id"] = 29525,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "原始打击外衣",
@@ -7845,6 +8160,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35590,
+		["item_id"] = 29526,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "原始打击腰带",
@@ -7871,6 +8187,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35591,
+		["item_id"] = 29527,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "原始打击护腕",
@@ -7897,6 +8214,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36074,
+		["item_id"] = 29964,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "黑色风暴护腿",
@@ -7923,6 +8241,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36075,
+		["item_id"] = 29970,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "野羽护腿",
@@ -7949,6 +8268,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36076,
+		["item_id"] = 29971,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "龙击护腿",
@@ -7975,6 +8295,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36077,
+		["item_id"] = 29973,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "原始风暴胸甲",
@@ -8001,6 +8322,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36078,
+		["item_id"] = 29974,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "生命水晶胸甲",
@@ -8027,6 +8349,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36079,
+		["item_id"] = 29975,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "金色龙击胸甲",
@@ -8053,6 +8376,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36349,
+		["item_id"] = 30042,
 		["items"] = {
 			30301,
 		},
@@ -8074,6 +8398,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36351,
+		["item_id"] = 30040,
 		["items"] = {
 			30302,
 		},
@@ -8095,6 +8420,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36352,
+		["item_id"] = 30046,
 		["items"] = {
 			30303,
 		},
@@ -8116,6 +8442,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36353,
+		["item_id"] = 30044,
 		["items"] = {
 			30304,
 		},
@@ -8137,6 +8464,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36355,
+		["item_id"] = 30041,
 		["items"] = {
 			30305,
 		},
@@ -8158,6 +8486,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36357,
+		["item_id"] = 30039,
 		["items"] = {
 			30306,
 		},
@@ -8179,6 +8508,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36358,
+		["item_id"] = 30045,
 		["items"] = {
 			30307,
 		},
@@ -8200,6 +8530,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36359,
+		["item_id"] = 30043,
 		["items"] = {
 			30308,
 		},
@@ -8221,6 +8552,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39997,
+		["item_id"] = 32398,
 		["items"] = {
 			32429,
 		},
@@ -8242,6 +8574,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40000,
+		["item_id"] = 32399,
 		["items"] = {
 			32430,
 		},
@@ -8263,6 +8596,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40001,
+		["item_id"] = 32400,
 		["items"] = {
 			32431,
 		},
@@ -8284,6 +8618,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40002,
+		["item_id"] = 32397,
 		["items"] = {
 			32432,
 		},
@@ -8305,6 +8640,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40003,
+		["item_id"] = 32394,
 		["items"] = {
 			32433,
 		},
@@ -8326,6 +8662,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40004,
+		["item_id"] = 32395,
 		["items"] = {
 			32434,
 		},
@@ -8347,6 +8684,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40005,
+		["item_id"] = 32396,
 		["items"] = {
 			32435,
 		},
@@ -8368,6 +8706,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40006,
+		["item_id"] = 32393,
 		["items"] = {
 			32436,
 		},
@@ -8389,6 +8728,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41156,
+		["item_id"] = 32582,
 		["items"] = {
 			32744,
 		},
@@ -8410,6 +8750,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41157,
+		["item_id"] = 32583,
 		["items"] = {
 			32745,
 		},
@@ -8431,6 +8772,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41158,
+		["item_id"] = 32580,
 		["items"] = {
 			32746,
 		},
@@ -8452,6 +8794,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41160,
+		["item_id"] = 32581,
 		["items"] = {
 			32747,
 		},
@@ -8473,6 +8816,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41161,
+		["item_id"] = 32574,
 		["items"] = {
 			32748,
 		},
@@ -8494,6 +8838,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41162,
+		["item_id"] = 32575,
 		["items"] = {
 			32749,
 		},
@@ -8515,6 +8860,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41163,
+		["item_id"] = 32577,
 		["items"] = {
 			32750,
 		},
@@ -8536,6 +8882,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41164,
+		["item_id"] = 32579,
 		["items"] = {
 			32751,
 		},
@@ -8557,6 +8904,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42546,
+		["item_id"] = 33122,
 		["items"] = {
 			33124,
 		},
@@ -8578,6 +8926,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42731,
+		["item_id"] = 33204,
 		["items"] = {
 			33205,
 		},
@@ -8599,6 +8948,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44343,
+		["item_id"] = 34099,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "结缔皮弹药包",
@@ -8612,7 +8962,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Faltriquera para munición de pellejo nudoso",
 			["Taiwanese"] = "境外皮彈藥包",
 		},
-		["phase"] = 3,
+		["phase"] = 4,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -8625,6 +8975,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44344,
+		["item_id"] = 34100,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "结缔皮箭袋",
@@ -8638,7 +8989,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 			["Spanish"] = "Carcaj de pellejo nudoso",
 			["Taiwanese"] = "境外皮箭袋",
 		},
-		["phase"] = 3,
+		["phase"] = 4,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -8651,6 +9002,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44359,
+		["item_id"] = 34105,
 		["items"] = {
 			34200,
 		},
@@ -8672,6 +9024,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44768,
+		["item_id"] = 34106,
 		["items"] = {
 			34201,
 			34218,
@@ -8694,6 +9047,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44770,
+		["item_id"] = 34207,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "手套强固",
@@ -8720,6 +9074,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44953,
+		["item_id"] = 34086,
 		["items"] = {
 			34262,
 		},
@@ -8741,6 +9096,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44970,
+		["item_id"] = 34330,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "厚重结缔皮护甲片",
@@ -8767,6 +9123,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 45100,
+		["item_id"] = 34482,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "制皮匠的背包",
@@ -8793,6 +9150,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 45117,
+		["item_id"] = 34490,
 		["items"] = {
 			34491,
 		},
@@ -8814,6 +9172,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46132,
+		["item_id"] = 34372,
 		["items"] = {
 			35212,
 		},
@@ -8835,6 +9194,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46133,
+		["item_id"] = 34374,
 		["items"] = {
 			35213,
 		},
@@ -8856,6 +9216,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46134,
+		["item_id"] = 34370,
 		["items"] = {
 			35214,
 		},
@@ -8877,6 +9238,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46135,
+		["item_id"] = 34376,
 		["items"] = {
 			35215,
 		},
@@ -8898,6 +9260,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46136,
+		["item_id"] = 34371,
 		["items"] = {
 			35216,
 		},
@@ -8919,6 +9282,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46137,
+		["item_id"] = 34373,
 		["items"] = {
 			35217,
 		},
@@ -8940,6 +9304,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46138,
+		["item_id"] = 34369,
 		["items"] = {
 			35218,
 		},
@@ -8961,6 +9326,7 @@ MTSL_DATA["skills"]["Leatherworking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46139,
+		["item_id"] = 34375,
 		["items"] = {
 			35219,
 		},

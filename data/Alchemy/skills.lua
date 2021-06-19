@@ -44,6 +44,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2331,
+		["item_id"] = 2455,
 		["min_skill"] = 25,
 		["name"] = {
 			["Chinese"] = "初级法力药水",
@@ -91,6 +92,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2332,
+		["item_id"] = 2456,
 		["min_skill"] = 40,
 		["name"] = {
 			["Chinese"] = "初级活力药水",
@@ -138,6 +140,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2333,
+		["item_id"] = 3390,
 		["items"] = {
 			3396,
 		},
@@ -159,6 +162,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2334,
+		["item_id"] = 2458,
 		["min_skill"] = 50,
 		["name"] = {
 			["Chinese"] = "初级坚韧药剂",
@@ -206,6 +210,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2335,
+		["item_id"] = 2459,
 		["items"] = {
 			2555,
 		},
@@ -227,6 +232,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2337,
+		["item_id"] = 858,
 		["min_skill"] = 55,
 		["name"] = {
 			["Chinese"] = "次级治疗药水",
@@ -271,6 +277,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3170,
+		["item_id"] = 3382,
 		["min_skill"] = 15,
 		["name"] = {
 			["Chinese"] = "弱效巨魔之血药水",
@@ -318,6 +325,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3171,
+		["item_id"] = 3383,
 		["min_skill"] = 90,
 		["name"] = {
 			["Chinese"] = "智慧药剂",
@@ -355,6 +363,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3172,
+		["item_id"] = 3384,
 		["items"] = {
 			3393,
 		},
@@ -376,6 +385,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3173,
+		["item_id"] = 3385,
 		["min_skill"] = 120,
 		["name"] = {
 			["Chinese"] = "次级法力药水",
@@ -413,6 +423,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3174,
+		["item_id"] = 3386,
 		["items"] = {
 			3394,
 		},
@@ -434,6 +445,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3175,
+		["item_id"] = 3387,
 		["items"] = {
 			3395,
 		},
@@ -455,6 +467,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3176,
+		["item_id"] = 3388,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "强力巨魔之血药水",
@@ -492,6 +505,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3177,
+		["item_id"] = 3389,
 		["min_skill"] = 130,
 		["name"] = {
 			["Chinese"] = "防御药剂",
@@ -529,6 +543,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3188,
+		["item_id"] = 3391,
 		["items"] = {
 			6211,
 		},
@@ -550,6 +565,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3230,
+		["item_id"] = 2457,
 		["items"] = {
 			2553,
 		},
@@ -571,6 +587,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3447,
+		["item_id"] = 929,
 		["min_skill"] = 110,
 		["name"] = {
 			["Chinese"] = "治疗药水",
@@ -608,6 +625,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3448,
+		["item_id"] = 3823,
 		["min_skill"] = 165,
 		["name"] = {
 			["Chinese"] = "次级隐形药水",
@@ -635,6 +653,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3449,
+		["item_id"] = 3824,
 		["items"] = {
 			6068,
 		},
@@ -656,6 +675,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3450,
+		["item_id"] = 3825,
 		["items"] = {
 			3830,
 		},
@@ -686,6 +706,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3451,
+		["item_id"] = 3826,
 		["items"] = {
 			3831,
 		},
@@ -707,6 +728,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3452,
+		["item_id"] = 3827,
 		["min_skill"] = 160,
 		["name"] = {
 			["Chinese"] = "法力药水",
@@ -734,6 +756,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3453,
+		["item_id"] = 3828,
 		["items"] = {
 			3832,
 		},
@@ -755,6 +778,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3454,
+		["item_id"] = 3829,
 		["items"] = {
 			14634,
 		},
@@ -776,6 +800,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 4508,
+		["item_id"] = 4596,
 		["items"] = {
 			4597,
 		},
@@ -797,6 +822,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 4942,
+		["item_id"] = 4623,
 		["items"] = {
 			4624,
 		},
@@ -818,6 +844,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6617,
+		["item_id"] = 5631,
 		["items"] = {
 			5640,
 		},
@@ -839,6 +866,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6618,
+		["item_id"] = 5633,
 		["items"] = {
 			5643,
 		},
@@ -860,6 +888,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6624,
+		["item_id"] = 5634,
 		["items"] = {
 			5642,
 		},
@@ -881,6 +910,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7179,
+		["item_id"] = 5996,
 		["min_skill"] = 90,
 		["name"] = {
 			["Chinese"] = "水下呼吸药剂",
@@ -918,6 +948,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7181,
+		["item_id"] = 1710,
 		["min_skill"] = 155,
 		["name"] = {
 			["Chinese"] = "强效治疗药水",
@@ -964,6 +995,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7255,
+		["item_id"] = 6051,
 		["items"] = {
 			6053,
 		},
@@ -985,6 +1017,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7256,
+		["item_id"] = 6048,
 		["items"] = {
 			6054,
 		},
@@ -1006,6 +1039,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7257,
+		["item_id"] = 6049,
 		["items"] = {
 			6055,
 		},
@@ -1027,6 +1061,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7258,
+		["item_id"] = 6050,
 		["items"] = {
 			6056,
 		},
@@ -1048,6 +1083,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7259,
+		["item_id"] = 6052,
 		["items"] = {
 			6057,
 		},
@@ -1069,6 +1105,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7836,
+		["item_id"] = 6370,
 		["min_skill"] = 80,
 		["name"] = {
 			["Chinese"] = "黑口鱼油",
@@ -1106,6 +1143,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7837,
+		["item_id"] = 6371,
 		["min_skill"] = 130,
 		["name"] = {
 			["Chinese"] = "火焰之油",
@@ -1143,6 +1181,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7841,
+		["item_id"] = 6372,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "速游药水",
@@ -1180,6 +1219,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7845,
+		["item_id"] = 6373,
 		["min_skill"] = 140,
 		["name"] = {
 			["Chinese"] = "火力药剂",
@@ -1217,6 +1257,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8240,
+		["item_id"] = 6662,
 		["items"] = {
 			6663,
 		},
@@ -1238,6 +1279,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11448,
+		["item_id"] = 6149,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "强效法力药水",
@@ -1265,6 +1307,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11449,
+		["item_id"] = 8949,
 		["min_skill"] = 185,
 		["name"] = {
 			["Chinese"] = "敏捷药剂",
@@ -1292,6 +1335,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11450,
+		["item_id"] = 8951,
 		["min_skill"] = 195,
 		["name"] = {
 			["Chinese"] = "强效防御药剂",
@@ -1319,6 +1363,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11451,
+		["item_id"] = 8956,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "献祭之油",
@@ -1346,6 +1391,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11452,
+		["item_id"] = 9030,
 		["min_skill"] = 210,
 		["name"] = {
 			["Chinese"] = "滋补药剂",
@@ -1368,6 +1414,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11453,
+		["item_id"] = 9036,
 		["items"] = {
 			9293,
 		},
@@ -1389,6 +1436,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11456,
+		["item_id"] = 9061,
 		["items"] = {
 			10644,
 		},
@@ -1410,6 +1458,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11457,
+		["item_id"] = 3928,
 		["min_skill"] = 215,
 		["name"] = {
 			["Chinese"] = "优质治疗药水",
@@ -1437,6 +1486,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11458,
+		["item_id"] = 9144,
 		["items"] = {
 			9294,
 		},
@@ -1458,6 +1508,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11459,
+		["item_id"] = 9149,
 		["items"] = {
 			9303,
 		},
@@ -1479,6 +1530,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11460,
+		["item_id"] = 9154,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "侦测亡灵药剂",
@@ -1504,6 +1556,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11461,
+		["item_id"] = 9155,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "奥法药剂",
@@ -1529,6 +1582,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11464,
+		["item_id"] = 9172,
 		["items"] = {
 			9295,
 		},
@@ -1550,6 +1604,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11465,
+		["item_id"] = 9179,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "强效聪颖药剂",
@@ -1575,6 +1630,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11466,
+		["item_id"] = 9088,
 		["items"] = {
 			9296,
 		},
@@ -1596,6 +1652,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11467,
+		["item_id"] = 9187,
 		["min_skill"] = 240,
 		["name"] = {
 			["Chinese"] = "强效敏捷药剂",
@@ -1621,6 +1678,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11468,
+		["item_id"] = 9197,
 		["items"] = {
 			9297,
 		},
@@ -1642,6 +1700,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11472,
+		["item_id"] = 9206,
 		["items"] = {
 			9298,
 		},
@@ -1663,6 +1722,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11473,
+		["item_id"] = 9210,
 		["items"] = {
 			9302,
 		},
@@ -1684,6 +1744,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11476,
+		["item_id"] = 9264,
 		["items"] = {
 			9301,
 		},
@@ -1705,6 +1766,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11477,
+		["item_id"] = 9224,
 		["items"] = {
 			9300,
 		},
@@ -1726,6 +1788,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11478,
+		["item_id"] = 9233,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "侦测恶魔药剂",
@@ -1751,6 +1814,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11479,
+		["item_id"] = 3577,
 		["items"] = {
 			9304,
 		},
@@ -1772,6 +1836,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11480,
+		["item_id"] = 6037,
 		["items"] = {
 			9305,
 		},
@@ -1793,6 +1858,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12609,
+		["item_id"] = 10592,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "猫眼药剂",
@@ -1820,6 +1886,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15833,
+		["item_id"] = 12190,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "昏睡药水",
@@ -1845,6 +1912,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17187,
+		["item_id"] = 12360,
 		["items"] = {
 			12958,
 		},
@@ -1866,6 +1934,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17551,
+		["item_id"] = 13423,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "石鳞鱼油",
@@ -1891,6 +1960,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17552,
+		["item_id"] = 13442,
 		["items"] = {
 			13476,
 		},
@@ -1912,6 +1982,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17553,
+		["item_id"] = 13443,
 		["items"] = {
 			13477,
 		},
@@ -1933,6 +2004,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17554,
+		["item_id"] = 13445,
 		["items"] = {
 			13478,
 		},
@@ -1954,6 +2026,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17555,
+		["item_id"] = 13447,
 		["items"] = {
 			13479,
 		},
@@ -1975,6 +2048,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17556,
+		["item_id"] = 13446,
 		["items"] = {
 			13480,
 		},
@@ -1996,6 +2070,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17557,
+		["item_id"] = 13453,
 		["items"] = {
 			13481,
 		},
@@ -2017,6 +2092,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17559,
+		["item_id"] = 7078,
 		["items"] = {
 			13482,
 		},
@@ -2038,6 +2114,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17560,
+		["item_id"] = 7076,
 		["items"] = {
 			13483,
 		},
@@ -2059,6 +2136,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17561,
+		["item_id"] = 7080,
 		["items"] = {
 			13484,
 		},
@@ -2080,6 +2158,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17562,
+		["item_id"] = 7082,
 		["items"] = {
 			13485,
 		},
@@ -2101,6 +2180,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17563,
+		["item_id"] = 7080,
 		["items"] = {
 			13486,
 		},
@@ -2122,6 +2202,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17564,
+		["item_id"] = 12808,
 		["items"] = {
 			13487,
 		},
@@ -2143,6 +2224,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17565,
+		["item_id"] = 7076,
 		["items"] = {
 			13488,
 		},
@@ -2164,6 +2246,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17566,
+		["item_id"] = 12803,
 		["items"] = {
 			13489,
 		},
@@ -2185,6 +2268,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17570,
+		["item_id"] = 13455,
 		["items"] = {
 			13490,
 		},
@@ -2206,6 +2290,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17571,
+		["item_id"] = 13452,
 		["items"] = {
 			13491,
 		},
@@ -2227,6 +2312,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17572,
+		["item_id"] = 13462,
 		["items"] = {
 			13492,
 		},
@@ -2248,6 +2334,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17573,
+		["item_id"] = 13454,
 		["items"] = {
 			13493,
 		},
@@ -2269,6 +2356,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17574,
+		["item_id"] = 13457,
 		["items"] = {
 			13494,
 		},
@@ -2290,6 +2378,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17575,
+		["item_id"] = 13456,
 		["items"] = {
 			13495,
 		},
@@ -2311,6 +2400,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17576,
+		["item_id"] = 13458,
 		["items"] = {
 			13496,
 		},
@@ -2332,6 +2422,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17577,
+		["item_id"] = 13461,
 		["items"] = {
 			13497,
 		},
@@ -2353,6 +2444,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17578,
+		["item_id"] = 13459,
 		["items"] = {
 			13499,
 		},
@@ -2374,6 +2466,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17580,
+		["item_id"] = 13444,
 		["items"] = {
 			13501,
 		},
@@ -2395,6 +2488,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 17632,
+		["item_id"] = 13503,
 		["items"] = {
 			13517,
 		},
@@ -2416,6 +2510,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17634,
+		["item_id"] = 13506,
 		["items"] = {
 			13518,
 		},
@@ -2437,6 +2532,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17635,
+		["item_id"] = 13510,
 		["items"] = {
 			13519,
 			31354,
@@ -2459,6 +2555,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17636,
+		["item_id"] = 13511,
 		["items"] = {
 			13520,
 		},
@@ -2480,6 +2577,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17637,
+		["item_id"] = 13512,
 		["items"] = {
 			13521,
 			31355,
@@ -2502,6 +2600,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17638,
+		["item_id"] = 13513,
 		["items"] = {
 			13522,
 			31357,
@@ -2524,6 +2623,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 21923,
+		["item_id"] = 17708,
 		["items"] = {
 			17709,
 		},
@@ -2545,6 +2645,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22732,
+		["item_id"] = 18253,
 		["items"] = {
 			18257,
 		},
@@ -2566,6 +2667,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22808,
+		["item_id"] = 18294,
 		["min_skill"] = 215,
 		["name"] = {
 			["Chinese"] = "强效水下呼吸药剂",
@@ -2593,6 +2695,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24266,
+		["item_id"] = 19931,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "古拉巴什魔精",
@@ -2615,6 +2718,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24365,
+		["item_id"] = 20007,
 		["items"] = {
 			20011,
 		},
@@ -2636,6 +2740,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24366,
+		["item_id"] = 20002,
 		["items"] = {
 			20012,
 		},
@@ -2657,6 +2762,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24367,
+		["item_id"] = 20008,
 		["items"] = {
 			20013,
 		},
@@ -2678,6 +2784,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24368,
+		["item_id"] = 20004,
 		["items"] = {
 			20014,
 		},
@@ -2699,6 +2806,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 25146,
+		["item_id"] = 7068,
 		["items"] = {
 			20761,
 		},
@@ -2720,6 +2828,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26277,
+		["item_id"] = 21546,
 		["items"] = {
 			21547,
 		},
@@ -2741,6 +2850,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28543,
+		["item_id"] = 22823,
 		["items"] = {
 			22900,
 		},
@@ -2762,6 +2872,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28544,
+		["item_id"] = 22824,
 		["min_skill"] = 305,
 		["name"] = {
 			["Chinese"] = "特效力量药剂",
@@ -2788,6 +2899,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28545,
+		["item_id"] = 22825,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "治疗能量药剂",
@@ -2814,6 +2926,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28546,
+		["item_id"] = 22826,
 		["items"] = {
 			22901,
 		},
@@ -2835,6 +2948,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28549,
+		["item_id"] = 22827,
 		["items"] = {
 			22902,
 		},
@@ -2856,6 +2970,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28550,
+		["item_id"] = 22828,
 		["items"] = {
 			22903,
 		},
@@ -2877,6 +2992,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28551,
+		["item_id"] = 22829,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "超级治疗药水",
@@ -2903,6 +3019,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28552,
+		["item_id"] = 22830,
 		["items"] = {
 			22904,
 		},
@@ -2924,6 +3041,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28553,
+		["item_id"] = 22831,
 		["items"] = {
 			22905,
 			24001,
@@ -2946,6 +3064,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28554,
+		["item_id"] = 22871,
 		["items"] = {
 			22906,
 		},
@@ -2967,6 +3086,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28555,
+		["item_id"] = 22832,
 		["items"] = {
 			22907,
 		},
@@ -2988,6 +3108,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28556,
+		["item_id"] = 22833,
 		["items"] = {
 			22908,
 		},
@@ -3009,6 +3130,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28557,
+		["item_id"] = 22834,
 		["items"] = {
 			22909,
 		},
@@ -3030,6 +3152,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28558,
+		["item_id"] = 22835,
 		["items"] = {
 			22910,
 		},
@@ -3051,6 +3174,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28562,
+		["item_id"] = 22836,
 		["items"] = {
 			22911,
 		},
@@ -3072,6 +3196,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28563,
+		["item_id"] = 22837,
 		["items"] = {
 			22912,
 		},
@@ -3093,6 +3218,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28564,
+		["item_id"] = 22838,
 		["items"] = {
 			22913,
 			35295,
@@ -3110,11 +3236,12 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Spanish"] = "Poción de celeridad",
 			["Taiwanese"] = "急速藥水",
 		},
-		["phase"] = 5,
+		["phase"] = 1,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 28565,
+		["item_id"] = 22839,
 		["items"] = {
 			22914,
 		},
@@ -3136,6 +3263,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28566,
+		["item_id"] = 21884,
 		["items"] = {
 			22915,
 		},
@@ -3157,6 +3285,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28567,
+		["item_id"] = 21885,
 		["items"] = {
 			22916,
 		},
@@ -3178,6 +3307,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28568,
+		["item_id"] = 22452,
 		["items"] = {
 			22917,
 			30443,
@@ -3200,6 +3330,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28569,
+		["item_id"] = 22451,
 		["items"] = {
 			22918,
 		},
@@ -3221,6 +3352,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28570,
+		["item_id"] = 22840,
 		["items"] = {
 			22919,
 		},
@@ -3242,6 +3374,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28571,
+		["item_id"] = 22841,
 		["items"] = {
 			22920,
 		},
@@ -3263,6 +3396,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28572,
+		["item_id"] = 22842,
 		["items"] = {
 			22921,
 		},
@@ -3284,6 +3418,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28573,
+		["item_id"] = 22844,
 		["items"] = {
 			22922,
 		},
@@ -3305,6 +3440,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28575,
+		["item_id"] = 22845,
 		["items"] = {
 			22923,
 		},
@@ -3326,6 +3462,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28576,
+		["item_id"] = 22846,
 		["items"] = {
 			22924,
 		},
@@ -3347,6 +3484,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28577,
+		["item_id"] = 22847,
 		["items"] = {
 			22925,
 		},
@@ -3368,6 +3506,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28578,
+		["item_id"] = 22848,
 		["items"] = {
 			22926,
 			35294,
@@ -3385,11 +3524,12 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Spanish"] = "Elixir de empoderación",
 			["Taiwanese"] = "活效藥劑",
 		},
-		["phase"] = 5,
+		["phase"] = 1,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 28579,
+		["item_id"] = 22849,
 		["items"] = {
 			22927,
 		},
@@ -3411,6 +3551,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28580,
+		["item_id"] = 21885,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "转化：源生暗影至源生之水",
@@ -3430,6 +3571,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28581,
+		["item_id"] = 22456,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "转化：源生之水至源生暗影",
@@ -3449,6 +3591,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28582,
+		["item_id"] = 21884,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "转化：源生法力至源生火焰",
@@ -3468,6 +3611,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28583,
+		["item_id"] = 22457,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "转化：源生火焰至源生法力",
@@ -3487,6 +3631,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28584,
+		["item_id"] = 22452,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "转化：源生生命至源生之土",
@@ -3506,6 +3651,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28585,
+		["item_id"] = 21886,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "转化：源生之土至源生生命",
@@ -3525,6 +3671,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28586,
+		["item_id"] = 22850,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "超级活力药水",
@@ -3544,6 +3691,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28587,
+		["item_id"] = 22851,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "强固合剂",
@@ -3563,6 +3711,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28588,
+		["item_id"] = 22853,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "强效回复合剂",
@@ -3582,6 +3731,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28589,
+		["item_id"] = 22854,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "无情突袭合剂",
@@ -3601,6 +3751,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28590,
+		["item_id"] = 22861,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "盲目光芒合剂",
@@ -3620,6 +3771,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28591,
+		["item_id"] = 22866,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "纯粹死亡合剂",
@@ -3639,6 +3791,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29688,
+		["item_id"] = 23571,
 		["items"] = {
 			23574,
 		},
@@ -3660,6 +3813,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32765,
+		["item_id"] = 25867,
 		["items"] = {
 			25869,
 		},
@@ -3681,6 +3835,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32766,
+		["item_id"] = 25868,
 		["items"] = {
 			25870,
 			29232,
@@ -3703,6 +3858,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33732,
+		["item_id"] = 28100,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "不稳定的治疗药水",
@@ -3729,6 +3885,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33733,
+		["item_id"] = 28101,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "不稳定的法力药水",
@@ -3755,6 +3912,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33738,
+		["item_id"] = 28102,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "强攻药剂",
@@ -3781,6 +3939,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33740,
+		["item_id"] = 28103,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "法能药剂",
@@ -3807,6 +3966,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33741,
+		["item_id"] = 28104,
 		["min_skill"] = 315,
 		["name"] = {
 			["Chinese"] = "掌控药剂",
@@ -3833,6 +3993,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38070,
+		["item_id"] = 31080,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "水银石",
@@ -3859,6 +4020,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38960,
+		["item_id"] = 31679,
 		["items"] = {
 			31680,
 		},
@@ -3880,6 +4042,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38961,
+		["item_id"] = 31677,
 		["items"] = {
 			31682,
 		},
@@ -3901,6 +4064,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38962,
+		["item_id"] = 31676,
 		["items"] = {
 			31681,
 		},
@@ -3922,6 +4086,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39636,
+		["item_id"] = 32062,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "特效坚韧药剂",
@@ -3948,6 +4113,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39637,
+		["item_id"] = 32063,
 		["items"] = {
 			32070,
 		},
@@ -3969,6 +4135,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39638,
+		["item_id"] = 32067,
 		["min_skill"] = 320,
 		["name"] = {
 			["Chinese"] = "德莱尼智慧药剂",
@@ -3995,6 +4162,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39639,
+		["item_id"] = 32068,
 		["items"] = {
 			32071,
 		},
@@ -4016,6 +4184,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41458,
+		["item_id"] = 32839,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "特效奥术防护药锅",
@@ -4035,6 +4204,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41500,
+		["item_id"] = 32849,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "特效火焰防护药锅",
@@ -4054,6 +4224,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41501,
+		["item_id"] = 32850,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "特效冰霜防护药锅",
@@ -4073,6 +4244,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41502,
+		["item_id"] = 32851,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "特效自然防护药锅",
@@ -4092,6 +4264,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41503,
+		["item_id"] = 32852,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "特效暗影防护药锅",
@@ -4111,6 +4284,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42736,
+		["item_id"] = 33208,
 		["items"] = {
 			33209,
 		},
@@ -4132,6 +4306,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 45061,
+		["item_id"] = 34440,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "疯狂炼金师药水",
@@ -4158,6 +4333,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 47046,
+		["item_id"] = 35748,
 		["items"] = {
 			35752,
 		},
@@ -4179,6 +4355,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 47048,
+		["item_id"] = 35749,
 		["items"] = {
 			35753,
 		},
@@ -4200,6 +4377,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 47049,
+		["item_id"] = 35750,
 		["items"] = {
 			35754,
 		},
@@ -4221,6 +4399,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 	{
 		["expansion"] = 2,
 		["id"] = 47050,
+		["item_id"] = 35751,
 		["items"] = {
 			35755,
 		},

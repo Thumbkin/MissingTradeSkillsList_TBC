@@ -25,6 +25,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2539,
+		["item_id"] = 2680,
 		["min_skill"] = 10,
 		["name"] = {
 			["Chinese"] = "香辣狼肉",
@@ -81,6 +82,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2541,
+		["item_id"] = 2684,
 		["min_skill"] = 50,
 		["name"] = {
 			["Chinese"] = "山狗肉排",
@@ -118,6 +120,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2542,
+		["item_id"] = 724,
 		["items"] = {
 			2697,
 		},
@@ -139,6 +142,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2543,
+		["item_id"] = 733,
 		["items"] = {
 			728,
 		},
@@ -160,6 +164,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2544,
+		["item_id"] = 2683,
 		["min_skill"] = 75,
 		["name"] = {
 			["Chinese"] = "蟹肉蛋糕",
@@ -197,6 +202,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2545,
+		["item_id"] = 2682,
 		["items"] = {
 			2698,
 		},
@@ -218,6 +224,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2546,
+		["item_id"] = 2687,
 		["min_skill"] = 80,
 		["name"] = {
 			["Chinese"] = "猪肉干",
@@ -255,6 +262,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2547,
+		["item_id"] = 1082,
 		["items"] = {
 			2699,
 		},
@@ -276,6 +284,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2548,
+		["item_id"] = 2685,
 		["items"] = {
 			2700,
 		},
@@ -297,6 +306,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2549,
+		["item_id"] = 1017,
 		["items"] = {
 			2701,
 		},
@@ -318,6 +328,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2795,
+		["item_id"] = 2888,
 		["items"] = {
 			2889,
 		},
@@ -339,6 +350,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3370,
+		["item_id"] = 3662,
 		["items"] = {
 			3678,
 		},
@@ -360,6 +372,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3371,
+		["item_id"] = 3220,
 		["items"] = {
 			3679,
 		},
@@ -381,6 +394,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3372,
+		["item_id"] = 3663,
 		["items"] = {
 			3680,
 		},
@@ -402,6 +416,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3373,
+		["item_id"] = 3664,
 		["items"] = {
 			3681,
 		},
@@ -423,6 +438,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3376,
+		["item_id"] = 3665,
 		["items"] = {
 			3682,
 		},
@@ -444,6 +460,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3377,
+		["item_id"] = 3666,
 		["items"] = {
 			3683,
 		},
@@ -465,6 +482,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3397,
+		["item_id"] = 3726,
 		["items"] = {
 			3734,
 		},
@@ -486,6 +504,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3398,
+		["item_id"] = 3727,
 		["items"] = {
 			3735,
 		},
@@ -507,6 +526,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3399,
+		["item_id"] = 3728,
 		["items"] = {
 			3736,
 		},
@@ -528,6 +548,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3400,
+		["item_id"] = 3729,
 		["items"] = {
 			3737,
 		},
@@ -549,6 +570,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 4094,
+		["item_id"] = 4457,
 		["items"] = {
 			4609,
 		},
@@ -570,6 +592,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6412,
+		["item_id"] = 5472,
 		["items"] = {
 			5482,
 		},
@@ -591,6 +614,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6413,
+		["item_id"] = 5473,
 		["items"] = {
 			5483,
 		},
@@ -612,6 +636,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6414,
+		["item_id"] = 5474,
 		["items"] = {
 			5484,
 		},
@@ -633,6 +658,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6415,
+		["item_id"] = 5476,
 		["items"] = {
 			5485,
 		},
@@ -654,6 +680,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6416,
+		["item_id"] = 5477,
 		["items"] = {
 			5486,
 		},
@@ -675,6 +702,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6417,
+		["item_id"] = 5478,
 		["items"] = {
 			5487,
 		},
@@ -696,6 +724,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6418,
+		["item_id"] = 5479,
 		["items"] = {
 			5488,
 		},
@@ -717,6 +746,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6419,
+		["item_id"] = 5480,
 		["items"] = {
 			5489,
 		},
@@ -738,6 +768,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6499,
+		["item_id"] = 5525,
 		["min_skill"] = 50,
 		["name"] = {
 			["Chinese"] = "水煮蚌肉",
@@ -775,6 +806,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6500,
+		["item_id"] = 5527,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "地精芥末蘸蚌肉",
@@ -812,6 +844,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6501,
+		["item_id"] = 5526,
 		["items"] = {
 			5528,
 		},
@@ -833,6 +866,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7213,
+		["item_id"] = 6038,
 		["items"] = {
 			6039,
 		},
@@ -854,6 +888,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7751,
+		["item_id"] = 6290,
 		["items"] = {
 			6325,
 		},
@@ -875,6 +910,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7752,
+		["item_id"] = 787,
 		["items"] = {
 			6326,
 		},
@@ -896,6 +932,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7753,
+		["item_id"] = 4592,
 		["items"] = {
 			6328,
 		},
@@ -917,6 +954,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7754,
+		["item_id"] = 6316,
 		["items"] = {
 			6329,
 		},
@@ -938,6 +976,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7755,
+		["item_id"] = 4593,
 		["items"] = {
 			6330,
 		},
@@ -959,6 +998,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7827,
+		["item_id"] = 5095,
 		["items"] = {
 			6368,
 		},
@@ -980,6 +1020,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7828,
+		["item_id"] = 4594,
 		["items"] = {
 			6369,
 		},
@@ -1001,6 +1042,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8238,
+		["item_id"] = 6657,
 		["items"] = {
 			6661,
 		},
@@ -1041,6 +1083,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8607,
+		["item_id"] = 6890,
 		["items"] = {
 			6892,
 		},
@@ -1065,6 +1108,7 @@ MTSL_DATA["skills"]["Cooking"] =
 		},
 		["expansion"] = 1,
 		["id"] = 9513,
+		["item_id"] = 7676,
 		["items"] = {
 			18160,
 		},
@@ -1086,6 +1130,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 13028,
+		["item_id"] = 10841,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "金棘茶",
@@ -1110,6 +1155,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15853,
+		["item_id"] = 12209,
 		["items"] = {
 			12227,
 		},
@@ -1131,6 +1177,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15855,
+		["item_id"] = 12210,
 		["items"] = {
 			12228,
 		},
@@ -1152,6 +1199,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15856,
+		["item_id"] = 13851,
 		["items"] = {
 			12229,
 		},
@@ -1173,6 +1221,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15861,
+		["item_id"] = 12212,
 		["items"] = {
 			12231,
 		},
@@ -1194,6 +1243,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15863,
+		["item_id"] = 12213,
 		["items"] = {
 			12232,
 		},
@@ -1215,6 +1265,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15865,
+		["item_id"] = 12214,
 		["items"] = {
 			12233,
 		},
@@ -1236,6 +1287,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15906,
+		["item_id"] = 12217,
 		["items"] = {
 			12239,
 		},
@@ -1257,6 +1309,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15910,
+		["item_id"] = 12215,
 		["items"] = {
 			12240,
 		},
@@ -1278,6 +1331,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15915,
+		["item_id"] = 12216,
 		["items"] = {
 			16111,
 		},
@@ -1299,6 +1353,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15933,
+		["item_id"] = 12218,
 		["items"] = {
 			16110,
 		},
@@ -1320,6 +1375,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15935,
+		["item_id"] = 12224,
 		["items"] = {
 			12226,
 		},
@@ -1341,6 +1397,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18238,
+		["item_id"] = 6887,
 		["items"] = {
 			13939,
 		},
@@ -1362,6 +1419,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18239,
+		["item_id"] = 13927,
 		["items"] = {
 			13940,
 		},
@@ -1383,6 +1441,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18240,
+		["item_id"] = 13928,
 		["items"] = {
 			13942,
 		},
@@ -1404,6 +1463,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18241,
+		["item_id"] = 13930,
 		["items"] = {
 			13941,
 		},
@@ -1425,6 +1485,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18242,
+		["item_id"] = 13929,
 		["items"] = {
 			13943,
 		},
@@ -1446,6 +1507,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18243,
+		["item_id"] = 13931,
 		["items"] = {
 			13945,
 		},
@@ -1467,6 +1529,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18244,
+		["item_id"] = 13932,
 		["items"] = {
 			13946,
 		},
@@ -1488,6 +1551,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18245,
+		["item_id"] = 13933,
 		["items"] = {
 			13947,
 		},
@@ -1509,6 +1573,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18246,
+		["item_id"] = 13934,
 		["items"] = {
 			13948,
 		},
@@ -1530,6 +1595,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18247,
+		["item_id"] = 13935,
 		["items"] = {
 			13949,
 		},
@@ -1551,6 +1617,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20626,
+		["item_id"] = 16766,
 		["items"] = {
 			16767,
 		},
@@ -1572,6 +1639,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20916,
+		["item_id"] = 8364,
 		["items"] = {
 			17062,
 		},
@@ -1593,6 +1661,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 21143,
+		["item_id"] = 17197,
 		["items"] = {
 			17200,
 		},
@@ -1614,6 +1683,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 21144,
+		["item_id"] = 17198,
 		["items"] = {
 			17201,
 		},
@@ -1635,6 +1705,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 21175,
+		["item_id"] = 17222,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "蜘蛛肉肠",
@@ -1672,6 +1743,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22480,
+		["item_id"] = 18045,
 		["items"] = {
 			18046,
 		},
@@ -1693,6 +1765,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22761,
+		["item_id"] = 18254,
 		["items"] = {
 			18267,
 		},
@@ -1714,6 +1787,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24418,
+		["item_id"] = 20074,
 		["items"] = {
 			20075,
 		},
@@ -1735,6 +1809,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24801,
+		["item_id"] = 20452,
 		["min_skill"] = 285,
 		["name"] = {
 			["Chinese"] = "沙漠肉丸子",
@@ -1756,6 +1831,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 25659,
+		["item_id"] = 21023,
 		["items"] = {
 			21025,
 		},
@@ -1777,6 +1853,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25704,
+		["item_id"] = 21072,
 		["items"] = {
 			21099,
 		},
@@ -1798,6 +1875,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25954,
+		["item_id"] = 21217,
 		["items"] = {
 			21219,
 		},
@@ -1819,6 +1897,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28267,
+		["item_id"] = 22645,
 		["items"] = {
 			22647,
 		},
@@ -1840,6 +1919,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33276,
+		["item_id"] = 27635,
 		["items"] = {
 			27685,
 		},
@@ -1861,6 +1941,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33277,
+		["item_id"] = 24105,
 		["items"] = {
 			27686,
 		},
@@ -1882,6 +1963,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33278,
+		["item_id"] = 27636,
 		["items"] = {
 			27687,
 		},
@@ -1903,6 +1985,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33279,
+		["item_id"] = 27651,
 		["items"] = {
 			27684,
 		},
@@ -1924,6 +2007,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33284,
+		["item_id"] = 27655,
 		["items"] = {
 			27688,
 		},
@@ -1945,6 +2029,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33285,
+		["item_id"] = 27656,
 		["items"] = {
 			27689,
 		},
@@ -1966,6 +2051,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33286,
+		["item_id"] = 27657,
 		["items"] = {
 			27690,
 		},
@@ -1987,6 +2073,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33287,
+		["item_id"] = 27658,
 		["items"] = {
 			27691,
 		},
@@ -2008,6 +2095,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33288,
+		["item_id"] = 27659,
 		["items"] = {
 			27692,
 		},
@@ -2029,6 +2117,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33289,
+		["item_id"] = 27660,
 		["items"] = {
 			27693,
 		},
@@ -2050,6 +2139,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33290,
+		["item_id"] = 27661,
 		["items"] = {
 			27694,
 		},
@@ -2071,6 +2161,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33291,
+		["item_id"] = 27662,
 		["items"] = {
 			27695,
 		},
@@ -2092,6 +2183,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33292,
+		["item_id"] = 27663,
 		["items"] = {
 			27696,
 		},
@@ -2113,6 +2205,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33293,
+		["item_id"] = 27664,
 		["items"] = {
 			27697,
 		},
@@ -2134,6 +2227,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33294,
+		["item_id"] = 27665,
 		["items"] = {
 			27698,
 		},
@@ -2155,6 +2249,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33295,
+		["item_id"] = 27666,
 		["items"] = {
 			27699,
 		},
@@ -2176,6 +2271,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 33296,
+		["item_id"] = 27667,
 		["items"] = {
 			27700,
 		},
@@ -2197,6 +2293,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36210,
+		["item_id"] = 30155,
 		["items"] = {
 			30156,
 		},
@@ -2218,6 +2315,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 37836,
+		["item_id"] = 30816,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "香料面包",
@@ -2265,6 +2363,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38867,
+		["item_id"] = 31672,
 		["items"] = {
 			31675,
 		},
@@ -2286,6 +2385,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38868,
+		["item_id"] = 31673,
 		["items"] = {
 			31674,
 		},
@@ -2364,6 +2464,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 43707,
+		["item_id"] = 33825,
 		["items"] = {
 			33870,
 		},
@@ -2385,6 +2486,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 43758,
+		["item_id"] = 33866,
 		["items"] = {
 			33871,
 		},
@@ -2406,6 +2508,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 43761,
+		["item_id"] = 33867,
 		["items"] = {
 			33869,
 		},
@@ -2427,6 +2530,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 43765,
+		["item_id"] = 33872,
 		["items"] = {
 			33873,
 		},
@@ -2448,6 +2552,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 43772,
+		["item_id"] = 33874,
 		["items"] = {
 			33875,
 		},
@@ -2469,6 +2574,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 43779,
+		["item_id"] = 33924,
 		["items"] = {
 			33925,
 		},
@@ -2490,6 +2596,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 45022,
+		["item_id"] = 34411,
 		["items"] = {
 			34413,
 		},
@@ -2511,6 +2618,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 45695,
+		["item_id"] = 34832,
 		["items"] = {
 			34834,
 		},
@@ -2532,6 +2640,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46684,
+		["item_id"] = 35563,
 		["items"] = {
 			35564,
 		},
@@ -2553,6 +2662,7 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 1,
 		["id"] = 46688,
+		["item_id"] = 35565,
 		["items"] = {
 			35566,
 		},

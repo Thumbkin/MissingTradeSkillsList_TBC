@@ -13,7 +13,7 @@ MTSLUI_EVENT_HANDLER = {
 	-- Event started when our addon is fully loaded
 	---------------------------------------------------------------------------------------
 	PLAYER_LOGIN = function (self)
-		MTSL_MISSING_DATA = nil
+		MTSL_MISSING_DATA = { }
 		if MTSL_TOOLS:CheckIfDataIsValid() then
 			if MTSLUI_TOOLS:SetAddonLocale() then
 				-- load the data for the player
@@ -80,35 +80,16 @@ MTSLUI_EVENT_HANDLER = {
 	-- Event started when a crafting window is closed
 	---------------------------------------------------------------------------------------
 	CRAFT_CLOSE = function (self)
-		self.ui_craft_open = 0
 		-- if we have a tradeskill window open, reanchor togglebutton and refresh frame
-		if self.ui_trade_open > 0 then
+		if MTSL_PREVIOUS_OPENED_PROFESSION then
 			self:TRADE_SKILL_SHOW()
 			self:TRADE_SKILL_UPDATE()
+			MTSL_CURRENT_OPENED_PROFESSION = MTSL_PREVIOUS_OPENED_PROFESSION
+			MTSL_PREVIOUS_OPENED_PROFESSION = nil
 		-- no other window was open so close the addon
 		else
 			MTSLUI_TOGGLE_BUTTON:Hide()
 			MTSLUI_MISSING_TRADESKILLS_FRAME:Hide()
-		end
-	end,
-	
-	---------------------------------------------------------------------------------------
-	-- Event started when a crafting window is opened
-	---------------------------------------------------------------------------------------
-	CRAFT_SHOW = function (self)
-        -- Check if we effectively opened a CraftFrame
-		if CraftFrame then
-			-- make it drageable
-			MTSLUI_TOOLS:AddDragToFrame(CraftFrame)
-			local localised_name, current_skill_level, max_level = GetCraftDisplaySkillLine()
-			--Get the English name of the profession
-			local profession_name = MTSL_LOGIC_PROFESSION:GetEnglishProfessionNameFromLocalisedName(localised_name)
-			-- There are other craftframes like (Beast Training) so we only want enchanting
-			if profession_name == "Enchanting" then
-				self:SwapToProfession(profession_name, current_skill_level, max_level)
-				MTSLUI_MISSING_TRADESKILLS_FRAME:RefreshUI(1)
-				MTSLUI_CHARACTER_EXPLORER_FRAME:RefreshUI(1)
-			end
 		end
 	end,
 	
@@ -134,15 +115,15 @@ MTSLUI_EVENT_HANDLER = {
 		-- Check if we (un)learned a profession (only possbile if SkillFrame is shown and active and player exists)
 		if SkillFrame and SkillFrame:IsVisible() and MTSL_LOGIC_PLAYER_NPC:PlayerExists(MTSL_CURRENT_PLAYER.NAME, MTSL_CURRENT_PLAYER.REALM) then
 			local has_unlearned = MTSL_LOGIC_PLAYER_NPC:RemoveUnlearnedProfessions()
-			if has_unlearned == false then has_unlearned = MTSL_LOGIC_PLAYER_NPC:CheckSpecialisations() end
+			if not has_unlearned then has_unlearned = MTSL_LOGIC_PLAYER_NPC:CheckSpecialisations() end
 
-			if has_unlearned == true then
+			if has_unlearned  then
 				MTSLUI_ACCOUNT_EXPLORER_FRAME:RefreshUI(1)
 				MTSLUI_CHARACTER_EXPLORER_FRAME:UpdateProfessions()
 			end
 		end
 
-		if has_learned == true then
+		if has_learned then
 			MTSLUI_ACCOUNT_EXPLORER_FRAME:RefreshUI(1)
 			MTSLUI_CHARACTER_EXPLORER_FRAME:UpdateProfessions()
 		end
@@ -152,34 +133,16 @@ MTSLUI_EVENT_HANDLER = {
 	-- Event started when a trade skill windows is closed
 	---------------------------------------------------------------------------------------
 	TRADE_SKILL_CLOSE = function (self)
-		self.ui_trade_open = 0
 		-- if we have a tradeskill window open, reanchor togglebutton and refresh frame
-		if self.ui_craft_open > 0 then
+		if MTSL_PREVIOUS_OPENED_PROFESSION == "Enchanting" then
 			self:CRAFT_SHOW()
 			self:CRAFT_UPDATE()
+			MTSL_CURRENT_OPENED_PROFESSION = "Enchanting"
+			MTSL_PREVIOUS_OPENED_PROFESSION = nil
 		-- no other window was open so close the addon
 		else
 			MTSLUI_TOGGLE_BUTTON:Hide()
 			MTSLUI_MISSING_TRADESKILLS_FRAME:Hide()
-		end
-	end,
-	
-	---------------------------------------------------------------------------------------
-	-- Event started when a trade skill windows is opened
-	---------------------------------------------------------------------------------------
-	TRADE_SKILL_SHOW = function (self)
-		-- If we have a tradeskillframe
-		if TradeSkillFrame then
-			-- make it drageable
-			MTSLUI_TOOLS:AddDragToFrame(TradeSkillFrame)
-			local localised_name, current_skill_level, max_level = GetTradeSkillLine()
-			local profession_name = MTSL_LOGIC_PROFESSION:GetEnglishProfessionNameFromLocalisedName(localised_name)
-			-- only trigger event if its a trade_skill supported by the addon
-			if profession_name ~= nil then
-				self:SwapToProfession(profession_name, current_skill_level, max_level)
-				MTSLUI_MISSING_TRADESKILLS_FRAME:RefreshUI(1)
-				MTSLUI_CHARACTER_EXPLORER_FRAME:RefreshUI(1)
-			end
 		end
 	end,
 
@@ -187,12 +150,21 @@ MTSLUI_EVENT_HANDLER = {
 	-- Event started when a trade skill windows is updated
 	---------------------------------------------------------------------------------------
 	TRADE_SKILL_UPDATE = function (self)
-		-- only trigger update event if we have the window opened
-		local localised_name, current_skill_level, max_level = GetTradeSkillLine()
-		local profession_name = MTSL_LOGIC_PROFESSION:GetEnglishProfessionNameFromLocalisedName(localised_name)
-		-- only trigger event if its a different but supported tradeskill in addon
-		if TradeSkillFrame and profession_name ~= nil then
-			self:RefreshSkills(profession_name, current_skill_level, max_level)
+		-- If we have a tradeskillframe
+		if TradeSkillFrame then
+			-- only trigger update event if we have the window opened
+			local localised_name, current_skill_level, max_level = GetTradeSkillLine()
+			local profession_name = MTSL_LOGIC_PROFESSION:GetEnglishProfessionNameFromLocalisedName(localised_name)
+			-- only trigger event if its a different but supported tradeskill in addon
+			if profession_name ~= nil then
+				if MTSL_CURRENT_OPENED_PROFESSION == profession_name then
+					self:RefreshSkills(profession_name, current_skill_level, max_level)
+				else
+					MTSL_PREVIOUS_OPENED_PROFESSION = "Enchanting"
+					MTSL_CURRENT_OPENED_PROFESSION = profession_name
+					self:SwapToProfession(profession_name, current_skill_level, max_level)
+				end
+			end
 		end
 	end,
 
@@ -222,7 +194,7 @@ MTSLUI_EVENT_HANDLER = {
 	TRAINER_UPDATE = function (self)
 		local has_learned = MTSL_LOGIC_PLAYER_NPC:AddLearnedProfessions()
 		-- only possible react if we have a craft or tradeskill open
-		if self.ui_craft_open > 0 or self.ui_trade_open > 0 then
+		if MTSL_CURRENT_OPENED_PROFESSION then
 			-- Check if we have a trainer window open
 			if ClassTrainerFrame and ClassTrainerFrame:IsVisible() and ClassTrainerFrame.selectedService then
 				-- get the name of the profession for the current opened trainer (This is always localised name)
@@ -230,9 +202,9 @@ MTSLUI_EVENT_HANDLER = {
 				local profession_name = MTSL_LOGIC_PROFESSION:GetEnglishProfessionNameFromLocalisedName(localised_name)
 				-- only update if current profession is the opened MTSL one
 				-- both can be open at same time, but only refresh if its the active one as well
-				if self.ui_craft_open > 0 and MTSLUI_MISSING_TRADESKILLS_FRAME:GetCurrentProfessionName() == profession_name then
+				if MTSL_CURRENT_OPENED_PROFESSION == profession_name then
 					self:CRAFT_UPDATE()
-				elseif self.ui_trade_open > 0 and MTSLUI_MISSING_TRADESKILLS_FRAME:GetCurrentProfessionName() == profession_name then
+				elseif MTSL_CURRENT_OPENED_PROFESSION == profession_name then
 					self:TRADE_SKILL_UPDATE()
 				end
 			end
@@ -316,7 +288,8 @@ MTSLUI_EVENT_HANDLER = {
 		event_frame:SetScript("OnEvent", function(eventframe, event, arg1)
             -- only execute the event if the addon is loaded OR the event = player_login
             if self.addon_loaded == 1 or event == "PLAYER_LOGIN" then
-                self[event](self)
+                print("Event occured: ", event)
+				self[event](self)
             end
 		end)
 
@@ -324,13 +297,11 @@ MTSLUI_EVENT_HANDLER = {
 		event_frame:RegisterEvent("PLAYER_LOGIN")
 		-- Events for crafts (= Enchanting)
 		event_frame:RegisterEvent("CRAFT_CLOSE")
-		event_frame:RegisterEvent("CRAFT_SHOW")
 		event_frame:RegisterEvent("CRAFT_UPDATE")
 		-- Gained a skill point
 		event_frame:RegisterEvent("SKILL_LINES_CHANGED")
 		-- Events for trade skills (= all but enchanting)
 		event_frame:RegisterEvent("TRADE_SKILL_CLOSE")
-		event_frame:RegisterEvent("TRADE_SKILL_SHOW")
 		event_frame:RegisterEvent("TRADE_SKILL_UPDATE")
 		-- Learned Skill from trainer
 		event_frame:RegisterEvent("TRAINER_UPDATE")
@@ -358,16 +329,22 @@ MTSLUI_EVENT_HANDLER = {
 	---------------------------------------------------------------------------------------
 	SwapToProfession = function(self, profession_name, current_skill_level, max_level)
 		if profession_name == "Enchanting" then
-			self.ui_craft_open = 1
+			if MTSL_CURRENT_OPENED_PROFESSION and MTSL_CURRENT_OPENED_PROFESSION ~= "Enchanting" then
+				MTSL_PREVIOUS_OPENED_PROFESSION = MTSL_CURRENT_OPENED_PROFESSION
+				MTSL_CURRENT_OPENED_PROFESSION = "Enchanting"
+			end
 			MTSLUI_TOGGLE_BUTTON:SwapToCraftMode()
 		else
-			self.ui_trade_open = 1
+			if MTSL_CURRENT_OPENED_PROFESSION == "Enchanting" then
+				MTSL_PREVIOUS_OPENED_PROFESSION = "Enchanting"
+				MTSL_CURRENT_OPENED_PROFESSION = profession_name
+			end
 			MTSLUI_TOGGLE_BUTTON:SwapToTradeSkillMode()
 		end
 		MTSLUI_TOGGLE_BUTTON:Show()
 		-- Update the missing skills for the current player
-		MTSL_LOGIC_PLAYER_NPC:UpdateMissingSkillsForProfessionCurrentPlayer(profession_name, current_skill_level, max_level)
-		MTSLUI_MISSING_TRADESKILLS_FRAME:SetCurrentProfessionDetails(profession_name, current_skill_level, MTSL_CURRENT_PLAYER.XP_LEVEL, MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].SPELLIDS_SPECIALISATION)
+		MTSL_LOGIC_PLAYER_NPC:UpdateMissingSkillsForProfessionCurrentPlayer(MTSL_CURRENT_OPENED_PROFESSION, current_skill_level, max_level)
+		MTSLUI_MISSING_TRADESKILLS_FRAME:SetCurrentProfessionDetails(MTSL_CURRENT_OPENED_PROFESSION, current_skill_level, MTSL_CURRENT_PLAYER.XP_LEVEL, MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].SPELLIDS_SPECIALISATION)
 		MTSLUI_MISSING_TRADESKILLS_FRAME:NoSkillSelected()
 		-- Show the frame if option is selected "auto"
 		if MTSLUI_SAVED_VARIABLES and MTSLUI_SAVED_VARIABLES:GetAutoShowMTSL() == 1 then

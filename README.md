@@ -44,15 +44,16 @@ Minimap button & Enhanced tooltip
 * Link items to a channel (Say, Guild, Party, Raid or "Auto") or add item to current chat message
 * Ability to drag each MTSL frame around
 
-### Latest version (v2.5.07)
+### Latest version (v2.5.08)
 
-* All professions should now have all the correct data
-* Added the reputation needed for all items sold by any TBC faction quartermaster
-* Added the TBC factions to the filter frame
-* Addded racial bonus for Enchanting (Blood Elf) & Jewelcrafting (Draenei)
-* Fixed bug when showing the details of a Quest with NPCs lead to "nil" error
-* Fixed bug where skills learned in spellbook still showed as unlearned 
-* Added ability to show the 2nd vendor using reputation when available
+* Optimised the way the addon scans for missing skills
+* Added all upcoming patches as filter possibility to the regular MTSL window as well  
+* Fixed data:
+  * All professions should now have their correct localised name
+  * Cooking recipe "Ravager dogs" is now also sold by Alliance vendor
+  * All skills should now have the correct phase 
+* Added data:
+  * Added item_id for each skill that represents the id of the item that is created when executing the spell
 
 ### Support
 

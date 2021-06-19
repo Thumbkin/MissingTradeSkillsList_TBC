@@ -3,7 +3,7 @@
 -------------------------------------------------------
 MTSL_DATA["professions"] = {
     ["Alchemy"] = {
-        ["id"] = 1,
+        ["id"] = 2259,
         ["name"] = {
             ["Chinese"] = "炼金术",
             ["English"] = "Alchemy",
@@ -14,11 +14,11 @@ MTSL_DATA["professions"] = {
             ["Portuguese"] = "Alquimia",
             ["Russian"] = "Алхимия",
             ["Spanish"] = "Alquimia",
-            ["Taiwanese"] = "煉金術",
+            ["Taiwanese"] = "鍊金術",
         },
     },
     ["Blacksmithing"] = {
-        ["id"] = 2,
+        ["id"] = 2018,
         ["name"] = {
             ["Chinese"] = "锻造",
             ["English"] = "Blacksmithing",
@@ -33,7 +33,7 @@ MTSL_DATA["professions"] = {
         },
     },
     ["Cooking"] = {
-        ["id"] = 3,
+        ["id"] = 2550,
         ["name"] = {
             ["Chinese"] = "烹饪",
             ["English"] = "Cooking",
@@ -48,7 +48,7 @@ MTSL_DATA["professions"] = {
         },
     },
     ["Enchanting"] = {
-        ["id"] = 4,
+        ["id"] = 7411,
         ["name"] = {
             ["Chinese"] = "附魔",
             ["English"] = "Enchanting",
@@ -63,7 +63,7 @@ MTSL_DATA["professions"] = {
         },
     },
     ["Engineering"] = {
-        ["id"] = 5,
+        ["id"] = 4036,
         ["name"] = {
             ["Chinese"] = "工程学",
             ["English"] = "Engineering",
@@ -78,7 +78,7 @@ MTSL_DATA["professions"] = {
         },
     },
     ["First Aid"] = {
-        ["id"] = 6,
+        ["id"] = 3273,
         ["name"] = {
             ["Chinese"] = "急救",
             ["English"] = "First Aid",
@@ -93,7 +93,7 @@ MTSL_DATA["professions"] = {
         },
     },
     ["Fishing"] = {
-        ["id"] = 7,
+        ["id"] = 7620,
         ["name"] = {
             ["Chinese"] = "钓鱼",
             ["English"] = "Fishing",
@@ -108,22 +108,22 @@ MTSL_DATA["professions"] = {
         },
     },
     ["Herbalism"] = {
-        ["id"] = 8,
+        ["id"] = 9134,
         ["name"] = {
             ["Chinese"] = "草药学",
             ["English"] = "Herbalism",
             ["French"] = "Herboristerie",
             ["German"] = "Kräuterkunde",
             ["Korean"] = "약초 채집",
-            ["Mexican"] = "Botánica",
+            ["Mexican"] = "Herboristería",
             ["Portuguese"] = "Herborismo",
             ["Russian"] = "Травничество",
-            ["Spanish"] = "Botánica",
+            ["Spanish"] = "Herboristería",
             ["Taiwanese"] = "草藥學",
         },
     },
     ["Jewelcrafting"] = {
-        ["id"] = 14,
+        ["id"] = 25229,
         ["name"] = {
             ["Chinese"] = "珠宝加工",
             ["English"] = "Jewelcrafting",
@@ -134,17 +134,17 @@ MTSL_DATA["professions"] = {
             ["Portuguese"] = "Joalheria",
             ["Russian"] = "Ювелирное дело",
             ["Spanish"] = "Joyería",
-            ["Taiwanese"] = "珠宝加工",
+            ["Taiwanese"] = "珠寶設計",
         },
     },
     ["Leatherworking"] = {
-        ["id"] = 9,
+        ["id"] = 2108,
         ["name"] = {
             ["Chinese"] = "制皮",
             ["English"] = "Leatherworking",
             ["French"] = "Travail du cuir",
             ["German"] = "Lederverarbeitung",
-            ["Korean"] = "가죽 세공",
+            ["Korean"] = "가죽세공",
             ["Mexican"] = "Peletería",
             ["Portuguese"] = "Couraria",
             ["Russian"] = "Кожевничество",
@@ -153,7 +153,7 @@ MTSL_DATA["professions"] = {
         },
     },
     ["Mining"] = {
-        ["id"] = 10,
+        ["id"] = 2575,
         ["name"] = {
             ["Chinese"] = "采矿",
             ["English"] = "Mining",
@@ -168,13 +168,13 @@ MTSL_DATA["professions"] = {
         },
     },
     ["Poisons"] = {
-        ["id"] = 11,
+        ["id"] = 2842,
         ["name"] = {
             ["Chinese"] = "毒药",
             ["English"] = "Poisons",
             ["French"] = "Poisons",
             ["German"] = "Gifte",
-            ["Korean"] = "독",
+            ["Korean"] = "약초 채집",
             ["Mexican"] = "Venenos",
             ["Portuguese"] = "Venenos",
             ["Russian"] = "Яды",
@@ -183,7 +183,7 @@ MTSL_DATA["professions"] = {
         },
     },
     ["Skinning"] = {
-        ["id"] = 12,
+        ["id"] = 8613,
         ["name"] = {
             ["Chinese"] = "剥皮",
             ["English"] = "Skinning",
@@ -198,7 +198,7 @@ MTSL_DATA["professions"] = {
         },
     },
     ["Tailoring"] = {
-        ["id"] = 13,
+        ["id"] = 3908,
         ["name"] = {
             ["Chinese"] = "裁缝",
             ["English"] = "Tailoring",
@@ -208,7 +208,7 @@ MTSL_DATA["professions"] = {
             ["Mexican"] = "Sastrería",
             ["Portuguese"] = "Alfaiataria",
             ["Russian"] = "Портняжное дело",
-            ["Spanish"] = "Costura",
+            ["Spanish"] = "Sastrería",
             ["Taiwanese"] = "裁縫",
         },
     },

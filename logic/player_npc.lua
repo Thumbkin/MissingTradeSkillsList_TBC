@@ -96,21 +96,21 @@ MTSL_LOGIC_PLAYER_NPC = {
     UpdatePlayerSkillLevels = function (self)
         local i = 1
 
-        while GetSkillLineInfo(i) ~= nil  do
+        while GetSkillLineInfo(i) do
             local skilldata = {GetSkillLineInfo(i)}
             -- Skip header rows
             if skilldata[2] ~= 1 then
                 local profession_name = MTSL_LOGIC_PROFESSION:GetEnglishProfessionNameFromLocalisedName(skilldata[1])
                 -- only trigger event if its a trade_skill supported by the addon
-                if profession_name ~= nil then
-                    if MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name] == nil then
-                        self:AddNewProfession(profession_name, skilldata[4])
-                    else
+                if profession_name then
+                    if MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name] then
                         MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name]["SKILL_LEVEL"] = skilldata[4]
+                    else
+                        self:AddNewProfession(profession_name, skilldata[4])
                     end
 
                     -- Update profession without tradeskill/Craft frame
-                    if MTSL_LOGIC_PROFESSION:IsFramelessProfession(profession_name) == true then
+                    if MTSL_LOGIC_PROFESSION:IsFramelessProfession(profession_name) then
                         self:UpdateMissingSkillsForProfessionCurrentPlayer(profession_name, skilldata[4], skilldata[7])
                     end
                 end
@@ -148,7 +148,7 @@ MTSL_LOGIC_PLAYER_NPC = {
             if skilldata[2] ~= 1 then
                 local profession_name = MTSL_LOGIC_PROFESSION:GetEnglishProfessionNameFromLocalisedName(skilldata[1])
                 -- only trigger event if its a trade_skill supported by the addon and  we dont know it yet
-                if profession_name ~= nil then
+                if profession_name then
                     if not MTSL_CURRENT_PLAYER.TRADESKILLS then
                         MTSL_CURRENT_PLAYER.TRADESKILLS = {}
                     end
@@ -233,7 +233,7 @@ MTSL_LOGIC_PLAYER_NPC = {
                 if skilldata[2] ~= 1 then
                     local profession_name = MTSL_LOGIC_PROFESSION:GetEnglishProfessionNameFromLocalisedName(skilldata[1])
                     -- only trigger event if its a trade_skill supported by the addon and if NOT a secundary profession
-                    if profession_name ~= nil and not MTSL_LOGIC_PROFESSION:IsSecondaryProfession(profession_name) then
+                    if profession_name and not MTSL_LOGIC_PROFESSION:IsSecondaryProfession(profession_name) then
                         -- mark as (still) learned
                         profession_names[profession_name] = 1
                     end
@@ -273,7 +273,7 @@ MTSL_LOGIC_PLAYER_NPC = {
     -- returns 	Number		The number of chars on that realm
     ------------------------------------------------------------------------------------------------
     GetPlayerOnRealm = function (self, name, realm)
-        if MTSL_PLAYERS[realm] ~= nil then
+        if MTSL_PLAYERS[realm] then
             return MTSL_PLAYERS[realm][name]
         end
         return nil
@@ -286,7 +286,7 @@ MTSL_LOGIC_PLAYER_NPC = {
     ------------------------------------------------------------------------------------------------
     GetOtherPlayersOnCurrentRealm = function(self)
         local players = {}
-        if MTSL_CURRENT_PLAYER ~= nil then
+        if MTSL_CURRENT_PLAYER then
             -- loop all players on the current realm
             for k, v in pairs (MTSL_PLAYERS[MTSL_CURRENT_PLAYER.REALM]) do
                 -- skip if name is same as current player
@@ -330,7 +330,7 @@ MTSL_LOGIC_PLAYER_NPC = {
         -- loop all players on the current realm
         for k, v in pairs (other_players) do
            -- skip if he doesnt know the profession
-            if v.TRADESKILLS ~= nil and v.TRADESKILLS[profession_name] ~= nil and v.TRADESKILLS[profession_name] ~= 0 then
+            if v.TRADESKILLS and v.TRADESKILLS[profession_name] and v.TRADESKILLS[profession_name] ~= 0 then
                 table.insert(players, v)
             end
         end
@@ -349,7 +349,7 @@ MTSL_LOGIC_PLAYER_NPC = {
         -- loop all players on the current realm
         for k, v in pairs (other_players) do
             -- skip if he doesnt know the profession
-            if v.TRADESKILLS ~= nil and v.TRADESKILLS[profession_name] ~= nil and v.TRADESKILLS[profession_name] ~= 0 then
+            if v.TRADESKILLS and v.TRADESKILLS[profession_name] and v.TRADESKILLS[profession_name] ~= 0 then
                 table.insert(players, v)
             end
         end
@@ -366,7 +366,7 @@ MTSL_LOGIC_PLAYER_NPC = {
     -- returns 	Number		The number of chars on that realm
     ------------------------------------------------------------------------------------------------
     PlayerExists = function (self, name, realm)
-        if MTSL_PLAYERS[realm] ~= nil and MTSL_PLAYERS[realm][name] ~= nil then
+        if MTSL_PLAYERS[realm] and MTSL_PLAYERS[realm][name] then
             return true
         end
         return false
@@ -385,8 +385,8 @@ MTSL_LOGIC_PLAYER_NPC = {
         local player = self:GetPlayerOnRealm(player_name, player_realm)
         local missing_skills = {}
         -- Check if player exits
-        if player ~= nil and player.TRADESKILLS[profession_name] ~= nil and
-                player.TRADESKILLS[profession_name] ~= 0 and player.TRADESKILLS[profession_name]["MISSING_SKILLS"] ~= nil then
+        if player and player.TRADESKILLS[profession_name] and
+                player.TRADESKILLS[profession_name] ~= 0 and player.TRADESKILLS[profession_name]["MISSING_SKILLS"] then
             -- get the skill for each id
             for _, s in pairs(player.TRADESKILLS[profession_name]["MISSING_SKILLS"]) do
                 table.insert(missing_skills, MTSL_LOGIC_SKILL:GetSkillForProfessionById(s, profession_name))
@@ -432,7 +432,7 @@ MTSL_LOGIC_PLAYER_NPC = {
         local player = self:GetPlayerOnRealm(player_name, realm_name)
 
         -- Check if player exits
-        if player ~= nil and player.TRADESKILLS[profession_name] ~= nil and player.TRADESKILLS[profession_name] ~= 0 then
+        if player and player.TRADESKILLS[profession_name] and player.TRADESKILLS[profession_name] ~= 0 then
             -- get the skill for each id
             if player.TRADESKILLS[profession_name]["LEARNED_SKILLS"] ~= nil then
                 for _, s in pairs(player.TRADESKILLS[profession_name]["LEARNED_SKILLS"]) do
@@ -456,7 +456,7 @@ MTSL_LOGIC_PLAYER_NPC = {
     GetAmountOfLearnedSkillsForProfession = function (self, player_name, player_realm, profession_name)
         local player = self:GetPlayerOnRealm(player_name, player_realm)
         -- Check if player exits
-        if player ~= nil and player.TRADESKILLS[profession_name] ~= nil and player.TRADESKILLS[profession_name] ~= 0 then
+        if player and player.TRADESKILLS[profession_name] and player.TRADESKILLS[profession_name] ~= 0 then
             return player.TRADESKILLS[profession_name]["AMOUNT_LEARNED"]
         end
         return 0
@@ -476,9 +476,9 @@ MTSL_LOGIC_PLAYER_NPC = {
         local player = self:GetPlayerOnRealm(player_name, realm_name)
 
         -- Check if player exits
-        if player ~= nil and player.TRADESKILLS[profession_name] ~= nil and player.TRADESKILLS[profession_name] ~= 0 then
+        if player and player.TRADESKILLS[profession_name] and player.TRADESKILLS[profession_name] ~= 0 then
             -- get the skill for each id
-            if player.TRADESKILLS[profession_name]["LEARNED_SKILLS"] ~= nil then
+            if player.TRADESKILLS[profession_name]["LEARNED_SKILLS"] then
                 for _, s in pairs(player.TRADESKILLS[profession_name]["LEARNED_SKILLS"]) do
                     if s == skill_id then
                         return true
@@ -527,7 +527,7 @@ MTSL_LOGIC_PLAYER_NPC = {
         local player = self:GetPlayerOnRealm(player_name, realm_name)
 
         -- Check if player exits
-        if player ~= nil and player.TRADESKILLS[profession_name] ~= nil and player.TRADESKILLS[profession_name] ~= 0 then
+        if player and player.TRADESKILLS[profession_name] and player.TRADESKILLS[profession_name] ~= 0 then
             return player.TRADESKILLS[profession_name].SKILL_LEVEL
         end
 
@@ -545,7 +545,7 @@ MTSL_LOGIC_PLAYER_NPC = {
     GetKnownProfessionsForPlayer = function(self, realm_name, player_name)
         local player = self:GetPlayerOnRealm(player_name, realm_name)
         local known_professions = {}
-        if player ~= nil then
+        if player then
             for k, v in pairs(player.TRADESKILLS) do
                 -- only add if initialised
                 if v ~= 0 then
@@ -581,14 +581,17 @@ MTSL_LOGIC_PLAYER_NPC = {
         }
 
         -- only scan for missing skills if it has a tradeskill/craft frame
-        if MTSL_LOGIC_PROFESSION:IsFramelessProfession(profession_name) == false then
-            if profession_name == "Enchanting" then
-                self:UpdateMissingSkillsForCraftCurrentPlayer(profession_name)
-            else
-                local amount_specs_learned = self:UpdateSpecialisations(profession_name)
-                self:UpdateMissingSkillsForTradeSkillCurrentPlayer(profession_name, amount_specs_learned)
-            end
+        local amount_specs_learned = 0
+        local known_skill_ids = {}
+        if profession_name == "Enchanting" then
+            known_skill_ids = MTSL_LOGIC_PROFESSION:GetSkillIdsCurrentCraft(profession_name)
+        else
+            amount_specs_learned = self:UpdateSpecialisations(profession_name)
+            known_skill_ids = MTSL_LOGIC_PROFESSION:GetSkillIdsCurrentTradeSkill(profession_name)
         end
+        print("Swapped to " .. profession_name)
+        print("Found " .. #known_skill_ids .. " known skills")
+        self:UpdateMissingSkillsForProfession(known_skill_ids, profession_name, amount_specs_learned)
 
         self:UpdateMissingLevelsForProfessionCurrentPlayer(profession_name, max_level)
     end,
@@ -622,64 +625,39 @@ MTSL_LOGIC_PLAYER_NPC = {
         return amount_specs_learned
     end,
 
-    UpdateMissingSkillsForTradeSkillCurrentPlayer = function(self, profession_name, amount_specs_learned)
-        -- get the list of learned skills
-        local known_skill_names = MTSL_LOGIC_PROFESSION:GetSkillNamesCurrentTradeSkill()
-
+    UpdateMissingSkillsForProfession = function(self, known_skill_ids, profession_name, amount_specs_learned)
         -- get the list of available skills in the current phase for the profession,
         local available_skills = MTSL_LOGIC_PROFESSION:GetAllAvailableSkillsForProfession(profession_name, MTSL_DATA.CURRENT_PATCH_LEVEL, MTSL_CURRENT_PLAYER.CLASS)
-
-        for _, skill in pairs(available_skills) do
-            --We learned the skill
-            if MTSL_TOOLS:ListContainsKeyIngoreCasingAndSpaces(known_skill_names, MTSLUI_TOOLS:GetLocalisedData(skill)) then
-                 table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].LEARNED_SKILLS, skill.id)
-                 MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED + 1
-             else
-                -- it might be a spellbook spell, so it does not show in the tradeskill frame
-                if skill.spellbook then
-                    if IsSpellKnown(skill.id) then
-                        table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].LEARNED_SKILLS, skill.id)
-                        MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED + 1
-                    else
-                        table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].MISSING_SKILLS, skill.id)
-                        MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING + 1
-                    end
-                else
-                    -- Add skill to unlearned if we dont have a specialisation, skill doenst have specialisation or if player specialisation is same as the skill specialisation
-                    if amount_specs_learned <= 0 or skill.specialisation == nil or (skill.specialisation ~= nil and
-                            MTSL_TOOLS:ListContainsNumber(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].SPELLIDS_SPECIALISATION, skill.specialisation) == true) then
-                        table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].MISSING_SKILLS, skill.id)
-                        MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING + 1
-                    end
-                end
-             end
-        end
-    end,
-
-    UpdateMissingSkillsForCraftCurrentPlayer = function(self, profession_name)
-        local known_skill_ids = MTSL_LOGIC_PROFESSION:GetSkillIdsCurrentCraft()
-
-        -- get the list of available skills in the current phase for the profession,
-        local available_skills = MTSL_LOGIC_PROFESSION:GetAllAvailableSkillsForProfession(profession_name, MTSL_DATA.CURRENT_PATCH_LEVEL, MTSL_CURRENT_PLAYER.CLASS)
-        -- sorted by id
-        available_skills = MTSL_TOOLS:SortArrayByProperty(available_skills, "id")
+        -- sort the array by minimum skill
+        MTSL_TOOLS:SortArrayByProperty(available_skills, "id")
 
         -- Loop all skills of the profession
         local known_skill_index = 1
         for _, skill in pairs(available_skills) do
             -- current enchant is known
-            if known_skill_ids[known_skill_index] ~= nil and tonumber(skill.id) == tonumber(known_skill_ids[known_skill_index]) then
+            if known_skill_ids[known_skill_index] and tonumber(skill.id) == tonumber(known_skill_ids[known_skill_index]) then
                 table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].LEARNED_SKILLS, skill.id)
                 MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED + 1
                 known_skill_index = known_skill_index + 1
             -- skill is unknown
             else
-                table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].MISSING_SKILLS, skill.id)
-                MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING + 1
+                -- it might be a spellbook spell, so it does not show in the tradeskill frame
+                if skill.spellbook then
+                    if IsSpellKnown(skill.id) then
+                        table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].LEARNED_SKILLS, skill.id)
+                        MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_LEARNED + 1
+                    end
+                else
+                    -- Add skill to unlearned if we dont have a specialisation, skill doenst have specialisation or if player specialisation is same as the skill specialisation
+                    if amount_specs_learned <= 0 or not skill.specialisation or (skill.specialisation and
+                            MTSL_TOOLS:ListContainsNumber(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].SPELLIDS_SPECIALISATION, skill.specialisation) == true) then
+                        table.insert(MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].MISSING_SKILLS, skill.id)
+                        MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING = MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name].AMOUNT_MISSING + 1
+                    end
+                end
             end
         end
     end,
-
 
     ------------------------------------------------------------------------------------------------
     -- Refresh the list of missing skills for a profession for the current player

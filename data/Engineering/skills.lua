@@ -63,6 +63,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3922,
+		["item_id"] = 4359,
 		["min_skill"] = 30,
 		["name"] = {
 			["Chinese"] = "一把螺栓",
@@ -104,6 +105,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3923,
+		["item_id"] = 4360,
 		["min_skill"] = 30,
 		["name"] = {
 			["Chinese"] = "劣质铜壳炸弹",
@@ -145,6 +147,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3924,
+		["item_id"] = 4361,
 		["min_skill"] = 50,
 		["name"] = {
 			["Chinese"] = "铜管",
@@ -186,6 +189,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3925,
+		["item_id"] = 4362,
 		["min_skill"] = 50,
 		["name"] = {
 			["Chinese"] = "劣质火枪",
@@ -227,6 +231,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3926,
+		["item_id"] = 4363,
 		["min_skill"] = 65,
 		["name"] = {
 			["Chinese"] = "铜质调节器",
@@ -268,6 +273,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3928,
+		["item_id"] = 4401,
 		["items"] = {
 			4408,
 		},
@@ -289,6 +295,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3929,
+		["item_id"] = 4364,
 		["min_skill"] = 75,
 		["name"] = {
 			["Chinese"] = "粗制火药粉",
@@ -330,6 +337,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3930,
+		["item_id"] = 8068,
 		["min_skill"] = 75,
 		["name"] = {
 			["Chinese"] = "精制重弹丸",
@@ -371,6 +379,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3931,
+		["item_id"] = 4365,
 		["min_skill"] = 75,
 		["name"] = {
 			["Chinese"] = "劣质炸药",
@@ -412,6 +421,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3932,
+		["item_id"] = 4366,
 		["min_skill"] = 85,
 		["name"] = {
 			["Chinese"] = "活动假人",
@@ -443,6 +453,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3933,
+		["item_id"] = 4367,
 		["items"] = {
 			4409,
 		},
@@ -464,6 +475,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3934,
+		["item_id"] = 4368,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "飞虎护目镜",
@@ -495,6 +507,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3936,
+		["item_id"] = 4369,
 		["min_skill"] = 105,
 		["name"] = {
 			["Chinese"] = "致命的短枪",
@@ -526,6 +539,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3937,
+		["item_id"] = 4370,
 		["min_skill"] = 105,
 		["name"] = {
 			["Chinese"] = "大型铜壳炸弹",
@@ -557,6 +571,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3938,
+		["item_id"] = 4371,
 		["min_skill"] = 105,
 		["name"] = {
 			["Chinese"] = "青铜管",
@@ -588,6 +603,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3939,
+		["item_id"] = 4372,
 		["items"] = {
 			13309,
 		},
@@ -609,6 +625,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3940,
+		["item_id"] = 4373,
 		["items"] = {
 			4410,
 		},
@@ -630,6 +647,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3941,
+		["item_id"] = 4374,
 		["min_skill"] = 120,
 		["name"] = {
 			["Chinese"] = "小型青铜炸弹",
@@ -661,6 +679,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3942,
+		["item_id"] = 4375,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "高速青铜齿轮",
@@ -692,6 +711,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3944,
+		["item_id"] = 4376,
 		["items"] = {
 			4411,
 		},
@@ -713,6 +733,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3945,
+		["item_id"] = 4377,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "烈性火药",
@@ -744,6 +765,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3946,
+		["item_id"] = 4378,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "烈性炸药",
@@ -775,6 +797,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3947,
+		["item_id"] = 8069,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "精制实心弹丸",
@@ -806,6 +829,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3949,
+		["item_id"] = 4379,
 		["min_skill"] = 130,
 		["name"] = {
 			["Chinese"] = "镀银猎枪",
@@ -837,6 +861,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3950,
+		["item_id"] = 4380,
 		["min_skill"] = 140,
 		["name"] = {
 			["Chinese"] = "重磅青铜炸弹",
@@ -868,6 +893,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3952,
+		["item_id"] = 4381,
 		["items"] = {
 			14639,
 		},
@@ -889,6 +915,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3953,
+		["item_id"] = 4382,
 		["min_skill"] = 145,
 		["name"] = {
 			["Chinese"] = "青铜框架",
@@ -920,6 +947,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3954,
+		["item_id"] = 4383,
 		["items"] = {
 			4412,
 		},
@@ -941,6 +969,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3955,
+		["item_id"] = 4384,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "自爆绵羊",
@@ -972,6 +1001,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3956,
+		["item_id"] = 4385,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "绿色护目镜",
@@ -1003,6 +1033,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3957,
+		["item_id"] = 4386,
 		["items"] = {
 			13308,
 		},
@@ -1024,6 +1055,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3958,
+		["item_id"] = 4387,
 		["min_skill"] = 160,
 		["name"] = {
 			["Chinese"] = "铁棒",
@@ -1050,6 +1082,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3959,
+		["item_id"] = 4388,
 		["items"] = {
 			4413,
 		},
@@ -1071,6 +1104,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3960,
+		["item_id"] = 4403,
 		["items"] = {
 			4414,
 		},
@@ -1092,6 +1126,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3961,
+		["item_id"] = 4389,
 		["min_skill"] = 170,
 		["name"] = {
 			["Chinese"] = "发条式同步协调陀螺仪",
@@ -1118,6 +1153,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3962,
+		["item_id"] = 4390,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "铁皮手雷",
@@ -1144,6 +1180,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3963,
+		["item_id"] = 4391,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "联合收割机组件",
@@ -1170,6 +1207,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3965,
+		["item_id"] = 4392,
 		["min_skill"] = 185,
 		["name"] = {
 			["Chinese"] = "高级假人",
@@ -1196,6 +1234,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3966,
+		["item_id"] = 4393,
 		["items"] = {
 			4415,
 		},
@@ -1217,6 +1256,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3967,
+		["item_id"] = 4394,
 		["min_skill"] = 190,
 		["name"] = {
 			["Chinese"] = "重磅铁制炸弹",
@@ -1243,6 +1283,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3968,
+		["item_id"] = 4395,
 		["items"] = {
 			4416,
 		},
@@ -1264,6 +1305,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3969,
+		["item_id"] = 4396,
 		["items"] = {
 			13311,
 		},
@@ -1285,6 +1327,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3971,
+		["item_id"] = 4397,
 		["items"] = {
 			7742,
 		},
@@ -1306,6 +1349,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3972,
+		["item_id"] = 4398,
 		["items"] = {
 			4417,
 		},
@@ -1327,6 +1371,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3973,
+		["item_id"] = 4404,
 		["min_skill"] = 90,
 		["name"] = {
 			["Chinese"] = "银触媒",
@@ -1358,6 +1403,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3977,
+		["item_id"] = 4405,
 		["min_skill"] = 60,
 		["name"] = {
 			["Chinese"] = "粗制瞄准镜",
@@ -1398,6 +1444,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3978,
+		["item_id"] = 4406,
 		["min_skill"] = 110,
 		["name"] = {
 			["Chinese"] = "普通瞄准镜",
@@ -1429,6 +1476,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3979,
+		["item_id"] = 4407,
 		["items"] = {
 			13310,
 		},
@@ -1450,6 +1498,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6458,
+		["item_id"] = 5507,
 		["min_skill"] = 135,
 		["name"] = {
 			["Chinese"] = "精制望远镜",
@@ -1481,6 +1530,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7430,
+		["item_id"] = 6219,
 		["min_skill"] = 50,
 		["name"] = {
 			["Chinese"] = "弧光扳手",
@@ -1521,6 +1571,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8243,
+		["item_id"] = 4852,
 		["items"] = {
 			6672,
 		},
@@ -1542,6 +1593,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8334,
+		["item_id"] = 6712,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "练习锁",
@@ -1573,6 +1625,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8339,
+		["item_id"] = 6714,
 		["items"] = {
 			6716,
 		},
@@ -1594,6 +1647,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8895,
+		["item_id"] = 7189,
 		["items"] = {
 			7192,
 		},
@@ -1615,6 +1669,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9269,
+		["item_id"] = 7506,
 		["items"] = {
 			7560,
 		},
@@ -1636,6 +1691,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9271,
+		["item_id"] = 6533,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "水下诱鱼器",
@@ -1667,6 +1723,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9273,
+		["item_id"] = 7148,
 		["items"] = {
 			7561,
 		},
@@ -1688,6 +1745,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12584,
+		["item_id"] = 10558,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "黄金能量核心",
@@ -1719,6 +1777,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12585,
+		["item_id"] = 10505,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "实心炸药",
@@ -1745,6 +1804,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12586,
+		["item_id"] = 10507,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "实心炸弹",
@@ -1771,6 +1831,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12587,
+		["item_id"] = 10499,
 		["items"] = {
 			10601,
 		},
@@ -1792,6 +1853,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12589,
+		["item_id"] = 10559,
 		["min_skill"] = 195,
 		["name"] = {
 			["Chinese"] = "秘银管",
@@ -1818,6 +1880,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12590,
+		["item_id"] = 10498,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "侏儒微调器",
@@ -1844,6 +1907,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12591,
+		["item_id"] = 10560,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "不牢固的扳机",
@@ -1870,6 +1934,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12594,
+		["item_id"] = 10500,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "火焰护目镜",
@@ -1896,6 +1961,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12595,
+		["item_id"] = 10508,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "秘银火枪",
@@ -1922,6 +1988,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12596,
+		["item_id"] = 10512,
 		["min_skill"] = 210,
 		["name"] = {
 			["Chinese"] = "高速秘银弹头",
@@ -1948,6 +2015,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12597,
+		["item_id"] = 10546,
 		["items"] = {
 			10602,
 		},
@@ -1969,6 +2037,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12599,
+		["item_id"] = 10561,
 		["min_skill"] = 215,
 		["name"] = {
 			["Chinese"] = "秘银外壳",
@@ -1995,6 +2064,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12603,
+		["item_id"] = 10514,
 		["min_skill"] = 215,
 		["name"] = {
 			["Chinese"] = "秘银破片炸弹",
@@ -2021,6 +2091,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12607,
+		["item_id"] = 10501,
 		["items"] = {
 			10603,
 		},
@@ -2042,6 +2113,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12614,
+		["item_id"] = 10510,
 		["items"] = {
 			10604,
 		},
@@ -2063,6 +2135,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12615,
+		["item_id"] = 10502,
 		["items"] = {
 			10605,
 		},
@@ -2084,6 +2157,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12616,
+		["item_id"] = 10518,
 		["items"] = {
 			10606,
 		},
@@ -2105,6 +2179,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12617,
+		["item_id"] = 10506,
 		["items"] = {
 			10607,
 		},
@@ -2126,6 +2201,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12618,
+		["item_id"] = 10503,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "玫瑰色护目镜",
@@ -2150,6 +2226,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12619,
+		["item_id"] = 10562,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "高爆炸弹",
@@ -2174,6 +2251,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12620,
+		["item_id"] = 10548,
 		["items"] = {
 			10608,
 		},
@@ -2195,6 +2273,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12621,
+		["item_id"] = 10513,
 		["min_skill"] = 245,
 		["name"] = {
 			["Chinese"] = "秘银螺旋弹",
@@ -2219,6 +2298,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12622,
+		["item_id"] = 10504,
 		["min_skill"] = 245,
 		["name"] = {
 			["Chinese"] = "绿色透镜",
@@ -2243,6 +2323,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12624,
+		["item_id"] = 10576,
 		["items"] = {
 			10609,
 		},
@@ -2264,6 +2345,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12715,
+		["item_id"] = 10644,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "地精火箭燃油配方",
@@ -2290,6 +2372,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12716,
+		["item_id"] = 10577,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "地精迫击炮",
@@ -2315,6 +2398,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12717,
+		["item_id"] = 10542,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "地精采矿头盔",
@@ -2341,6 +2425,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12718,
+		["item_id"] = 10543,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "地精施工头盔",
@@ -2367,6 +2452,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12754,
+		["item_id"] = 10586,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "大炸弹",
@@ -2393,6 +2479,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12755,
+		["item_id"] = 10587,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "地精炸弹箱",
@@ -2419,6 +2506,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12758,
+		["item_id"] = 10588,
 		["min_skill"] = 245,
 		["name"] = {
 			["Chinese"] = "地精火箭头盔",
@@ -2445,6 +2533,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12759,
+		["item_id"] = 10645,
 		["min_skill"] = 240,
 		["name"] = {
 			["Chinese"] = "侏儒死亡射线",
@@ -2471,6 +2560,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12760,
+		["item_id"] = 10646,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "地精工兵炸药",
@@ -2497,6 +2587,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12895,
+		["item_id"] = 10713,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "秘银杆设计图",
@@ -2523,6 +2614,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12897,
+		["item_id"] = 10545,
 		["min_skill"] = 210,
 		["name"] = {
 			["Chinese"] = "侏儒护目镜",
@@ -2549,6 +2641,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12899,
+		["item_id"] = 10716,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "侏儒缩小射线",
@@ -2575,6 +2668,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12902,
+		["item_id"] = 10720,
 		["min_skill"] = 210,
 		["name"] = {
 			["Chinese"] = "侏儒撒网器",
@@ -2601,6 +2695,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12903,
+		["item_id"] = 10721,
 		["min_skill"] = 215,
 		["name"] = {
 			["Chinese"] = "侏儒防护腰带",
@@ -2627,6 +2722,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12905,
+		["item_id"] = 10724,
 		["min_skill"] = 225,
 		["name"] = {
 			["Chinese"] = "侏儒火箭靴",
@@ -2653,6 +2749,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12906,
+		["item_id"] = 10725,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "侏儒作战小鸡",
@@ -2679,6 +2776,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12907,
+		["item_id"] = 10726,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "侏儒洗脑帽",
@@ -2705,6 +2803,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12908,
+		["item_id"] = 10727,
 		["min_skill"] = 240,
 		["name"] = {
 			["Chinese"] = "地精龙枪",
@@ -2731,6 +2830,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 13240,
+		["item_id"] = 10577,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "迫击炮：重载",
@@ -2757,6 +2857,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15255,
+		["item_id"] = 11590,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "机械修理包",
@@ -2783,6 +2884,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15628,
+		["item_id"] = 11825,
 		["items"] = {
 			11828,
 		},
@@ -2805,6 +2907,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15633,
+		["item_id"] = 11826,
 		["items"] = {
 			11827,
 		},
@@ -2827,6 +2930,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19567,
+		["item_id"] = 15846,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "筛盐器",
@@ -2851,6 +2955,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19788,
+		["item_id"] = 15992,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "致密炸药粉",
@@ -2875,6 +2980,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19790,
+		["item_id"] = 15993,
 		["items"] = {
 			16041,
 		},
@@ -2896,6 +3002,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19791,
+		["item_id"] = 15994,
 		["items"] = {
 			16042,
 		},
@@ -2917,6 +3024,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19792,
+		["item_id"] = 15995,
 		["items"] = {
 			16043,
 		},
@@ -2938,6 +3046,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19793,
+		["item_id"] = 15996,
 		["items"] = {
 			16044,
 		},
@@ -2959,6 +3068,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19794,
+		["item_id"] = 15999,
 		["items"] = {
 			16045,
 		},
@@ -2980,6 +3090,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19795,
+		["item_id"] = 16000,
 		["items"] = {
 			16047,
 		},
@@ -3001,6 +3112,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19796,
+		["item_id"] = 16004,
 		["items"] = {
 			16048,
 		},
@@ -3022,6 +3134,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19799,
+		["item_id"] = 16005,
 		["items"] = {
 			16049,
 		},
@@ -3043,6 +3156,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19800,
+		["item_id"] = 15997,
 		["items"] = {
 			16051,
 		},
@@ -3064,6 +3178,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19814,
+		["item_id"] = 16023,
 		["items"] = {
 			16046,
 		},
@@ -3085,6 +3200,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19815,
+		["item_id"] = 16006,
 		["items"] = {
 			16050,
 		},
@@ -3106,6 +3222,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19819,
+		["item_id"] = 16009,
 		["items"] = {
 			16052,
 		},
@@ -3127,6 +3244,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19825,
+		["item_id"] = 16008,
 		["items"] = {
 			16053,
 		},
@@ -3148,6 +3266,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19830,
+		["item_id"] = 16022,
 		["items"] = {
 			16054,
 		},
@@ -3169,6 +3288,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19831,
+		["item_id"] = 16040,
 		["items"] = {
 			16055,
 		},
@@ -3190,6 +3310,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19833,
+		["item_id"] = 16007,
 		["items"] = {
 			16056,
 		},
@@ -3211,6 +3332,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 21940,
+		["item_id"] = 17716,
 		["items"] = {
 			17720,
 		},
@@ -3232,6 +3354,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22704,
+		["item_id"] = 18232,
 		["items"] = {
 			18235,
 		},
@@ -3253,6 +3376,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22793,
+		["item_id"] = 18283,
 		["items"] = {
 			18290,
 		},
@@ -3274,6 +3398,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22795,
+		["item_id"] = 18282,
 		["items"] = {
 			18292,
 		},
@@ -3295,6 +3420,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22797,
+		["item_id"] = 18168,
 		["items"] = {
 			18291,
 		},
@@ -3316,6 +3442,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23066,
+		["item_id"] = 9318,
 		["items"] = {
 			18647,
 		},
@@ -3337,6 +3464,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23067,
+		["item_id"] = 9312,
 		["items"] = {
 			18649,
 		},
@@ -3358,6 +3486,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23068,
+		["item_id"] = 9313,
 		["items"] = {
 			18648,
 		},
@@ -3379,6 +3508,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23069,
+		["item_id"] = 18588,
 		["items"] = {
 			18650,
 		},
@@ -3400,6 +3530,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23070,
+		["item_id"] = 18641,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "致密炸药",
@@ -3424,6 +3555,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23071,
+		["item_id"] = 18631,
 		["items"] = {
 			18651,
 		},
@@ -3445,6 +3577,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23077,
+		["item_id"] = 18634,
 		["items"] = {
 			18652,
 		},
@@ -3466,6 +3599,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23078,
+		["item_id"] = 18587,
 		["items"] = {
 			18653,
 		},
@@ -3488,6 +3622,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23079,
+		["item_id"] = 18637,
 		["items"] = {
 			18655,
 		},
@@ -3509,6 +3644,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23080,
+		["item_id"] = 18594,
 		["items"] = {
 			18656,
 		},
@@ -3530,6 +3666,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23081,
+		["item_id"] = 18638,
 		["items"] = {
 			18657,
 		},
@@ -3551,6 +3688,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23082,
+		["item_id"] = 18639,
 		["items"] = {
 			18658,
 		},
@@ -3572,6 +3710,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23096,
+		["item_id"] = 18645,
 		["items"] = {
 			18654,
 		},
@@ -3594,6 +3733,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23129,
+		["item_id"] = 18660,
 		["items"] = {
 			18661,
 		},
@@ -3616,6 +3756,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23486,
+		["item_id"] = 18984,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "空间撕裂器 - 永望镇",
@@ -3641,6 +3782,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23489,
+		["item_id"] = 18986,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "安全传送器 - 加基森",
@@ -3666,6 +3808,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23507,
+		["item_id"] = 19026,
 		["items"] = {
 			19027,
 		},
@@ -3687,6 +3830,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24356,
+		["item_id"] = 19999,
 		["items"] = {
 			20000,
 		},
@@ -3708,6 +3852,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24357,
+		["item_id"] = 19998,
 		["items"] = {
 			20001,
 		},
@@ -3729,6 +3874,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26011,
+		["item_id"] = 21277,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "安静的机械雪人",
@@ -3750,6 +3896,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26416,
+		["item_id"] = 21558,
 		["items"] = {
 			21724,
 		},
@@ -3771,6 +3918,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26417,
+		["item_id"] = 21559,
 		["items"] = {
 			21725,
 		},
@@ -3792,6 +3940,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26418,
+		["item_id"] = 21557,
 		["items"] = {
 			21726,
 		},
@@ -3813,6 +3962,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26420,
+		["item_id"] = 21589,
 		["items"] = {
 			21727,
 		},
@@ -3834,6 +3984,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26421,
+		["item_id"] = 21590,
 		["items"] = {
 			21728,
 		},
@@ -3855,6 +4006,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26422,
+		["item_id"] = 21592,
 		["items"] = {
 			21729,
 		},
@@ -3876,6 +4028,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26423,
+		["item_id"] = 21571,
 		["items"] = {
 			21730,
 		},
@@ -3897,6 +4050,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26424,
+		["item_id"] = 21574,
 		["items"] = {
 			21731,
 		},
@@ -3918,6 +4072,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26425,
+		["item_id"] = 21576,
 		["items"] = {
 			21732,
 		},
@@ -3939,6 +4094,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26426,
+		["item_id"] = 21714,
 		["items"] = {
 			21733,
 		},
@@ -3960,6 +4116,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26427,
+		["item_id"] = 21716,
 		["items"] = {
 			21734,
 		},
@@ -3981,6 +4138,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26428,
+		["item_id"] = 21718,
 		["items"] = {
 			21735,
 		},
@@ -4002,6 +4160,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26442,
+		["item_id"] = 21569,
 		["items"] = {
 			21738,
 		},
@@ -4023,6 +4182,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 26443,
+		["item_id"] = 21570,
 		["items"] = {
 			21737,
 		},
@@ -4044,6 +4204,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28327,
+		["item_id"] = 22728,
 		["items"] = {
 			22729,
 		},
@@ -4065,6 +4226,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30303,
+		["item_id"] = 23781,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "元素炸药粉",
@@ -4093,6 +4255,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30304,
+		["item_id"] = 23782,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "魔铁外壳",
@@ -4121,6 +4284,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30305,
+		["item_id"] = 23783,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "魔铁螺丝",
@@ -4149,6 +4313,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30306,
+		["item_id"] = 23784,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "精金框架",
@@ -4177,6 +4342,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30307,
+		["item_id"] = 23785,
 		["min_skill"] = 340,
 		["name"] = {
 			["Chinese"] = "硬化精金管",
@@ -4205,6 +4371,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30308,
+		["item_id"] = 23786,
 		["min_skill"] = 340,
 		["name"] = {
 			["Chinese"] = "氪金能量核心",
@@ -4233,6 +4400,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30309,
+		["item_id"] = 23787,
 		["min_skill"] = 340,
 		["name"] = {
 			["Chinese"] = "魔钢稳定器",
@@ -4261,6 +4429,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30310,
+		["item_id"] = 23736,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "魔铁炸弹",
@@ -4289,6 +4458,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30311,
+		["item_id"] = 23737,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "精金手雷",
@@ -4317,6 +4487,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30312,
+		["item_id"] = 23742,
 		["min_skill"] = 320,
 		["name"] = {
 			["Chinese"] = "魔铁步枪",
@@ -4345,6 +4516,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30313,
+		["item_id"] = 23746,
 		["items"] = {
 			23799,
 		},
@@ -4366,6 +4538,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30314,
+		["item_id"] = 23747,
 		["items"] = {
 			23800,
 		},
@@ -4387,6 +4560,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30315,
+		["item_id"] = 23748,
 		["items"] = {
 			23802,
 		},
@@ -4408,6 +4582,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30316,
+		["item_id"] = 23758,
 		["items"] = {
 			23803,
 		},
@@ -4429,6 +4604,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30317,
+		["item_id"] = 23761,
 		["items"] = {
 			23804,
 		},
@@ -4450,6 +4626,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30318,
+		["item_id"] = 23762,
 		["items"] = {
 			23805,
 		},
@@ -4471,6 +4648,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30325,
+		["item_id"] = 23763,
 		["items"] = {
 			23806,
 		},
@@ -4492,6 +4670,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30329,
+		["item_id"] = 23764,
 		["items"] = {
 			23807,
 		},
@@ -4513,6 +4692,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30332,
+		["item_id"] = 23765,
 		["items"] = {
 			23808,
 		},
@@ -4534,6 +4714,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30334,
+		["item_id"] = 23766,
 		["items"] = {
 			23809,
 		},
@@ -4555,6 +4736,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30337,
+		["item_id"] = 23767,
 		["items"] = {
 			23810,
 		},
@@ -4576,6 +4758,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30341,
+		["item_id"] = 23768,
 		["items"] = {
 			23811,
 		},
@@ -4597,6 +4780,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30344,
+		["item_id"] = 23771,
 		["items"] = {
 			23814,
 		},
@@ -4618,6 +4802,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30346,
+		["item_id"] = 23772,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "魔铁弹丸",
@@ -4646,6 +4831,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30347,
+		["item_id"] = 34504,
 		["items"] = {
 			23815,
 		},
@@ -4667,6 +4853,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30348,
+		["item_id"] = 23774,
 		["items"] = {
 			23816,
 		},
@@ -4688,6 +4875,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30547,
+		["item_id"] = 23819,
 		["items"] = {
 			23874,
 		},
@@ -4709,6 +4897,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30548,
+		["item_id"] = 23821,
 		["items"] = {
 			23888,
 		},
@@ -4730,6 +4919,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30551,
+		["item_id"] = 33092,
 		["items"] = {
 			23883,
 			35310,
@@ -4747,11 +4937,12 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Inyector de poción de sanación",
 			["Taiwanese"] = "治療藥水注射器",
 		},
-		["phase"] = 5,
+		["phase"] = 1,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 30552,
+		["item_id"] = 33093,
 		["items"] = {
 			23884,
 			35311,
@@ -4769,11 +4960,12 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Inyector de poción de maná",
 			["Taiwanese"] = "法力藥水注射器",
 		},
-		["phase"] = 5,
+		["phase"] = 1,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 30556,
+		["item_id"] = 23824,
 		["items"] = {
 			23887,
 		},
@@ -4795,6 +4987,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30558,
+		["item_id"] = 23826,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "更大的炸弹",
@@ -4820,6 +5013,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30560,
+		["item_id"] = 23827,
 		["min_skill"] = 340,
 		["name"] = {
 			["Chinese"] = "超级神风炸药",
@@ -4845,6 +5039,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30563,
+		["item_id"] = 23836,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "地精火箭发射器",
@@ -4871,6 +5066,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30565,
+		["item_id"] = 23838,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "工头的附魔头盔",
@@ -4897,6 +5093,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30566,
+		["item_id"] = 23839,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "工头的加固头盔",
@@ -4923,6 +5120,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30568,
+		["item_id"] = 23841,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "侏儒喷火炮台",
@@ -4948,6 +5146,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30569,
+		["item_id"] = 23835,
 		["min_skill"] = 340,
 		["name"] = {
 			["Chinese"] = "侏儒变鸡器",
@@ -4974,6 +5173,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30570,
+		["item_id"] = 23825,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "近似无敌腰带",
@@ -4999,6 +5199,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30574,
+		["item_id"] = 23828,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "侏儒能量护目镜",
@@ -5025,6 +5226,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 30575,
+		["item_id"] = 23829,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "侏儒作战护目镜",
@@ -5051,6 +5253,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32814,
+		["item_id"] = 25886,
 		["items"] = {
 			25887,
 		},
@@ -5072,6 +5275,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36954,
+		["item_id"] = 30542,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "空间撕裂器 - 52区",
@@ -5097,6 +5301,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36955,
+		["item_id"] = 30544,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "超级安全传送器：托什雷的基地",
@@ -5122,6 +5327,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39895,
+		["item_id"] = 7191,
 		["items"] = {
 			32381,
 		},
@@ -5143,6 +5349,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39971,
+		["item_id"] = 32423,
 		["min_skill"] = 335,
 		["name"] = {
 			["Chinese"] = "冰霜冲击雷管",
@@ -5171,6 +5378,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39973,
+		["item_id"] = 32413,
 		["min_skill"] = 335,
 		["name"] = {
 			["Chinese"] = "冰霜手雷",
@@ -5199,6 +5407,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40274,
+		["item_id"] = 32461,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "狂野机械护目镜",
@@ -5212,7 +5421,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas cacharráticas frenéticas",
 			["Taiwanese"] = "狂怒電磁護目鏡",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5227,6 +5436,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41307,
+		["item_id"] = 32756,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "陀螺平衡氪金重枪",
@@ -5240,7 +5450,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Destructor de korio giroequilibrado",
 			["Taiwanese"] = "迴轉平衡克銀毀滅火槍",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5255,6 +5465,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41311,
+		["item_id"] = 32472,
 		["min_skill"] = 370,
 		["name"] = {
 			["Chinese"] = "审判者护目镜2000型",
@@ -5268,7 +5479,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de la Justiciera 2000",
 			["Taiwanese"] = "正義化身2000護目鏡",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5283,6 +5494,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41312,
+		["item_id"] = 32473,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "坦克眼镜",
@@ -5296,7 +5508,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas tanquetrónicas",
 			["Taiwanese"] = "坦克電子護目鏡",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5311,6 +5523,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41314,
+		["item_id"] = 32474,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "必中护目镜V2.0",
@@ -5324,7 +5537,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de golpe seguro v2,0",
 			["Taiwanese"] = "絕對打擊護目鏡v2.0",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5339,6 +5552,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41315,
+		["item_id"] = 32476,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "齿轮风暴护目镜",
@@ -5352,7 +5566,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas trastotormenta",
 			["Taiwanese"] = "機件護目鏡",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5367,6 +5581,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41316,
+		["item_id"] = 32475,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "活力复制器",
@@ -5380,7 +5595,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas del Replicador viviente",
 			["Taiwanese"] = "生命複製護目鏡",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5395,6 +5610,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41317,
+		["item_id"] = 32478,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "死亡一击护目镜X11型",
@@ -5408,7 +5624,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas X11 Arremetida mortal",
 			["Taiwanese"] = "死亡打擊X11護目鏡",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5423,6 +5639,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41318,
+		["item_id"] = 32479,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "奇迹治疗罩XT40型",
@@ -5436,7 +5653,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de sol curamaravilla XT40",
 			["Taiwanese"] = "驚奇XT40護目鏡",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5451,6 +5668,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41319,
+		["item_id"] = 32480,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "月光放大护目镜",
@@ -5464,7 +5682,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas de la luna de amplificación",
 			["Taiwanese"] = "放大月光護目鏡",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5479,6 +5697,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41320,
+		["item_id"] = 32494,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "毁灭全视护目镜",
@@ -5492,7 +5711,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Gafas holográficas de destrucción",
 			["Taiwanese"] = "毀滅護目鏡",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5507,6 +5726,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41321,
+		["item_id"] = 32495,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "超级治疗射线4000型",
@@ -5520,7 +5740,7 @@ MTSL_DATA["skills"]["Engineering"] =
 			["Spanish"] = "Lente de supersanación 4000",
 			["Taiwanese"] = "能量4000護目鏡",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 0,
 			["sources"] = {
@@ -5535,6 +5755,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44155,
+		["item_id"] = 34060,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "飞行器",
@@ -5560,6 +5781,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44157,
+		["item_id"] = 34061,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "涡轮加速飞行器",
@@ -5585,6 +5807,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44391,
+		["item_id"] = 34113,
 		["items"] = {
 			34114,
 		},
@@ -5606,6 +5829,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46106,
+		["item_id"] = 35183,
 		["items"] = {
 			35191,
 		},
@@ -5627,6 +5851,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46107,
+		["item_id"] = 35185,
 		["items"] = {
 			35187,
 		},
@@ -5648,6 +5873,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46108,
+		["item_id"] = 35181,
 		["items"] = {
 			35189,
 		},
@@ -5669,6 +5895,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46109,
+		["item_id"] = 35182,
 		["items"] = {
 			35190,
 		},
@@ -5690,6 +5917,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46110,
+		["item_id"] = 35184,
 		["items"] = {
 			35192,
 		},
@@ -5711,6 +5939,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46111,
+		["item_id"] = 34847,
 		["items"] = {
 			35186,
 		},
@@ -5732,6 +5961,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46112,
+		["item_id"] = 34355,
 		["items"] = {
 			35193,
 		},
@@ -5753,6 +5983,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46113,
+		["item_id"] = 34356,
 		["items"] = {
 			35194,
 		},
@@ -5774,6 +6005,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46114,
+		["item_id"] = 34354,
 		["items"] = {
 			35195,
 		},
@@ -5795,6 +6027,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46115,
+		["item_id"] = 34357,
 		["items"] = {
 			35196,
 		},
@@ -5816,6 +6049,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46116,
+		["item_id"] = 34353,
 		["items"] = {
 			35197,
 		},
@@ -5837,6 +6071,7 @@ MTSL_DATA["skills"]["Engineering"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46697,
+		["item_id"] = 35581,
 		["items"] = {
 			35582,
 		},

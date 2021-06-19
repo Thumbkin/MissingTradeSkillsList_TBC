@@ -534,6 +534,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7795,
+		["item_id"] = 6339,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "符文银棒",
@@ -1206,6 +1207,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 13628,
+		["item_id"] = 11130,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "符文金棒",
@@ -1729,6 +1731,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 13702,
+		["item_id"] = 11145,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "符文真银棒",
@@ -2386,6 +2389,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 14293,
+		["item_id"] = 11287,
 		["min_skill"] = 10,
 		["name"] = {
 			["Chinese"] = "次级魔法杖",
@@ -2427,6 +2431,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 14807,
+		["item_id"] = 11288,
 		["min_skill"] = 70,
 		["name"] = {
 			["Chinese"] = "强效魔法杖",
@@ -2468,6 +2473,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 14809,
+		["item_id"] = 11289,
 		["min_skill"] = 155,
 		["name"] = {
 			["Chinese"] = "次级秘法魔杖",
@@ -2494,6 +2500,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 14810,
+		["item_id"] = 11290,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "强效秘法杖",
@@ -2520,6 +2527,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15596,
+		["item_id"] = 11811,
 		["items"] = {
 			11813,
 		},
@@ -2541,6 +2549,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17180,
+		["item_id"] = 12655,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "魔化瑟银",
@@ -2565,6 +2574,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 17181,
+		["item_id"] = 12810,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "魔化皮",
@@ -3093,6 +3103,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20051,
+		["item_id"] = 16207,
 		["items"] = {
 			16243,
 		},
@@ -3538,6 +3549,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 25124,
+		["item_id"] = 20744,
 		["items"] = {
 			20758,
 		},
@@ -3559,6 +3571,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 25125,
+		["item_id"] = 20745,
 		["items"] = {
 			20752,
 		},
@@ -3580,6 +3593,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 25126,
+		["item_id"] = 20746,
 		["items"] = {
 			20753,
 		},
@@ -3601,6 +3615,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 25127,
+		["item_id"] = 20747,
 		["items"] = {
 			20754,
 		},
@@ -3622,6 +3637,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 25128,
+		["item_id"] = 20750,
 		["items"] = {
 			20755,
 		},
@@ -3643,6 +3659,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 25129,
+		["item_id"] = 20749,
 		["items"] = {
 			20756,
 		},
@@ -3664,6 +3681,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 1,
 		["id"] = 25130,
+		["item_id"] = 20748,
 		["items"] = {
 			20757,
 		},
@@ -4057,7 +4075,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 			["Spanish"] = "Encantar botas: vitalidad",
 			["Taiwanese"] = "附魔靴子 - 活力",
 		},
-		["phase"] = 5,
+		["phase"] = 1,
 	},
 	{
 		["expansion"] = 2,
@@ -4453,6 +4471,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28016,
+		["item_id"] = 22521,
 		["items"] = {
 			22562,
 		},
@@ -4474,6 +4493,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28019,
+		["item_id"] = 22522,
 		["items"] = {
 			22563,
 		},
@@ -4495,6 +4515,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28022,
+		["item_id"] = 22449,
 		["items"] = {
 			22565,
 		},
@@ -4516,6 +4537,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28027,
+		["item_id"] = 22460,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "棱光之球",
@@ -4543,6 +4565,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28028,
+		["item_id"] = 22459,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "虚空之球",
@@ -4570,6 +4593,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32664,
+		["item_id"] = 22461,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "符文魔铁棒",
@@ -4597,6 +4621,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32665,
+		["item_id"] = 22462,
 		["items"] = {
 			25848,
 		},
@@ -4618,6 +4643,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32667,
+		["item_id"] = 22463,
 		["items"] = {
 			25849,
 		},
@@ -5019,7 +5045,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 			["Spanish"] = "Encantar botas: presteza felina",
 			["Taiwanese"] = "附魔靴子 - 貓之迅捷",
 		},
-		["phase"] = 5,
+		["phase"] = 1,
 	},
 	{
 		["expansion"] = 2,
@@ -5041,7 +5067,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 			["Spanish"] = "Encantar botas: velocidad del jabalí",
 			["Taiwanese"] = "附魔靴子 - 野豬之速",
 		},
-		["phase"] = 5,
+		["phase"] = 1,
 	},
 	{
 		["expansion"] = 2,
@@ -5088,6 +5114,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42613,
+		["item_id"] = 22448,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "转化连结水晶",
@@ -5115,6 +5142,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42615,
+		["item_id"] = 22448,
 		["min_skill"] = 335,
 		["name"] = {
 			["Chinese"] = "小块棱光碎片",
@@ -5179,7 +5207,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 			["Spanish"] = "Encantar arma: verdugo",
 			["Taiwanese"] = "附魔武器 - 處決者",
 		},
-		["phase"] = 3,
+		["phase"] = 4,
 	},
 	{
 		["expansion"] = 2,
@@ -5211,6 +5239,7 @@ MTSL_DATA["skills"]["Enchanting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 45765,
+		["item_id"] = 22449,
 		["items"] = {
 			34872,
 		},

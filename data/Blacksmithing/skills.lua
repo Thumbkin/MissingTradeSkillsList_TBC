@@ -25,6 +25,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2661,
+		["item_id"] = 2851,
 		["min_skill"] = 35,
 		["name"] = {
 			["Chinese"] = "铜质链甲腰带",
@@ -68,6 +69,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2662,
+		["item_id"] = 2852,
 		["min_skill"] = 1,
 		["name"] = {
 			["Chinese"] = "铜质链甲短裤",
@@ -130,6 +132,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2664,
+		["item_id"] = 2854,
 		["min_skill"] = 90,
 		["name"] = {
 			["Chinese"] = "铜质符文护腕",
@@ -163,6 +166,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2665,
+		["item_id"] = 2863,
 		["min_skill"] = 65,
 		["name"] = {
 			["Chinese"] = "粗制磨刀石",
@@ -206,6 +210,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2666,
+		["item_id"] = 2857,
 		["min_skill"] = 70,
 		["name"] = {
 			["Chinese"] = "铜质符文腰带",
@@ -249,6 +254,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2667,
+		["item_id"] = 2864,
 		["items"] = {
 			2881,
 		},
@@ -270,6 +276,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2668,
+		["item_id"] = 2865,
 		["min_skill"] = 105,
 		["name"] = {
 			["Chinese"] = "劣质青铜护腿",
@@ -303,6 +310,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2670,
+		["item_id"] = 2866,
 		["min_skill"] = 105,
 		["name"] = {
 			["Chinese"] = "劣质青铜胸甲",
@@ -336,6 +344,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2672,
+		["item_id"] = 2868,
 		["min_skill"] = 120,
 		["name"] = {
 			["Chinese"] = "青铜花纹护腕",
@@ -369,6 +378,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2673,
+		["item_id"] = 2869,
 		["items"] = {
 			5578,
 		},
@@ -390,6 +400,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2674,
+		["item_id"] = 2871,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "重磨刀石",
@@ -423,6 +434,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2675,
+		["item_id"] = 2870,
 		["min_skill"] = 145,
 		["name"] = {
 			["Chinese"] = "银鳞胸甲",
@@ -456,6 +468,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2737,
+		["item_id"] = 2844,
 		["min_skill"] = 15,
 		["name"] = {
 			["Chinese"] = "铜质钉锤",
@@ -499,6 +512,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2738,
+		["item_id"] = 2845,
 		["min_skill"] = 20,
 		["name"] = {
 			["Chinese"] = "铜斧",
@@ -542,6 +556,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2739,
+		["item_id"] = 2847,
 		["min_skill"] = 25,
 		["name"] = {
 			["Chinese"] = "铜质短剑",
@@ -585,6 +600,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2740,
+		["item_id"] = 2848,
 		["min_skill"] = 110,
 		["name"] = {
 			["Chinese"] = "青铜钉锤",
@@ -618,6 +634,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2741,
+		["item_id"] = 2849,
 		["min_skill"] = 115,
 		["name"] = {
 			["Chinese"] = "青铜斧",
@@ -651,6 +668,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2742,
+		["item_id"] = 2850,
 		["min_skill"] = 120,
 		["name"] = {
 			["Chinese"] = "青铜短剑",
@@ -703,6 +721,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3116,
+		["item_id"] = 3240,
 		["min_skill"] = 65,
 		["name"] = {
 			["Chinese"] = "粗制平衡石",
@@ -746,6 +765,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3117,
+		["item_id"] = 3241,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "重平衡石",
@@ -779,6 +799,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3292,
+		["item_id"] = 3487,
 		["min_skill"] = 95,
 		["name"] = {
 			["Chinese"] = "铜质重剑",
@@ -812,6 +833,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3293,
+		["item_id"] = 3488,
 		["min_skill"] = 35,
 		["name"] = {
 			["Chinese"] = "铜质战斧",
@@ -855,6 +877,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3294,
+		["item_id"] = 3489,
 		["min_skill"] = 70,
 		["name"] = {
 			["Chinese"] = "厚重战斧",
@@ -898,6 +921,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3295,
+		["item_id"] = 3490,
 		["items"] = {
 			2883,
 		},
@@ -919,6 +943,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3296,
+		["item_id"] = 3491,
 		["min_skill"] = 130,
 		["name"] = {
 			["Chinese"] = "青铜重锤",
@@ -952,6 +977,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3297,
+		["item_id"] = 3492,
 		["items"] = {
 			3608,
 		},
@@ -973,6 +999,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3319,
+		["item_id"] = 3469,
 		["min_skill"] = 20,
 		["name"] = {
 			["Chinese"] = "铜质链甲战靴",
@@ -1016,6 +1043,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3320,
+		["item_id"] = 3470,
 		["min_skill"] = 25,
 		["name"] = {
 			["Chinese"] = "劣质砂轮",
@@ -1059,6 +1087,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3321,
+		["item_id"] = 3471,
 		["items"] = {
 			3609,
 		},
@@ -1080,6 +1109,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3323,
+		["item_id"] = 3472,
 		["min_skill"] = 40,
 		["name"] = {
 			["Chinese"] = "铜质符文护手",
@@ -1123,6 +1153,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3324,
+		["item_id"] = 3473,
 		["min_skill"] = 45,
 		["name"] = {
 			["Chinese"] = "铜质符文短裤",
@@ -1166,6 +1197,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3325,
+		["item_id"] = 3474,
 		["items"] = {
 			3610,
 		},
@@ -1187,6 +1219,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3326,
+		["item_id"] = 3478,
 		["min_skill"] = 75,
 		["name"] = {
 			["Chinese"] = "粗制砂轮",
@@ -1230,6 +1263,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3328,
+		["item_id"] = 3480,
 		["min_skill"] = 110,
 		["name"] = {
 			["Chinese"] = "劣质青铜护肩",
@@ -1263,6 +1297,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3330,
+		["item_id"] = 3481,
 		["items"] = {
 			2882,
 		},
@@ -1284,6 +1319,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3331,
+		["item_id"] = 3482,
 		["min_skill"] = 130,
 		["name"] = {
 			["Chinese"] = "镀银青铜战靴",
@@ -1317,6 +1353,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3333,
+		["item_id"] = 3483,
 		["min_skill"] = 135,
 		["name"] = {
 			["Chinese"] = "镀银青铜护手",
@@ -1350,6 +1387,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3334,
+		["item_id"] = 3484,
 		["items"] = {
 			3611,
 		},
@@ -1371,6 +1409,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3336,
+		["item_id"] = 3485,
 		["items"] = {
 			3612,
 		},
@@ -1392,6 +1431,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3337,
+		["item_id"] = 3486,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "重砂轮",
@@ -1425,6 +1465,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3491,
+		["item_id"] = 3848,
 		["min_skill"] = 105,
 		["name"] = {
 			["Chinese"] = "青铜匕首",
@@ -1458,6 +1499,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3492,
+		["item_id"] = 3849,
 		["items"] = {
 			12162,
 		},
@@ -1479,6 +1521,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3493,
+		["item_id"] = 3850,
 		["items"] = {
 			3866,
 		},
@@ -1500,6 +1543,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3494,
+		["item_id"] = 3851,
 		["items"] = {
 			10858,
 		},
@@ -1521,6 +1565,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3495,
+		["item_id"] = 3852,
 		["items"] = {
 			3867,
 		},
@@ -1542,6 +1587,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3496,
+		["item_id"] = 3853,
 		["items"] = {
 			12163,
 		},
@@ -1563,6 +1609,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3497,
+		["item_id"] = 3854,
 		["items"] = {
 			3868,
 		},
@@ -1584,6 +1631,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3498,
+		["item_id"] = 3855,
 		["items"] = {
 			12164,
 		},
@@ -1605,6 +1653,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3500,
+		["item_id"] = 3856,
 		["items"] = {
 			3869,
 		},
@@ -1626,6 +1675,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3501,
+		["item_id"] = 3835,
 		["min_skill"] = 165,
 		["name"] = {
 			["Chinese"] = "绿铁护腕",
@@ -1652,6 +1702,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3502,
+		["item_id"] = 3836,
 		["min_skill"] = 170,
 		["name"] = {
 			["Chinese"] = "绿铁头盔",
@@ -1678,6 +1729,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3503,
+		["item_id"] = 3837,
 		["items"] = {
 			6047,
 		},
@@ -1699,6 +1751,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3504,
+		["item_id"] = 3840,
 		["items"] = {
 			3870,
 		},
@@ -1720,6 +1773,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3505,
+		["item_id"] = 3841,
 		["items"] = {
 			3871,
 		},
@@ -1741,6 +1795,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3506,
+		["item_id"] = 3842,
 		["min_skill"] = 155,
 		["name"] = {
 			["Chinese"] = "绿铁护腿",
@@ -1767,6 +1822,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3507,
+		["item_id"] = 3843,
 		["items"] = {
 			3872,
 		},
@@ -1788,6 +1844,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3508,
+		["item_id"] = 3844,
 		["min_skill"] = 180,
 		["name"] = {
 			["Chinese"] = "绿铁锁甲",
@@ -1814,6 +1871,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3511,
+		["item_id"] = 3845,
 		["items"] = {
 			3873,
 		},
@@ -1835,6 +1893,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3513,
+		["item_id"] = 3846,
 		["items"] = {
 			3874,
 		},
@@ -1856,6 +1915,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3515,
+		["item_id"] = 3847,
 		["items"] = {
 			3875,
 		},
@@ -1877,6 +1937,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6517,
+		["item_id"] = 5540,
 		["min_skill"] = 115,
 		["name"] = {
 			["Chinese"] = "珍珠匕首",
@@ -1910,6 +1971,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 6518,
+		["item_id"] = 5541,
 		["items"] = {
 			5543,
 		},
@@ -1931,6 +1993,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7221,
+		["item_id"] = 6042,
 		["items"] = {
 			6044,
 		},
@@ -1952,6 +2015,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7222,
+		["item_id"] = 6043,
 		["items"] = {
 			6045,
 		},
@@ -1973,6 +2037,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7223,
+		["item_id"] = 6040,
 		["min_skill"] = 185,
 		["name"] = {
 			["Chinese"] = "金鳞护腕",
@@ -1999,6 +2064,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7224,
+		["item_id"] = 6041,
 		["items"] = {
 			6046,
 		},
@@ -2020,6 +2086,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7408,
+		["item_id"] = 6214,
 		["min_skill"] = 65,
 		["name"] = {
 			["Chinese"] = "铜质大锤",
@@ -2063,6 +2130,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7817,
+		["item_id"] = 6350,
 		["min_skill"] = 95,
 		["name"] = {
 			["Chinese"] = "劣质青铜战靴",
@@ -2096,6 +2164,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7818,
+		["item_id"] = 6338,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "银棒",
@@ -2129,6 +2198,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8367,
+		["item_id"] = 6731,
 		["items"] = {
 			6735,
 		},
@@ -2150,6 +2220,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8768,
+		["item_id"] = 7071,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "铁扣环",
@@ -2183,6 +2254,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 8880,
+		["item_id"] = 7166,
 		["min_skill"] = 30,
 		["name"] = {
 			["Chinese"] = "铜质匕首",
@@ -2226,6 +2298,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9811,
+		["item_id"] = 7913,
 		["items"] = {
 			7978,
 		},
@@ -2247,6 +2320,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9813,
+		["item_id"] = 7914,
 		["items"] = {
 			7979,
 		},
@@ -2268,6 +2342,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9814,
+		["item_id"] = 7915,
 		["items"] = {
 			7980,
 		},
@@ -2289,6 +2364,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9818,
+		["item_id"] = 7916,
 		["items"] = {
 			7981,
 		},
@@ -2310,6 +2386,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9820,
+		["item_id"] = 7917,
 		["items"] = {
 			7982,
 		},
@@ -2331,6 +2408,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9916,
+		["item_id"] = 7963,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "钢质胸甲",
@@ -2357,6 +2435,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9918,
+		["item_id"] = 7964,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "坚固的磨刀石",
@@ -2383,6 +2462,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9920,
+		["item_id"] = 7966,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "坚固的砂轮",
@@ -2409,6 +2489,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9921,
+		["item_id"] = 7965,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "坚固的平衡石",
@@ -2435,6 +2516,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9926,
+		["item_id"] = 7918,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "重型秘银护肩",
@@ -2461,6 +2543,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9928,
+		["item_id"] = 7919,
 		["min_skill"] = 205,
 		["name"] = {
 			["Chinese"] = "重型秘银手套",
@@ -2487,6 +2570,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9931,
+		["item_id"] = 7920,
 		["min_skill"] = 210,
 		["name"] = {
 			["Chinese"] = "秘银鳞片短裤",
@@ -2513,6 +2597,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9933,
+		["item_id"] = 7921,
 		["items"] = {
 			7975,
 		},
@@ -2534,6 +2619,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9935,
+		["item_id"] = 7922,
 		["min_skill"] = 215,
 		["name"] = {
 			["Chinese"] = "钢质头盔",
@@ -2560,6 +2646,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9937,
+		["item_id"] = 7924,
 		["items"] = {
 			7995,
 		},
@@ -2581,6 +2668,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9939,
+		["item_id"] = 7967,
 		["items"] = {
 			7976,
 		},
@@ -2602,6 +2690,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9945,
+		["item_id"] = 7926,
 		["items"] = {
 			7983,
 		},
@@ -2623,6 +2712,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9950,
+		["item_id"] = 7927,
 		["items"] = {
 			7984,
 		},
@@ -2644,6 +2734,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9952,
+		["item_id"] = 7928,
 		["items"] = {
 			7985,
 		},
@@ -2665,6 +2756,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9954,
+		["item_id"] = 7938,
 		["min_skill"] = 225,
 		["name"] = {
 			["Chinese"] = "真银护手",
@@ -2692,6 +2784,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9957,
+		["item_id"] = 7929,
 		["min_skill"] = 215,
 		["name"] = {
 			["Chinese"] = "兽人护腿",
@@ -2713,6 +2806,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9959,
+		["item_id"] = 7930,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "重型秘银胸甲",
@@ -2737,6 +2831,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9961,
+		["item_id"] = 7931,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "秘银罩帽",
@@ -2761,6 +2856,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9964,
+		["item_id"] = 7969,
 		["items"] = {
 			7989,
 		},
@@ -2782,6 +2878,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9966,
+		["item_id"] = 7932,
 		["items"] = {
 			7991,
 		},
@@ -2803,6 +2900,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9968,
+		["item_id"] = 7933,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "秘银重靴",
@@ -2827,6 +2925,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9970,
+		["item_id"] = 7934,
 		["items"] = {
 			7990,
 		},
@@ -2848,6 +2947,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9972,
+		["item_id"] = 7935,
 		["min_skill"] = 240,
 		["name"] = {
 			["Chinese"] = "精制秘银胸甲",
@@ -2869,6 +2969,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9974,
+		["item_id"] = 7939,
 		["min_skill"] = 245,
 		["name"] = {
 			["Chinese"] = "真银胸甲",
@@ -2896,6 +2997,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9979,
+		["item_id"] = 7936,
 		["min_skill"] = 245,
 		["name"] = {
 			["Chinese"] = "精制秘银战靴",
@@ -2917,6 +3019,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9980,
+		["item_id"] = 7937,
 		["min_skill"] = 245,
 		["name"] = {
 			["Chinese"] = "精制秘银头盔",
@@ -2938,6 +3041,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9983,
+		["item_id"] = 7955,
 		["min_skill"] = 30,
 		["name"] = {
 			["Chinese"] = "铜质双刃刀",
@@ -2981,6 +3085,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9985,
+		["item_id"] = 7956,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "青铜战锤",
@@ -3014,6 +3119,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9986,
+		["item_id"] = 7957,
 		["min_skill"] = 130,
 		["name"] = {
 			["Chinese"] = "青铜巨剑",
@@ -3047,6 +3153,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9987,
+		["item_id"] = 7958,
 		["min_skill"] = 135,
 		["name"] = {
 			["Chinese"] = "青铜战斧",
@@ -3080,6 +3187,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9993,
+		["item_id"] = 7941,
 		["min_skill"] = 210,
 		["name"] = {
 			["Chinese"] = "秘银重斧",
@@ -3106,6 +3214,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9995,
+		["item_id"] = 7942,
 		["items"] = {
 			7992,
 		},
@@ -3127,6 +3236,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 9997,
+		["item_id"] = 7943,
 		["items"] = {
 			8029,
 		},
@@ -3148,6 +3258,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10001,
+		["item_id"] = 7945,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "巨型黑色锤",
@@ -3172,6 +3283,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10003,
+		["item_id"] = 7954,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "粉碎者",
@@ -3200,6 +3312,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10005,
+		["item_id"] = 7944,
 		["items"] = {
 			7993,
 		},
@@ -3221,6 +3334,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10007,
+		["item_id"] = 7961,
 		["min_skill"] = 245,
 		["name"] = {
 			["Chinese"] = "幻影之刃",
@@ -3249,6 +3363,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10009,
+		["item_id"] = 7946,
 		["items"] = {
 			8028,
 		},
@@ -3270,6 +3385,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10011,
+		["item_id"] = 7959,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "荒芜",
@@ -3298,6 +3414,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10013,
+		["item_id"] = 7947,
 		["items"] = {
 			8030,
 		},
@@ -3319,6 +3436,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10015,
+		["item_id"] = 7960,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "真银圣剑",
@@ -3347,6 +3465,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11454,
+		["item_id"] = 9060,
 		["items"] = {
 			10713,
 		},
@@ -3368,6 +3487,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 11643,
+		["item_id"] = 9366,
 		["items"] = {
 			9367,
 		},
@@ -3389,6 +3509,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 12259,
+		["item_id"] = 10423,
 		["items"] = {
 			10424,
 		},
@@ -3429,6 +3550,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 14379,
+		["item_id"] = 11128,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "金棒",
@@ -3462,6 +3584,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 14380,
+		["item_id"] = 11144,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "真银棒",
@@ -3488,6 +3611,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15292,
+		["item_id"] = 11608,
 		["items"] = {
 			11610,
 		},
@@ -3510,6 +3634,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15293,
+		["item_id"] = 11606,
 		["items"] = {
 			11614,
 		},
@@ -3531,6 +3656,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15294,
+		["item_id"] = 11607,
 		["items"] = {
 			11611,
 		},
@@ -3553,6 +3679,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15295,
+		["item_id"] = 11605,
 		["items"] = {
 			11615,
 		},
@@ -3574,6 +3701,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15296,
+		["item_id"] = 11604,
 		["items"] = {
 			11612,
 		},
@@ -3596,6 +3724,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15972,
+		["item_id"] = 12259,
 		["min_skill"] = 180,
 		["name"] = {
 			["Chinese"] = "亮闪闪的钢匕首",
@@ -3622,6 +3751,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 15973,
+		["item_id"] = 12260,
 		["items"] = {
 			12261,
 		},
@@ -3643,6 +3773,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16639,
+		["item_id"] = 12644,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "致密砂轮",
@@ -3667,6 +3798,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16640,
+		["item_id"] = 12643,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "致密平衡石",
@@ -3691,6 +3823,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16641,
+		["item_id"] = 12404,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "致密磨刀石",
@@ -3715,6 +3848,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16642,
+		["item_id"] = 12405,
 		["items"] = {
 			12682,
 		},
@@ -3736,6 +3870,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16643,
+		["item_id"] = 12406,
 		["items"] = {
 			12683,
 		},
@@ -3757,6 +3892,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16644,
+		["item_id"] = 12408,
 		["items"] = {
 			12684,
 		},
@@ -3778,6 +3914,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16645,
+		["item_id"] = 12416,
 		["items"] = {
 			12685,
 		},
@@ -3799,6 +3936,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16646,
+		["item_id"] = 12428,
 		["items"] = {
 			12687,
 		},
@@ -3820,6 +3958,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16647,
+		["item_id"] = 12424,
 		["items"] = {
 			12688,
 		},
@@ -3841,6 +3980,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16648,
+		["item_id"] = 12415,
 		["items"] = {
 			12689,
 		},
@@ -3862,6 +4002,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16649,
+		["item_id"] = 12425,
 		["items"] = {
 			12690,
 		},
@@ -3883,6 +4024,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16650,
+		["item_id"] = 12624,
 		["items"] = {
 			12691,
 		},
@@ -3905,6 +4047,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16651,
+		["item_id"] = 12645,
 		["items"] = {
 			12692,
 		},
@@ -3926,6 +4069,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16652,
+		["item_id"] = 12409,
 		["items"] = {
 			12693,
 		},
@@ -3947,6 +4091,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16653,
+		["item_id"] = 12410,
 		["items"] = {
 			12694,
 		},
@@ -3968,6 +4113,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16654,
+		["item_id"] = 12418,
 		["items"] = {
 			12695,
 		},
@@ -3989,6 +4135,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16655,
+		["item_id"] = 12631,
 		["items"] = {
 			12699,
 		},
@@ -4011,6 +4158,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16656,
+		["item_id"] = 12419,
 		["items"] = {
 			12697,
 		},
@@ -4032,6 +4180,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16657,
+		["item_id"] = 12426,
 		["items"] = {
 			12700,
 		},
@@ -4053,6 +4202,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16658,
+		["item_id"] = 12427,
 		["items"] = {
 			12701,
 		},
@@ -4074,6 +4224,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16659,
+		["item_id"] = 12417,
 		["items"] = {
 			12702,
 		},
@@ -4095,6 +4246,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16661,
+		["item_id"] = 12632,
 		["items"] = {
 			12703,
 		},
@@ -4117,6 +4269,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16662,
+		["item_id"] = 12414,
 		["items"] = {
 			12704,
 		},
@@ -4138,6 +4291,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16663,
+		["item_id"] = 12422,
 		["items"] = {
 			12705,
 		},
@@ -4159,6 +4313,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16664,
+		["item_id"] = 12610,
 		["items"] = {
 			12706,
 		},
@@ -4180,6 +4335,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16665,
+		["item_id"] = 12611,
 		["items"] = {
 			12707,
 		},
@@ -4201,6 +4357,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16667,
+		["item_id"] = 12628,
 		["items"] = {
 			12696,
 		},
@@ -4223,6 +4380,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16724,
+		["item_id"] = 12633,
 		["items"] = {
 			12711,
 		},
@@ -4245,6 +4403,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16725,
+		["item_id"] = 12420,
 		["items"] = {
 			12713,
 		},
@@ -4266,6 +4425,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16726,
+		["item_id"] = 12612,
 		["items"] = {
 			12714,
 		},
@@ -4287,6 +4447,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16728,
+		["item_id"] = 12636,
 		["items"] = {
 			12716,
 		},
@@ -4309,6 +4470,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16729,
+		["item_id"] = 12640,
 		["items"] = {
 			12717,
 		},
@@ -4331,6 +4493,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16730,
+		["item_id"] = 12429,
 		["items"] = {
 			12715,
 		},
@@ -4352,6 +4515,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16731,
+		["item_id"] = 12613,
 		["items"] = {
 			12718,
 		},
@@ -4373,6 +4537,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16732,
+		["item_id"] = 12614,
 		["items"] = {
 			12719,
 		},
@@ -4394,6 +4559,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16741,
+		["item_id"] = 12639,
 		["items"] = {
 			12720,
 		},
@@ -4416,6 +4582,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16742,
+		["item_id"] = 12620,
 		["items"] = {
 			12725,
 		},
@@ -4438,6 +4605,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16744,
+		["item_id"] = 12619,
 		["items"] = {
 			12726,
 		},
@@ -4460,6 +4628,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16745,
+		["item_id"] = 12618,
 		["items"] = {
 			12727,
 		},
@@ -4482,6 +4651,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16746,
+		["item_id"] = 12641,
 		["items"] = {
 			12728,
 		},
@@ -4504,6 +4674,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16969,
+		["item_id"] = 12773,
 		["items"] = {
 			12819,
 		},
@@ -4525,6 +4696,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16970,
+		["item_id"] = 12774,
 		["items"] = {
 			12821,
 		},
@@ -4547,6 +4719,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16971,
+		["item_id"] = 12775,
 		["items"] = {
 			12823,
 		},
@@ -4568,6 +4741,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16973,
+		["item_id"] = 12776,
 		["items"] = {
 			12824,
 		},
@@ -4590,6 +4764,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16978,
+		["item_id"] = 12777,
 		["items"] = {
 			12825,
 		},
@@ -4612,6 +4787,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16983,
+		["item_id"] = 12781,
 		["items"] = {
 			12827,
 		},
@@ -4634,6 +4810,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16984,
+		["item_id"] = 12792,
 		["items"] = {
 			12828,
 		},
@@ -4655,6 +4832,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16985,
+		["item_id"] = 12782,
 		["items"] = {
 			12830,
 		},
@@ -4677,6 +4855,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16988,
+		["item_id"] = 12796,
 		["items"] = {
 			12833,
 		},
@@ -4699,6 +4878,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16990,
+		["item_id"] = 12790,
 		["items"] = {
 			12834,
 		},
@@ -4721,6 +4901,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16991,
+		["item_id"] = 12798,
 		["items"] = {
 			12835,
 		},
@@ -4743,6 +4924,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16992,
+		["item_id"] = 12797,
 		["items"] = {
 			12836,
 		},
@@ -4765,6 +4947,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16993,
+		["item_id"] = 12794,
 		["items"] = {
 			12837,
 		},
@@ -4787,6 +4970,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16994,
+		["item_id"] = 12784,
 		["items"] = {
 			12838,
 		},
@@ -4809,6 +4993,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16995,
+		["item_id"] = 12783,
 		["items"] = {
 			12839,
 		},
@@ -4831,6 +5016,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19666,
+		["item_id"] = 15869,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "白银万能钥匙",
@@ -4864,6 +5050,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19667,
+		["item_id"] = 15870,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "黄金万能钥匙",
@@ -4897,6 +5084,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19668,
+		["item_id"] = 15871,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "真银万能钥匙",
@@ -4923,6 +5111,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 19669,
+		["item_id"] = 15872,
 		["min_skill"] = 275,
 		["name"] = {
 			["Chinese"] = "奥金万能钥匙",
@@ -4947,6 +5136,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20201,
+		["item_id"] = 16206,
 		["min_skill"] = 275,
 		["name"] = {
 			["Chinese"] = "奥金棒",
@@ -4971,6 +5161,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20872,
+		["item_id"] = 16989,
 		["items"] = {
 			17049,
 		},
@@ -4993,6 +5184,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20873,
+		["item_id"] = 16988,
 		["items"] = {
 			17053,
 		},
@@ -5015,6 +5207,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20874,
+		["item_id"] = 17014,
 		["items"] = {
 			17051,
 		},
@@ -5037,6 +5230,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20876,
+		["item_id"] = 17013,
 		["items"] = {
 			17052,
 		},
@@ -5059,6 +5253,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20890,
+		["item_id"] = 17015,
 		["items"] = {
 			17059,
 		},
@@ -5081,6 +5276,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 20897,
+		["item_id"] = 17016,
 		["items"] = {
 			17060,
 		},
@@ -5103,6 +5299,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 21161,
+		["item_id"] = 17193,
 		["items"] = {
 			18592,
 		},
@@ -5124,6 +5321,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 21913,
+		["item_id"] = 17704,
 		["items"] = {
 			17706,
 		},
@@ -5145,6 +5343,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22757,
+		["item_id"] = 18262,
 		["items"] = {
 			18264,
 		},
@@ -5166,6 +5365,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23628,
+		["item_id"] = 19043,
 		["items"] = {
 			19202,
 		},
@@ -5187,6 +5387,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23629,
+		["item_id"] = 19048,
 		["items"] = {
 			19204,
 		},
@@ -5208,6 +5409,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23632,
+		["item_id"] = 19051,
 		["items"] = {
 			19203,
 		},
@@ -5229,6 +5431,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23633,
+		["item_id"] = 19057,
 		["items"] = {
 			19205,
 		},
@@ -5250,6 +5453,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23636,
+		["item_id"] = 19148,
 		["items"] = {
 			19206,
 		},
@@ -5272,6 +5476,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23637,
+		["item_id"] = 19164,
 		["items"] = {
 			19207,
 		},
@@ -5294,6 +5499,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23638,
+		["item_id"] = 19166,
 		["items"] = {
 			19208,
 		},
@@ -5316,6 +5522,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23639,
+		["item_id"] = 19167,
 		["items"] = {
 			19209,
 		},
@@ -5338,6 +5545,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23650,
+		["item_id"] = 19170,
 		["items"] = {
 			19210,
 		},
@@ -5360,6 +5568,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23652,
+		["item_id"] = 19168,
 		["items"] = {
 			19211,
 		},
@@ -5382,6 +5591,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23653,
+		["item_id"] = 19169,
 		["items"] = {
 			19212,
 		},
@@ -5404,6 +5614,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24136,
+		["item_id"] = 19690,
 		["items"] = {
 			19776,
 		},
@@ -5425,6 +5636,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24137,
+		["item_id"] = 19691,
 		["items"] = {
 			19777,
 		},
@@ -5446,6 +5658,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24138,
+		["item_id"] = 19692,
 		["items"] = {
 			19778,
 		},
@@ -5467,6 +5680,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24139,
+		["item_id"] = 19693,
 		["items"] = {
 			19779,
 		},
@@ -5488,6 +5702,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24140,
+		["item_id"] = 19694,
 		["items"] = {
 			19780,
 		},
@@ -5509,6 +5724,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24141,
+		["item_id"] = 19695,
 		["items"] = {
 			19781,
 		},
@@ -5530,6 +5746,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24399,
+		["item_id"] = 20039,
 		["items"] = {
 			20040,
 		},
@@ -5552,6 +5769,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24912,
+		["item_id"] = 20549,
 		["items"] = {
 			20553,
 		},
@@ -5573,6 +5791,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24913,
+		["item_id"] = 20551,
 		["items"] = {
 			20555,
 		},
@@ -5594,6 +5813,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 24914,
+		["item_id"] = 20550,
 		["items"] = {
 			20554,
 		},
@@ -5615,6 +5835,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27585,
+		["item_id"] = 22197,
 		["items"] = {
 			22209,
 		},
@@ -5636,6 +5857,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27586,
+		["item_id"] = 22198,
 		["items"] = {
 			22219,
 		},
@@ -5657,6 +5879,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27587,
+		["item_id"] = 22196,
 		["items"] = {
 			22222,
 		},
@@ -5678,6 +5901,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27588,
+		["item_id"] = 22195,
 		["items"] = {
 			22214,
 		},
@@ -5699,6 +5923,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27589,
+		["item_id"] = 22194,
 		["items"] = {
 			22220,
 		},
@@ -5720,6 +5945,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27590,
+		["item_id"] = 22191,
 		["items"] = {
 			22221,
 		},
@@ -5741,6 +5967,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27829,
+		["item_id"] = 22385,
 		["items"] = {
 			22388,
 		},
@@ -5763,6 +5990,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27830,
+		["item_id"] = 22384,
 		["items"] = {
 			22390,
 		},
@@ -5785,6 +6013,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 27832,
+		["item_id"] = 22383,
 		["items"] = {
 			22389,
 		},
@@ -5807,6 +6036,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28242,
+		["item_id"] = 22669,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "破冰胸甲",
@@ -5838,6 +6068,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28243,
+		["item_id"] = 22670,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "破冰护手",
@@ -5869,6 +6100,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28244,
+		["item_id"] = 22671,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "破冰护腕",
@@ -5900,6 +6132,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28461,
+		["item_id"] = 22762,
 		["items"] = {
 			22766,
 		},
@@ -5921,6 +6154,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28462,
+		["item_id"] = 22763,
 		["items"] = {
 			22767,
 		},
@@ -5942,6 +6176,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 1,
 		["id"] = 28463,
+		["item_id"] = 22764,
 		["items"] = {
 			22768,
 		},
@@ -5963,6 +6198,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29545,
+		["item_id"] = 23482,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "魔铁板甲手套",
@@ -5988,6 +6224,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29547,
+		["item_id"] = 23484,
 		["min_skill"] = 305,
 		["name"] = {
 			["Chinese"] = "魔铁板甲腰带",
@@ -6013,6 +6250,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29548,
+		["item_id"] = 23487,
 		["min_skill"] = 315,
 		["name"] = {
 			["Chinese"] = "魔铁板甲战靴",
@@ -6038,6 +6276,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29549,
+		["item_id"] = 23488,
 		["min_skill"] = 315,
 		["name"] = {
 			["Chinese"] = "魔铁板甲短裤",
@@ -6063,6 +6302,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29550,
+		["item_id"] = 23489,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "魔铁胸甲",
@@ -6088,6 +6328,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29551,
+		["item_id"] = 23493,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "魔铁链甲罩帽",
@@ -6113,6 +6354,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29552,
+		["item_id"] = 23491,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "魔铁链甲手套",
@@ -6138,6 +6380,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29553,
+		["item_id"] = 23494,
 		["min_skill"] = 315,
 		["name"] = {
 			["Chinese"] = "魔铁链甲护腕",
@@ -6163,6 +6406,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29556,
+		["item_id"] = 23490,
 		["min_skill"] = 320,
 		["name"] = {
 			["Chinese"] = "魔铁链甲外套",
@@ -6188,6 +6432,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29557,
+		["item_id"] = 23497,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "魔铁短斧",
@@ -6213,6 +6458,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29558,
+		["item_id"] = 23498,
 		["min_skill"] = 315,
 		["name"] = {
 			["Chinese"] = "魔铁战锤",
@@ -6238,6 +6484,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29565,
+		["item_id"] = 23499,
 		["min_skill"] = 320,
 		["name"] = {
 			["Chinese"] = "魔铁巨剑",
@@ -6263,6 +6510,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29566,
+		["item_id"] = 23502,
 		["items"] = {
 			23590,
 		},
@@ -6284,6 +6532,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29568,
+		["item_id"] = 23503,
 		["items"] = {
 			23591,
 		},
@@ -6305,6 +6554,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29569,
+		["item_id"] = 23504,
 		["items"] = {
 			23592,
 		},
@@ -6326,6 +6576,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29571,
+		["item_id"] = 23505,
 		["items"] = {
 			23593,
 		},
@@ -6347,6 +6598,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29603,
+		["item_id"] = 23506,
 		["items"] = {
 			23594,
 		},
@@ -6368,6 +6620,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29605,
+		["item_id"] = 23508,
 		["items"] = {
 			23595,
 		},
@@ -6389,6 +6642,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29606,
+		["item_id"] = 23507,
 		["items"] = {
 			23596,
 		},
@@ -6410,6 +6664,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29608,
+		["item_id"] = 23510,
 		["items"] = {
 			23597,
 		},
@@ -6431,6 +6686,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29610,
+		["item_id"] = 23509,
 		["items"] = {
 			23599,
 		},
@@ -6452,6 +6708,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29611,
+		["item_id"] = 23511,
 		["items"] = {
 			23598,
 		},
@@ -6473,6 +6730,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29613,
+		["item_id"] = 23512,
 		["items"] = {
 			23600,
 		},
@@ -6494,6 +6752,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29614,
+		["item_id"] = 23515,
 		["items"] = {
 			23601,
 		},
@@ -6515,6 +6774,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29615,
+		["item_id"] = 23516,
 		["items"] = {
 			23602,
 		},
@@ -6536,6 +6796,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29616,
+		["item_id"] = 23514,
 		["items"] = {
 			23603,
 		},
@@ -6557,6 +6818,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29617,
+		["item_id"] = 23513,
 		["items"] = {
 			23604,
 		},
@@ -6578,6 +6840,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29619,
+		["item_id"] = 23517,
 		["items"] = {
 			23605,
 		},
@@ -6599,6 +6862,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29620,
+		["item_id"] = 23518,
 		["items"] = {
 			23606,
 		},
@@ -6620,6 +6884,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29621,
+		["item_id"] = 23519,
 		["items"] = {
 			23607,
 		},
@@ -6641,6 +6906,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29622,
+		["item_id"] = 23532,
 		["items"] = {
 			23621,
 		},
@@ -6662,6 +6928,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29628,
+		["item_id"] = 23524,
 		["items"] = {
 			23608,
 		},
@@ -6683,6 +6950,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29629,
+		["item_id"] = 23523,
 		["items"] = {
 			23609,
 		},
@@ -6704,6 +6972,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29630,
+		["item_id"] = 23525,
 		["items"] = {
 			23610,
 		},
@@ -6725,6 +6994,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29642,
+		["item_id"] = 23520,
 		["items"] = {
 			23611,
 		},
@@ -6746,6 +7016,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29643,
+		["item_id"] = 23521,
 		["items"] = {
 			23612,
 		},
@@ -6767,6 +7038,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29645,
+		["item_id"] = 23522,
 		["items"] = {
 			23613,
 		},
@@ -6788,6 +7060,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29648,
+		["item_id"] = 23526,
 		["items"] = {
 			23615,
 		},
@@ -6809,6 +7082,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29649,
+		["item_id"] = 23527,
 		["items"] = {
 			23617,
 		},
@@ -6830,6 +7104,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29654,
+		["item_id"] = 23528,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "魔能磨刀石",
@@ -6855,6 +7130,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29656,
+		["item_id"] = 23529,
 		["items"] = {
 			23618,
 		},
@@ -6876,6 +7152,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29657,
+		["item_id"] = 23530,
 		["items"] = {
 			23619,
 			24002,
@@ -6898,6 +7175,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29658,
+		["item_id"] = 23531,
 		["items"] = {
 			23620,
 		},
@@ -6919,6 +7197,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29662,
+		["item_id"] = 23533,
 		["items"] = {
 			23622,
 		},
@@ -6940,6 +7219,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29663,
+		["item_id"] = 23534,
 		["items"] = {
 			23623,
 		},
@@ -6961,6 +7241,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29664,
+		["item_id"] = 23535,
 		["items"] = {
 			23624,
 		},
@@ -6982,6 +7263,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29668,
+		["item_id"] = 23536,
 		["items"] = {
 			23625,
 		},
@@ -7003,6 +7285,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29669,
+		["item_id"] = 23537,
 		["items"] = {
 			23626,
 		},
@@ -7024,6 +7307,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29671,
+		["item_id"] = 23538,
 		["items"] = {
 			23627,
 		},
@@ -7045,6 +7329,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29672,
+		["item_id"] = 23539,
 		["items"] = {
 			23628,
 		},
@@ -7066,6 +7351,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29692,
+		["item_id"] = 23540,
 		["items"] = {
 			23629,
 		},
@@ -7087,6 +7373,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29693,
+		["item_id"] = 23541,
 		["items"] = {
 			23630,
 		},
@@ -7108,6 +7395,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29694,
+		["item_id"] = 23542,
 		["items"] = {
 			23631,
 		},
@@ -7129,6 +7417,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29695,
+		["item_id"] = 23543,
 		["items"] = {
 			23632,
 		},
@@ -7150,6 +7439,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29696,
+		["item_id"] = 23544,
 		["items"] = {
 			23633,
 		},
@@ -7171,6 +7461,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29697,
+		["item_id"] = 23546,
 		["items"] = {
 			23634,
 		},
@@ -7192,6 +7483,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29698,
+		["item_id"] = 23554,
 		["items"] = {
 			23635,
 		},
@@ -7213,6 +7505,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29699,
+		["item_id"] = 23555,
 		["items"] = {
 			23636,
 		},
@@ -7234,6 +7527,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29700,
+		["item_id"] = 23556,
 		["items"] = {
 			23637,
 		},
@@ -7255,6 +7549,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29728,
+		["item_id"] = 23575,
 		["items"] = {
 			23638,
 		},
@@ -7276,6 +7571,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29729,
+		["item_id"] = 23576,
 		["items"] = {
 			23639,
 		},
@@ -7297,6 +7593,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32284,
+		["item_id"] = 23559,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "次级结界符文",
@@ -7322,6 +7619,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32285,
+		["item_id"] = 25521,
 		["items"] = {
 			25526,
 		},
@@ -7343,6 +7641,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32655,
+		["item_id"] = 25843,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "魔铁棒",
@@ -7368,6 +7667,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32656,
+		["item_id"] = 25844,
 		["items"] = {
 			25846,
 		},
@@ -7389,6 +7689,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32657,
+		["item_id"] = 25845,
 		["items"] = {
 			25847,
 		},
@@ -7410,6 +7711,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34529,
+		["item_id"] = 23563,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "虚空链衫",
@@ -7438,6 +7740,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34530,
+		["item_id"] = 23564,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "扭曲虚空链衫",
@@ -7466,6 +7769,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34533,
+		["item_id"] = 28483,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "王者胸甲",
@@ -7494,6 +7798,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34534,
+		["item_id"] = 28484,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "王者壁垒",
@@ -7522,6 +7827,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34535,
+		["item_id"] = 28425,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "火焰卫士",
@@ -7551,6 +7857,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34537,
+		["item_id"] = 28426,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "光芒卫士",
@@ -7580,6 +7887,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34538,
+		["item_id"] = 28428,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "狮心之刃",
@@ -7609,6 +7917,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34540,
+		["item_id"] = 28429,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "狮心圣剑",
@@ -7638,6 +7947,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34541,
+		["item_id"] = 28431,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "位面战斧",
@@ -7667,6 +7977,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34542,
+		["item_id"] = 28432,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "黑色位面战斧",
@@ -7696,6 +8007,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34543,
+		["item_id"] = 28434,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "新月",
@@ -7725,6 +8037,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34544,
+		["item_id"] = 28435,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "月牙屠斧",
@@ -7754,6 +8067,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34545,
+		["item_id"] = 28437,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "龙拳之锤",
@@ -7783,6 +8097,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34546,
+		["item_id"] = 28438,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "巨龙之喉",
@@ -7812,6 +8127,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34548,
+		["item_id"] = 28441,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "惊雷",
@@ -7841,6 +8157,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34607,
+		["item_id"] = 28420,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "魔能平衡石",
@@ -7866,6 +8183,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34608,
+		["item_id"] = 28421,
 		["items"] = {
 			28632,
 		},
@@ -7887,6 +8205,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34979,
+		["item_id"] = 29201,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "厚重青铜飞镖",
@@ -7929,6 +8248,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34981,
+		["item_id"] = 29202,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "旋风钢斧",
@@ -7971,6 +8291,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34982,
+		["item_id"] = 29203,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "魔化瑟银飞刀",
@@ -8013,6 +8334,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34983,
+		["item_id"] = 29204,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "魔钢密语匕首",
@@ -8038,6 +8360,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36122,
+		["item_id"] = 30069,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "地铸护腿",
@@ -8066,6 +8389,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36124,
+		["item_id"] = 30070,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "风铸护腿",
@@ -8094,6 +8418,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36125,
+		["item_id"] = 30071,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "轻型地铸利刃",
@@ -8123,6 +8448,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36126,
+		["item_id"] = 30072,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "轻型天铸战斧",
@@ -8152,6 +8478,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36128,
+		["item_id"] = 30073,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "轻型灰烬铸锤",
@@ -8181,6 +8508,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36129,
+		["item_id"] = 30074,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "重型地铸胸甲",
@@ -8209,6 +8537,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36130,
+		["item_id"] = 30076,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "雷铸战甲",
@@ -8237,6 +8566,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36131,
+		["item_id"] = 30077,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "风铸轻剑",
@@ -8266,6 +8596,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36133,
+		["item_id"] = 30086,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "石铸巨剑",
@@ -8295,6 +8626,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36134,
+		["item_id"] = 30087,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "雷铸战斧",
@@ -8324,6 +8656,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36135,
+		["item_id"] = 30088,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "天铸巨斧",
@@ -8353,6 +8686,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36136,
+		["item_id"] = 30089,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "熔铸战锤",
@@ -8382,6 +8716,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36137,
+		["item_id"] = 30093,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "巨型地铸战锤",
@@ -8411,6 +8746,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36256,
+		["item_id"] = 23565,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "扭曲虚空的拥抱",
@@ -8439,6 +8775,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36257,
+		["item_id"] = 28485,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "列王壁垒",
@@ -8467,6 +8804,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36258,
+		["item_id"] = 28427,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "光芒之怒",
@@ -8496,6 +8834,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36259,
+		["item_id"] = 28430,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "狮心斩杀者",
@@ -8525,6 +8864,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36260,
+		["item_id"] = 28433,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "邪恶位面战斧",
@@ -8554,6 +8894,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36261,
+		["item_id"] = 28436,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "血月",
@@ -8583,6 +8924,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36262,
+		["item_id"] = 28439,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "巨龙之击",
@@ -8612,6 +8954,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36263,
+		["item_id"] = 28442,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "风暴使者",
@@ -8641,6 +8984,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36389,
+		["item_id"] = 30034,
 		["items"] = {
 			30321,
 		},
@@ -8662,6 +9006,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36390,
+		["item_id"] = 30032,
 		["items"] = {
 			30322,
 		},
@@ -8683,6 +9028,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36391,
+		["item_id"] = 30033,
 		["items"] = {
 			30323,
 		},
@@ -8704,6 +9050,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36392,
+		["item_id"] = 30031,
 		["items"] = {
 			30324,
 		},
@@ -8725,6 +9072,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38473,
+		["item_id"] = 31364,
 		["items"] = {
 			31390,
 		},
@@ -8746,6 +9094,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38475,
+		["item_id"] = 31367,
 		["items"] = {
 			31391,
 		},
@@ -8767,6 +9116,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38476,
+		["item_id"] = 31368,
 		["items"] = {
 			31392,
 		},
@@ -8788,6 +9138,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38477,
+		["item_id"] = 31369,
 		["items"] = {
 			31393,
 		},
@@ -8809,6 +9160,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38478,
+		["item_id"] = 31370,
 		["items"] = {
 			31394,
 		},
@@ -8830,6 +9182,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38479,
+		["item_id"] = 31371,
 		["items"] = {
 			31395,
 		},
@@ -8851,6 +9204,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40033,
+		["item_id"] = 32402,
 		["items"] = {
 			32441,
 		},
@@ -8872,6 +9226,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40034,
+		["item_id"] = 32403,
 		["items"] = {
 			32442,
 		},
@@ -8893,6 +9248,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40035,
+		["item_id"] = 32404,
 		["items"] = {
 			32443,
 		},
@@ -8914,6 +9270,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40036,
+		["item_id"] = 32401,
 		["items"] = {
 			32444,
 		},
@@ -8935,6 +9292,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41132,
+		["item_id"] = 32568,
 		["items"] = {
 			32736,
 		},
@@ -8956,6 +9314,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41133,
+		["item_id"] = 32570,
 		["items"] = {
 			32737,
 		},
@@ -8977,6 +9336,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41134,
+		["item_id"] = 32571,
 		["items"] = {
 			32738,
 		},
@@ -8998,6 +9358,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41135,
+		["item_id"] = 32573,
 		["items"] = {
 			32739,
 		},
@@ -9019,6 +9380,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42662,
+		["item_id"] = 33173,
 		["items"] = {
 			33174,
 		},
@@ -9040,6 +9402,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42688,
+		["item_id"] = 33185,
 		["items"] = {
 			33186,
 			35296,
@@ -9057,11 +9420,12 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 			["Spanish"] = "Cadena de adamantita",
 			["Taiwanese"] = "堅鋼武器鍊",
 		},
-		["phase"] = 5,
+		["phase"] = 1,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 43549,
+		["item_id"] = 33791,
 		["items"] = {
 			33792,
 		},
@@ -9083,6 +9447,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 43846,
+		["item_id"] = 32854,
 		["items"] = {
 			33954,
 		},
@@ -9104,6 +9469,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46140,
+		["item_id"] = 34380,
 		["items"] = {
 			35208,
 		},
@@ -9125,6 +9491,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46141,
+		["item_id"] = 34378,
 		["items"] = {
 			35209,
 		},
@@ -9146,6 +9513,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46142,
+		["item_id"] = 34379,
 		["items"] = {
 			35210,
 		},
@@ -9167,6 +9535,7 @@ MTSL_DATA["skills"]["Blacksmithing"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46144,
+		["item_id"] = 34377,
 		["items"] = {
 			35211,
 		},

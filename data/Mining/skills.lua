@@ -25,6 +25,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2658,
+		["item_id"] = 2842,
 		["min_skill"] = 75,
 		["name"] = {
 			["Chinese"] = "熔炼银锭",
@@ -63,6 +64,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 1,
 		["id"] = 2659,
+		["item_id"] = 2841,
 		["min_skill"] = 65,
 		["name"] = {
 			["Chinese"] = "熔炼青铜",
@@ -101,6 +103,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3304,
+		["item_id"] = 3576,
 		["min_skill"] = 65,
 		["name"] = {
 			["Chinese"] = "熔炼锡锭",
@@ -139,6 +142,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3307,
+		["item_id"] = 3575,
 		["min_skill"] = 125,
 		["name"] = {
 			["Chinese"] = "熔炼铁锭",
@@ -177,6 +181,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3308,
+		["item_id"] = 3577,
 		["min_skill"] = 155,
 		["name"] = {
 			["Chinese"] = "熔炼金锭",
@@ -215,6 +220,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3569,
+		["item_id"] = 3859,
 		["min_skill"] = 165,
 		["name"] = {
 			["Chinese"] = "熔炼钢锭",
@@ -253,6 +259,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10097,
+		["item_id"] = 3860,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "熔炼秘银",
@@ -291,6 +298,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10098,
+		["item_id"] = 6037,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "熔炼真银",
@@ -329,6 +337,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 1,
 		["id"] = 14891,
+		["item_id"] = 11371,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "熔炼黑铁",
@@ -351,6 +360,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 1,
 		["id"] = 16153,
+		["item_id"] = 12359,
 		["min_skill"] = 250,
 		["name"] = {
 			["Chinese"] = "熔炼瑟银",
@@ -389,6 +399,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 1,
 		["id"] = 22967,
+		["item_id"] = 17771,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "熔炼源质",
@@ -414,6 +425,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29356,
+		["item_id"] = 23445,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "熔炼魔铁",
@@ -439,6 +451,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29358,
+		["item_id"] = 23446,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "熔炼精金",
@@ -464,6 +477,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29359,
+		["item_id"] = 23447,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "熔炼恒金",
@@ -489,6 +503,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29360,
+		["item_id"] = 23448,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "熔炼魔钢",
@@ -514,6 +529,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29361,
+		["item_id"] = 23449,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "熔炼氪金",
@@ -539,6 +555,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 2,
 		["id"] = 29686,
+		["item_id"] = 23573,
 		["min_skill"] = 375,
 		["name"] = {
 			["Chinese"] = "熔炼硬化精金",
@@ -562,29 +579,9 @@ MTSL_DATA["skills"]["Mining"] =
 		},
 	},
 	{
-		["expansion"] = 1,
-		["id"] = 29686,
-		["items"] = {
-			35273,
-		},
-		["min_skill"] = 375,
-		["name"] = {
-			["Chinese"] = "熔炼硬化精金",
-			["English"] = "Smelt Hardened Adamantite",
-			["French"] = "Fonte de l'adamantite trempé",
-			["German"] = "Gehärtetes Adamantit verhütten",
-			["Korean"] = "강화된 아다만타이트 제련",
-			["Mexican"] = "Fundir adamantita endurecida",
-			["Portuguese"] = "Fundir Adamantita Temperada",
-			["Russian"] = "Выплавка закаленного адамантита",
-			["Spanish"] = "Fundir adamantita endurecida",
-			["Taiwanese"] = "熔煉特堅鋼錠",
-		},
-		["phase"] = 5,
-	},
-	{
 		["expansion"] = 2,
 		["id"] = 35750,
+		["item_id"] = 22573,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "敲碎源生之土",
@@ -610,6 +607,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 2,
 		["id"] = 35751,
+		["item_id"] = 22574,
 		["min_skill"] = 300,
 		["name"] = {
 			["Chinese"] = "火焰碎裂",
@@ -635,6 +633,7 @@ MTSL_DATA["skills"]["Mining"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46353,
+		["item_id"] = 35128,
 		["items"] = {
 			35273,
 		},

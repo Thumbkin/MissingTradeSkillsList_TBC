@@ -25,6 +25,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3276,
+		["item_id"] = 2581,
 		["min_skill"] = 40,
 		["name"] = {
 			["Chinese"] = "厚亚麻绷带",
@@ -61,6 +62,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3277,
+		["item_id"] = 3530,
 		["min_skill"] = 80,
 		["name"] = {
 			["Chinese"] = "绒线绷带",
@@ -97,6 +99,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 3278,
+		["item_id"] = 3531,
 		["min_skill"] = 115,
 		["name"] = {
 			["Chinese"] = "厚绒线绷带",
@@ -133,6 +136,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7928,
+		["item_id"] = 6450,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "丝质绷带",
@@ -169,6 +173,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7929,
+		["item_id"] = 6451,
 		["items"] = {
 			16112,
 		},
@@ -190,6 +195,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7934,
+		["item_id"] = 6452,
 		["min_skill"] = 80,
 		["name"] = {
 			["Chinese"] = "抗毒药剂",
@@ -226,6 +232,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 7935,
+		["item_id"] = 6453,
 		["items"] = {
 			6454,
 		},
@@ -247,6 +254,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10840,
+		["item_id"] = 8544,
 		["items"] = {
 			16113,
 		},
@@ -268,6 +276,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 10841,
+		["item_id"] = 8545,
 		["min_skill"] = 240,
 		["name"] = {
 			["Chinese"] = "厚魔纹绷带",
@@ -293,6 +302,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18629,
+		["item_id"] = 14529,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "符文布绷带",
@@ -318,6 +328,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 18630,
+		["item_id"] = 14530,
 		["min_skill"] = 290,
 		["name"] = {
 			["Chinese"] = "厚符文布绷带",
@@ -343,6 +354,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 1,
 		["id"] = 23787,
+		["item_id"] = 19440,
 		["items"] = {
 			19442,
 		},
@@ -364,6 +376,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 2,
 		["id"] = 27032,
+		["item_id"] = 21990,
 		["items"] = {
 			21992,
 		},
@@ -385,6 +398,7 @@ MTSL_DATA["skills"]["First Aid"] =
 	{
 		["expansion"] = 2,
 		["id"] = 27033,
+		["item_id"] = 21991,
 		["items"] = {
 			21993,
 		},

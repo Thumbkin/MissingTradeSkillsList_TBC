@@ -175,7 +175,7 @@ MTSL_LOGIC_SKILL = {
     -- @item_id			Number		The id of the item (source of the skill)
     -- @prof_name		String		Name of the profession
     --
-    -- returns	 		Array		The skills
+    -- returns	 		Object		The skill
     ------------------------------------------------------------------------------------------------
     GetSkillForProfessionByItemId = function(self, item_id, profession_name)
         local skill = MTSL_TOOLS:GetItemFromArrayByKeyArrayValue(MTSL_DATA["skills"][profession_name], "items", item_id)
@@ -184,6 +184,52 @@ MTSL_LOGIC_SKILL = {
             skill = MTSL_TOOLS:GetItemFromArrayByKeyArrayValue(MTSL_DATA["levels"][profession_name], "items", item_id)
         end
         return skill
+    end,
+
+    ------------------------------------------------------------------------------------------------
+    -- Returns a skill for a certain profession based on the id of the item it crafs
+    --
+    -- @crafted_item_id		Number		The id of the item (source of the skill)
+    -- @prof_name		    String		Name of the profession
+    --
+    -- returns	 		    Object		The skills
+    ------------------------------------------------------------------------------------------------
+    GetSkillIdForProfessionByCraftedItemId = function(self, crafted_item_id, profession_name)
+        local found_skill_id = 0
+        if profession_name and MTSL_DATA["skills"][profession_name] then
+            for _, skill in pairs(MTSL_DATA["skills"][profession_name]) do
+                if tonumber(skill.item_id) == tonumber(crafted_item_id) then
+                    if found_skill_id == 0 then
+                        found_skill_id = skill.id
+                    else
+                        found_skill_id = 0
+                    end
+                end
+            end
+        end
+
+        return found_skill_id
+    end,
+
+    ------------------------------------------------------------------------------------------------
+    -- Returns a skill for a certain profession based on its localised name
+    --
+    -- @localised_name		String		The localised name of the skill
+    -- @prof_name		    String		Name of the profession
+    --
+    -- returns	 		    Object		The skills
+    ------------------------------------------------------------------------------------------------
+    GetSkillIdForProfessionByLocalisedName = function(self, localised_name, profession_name)
+        if profession_name and MTSL_DATA["skills"][profession_name] then
+            for _, skill in pairs(MTSL_DATA["skills"][profession_name]) do
+                if MTSL_TOOLS:StripSpacesAndLower(skill.name[MTSLUI_CURRENT_LANGUAGE]) == MTSL_TOOLS:StripSpacesAndLower(localised_name) then
+                    return skill.id
+                end
+            end
+        end
+
+        -- should never happen
+        return 0
     end,
 
     ------------------------------------------------------------------------------------------------
@@ -394,15 +440,7 @@ MTSL_LOGIC_SKILL = {
     -- returns	 		    Array		The factions
     ------------------------------------------------------------------------------------------------
     GetFactionsForSkillForProfessionById = function(self, skill_id, profession_name)
-        -- TODO: make this list dynamic
-        local faction_ids = { 59, 270, 529, 576, 609, 469, 67, MTSL_LOGIC_FACTION_REPUTATION.FACTION_ID_ALLIANCE_AND_HORDE, MTSL_LOGIC_FACTION_REPUTATION.FACTION_ID_NEUTRAL }
-
         local factions = {}
-        -- loop all factions and set flag to 0
-        for _, fid in pairs(faction_ids) do
-            table.insert(factions, fid)
-            factions[fid] = 0
-        end
 
         local skill = MTSL_TOOLS:GetItemFromArrayByKeyValue(MTSL_DATA["skills"][profession_name], "id", skill_id)
         -- try a level if nil
@@ -425,37 +463,40 @@ MTSL_LOGIC_SKILL = {
             self:AddFactionForDataToArray(factions, skill)
             -- if learned from item, add the factions based on the item source
             if skill.items then
-                local item = MTSL_LOGIC_ITEM_OBJECT:GetItemForProfessionById(skill.items[1], profession_name)
-                if item then
-                    self:AddFactionForDataToArray(factions, item)
-                    if item.vendors then
-                        local vendors = MTSL_LOGIC_PLAYER_NPC:GetNpcsIgnoreFactionByIds(item.vendors.sources)
-                        -- loop all the vendors
-                        for _, v in pairs(vendors) do
-                            self:AddFactionForDataToArray(factions, v)
+                -- loop all items, since there can be more then 1 faction
+                for _, item_id in pairs(skill.items) do
+                    local item = MTSL_LOGIC_ITEM_OBJECT:GetItemForProfessionById(item_id, profession_name)
+                    if item then
+                        self:AddFactionForDataToArray(factions, item)
+                        if item.vendors then
+                            local vendors = MTSL_LOGIC_PLAYER_NPC:GetNpcsIgnoreFactionByIds(item.vendors.sources)
+                            -- loop all the vendors
+                            for _, v in pairs(vendors) do
+                                self:AddFactionForDataToArray(factions, v)
+                            end
                         end
-                    end
-                    -- it is is a drop of mobs or learned from object or special action, add both alliance and horde
-                    if item.drops or item.objects or item.special_action then
-                        factions[MTSL_LOGIC_FACTION_REPUTATION.FACTION_ID_ALLIANCE_AND_HORDE] = 1
-                    end
-                    -- if its from quest, add NPC/questgivers
-                    if item.quests then
-                        -- loop all quests
-                        for _, v in pairs(item.quests) do
-                            local quest = MTSL_TOOLS:GetItemFromUnsortedListById(MTSL_DATA["quests"], v)
-                            if quest then
-                                self:AddFactionForDataToArray(factions, quest)
-                                -- loop all the NPC/questgivers
-                                if quest.npcs then
-                                    local npcs = MTSL_LOGIC_PLAYER_NPC:GetNpcsIgnoreFactionByIds(quest.npcs)
-                                    -- loop all the vendors
-                                    for _, n in pairs(npcs) do
-                                        self:AddFactionForDataToArray(factions, n)
+                        -- it is is a drop of mobs or learned from object or special action, add both alliance and horde
+                        if item.drops or item.objects or item.special_action then
+                            factions[MTSL_LOGIC_FACTION_REPUTATION.FACTION_ID_ALLIANCE_AND_HORDE] = 1
+                        end
+                        -- if its from quest, add NPC/questgivers
+                        if item.quests then
+                            -- loop all quests
+                            for _, v in pairs(item.quests) do
+                                local quest = MTSL_TOOLS:GetItemFromUnsortedListById(MTSL_DATA["quests"], v)
+                                if quest then
+                                    self:AddFactionForDataToArray(factions, quest)
+                                    -- loop all the NPC/questgivers
+                                    if quest.npcs then
+                                        local npcs = MTSL_LOGIC_PLAYER_NPC:GetNpcsIgnoreFactionByIds(quest.npcs)
+                                        -- loop all the vendors
+                                        for _, n in pairs(npcs) do
+                                            self:AddFactionForDataToArray(factions, n)
+                                        end
+                                        -- no questgivers so assume alliance and horde can get it
+                                    else
+                                        factions[MTSL_LOGIC_FACTION_REPUTATION.FACTION_ID_ALLIANCE_AND_HORDE] = 1
                                     end
-                                    -- no questgivers so assume alliance and horde can get it
-                                else
-                                    factions[MTSL_LOGIC_FACTION_REPUTATION.FACTION_ID_ALLIANCE_AND_HORDE] = 1
                                 end
                             end
                         end
@@ -476,7 +517,7 @@ MTSL_LOGIC_SKILL = {
                             for _, n in pairs(npcs) do
                                 self:AddFactionForDataToArray(factions, n)
                             end
-                        -- no questgivers so assume alliance and horde can get it
+                            -- no questgivers so assume alliance and horde can get it
                         else
                             factions[MTSL_LOGIC_FACTION_REPUTATION.FACTION_ID_ALLIANCE_AND_HORDE] = 1
                         end
@@ -485,18 +526,21 @@ MTSL_LOGIC_SKILL = {
             end
         end
 
+        local faction_id_alliance = MTSL_LOGIC_FACTION_REPUTATION:GetFactionIdByName("Alliance")
+        local faction_id_horde = MTSL_LOGIC_FACTION_REPUTATION:GetFactionIdByName("Horde")
+
         -- if both alliance and horde are flagged using id, undo it and mark the combined id
-        if factions[67] == 1 and factions[469] == 1 then
-            factions[67] = 0
-            factions[469] = 0
+        if factions[faction_id_alliance] == 1 and factions[faction_id_horde] == 1 then
+            factions[faction_id_alliance] = 0
+            factions[faction_id_horde] = 0
             factions[MTSL_LOGIC_FACTION_REPUTATION.FACTION_ID_ALLIANCE_AND_HORDE] = 1
         end
 
         -- now convert array to only contain the factions with value = 1
         local factions_found = {}
 
-        for k, v in pairs(factions) do
-            if v == 1 then table.insert(factions_found, k) end
+        for k, _ in pairs(factions) do
+            table.insert(factions_found, k)
         end
 
         -- add alliance and horde if we did not find any
@@ -507,7 +551,7 @@ MTSL_LOGIC_SKILL = {
         return factions_found
     end,
 
-    AddFactionForDataToArray = function (self, array, data)
+    AddFactionForDataToArray = function(self, array, data)
         if data.reputation then
             array[tonumber(data.reputation.faction_id)] = 1
         else

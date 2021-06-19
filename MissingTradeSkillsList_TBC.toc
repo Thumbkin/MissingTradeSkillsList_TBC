@@ -65,6 +65,7 @@ data\FirstAid\skills.lua
 
 data\Fishing\levels.lua
 data\Fishing\items.lua
+data\Fishing\skills.lua
 
 data\Herbalism\levels.lua
 

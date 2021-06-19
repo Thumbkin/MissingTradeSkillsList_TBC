@@ -25,6 +25,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25278,
+		["item_id"] = 20817,
 		["min_skill"] = 50,
 		["name"] = {
 			["Chinese"] = "青铜底座",
@@ -55,6 +56,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25280,
+		["item_id"] = 20818,
 		["min_skill"] = 50,
 		["name"] = {
 			["Chinese"] = "优雅的银戒指",
@@ -85,6 +87,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25283,
+		["item_id"] = 20821,
 		["min_skill"] = 30,
 		["name"] = {
 			["Chinese"] = "孔雀石镶饰戒指",
@@ -115,6 +118,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25284,
+		["item_id"] = 20820,
 		["min_skill"] = 60,
 		["name"] = {
 			["Chinese"] = "朴素的珍珠戒指",
@@ -145,6 +149,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25287,
+		["item_id"] = 20823,
 		["min_skill"] = 70,
 		["name"] = {
 			["Chinese"] = "阴沉之戒",
@@ -175,6 +180,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25305,
+		["item_id"] = 20826,
 		["min_skill"] = 90,
 		["name"] = {
 			["Chinese"] = "重型银戒指",
@@ -205,6 +211,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25317,
+		["item_id"] = 20827,
 		["min_skill"] = 80,
 		["name"] = {
 			["Chinese"] = "银色力量之戒",
@@ -235,6 +242,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25318,
+		["item_id"] = 20828,
 		["min_skill"] = 100,
 		["name"] = {
 			["Chinese"] = "暮色暗影之戒",
@@ -265,6 +273,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25320,
+		["item_id"] = 20831,
 		["items"] = {
 			20856,
 		},
@@ -286,6 +295,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25321,
+		["item_id"] = 20832,
 		["min_skill"] = 120,
 		["name"] = {
 			["Chinese"] = "月魂王冠",
@@ -316,6 +326,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25323,
+		["item_id"] = 20833,
 		["items"] = {
 			20855,
 		},
@@ -337,6 +348,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25339,
+		["item_id"] = 20830,
 		["items"] = {
 			20854,
 		},
@@ -358,6 +370,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25490,
+		["item_id"] = 20907,
 		["min_skill"] = 50,
 		["name"] = {
 			["Chinese"] = "结实的青铜戒指",
@@ -407,6 +420,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25498,
+		["item_id"] = 20909,
 		["min_skill"] = 110,
 		["name"] = {
 			["Chinese"] = "野蛮铁项圈",
@@ -437,6 +451,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25610,
+		["item_id"] = 20950,
 		["items"] = {
 			20970,
 		},
@@ -458,6 +473,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25612,
+		["item_id"] = 20954,
 		["items"] = {
 			20971,
 		},
@@ -479,6 +495,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25613,
+		["item_id"] = 20955,
 		["min_skill"] = 135,
 		["name"] = {
 			["Chinese"] = "金色巨龙戒指",
@@ -509,6 +526,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25615,
+		["item_id"] = 20963,
 		["min_skill"] = 150,
 		["name"] = {
 			["Chinese"] = "秘银丝",
@@ -539,6 +557,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25617,
+		["item_id"] = 20958,
 		["items"] = {
 			20973,
 		},
@@ -560,6 +579,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25618,
+		["item_id"] = 20966,
 		["items"] = {
 			20974,
 		},
@@ -581,6 +601,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25619,
+		["item_id"] = 20959,
 		["items"] = {
 			20975,
 		},
@@ -602,6 +623,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25620,
+		["item_id"] = 20960,
 		["min_skill"] = 170,
 		["name"] = {
 			["Chinese"] = "蚀刻真银戒指",
@@ -632,6 +654,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25621,
+		["item_id"] = 20961,
 		["min_skill"] = 180,
 		["name"] = {
 			["Chinese"] = "迅疾治疗之黄水晶戒指",
@@ -662,6 +685,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 25622,
+		["item_id"] = 20967,
 		["items"] = {
 			20976,
 		},
@@ -683,6 +707,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26872,
+		["item_id"] = 21748,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "雕像 - 碧玉猫头鹰",
@@ -713,6 +738,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26873,
+		["item_id"] = 21756,
 		["items"] = {
 			21940,
 		},
@@ -734,6 +760,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26874,
+		["item_id"] = 20964,
 		["min_skill"] = 210,
 		["name"] = {
 			["Chinese"] = "青绿石徽记",
@@ -764,6 +791,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26875,
+		["item_id"] = 21758,
 		["items"] = {
 			21941,
 		},
@@ -785,6 +813,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26876,
+		["item_id"] = 21755,
 		["min_skill"] = 220,
 		["name"] = {
 			["Chinese"] = "战士之绿玉坠饰",
@@ -815,6 +844,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26878,
+		["item_id"] = 20969,
 		["items"] = {
 			21942,
 		},
@@ -836,6 +866,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26880,
+		["item_id"] = 21752,
 		["min_skill"] = 225,
 		["name"] = {
 			["Chinese"] = "瑟银底座",
@@ -866,6 +897,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26881,
+		["item_id"] = 21760,
 		["items"] = {
 			21943,
 		},
@@ -887,6 +919,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26882,
+		["item_id"] = 21763,
 		["items"] = {
 			21944,
 		},
@@ -908,6 +941,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26883,
+		["item_id"] = 21764,
 		["min_skill"] = 235,
 		["name"] = {
 			["Chinese"] = "火焰之红宝石坠饰",
@@ -938,6 +972,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26885,
+		["item_id"] = 21765,
 		["min_skill"] = 240,
 		["name"] = {
 			["Chinese"] = "真银治疗戒指",
@@ -968,6 +1003,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26887,
+		["item_id"] = 21754,
 		["items"] = {
 			21945,
 		},
@@ -989,6 +1025,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26896,
+		["item_id"] = 21753,
 		["items"] = {
 			21947,
 		},
@@ -1010,6 +1047,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26897,
+		["item_id"] = 21766,
 		["items"] = {
 			21948,
 		},
@@ -1031,6 +1069,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26900,
+		["item_id"] = 21769,
 		["items"] = {
 			21949,
 		},
@@ -1052,6 +1091,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26902,
+		["item_id"] = 21767,
 		["min_skill"] = 260,
 		["name"] = {
 			["Chinese"] = "朴素的猫眼石戒指",
@@ -1082,6 +1122,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26903,
+		["item_id"] = 21768,
 		["min_skill"] = 275,
 		["name"] = {
 			["Chinese"] = "蓝宝石徽记",
@@ -1112,6 +1153,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26906,
+		["item_id"] = 21774,
 		["items"] = {
 			21952,
 		},
@@ -1133,6 +1175,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26907,
+		["item_id"] = 21775,
 		["min_skill"] = 280,
 		["name"] = {
 			["Chinese"] = "猛攻指环",
@@ -1163,6 +1206,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26908,
+		["item_id"] = 21790,
 		["min_skill"] = 280,
 		["name"] = {
 			["Chinese"] = "寒冬之蓝宝石坠饰",
@@ -1193,6 +1237,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26909,
+		["item_id"] = 21777,
 		["items"] = {
 			21953,
 		},
@@ -1214,6 +1259,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26910,
+		["item_id"] = 21778,
 		["items"] = {
 			21954,
 		},
@@ -1235,6 +1281,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26911,
+		["item_id"] = 21791,
 		["min_skill"] = 290,
 		["name"] = {
 			["Chinese"] = "绿曜石坠饰",
@@ -1265,6 +1312,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26912,
+		["item_id"] = 21784,
 		["items"] = {
 			21955,
 		},
@@ -1286,6 +1334,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26914,
+		["item_id"] = 21789,
 		["items"] = {
 			21956,
 		},
@@ -1307,6 +1356,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26915,
+		["item_id"] = 21792,
 		["items"] = {
 			21957,
 		},
@@ -1328,6 +1378,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26916,
+		["item_id"] = 21779,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "自然火焰指环",
@@ -1374,6 +1425,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26926,
+		["item_id"] = 21932,
 		["min_skill"] = 5,
 		["name"] = {
 			["Chinese"] = "重型铜戒指",
@@ -1404,6 +1456,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26927,
+		["item_id"] = 21933,
 		["min_skill"] = 50,
 		["name"] = {
 			["Chinese"] = "粗制青铜项链",
@@ -1434,6 +1487,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 26928,
+		["item_id"] = 21934,
 		["min_skill"] = 30,
 		["name"] = {
 			["Chinese"] = "精制虎眼石项链",
@@ -1464,6 +1518,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28903,
+		["item_id"] = 23094,
 		["items"] = {
 			23130,
 		},
@@ -1485,6 +1540,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28905,
+		["item_id"] = 23095,
 		["items"] = {
 			23131,
 		},
@@ -1506,6 +1562,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28906,
+		["item_id"] = 23096,
 		["items"] = {
 			23133,
 		},
@@ -1527,6 +1584,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28907,
+		["item_id"] = 23097,
 		["items"] = {
 			23134,
 		},
@@ -1548,6 +1606,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28910,
+		["item_id"] = 23098,
 		["items"] = {
 			23135,
 		},
@@ -1569,6 +1628,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28912,
+		["item_id"] = 23099,
 		["items"] = {
 			23136,
 		},
@@ -1590,6 +1650,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28914,
+		["item_id"] = 23100,
 		["items"] = {
 			23137,
 		},
@@ -1611,6 +1672,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28915,
+		["item_id"] = 23101,
 		["items"] = {
 			23138,
 		},
@@ -1632,6 +1694,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28916,
+		["item_id"] = 23103,
 		["items"] = {
 			23140,
 		},
@@ -1653,6 +1716,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28917,
+		["item_id"] = 23104,
 		["items"] = {
 			23141,
 		},
@@ -1674,6 +1738,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28918,
+		["item_id"] = 23105,
 		["items"] = {
 			23142,
 			31359,
@@ -1696,6 +1761,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28924,
+		["item_id"] = 23106,
 		["items"] = {
 			23143,
 		},
@@ -1717,6 +1783,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28925,
+		["item_id"] = 23108,
 		["items"] = {
 			23144,
 		},
@@ -1738,6 +1805,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28927,
+		["item_id"] = 23109,
 		["items"] = {
 			23145,
 		},
@@ -1759,6 +1827,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28933,
+		["item_id"] = 23110,
 		["items"] = {
 			23146,
 		},
@@ -1780,6 +1849,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28936,
+		["item_id"] = 23111,
 		["items"] = {
 			23147,
 		},
@@ -1801,6 +1871,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28938,
+		["item_id"] = 23113,
 		["items"] = {
 			23148,
 		},
@@ -1822,6 +1893,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28944,
+		["item_id"] = 23114,
 		["items"] = {
 			23149,
 		},
@@ -1843,6 +1915,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28947,
+		["item_id"] = 23115,
 		["items"] = {
 			23150,
 		},
@@ -1864,6 +1937,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28948,
+		["item_id"] = 23116,
 		["items"] = {
 			23151,
 		},
@@ -1885,6 +1959,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28950,
+		["item_id"] = 23118,
 		["items"] = {
 			23152,
 		},
@@ -1906,6 +1981,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28953,
+		["item_id"] = 23119,
 		["items"] = {
 			23153,
 		},
@@ -1927,6 +2003,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28955,
+		["item_id"] = 23120,
 		["items"] = {
 			23154,
 		},
@@ -1948,6 +2025,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 28957,
+		["item_id"] = 23121,
 		["items"] = {
 			23155,
 		},
@@ -1969,6 +2047,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31048,
+		["item_id"] = 24074,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "魔铁血戒",
@@ -1996,6 +2075,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31049,
+		["item_id"] = 24075,
 		["min_skill"] = 310,
 		["name"] = {
 			["Chinese"] = "德拉诺金钻指环",
@@ -2023,6 +2103,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31050,
+		["item_id"] = 24076,
 		["min_skill"] = 320,
 		["name"] = {
 			["Chinese"] = "碧月石指环",
@@ -2050,6 +2131,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31051,
+		["item_id"] = 24077,
 		["min_skill"] = 335,
 		["name"] = {
 			["Chinese"] = "厚重精金项链",
@@ -2077,6 +2159,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31052,
+		["item_id"] = 24078,
 		["min_skill"] = 335,
 		["name"] = {
 			["Chinese"] = "重型精金戒指",
@@ -2104,6 +2187,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31053,
+		["item_id"] = 24079,
 		["items"] = {
 			24158,
 		},
@@ -2125,6 +2209,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31054,
+		["item_id"] = 24080,
 		["items"] = {
 			24159,
 		},
@@ -2146,6 +2231,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31055,
+		["item_id"] = 24082,
 		["items"] = {
 			24160,
 		},
@@ -2167,6 +2253,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31056,
+		["item_id"] = 24085,
 		["items"] = {
 			24161,
 		},
@@ -2188,6 +2275,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31057,
+		["item_id"] = 24086,
 		["items"] = {
 			24162,
 		},
@@ -2209,6 +2297,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31058,
+		["item_id"] = 24087,
 		["items"] = {
 			24163,
 		},
@@ -2230,6 +2319,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31060,
+		["item_id"] = 24088,
 		["items"] = {
 			24164,
 		},
@@ -2251,6 +2341,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31061,
+		["item_id"] = 24089,
 		["items"] = {
 			24165,
 		},
@@ -2272,6 +2363,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31062,
+		["item_id"] = 24092,
 		["items"] = {
 			24174,
 		},
@@ -2293,6 +2385,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31063,
+		["item_id"] = 24093,
 		["items"] = {
 			24175,
 		},
@@ -2314,6 +2407,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31064,
+		["item_id"] = 24095,
 		["items"] = {
 			24176,
 		},
@@ -2335,6 +2429,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31065,
+		["item_id"] = 24097,
 		["items"] = {
 			24177,
 		},
@@ -2356,6 +2451,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31066,
+		["item_id"] = 24098,
 		["items"] = {
 			24178,
 		},
@@ -2377,6 +2473,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31067,
+		["item_id"] = 24106,
 		["items"] = {
 			24166,
 		},
@@ -2398,6 +2495,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31068,
+		["item_id"] = 24110,
 		["items"] = {
 			24167,
 		},
@@ -2419,6 +2517,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31070,
+		["item_id"] = 24114,
 		["items"] = {
 			24168,
 		},
@@ -2440,6 +2539,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31071,
+		["item_id"] = 24116,
 		["items"] = {
 			24169,
 		},
@@ -2461,6 +2561,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31072,
+		["item_id"] = 24117,
 		["items"] = {
 			24170,
 		},
@@ -2482,6 +2583,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31076,
+		["item_id"] = 24121,
 		["items"] = {
 			24171,
 		},
@@ -2503,6 +2605,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31077,
+		["item_id"] = 24122,
 		["items"] = {
 			24172,
 		},
@@ -2524,6 +2627,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31078,
+		["item_id"] = 24123,
 		["items"] = {
 			24173,
 		},
@@ -2545,6 +2649,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31079,
+		["item_id"] = 24124,
 		["items"] = {
 			24179,
 		},
@@ -2566,6 +2671,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31080,
+		["item_id"] = 24125,
 		["items"] = {
 			24180,
 			31358,
@@ -2588,6 +2694,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31081,
+		["item_id"] = 24126,
 		["items"] = {
 			24181,
 		},
@@ -2609,6 +2716,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31082,
+		["item_id"] = 24127,
 		["items"] = {
 			24182,
 		},
@@ -2630,6 +2738,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31083,
+		["item_id"] = 24128,
 		["items"] = {
 			24183,
 		},
@@ -2651,6 +2760,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31084,
+		["item_id"] = 24027,
 		["items"] = {
 			24193,
 		},
@@ -2672,6 +2782,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31085,
+		["item_id"] = 24028,
 		["items"] = {
 			24194,
 		},
@@ -2693,6 +2804,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31087,
+		["item_id"] = 24029,
 		["items"] = {
 			24195,
 		},
@@ -2714,6 +2826,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31088,
+		["item_id"] = 24030,
 		["items"] = {
 			24196,
 			35305,
@@ -2736,6 +2849,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31089,
+		["item_id"] = 24031,
 		["items"] = {
 			24192,
 			35306,
@@ -2758,6 +2872,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31090,
+		["item_id"] = 24032,
 		["items"] = {
 			24197,
 		},
@@ -2779,6 +2894,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31091,
+		["item_id"] = 24036,
 		["items"] = {
 			24198,
 		},
@@ -2800,6 +2916,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31092,
+		["item_id"] = 24033,
 		["items"] = {
 			24199,
 			35304,
@@ -2822,6 +2939,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31094,
+		["item_id"] = 24037,
 		["items"] = {
 			24201,
 		},
@@ -2843,6 +2961,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31095,
+		["item_id"] = 24039,
 		["items"] = {
 			24202,
 		},
@@ -2864,6 +2983,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31096,
+		["item_id"] = 24047,
 		["items"] = {
 			24203,
 		},
@@ -2885,6 +3005,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31097,
+		["item_id"] = 24048,
 		["items"] = {
 			24204,
 		},
@@ -2906,6 +3027,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31098,
+		["item_id"] = 24051,
 		["items"] = {
 			24205,
 			35307,
@@ -2928,6 +3050,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31099,
+		["item_id"] = 24050,
 		["items"] = {
 			24206,
 		},
@@ -2949,6 +3072,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31100,
+		["item_id"] = 24052,
 		["items"] = {
 			24207,
 		},
@@ -2970,6 +3094,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31101,
+		["item_id"] = 24053,
 		["items"] = {
 			24208,
 		},
@@ -2991,6 +3116,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31102,
+		["item_id"] = 24054,
 		["items"] = {
 			24209,
 		},
@@ -3012,6 +3138,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31103,
+		["item_id"] = 24055,
 		["items"] = {
 			24210,
 		},
@@ -3033,6 +3160,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31104,
+		["item_id"] = 24056,
 		["items"] = {
 			24211,
 		},
@@ -3054,6 +3182,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31105,
+		["item_id"] = 24057,
 		["items"] = {
 			24212,
 		},
@@ -3075,6 +3204,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31106,
+		["item_id"] = 24058,
 		["items"] = {
 			24213,
 		},
@@ -3096,6 +3226,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31107,
+		["item_id"] = 24059,
 		["items"] = {
 			24214,
 		},
@@ -3117,6 +3248,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31108,
+		["item_id"] = 24060,
 		["items"] = {
 			24215,
 		},
@@ -3138,6 +3270,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31109,
+		["item_id"] = 24061,
 		["items"] = {
 			24216,
 		},
@@ -3159,6 +3292,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31110,
+		["item_id"] = 24062,
 		["items"] = {
 			24217,
 		},
@@ -3180,6 +3314,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31111,
+		["item_id"] = 24066,
 		["items"] = {
 			24218,
 		},
@@ -3201,6 +3336,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31112,
+		["item_id"] = 24065,
 		["items"] = {
 			24219,
 		},
@@ -3222,6 +3358,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31113,
+		["item_id"] = 24067,
 		["items"] = {
 			24220,
 		},
@@ -3243,6 +3380,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 31149,
+		["item_id"] = 24035,
 		["items"] = {
 			24200,
 		},
@@ -3295,6 +3433,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32178,
+		["item_id"] = 25438,
 		["min_skill"] = 20,
 		["name"] = {
 			["Chinese"] = "孔雀石坠饰",
@@ -3325,6 +3464,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32179,
+		["item_id"] = 25439,
 		["min_skill"] = 20,
 		["name"] = {
 			["Chinese"] = "虎眼指环",
@@ -3374,6 +3514,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32801,
+		["item_id"] = 25880,
 		["min_skill"] = 50,
 		["name"] = {
 			["Chinese"] = "粗糙石像",
@@ -3404,6 +3545,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32807,
+		["item_id"] = 25881,
 		["min_skill"] = 110,
 		["name"] = {
 			["Chinese"] = "沉重石像",
@@ -3434,6 +3576,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32808,
+		["item_id"] = 25882,
 		["min_skill"] = 175,
 		["name"] = {
 			["Chinese"] = "坚固石像",
@@ -3464,6 +3607,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32809,
+		["item_id"] = 25883,
 		["min_skill"] = 225,
 		["name"] = {
 			["Chinese"] = "厚重石像",
@@ -3494,6 +3638,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32866,
+		["item_id"] = 25896,
 		["items"] = {
 			25902,
 		},
@@ -3515,6 +3660,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32867,
+		["item_id"] = 25897,
 		["items"] = {
 			25903,
 		},
@@ -3536,6 +3682,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32868,
+		["item_id"] = 25898,
 		["items"] = {
 			25905,
 		},
@@ -3557,6 +3704,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32869,
+		["item_id"] = 25899,
 		["items"] = {
 			25906,
 		},
@@ -3578,6 +3726,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32870,
+		["item_id"] = 25901,
 		["items"] = {
 			25904,
 		},
@@ -3599,6 +3748,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32871,
+		["item_id"] = 25890,
 		["items"] = {
 			25907,
 		},
@@ -3620,6 +3770,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32872,
+		["item_id"] = 25893,
 		["items"] = {
 			25909,
 		},
@@ -3641,6 +3792,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32873,
+		["item_id"] = 25894,
 		["items"] = {
 			25908,
 		},
@@ -3662,6 +3814,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 32874,
+		["item_id"] = 25895,
 		["items"] = {
 			25910,
 		},
@@ -3683,6 +3836,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34069,
+		["item_id"] = 28290,
 		["items"] = {
 			28291,
 		},
@@ -3704,6 +3858,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34590,
+		["item_id"] = 28595,
 		["items"] = {
 			28596,
 		},
@@ -3725,6 +3880,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34955,
+		["item_id"] = 29157,
 		["min_skill"] = 180,
 		["name"] = {
 			["Chinese"] = "能量之黄金戒指",
@@ -3755,6 +3911,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34959,
+		["item_id"] = 29158,
 		["min_skill"] = 200,
 		["name"] = {
 			["Chinese"] = "真银指挥官之戒",
@@ -3785,6 +3942,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34960,
+		["item_id"] = 29159,
 		["min_skill"] = 280,
 		["name"] = {
 			["Chinese"] = "光芒瑟银指环",
@@ -3815,6 +3973,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 34961,
+		["item_id"] = 29160,
 		["min_skill"] = 290,
 		["name"] = {
 			["Chinese"] = "翡翠狮王戒指",
@@ -3845,6 +4004,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36523,
+		["item_id"] = 30419,
 		["min_skill"] = 75,
 		["name"] = {
 			["Chinese"] = "魔光项链",
@@ -3875,6 +4035,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36524,
+		["item_id"] = 30420,
 		["min_skill"] = 105,
 		["name"] = {
 			["Chinese"] = "重型翡翠戒指",
@@ -3905,6 +4066,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36525,
+		["item_id"] = 30421,
 		["min_skill"] = 230,
 		["name"] = {
 			["Chinese"] = "红色毁灭指环",
@@ -3935,6 +4097,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 36526,
+		["item_id"] = 30422,
 		["min_skill"] = 265,
 		["name"] = {
 			["Chinese"] = "钻石专注戒指",
@@ -3965,6 +4128,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 37818,
+		["item_id"] = 30804,
 		["min_skill"] = 65,
 		["name"] = {
 			["Chinese"] = "力量之青铜指环",
@@ -3995,6 +4159,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 37855,
+		["item_id"] = 30825,
 		["items"] = {
 			30826,
 		},
@@ -4016,6 +4181,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38068,
+		["item_id"] = 31079,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "水银精金",
@@ -4043,6 +4209,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38175,
+		["item_id"] = 31154,
 		["min_skill"] = 80,
 		["name"] = {
 			["Chinese"] = "青铜饰环",
@@ -4073,6 +4240,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38503,
+		["item_id"] = 31398,
 		["items"] = {
 			31401,
 		},
@@ -4094,6 +4262,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 38504,
+		["item_id"] = 31399,
 		["items"] = {
 			31402,
 		},
@@ -4115,6 +4284,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39451,
+		["item_id"] = 31860,
 		["items"] = {
 			31870,
 		},
@@ -4136,6 +4306,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39452,
+		["item_id"] = 31861,
 		["items"] = {
 			31875,
 		},
@@ -4157,6 +4328,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39455,
+		["item_id"] = 31862,
 		["items"] = {
 			31871,
 		},
@@ -4178,6 +4350,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39458,
+		["item_id"] = 31864,
 		["items"] = {
 			31872,
 		},
@@ -4199,6 +4372,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39462,
+		["item_id"] = 31865,
 		["items"] = {
 			31877,
 		},
@@ -4220,6 +4394,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39463,
+		["item_id"] = 31863,
 		["items"] = {
 			31876,
 		},
@@ -4241,6 +4416,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39466,
+		["item_id"] = 31866,
 		["items"] = {
 			31873,
 		},
@@ -4262,6 +4438,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39467,
+		["item_id"] = 31869,
 		["items"] = {
 			31874,
 		},
@@ -4283,6 +4460,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39470,
+		["item_id"] = 31867,
 		["items"] = {
 			31878,
 		},
@@ -4304,6 +4482,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39471,
+		["item_id"] = 31868,
 		["items"] = {
 			31879,
 		},
@@ -4325,6 +4504,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39705,
+		["item_id"] = 32193,
 		["items"] = {
 			32274,
 			35244,
@@ -4347,6 +4527,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39706,
+		["item_id"] = 32194,
 		["items"] = {
 			32277,
 			35246,
@@ -4369,6 +4550,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39710,
+		["item_id"] = 32195,
 		["items"] = {
 			32281,
 			35250,
@@ -4391,6 +4573,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39711,
+		["item_id"] = 32196,
 		["items"] = {
 			32282,
 			35248,
@@ -4413,6 +4596,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39712,
+		["item_id"] = 32197,
 		["items"] = {
 			32283,
 			35245,
@@ -4435,6 +4619,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39713,
+		["item_id"] = 32198,
 		["items"] = {
 			32284,
 			35249,
@@ -4457,6 +4642,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39714,
+		["item_id"] = 32199,
 		["items"] = {
 			32285,
 			35247,
@@ -4479,6 +4665,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39715,
+		["item_id"] = 32200,
 		["items"] = {
 			32286,
 			35263,
@@ -4501,6 +4688,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39716,
+		["item_id"] = 32201,
 		["items"] = {
 			32287,
 			35264,
@@ -4523,6 +4711,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39717,
+		["item_id"] = 32202,
 		["items"] = {
 			32288,
 			35262,
@@ -4545,6 +4734,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39718,
+		["item_id"] = 32203,
 		["items"] = {
 			32289,
 			35265,
@@ -4567,6 +4757,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39719,
+		["item_id"] = 32204,
 		["items"] = {
 			32290,
 			35255,
@@ -4589,6 +4780,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39720,
+		["item_id"] = 32205,
 		["items"] = {
 			32291,
 			35260,
@@ -4611,6 +4803,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39721,
+		["item_id"] = 32206,
 		["items"] = {
 			32292,
 			35259,
@@ -4633,6 +4826,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39722,
+		["item_id"] = 32207,
 		["items"] = {
 			32293,
 			35256,
@@ -4655,6 +4849,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39723,
+		["item_id"] = 32208,
 		["items"] = {
 			32294,
 			35261,
@@ -4677,6 +4872,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39724,
+		["item_id"] = 32209,
 		["items"] = {
 			32295,
 			35258,
@@ -4699,6 +4895,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39725,
+		["item_id"] = 32210,
 		["items"] = {
 			32296,
 			35257,
@@ -4721,6 +4918,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39727,
+		["item_id"] = 32211,
 		["items"] = {
 			32297,
 			35243,
@@ -4743,6 +4941,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39728,
+		["item_id"] = 32212,
 		["items"] = {
 			32298,
 			35242,
@@ -4765,6 +4964,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39729,
+		["item_id"] = 32213,
 		["items"] = {
 			32299,
 			35238,
@@ -4787,6 +4987,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39730,
+		["item_id"] = 32214,
 		["items"] = {
 			32300,
 			35240,
@@ -4809,6 +5010,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39731,
+		["item_id"] = 32215,
 		["items"] = {
 			32301,
 			35239,
@@ -4831,6 +5033,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39732,
+		["item_id"] = 32216,
 		["items"] = {
 			32302,
 			35241,
@@ -4853,6 +5056,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39733,
+		["item_id"] = 32217,
 		["items"] = {
 			32303,
 			35267,
@@ -4875,6 +5079,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39734,
+		["item_id"] = 32218,
 		["items"] = {
 			32304,
 			35269,
@@ -4897,6 +5102,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39735,
+		["item_id"] = 32219,
 		["items"] = {
 			32305,
 			35268,
@@ -4919,6 +5125,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39736,
+		["item_id"] = 32220,
 		["items"] = {
 			32306,
 			35266,
@@ -4941,6 +5148,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39737,
+		["item_id"] = 32221,
 		["items"] = {
 			32307,
 			35270,
@@ -4963,6 +5171,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39738,
+		["item_id"] = 32222,
 		["items"] = {
 			32308,
 			35271,
@@ -4985,6 +5194,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39739,
+		["item_id"] = 32223,
 		["items"] = {
 			32309,
 			35252,
@@ -5007,6 +5217,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39740,
+		["item_id"] = 32224,
 		["items"] = {
 			32310,
 			35254,
@@ -5029,6 +5240,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39741,
+		["item_id"] = 32225,
 		["items"] = {
 			32311,
 			35251,
@@ -5051,6 +5263,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39742,
+		["item_id"] = 32226,
 		["items"] = {
 			32312,
 			35253,
@@ -5073,6 +5286,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39961,
+		["item_id"] = 32409,
 		["items"] = {
 			33622,
 		},
@@ -5094,6 +5308,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 39963,
+		["item_id"] = 32410,
 		["items"] = {
 			32411,
 		},
@@ -5115,6 +5330,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 40514,
+		["item_id"] = 32508,
 		["min_skill"] = 340,
 		["name"] = {
 			["Chinese"] = "深海项链",
@@ -5128,12 +5344,10 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Collar de las profundidades",
 			["Taiwanese"] = "深淵項鍊",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 10000,
 			["sources"] = {
-				18751,
-				18774,
 				19063,
 				19539,
 			},
@@ -5142,6 +5356,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41414,
+		["item_id"] = 32772,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "耀眼的珍珠戒指",
@@ -5169,6 +5384,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41415,
+		["item_id"] = 32774,
 		["min_skill"] = 330,
 		["name"] = {
 			["Chinese"] = "黑色明珠",
@@ -5196,7 +5412,8 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41418,
-		["min_skill"] = 375,
+		["item_id"] = 32776,
+		["min_skill"] = 365,
 		["name"] = {
 			["Chinese"] = "海巫之冠",
 			["English"] = "Crown of the Sea Witch",
@@ -5209,7 +5426,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Corona de la Bruja del Mar",
 			["Taiwanese"] = "海巫之冠",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 		["trainers"] = {
 			["price"] = 10000,
 			["sources"] = {
@@ -5223,6 +5440,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41420,
+		["item_id"] = 32833,
 		["min_skill"] = 325,
 		["name"] = {
 			["Chinese"] = "纯净裂纹珍珠",
@@ -5250,6 +5468,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 41429,
+		["item_id"] = 32836,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "纯净暗影珍珠",
@@ -5277,6 +5496,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42558,
+		["item_id"] = 33133,
 		["items"] = {
 			33305,
 		},
@@ -5298,6 +5518,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42588,
+		["item_id"] = 33134,
 		["items"] = {
 			33155,
 		},
@@ -5319,6 +5540,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42589,
+		["item_id"] = 33131,
 		["items"] = {
 			33156,
 		},
@@ -5340,6 +5562,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42590,
+		["item_id"] = 33135,
 		["items"] = {
 			33157,
 		},
@@ -5361,6 +5584,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42591,
+		["item_id"] = 33143,
 		["items"] = {
 			33158,
 		},
@@ -5382,6 +5606,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42592,
+		["item_id"] = 33140,
 		["items"] = {
 			33159,
 		},
@@ -5403,6 +5628,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42593,
+		["item_id"] = 33144,
 		["items"] = {
 			33160,
 		},
@@ -5424,6 +5650,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 43493,
+		["item_id"] = 33782,
 		["items"] = {
 			33783,
 		},
@@ -5445,6 +5672,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 44794,
+		["item_id"] = 34220,
 		["items"] = {
 			34689,
 		},
@@ -5466,6 +5694,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46122,
+		["item_id"] = 34362,
 		["items"] = {
 			35198,
 		},
@@ -5487,6 +5716,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46123,
+		["item_id"] = 34363,
 		["items"] = {
 			35199,
 		},
@@ -5508,6 +5738,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46124,
+		["item_id"] = 34361,
 		["items"] = {
 			35200,
 		},
@@ -5529,6 +5760,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46125,
+		["item_id"] = 34359,
 		["items"] = {
 			35201,
 		},
@@ -5550,6 +5782,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46126,
+		["item_id"] = 34360,
 		["items"] = {
 			35202,
 		},
@@ -5571,6 +5804,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46127,
+		["item_id"] = 34358,
 		["items"] = {
 			35203,
 		},
@@ -5592,6 +5826,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46403,
+		["item_id"] = 35315,
 		["items"] = {
 			35322,
 		},
@@ -5608,11 +5843,12 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Piedra del alba rápida",
 			["Taiwanese"] = "迅速的黎明石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 46404,
+		["item_id"] = 35316,
 		["items"] = {
 			35323,
 		},
@@ -5629,11 +5865,12 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Topacio noble temerario",
 			["Taiwanese"] = "魯莽的皇家黃寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 46405,
+		["item_id"] = 35318,
 		["items"] = {
 			35325,
 		},
@@ -5650,11 +5887,12 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Talasita fuerte",
 			["Taiwanese"] = "堅強的泰拉寶石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 46597,
+		["item_id"] = 35501,
 		["items"] = {
 			35502,
 		},
@@ -5671,11 +5909,12 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Diamante de tormenta de tierra eterna",
 			["Taiwanese"] = "永恆的大地風暴鑽石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 46601,
+		["item_id"] = 35503,
 		["items"] = {
 			35505,
 		},
@@ -5692,11 +5931,12 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Diamante de fuego celeste de ascuas",
 			["Taiwanese"] = "餘燼的天火鑽石",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 46775,
+		["item_id"] = 35693,
 		["items"] = {
 			35695,
 		},
@@ -5718,6 +5958,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46776,
+		["item_id"] = 35694,
 		["items"] = {
 			35696,
 		},
@@ -5739,6 +5980,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46777,
+		["item_id"] = 35700,
 		["items"] = {
 			35697,
 		},
@@ -5760,6 +6002,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46778,
+		["item_id"] = 35702,
 		["items"] = {
 			35698,
 		},
@@ -5781,6 +6024,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46779,
+		["item_id"] = 35703,
 		["items"] = {
 			35699,
 		},
@@ -5802,6 +6046,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 46803,
+		["item_id"] = 35707,
 		["items"] = {
 			35708,
 		},
@@ -5823,6 +6068,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 47053,
+		["item_id"] = 35759,
 		["items"] = {
 			35765,
 			35769,
@@ -5840,11 +6086,12 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Esmeralda de espuma marina fuerte",
 			["Taiwanese"] = "堅強的海泉綠寶石",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 47054,
+		["item_id"] = 35758,
 		["items"] = {
 			35764,
 			35766,
@@ -5862,11 +6109,12 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Esmeralda de espuma marina firme",
 			["Taiwanese"] = "穩固的海泉綠寶石",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 47055,
+		["item_id"] = 35760,
 		["items"] = {
 			35762,
 			35767,
@@ -5884,11 +6132,12 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Piropiedra temeraria",
 			["Taiwanese"] = "魯莽的焚石",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 47056,
+		["item_id"] = 35761,
 		["items"] = {
 			35763,
 			35768,
@@ -5906,11 +6155,12 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Ojo de león rápido",
 			["Taiwanese"] = "迅速的獅眼石",
 		},
-		["phase"] = 5,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 47280,
+		["item_id"] = 35945,
 		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "闪亮的玻璃",
@@ -5938,6 +6188,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 	{
 		["expansion"] = 2,
 		["id"] = 48789,
+		["item_id"] = 37503,
 		["items"] = {
 			37504,
 		},
@@ -5954,6 +6205,6 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Amatista Cantosombrío purificada",
 			["Taiwanese"] = "純淨的影歌紫水晶",
 		},
-		["phase"] = 1,
+		["phase"] = 5,
 	},
 }

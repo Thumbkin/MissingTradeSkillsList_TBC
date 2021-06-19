@@ -40,6 +40,9 @@ MTSLUI_ADDON = {
     }
 }
 
+MTSL_PREVIOUS_OPENED_PROFESSION = nil
+MTSL_CURRENT_OPENED_PROFESSION = nil
+
 -- holds the icons of the professions
 MTSLUI_ICONS_PROFESSION = {
     -- Primary professions

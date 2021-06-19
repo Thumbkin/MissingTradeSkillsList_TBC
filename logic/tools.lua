@@ -490,8 +490,7 @@ MTSL_TOOLS = {
 				if skill.phase then current_phase = skill.phase end
 				-- Check if class only
 				local classes = MTSL_LOGIC_SKILL:GetClassesOnlyForSkill(skill.id, prof_name)
-				local class_only = false
-				if self:CountItemsInArray(classes) > 0 then class_only = true end
+				local class_only = (self:CountItemsInArray(classes) > 0)
 				-- Check if faction only
 				local available_horde = MTSL_LOGIC_SKILL:IsAvailableForFaction(skill.id, prof_name, horde_id)
 				local available_alliance = MTSL_LOGIC_SKILL:IsAvailableForFaction(skill.id, prof_name, alliance_id)

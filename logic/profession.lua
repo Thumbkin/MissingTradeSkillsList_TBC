@@ -4,9 +4,9 @@
 
 MTSL_LOGIC_PROFESSION = {
     BONUS_RACIAL = {
-        ["Enchanting"] = 10,  -- Blood Elf,
-        ["Herbalism"] = 15,   -- Tauren
-        ["Jewelcrafting"] = 5,  -- Draenei
+        ["Enchanting"] = 10, -- Blood Elf,
+        ["Herbalism"] = 15, -- Tauren
+        ["Jewelcrafting"] = 5, -- Draenei
     },
 
     ----------------------------------------------------------------------------------------
@@ -175,12 +175,12 @@ MTSL_LOGIC_PROFESSION = {
     GetAllAvailableSkillsForProfession = function(self, profession_name, max_phase, class_name)
         local profession_skills = {}
 
-        if MTSL_DATA["skills"][profession_name] ~= nil then
+        if MTSL_DATA["skills"][profession_name] then
             -- add all the skills, dont add a skill if obtainable for ohter classes
-            for _, v in pairs(MTSL_DATA["skills"][profession_name]) do
-                if MTSL_LOGIC_SKILL:IsSkillAvailableInPhase(v, max_phase) == true and
-                        (v.classes == nil or (v.classes ~= nil and MTSL_TOOLS:ListContainsKeyIngoreCasingAndSpaces(v.classes, class_name) == true)) then
-                    table.insert(profession_skills, v)
+            for _, skill in pairs(MTSL_DATA["skills"][profession_name]) do
+                if tonumber(skill.phase) <= tonumber(max_phase) and
+                        (not skill.classes or (skill.classes and MTSL_TOOLS:ListContainsKeyIngoreCasingAndSpaces(skill.classes, class_name))) then
+                    table.insert(profession_skills, skill)
                 end
             end
         end
@@ -198,7 +198,7 @@ MTSL_LOGIC_PROFESSION = {
     GetSkillIdsCurrentCraft = function(self)
         local learned_skill_ids = {}
         -- Loop all known skills
-        for i=1,GetNumCrafts() do
+        for i = 1, GetNumCrafts() do
             local _, _, skill_type = GetCraftInfo(i)
             -- Skip the headers, only check real skills
             if skill_type ~= "header" then
@@ -221,7 +221,7 @@ MTSL_LOGIC_PROFESSION = {
     GetSkillNamesCurrentTradeSkill = function(self)
         local learned_skill_names = {}
         -- Loop all known skills
-        for i=1,GetNumTradeSkills() do
+        for i = 1, GetNumTradeSkills() do
             local skill_name, skill_type = GetTradeSkillInfo(i)
             -- Skip the headers, only check real skills
             if skill_name ~= nil and skill_type ~= "header" then
@@ -237,20 +237,34 @@ MTSL_LOGIC_PROFESSION = {
     --
     -- return				Array		Array containing all the ids
     ------------------------------------------------------------------------------------------------
-    GetSkillIdsCurrentTradeSkill = function(self)
+    GetSkillIdsCurrentTradeSkill = function(self, profession_name)
         local learned_skill_ids = {}
-        -- Loop all known skills
-        for i=1,GetNumTradeSkills() do
-            local _ ,skill_type = GetTradeSkillInfo(i)
-            -- Skip the headers, only check real skills
-            if skill_type ~= "header" then
-                local itemLink = GetTradeSkillItemLink(i)
-                local itemID = itemLink:match("item:(%d+)")
-                table.insert(learned_skill_ids, itemID)
+        local localised_profession_name, _, _ = GetTradeSkillLine()
+        if profession_name and localised_profession_name == profession_name and TradeSkillFrame then
+            -- Loop all known skills
+            for i = 1, GetNumTradeSkills() do
+                local skill_name, skill_type = GetTradeSkillInfo(i)
+                -- Skip the headers, only check real skills
+                if skill_name ~= nil and skill_type ~= "header" then
+                    local crafted_item_id = GetTradeSkillItemLink(i):match("item:(%d+)")
+                    if crafted_item_id then
+                        local skill_id = MTSL_LOGIC_SKILL:GetSkillIdForProfessionByCraftedItemId(crafted_item_id, profession_name)
+                        if skill_id ~= 0 then
+                            table.insert(learned_skill_ids, skill_id)
+                        else
+                            local skill_id = MTSL_LOGIC_SKILL:GetSkillIdForProfessionByLocalisedName(skill_name, profession_name)
+                            if skill_id ~= 0 then
+                                table.insert(learned_skill_ids, skill_id)
+                            else
+                                print("Could not find the skill id of '" .. skill_name .."' (" .. profession_name .. ')')
+                            end
+                        end
+                    end
+                end
             end
+            -- Sort the list
+            learned_skill_ids = MTSL_TOOLS:SortArrayNumeric(learned_skill_ids)
         end
-        -- Sort the list
-        learned_skill_ids = MTSL_TOOLS:SortArrayNumeric(learned_skill_ids)
         -- return the found list
         return learned_skill_ids
     end,
@@ -440,9 +454,9 @@ MTSL_LOGIC_PROFESSION = {
         -- Make sure the profession has skills (herb/skin/fish do not)
         if MTSL_DATA["skills"][profession_name] ~= nil then
             for _, v in pairs(MTSL_DATA["skills"][profession_name]) do
-               if v.special_action and v.special_action == "auto learned" then
-                   table.insert(auto_learned, v.id)
-               end
+                if v.special_action and v.special_action == "auto learned" then
+                    table.insert(auto_learned, v.id)
+                end
             end
         end
 
