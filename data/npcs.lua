@@ -25201,6 +25201,35 @@ MTSL_DATA["npcs"] =
 	{
 		["expansion"] = 2,
 		["faction_id"] = 1011,
+		["id"] = 19186,
+		["location"] = {
+			["x"] = "75.75",
+			["y"] = "31.88",
+		},
+		["name"] = {
+			["Chinese"] = "凯蕾妮",
+			["English"] = "Kylene",
+			["French"] = "Kylene",
+			["German"] = "Kylene",
+			["Korean"] = "킬레네",
+			["Mexican"] = "Kylene",
+			["Portuguese"] = "Kylene",
+			["Russian"] = "Кайлена",
+			["Spanish"] = "Kylene",
+			["Taiwanese"] = "凱蕾妮",
+		},
+		["phase"] = 1,
+		["reacts"] = "Neutral",
+		["xp_level"] = {
+			["is_elite"] = 0,
+			["max"] = 60,
+			["min"] = 60,
+		},
+		["zone_id"] = 3703,
+	},
+	{
+		["expansion"] = 2,
+		["faction_id"] = 1011,
 		["id"] = 19187,
 		["location"] = {
 			["x"] = "67.20",

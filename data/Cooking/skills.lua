@@ -2407,7 +2407,8 @@ MTSL_DATA["skills"]["Cooking"] =
 	{
 		["expansion"] = 2,
 		["id"] = 42296,
-		["min_skill"] = 1,
+		["item_id"] = 33048,
+		["min_skill"] = 320,
 		["name"] = {
 			["Chinese"] = "炖鲑鱼",
 			["English"] = "Stewed Trout",
@@ -2420,13 +2421,19 @@ MTSL_DATA["skills"]["Cooking"] =
 			["Spanish"] = "Estofado de trucha",
 			["Taiwanese"] = "炖鲑魚",
 		},
-		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["phase"] = 4,
+		["trainers"] = {
+			["price"] = 60000,
+			["sources"] = {
+				19186,
+			}
+		}
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 42302,
-		["min_skill"] = 1,
+		["item_id"] = 33052,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "渔夫的美味",
 			["English"] = "Fisherman's Feast",
@@ -2439,13 +2446,19 @@ MTSL_DATA["skills"]["Cooking"] =
 			["Spanish"] = "Festín de pescador",
 			["Taiwanese"] = "漁夫的美味",
 		},
-		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["phase"] = 4,
+		["trainers"] = {
+			["price"] = 60000,
+			["sources"] = {
+				19186,
+			}
+		}
 	},
 	{
 		["expansion"] = 2,
 		["id"] = 42305,
-		["min_skill"] = 1,
+		["item_id"] = 33053,
+		["min_skill"] = 350,
 		["name"] = {
 			["Chinese"] = "黄油鲑鱼",
 			["English"] = "Hot Buttered Trout",
@@ -2458,8 +2471,13 @@ MTSL_DATA["skills"]["Cooking"] =
 			["Spanish"] = "Trucha con mantequilla caliente",
 			["Taiwanese"] = "黃油鲑魚",
 		},
-		["phase"] = 1,
-		["special_action"] = "auto learned",
+		["phase"] = 4,
+		["trainers"] = {
+			["price"] = 60000,
+			["sources"] = {
+				19186,
+			}
+		}
 	},
 	{
 		["expansion"] = 2,
