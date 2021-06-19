@@ -197,14 +197,16 @@ MTSL_LOGIC_PROFESSION = {
     ------------------------------------------------------------------------------------------------
     GetSkillIdsCurrentCraft = function(self)
         local learned_skill_ids = {}
-        -- Loop all known skills
-        for i = 1, GetNumCrafts() do
-            local _, _, skill_type = GetCraftInfo(i)
-            -- Skip the headers, only check real skills
-            if skill_type ~= "header" then
-                local itemLink = GetCraftItemLink(i)
-                local itemID = itemLink:match("enchant:(%d+)")
-                table.insert(learned_skill_ids, itemID)
+        if CraftFrame then
+            -- Loop all known skills
+            for i = 1, GetNumCrafts() do
+                local _, _, skill_type = GetCraftInfo(i)
+                -- Skip the headers, only check real skills
+                if skill_type ~= "header" then
+                    local itemLink = GetCraftItemLink(i)
+                    local itemID = itemLink:match("enchant:(%d+)")
+                    table.insert(learned_skill_ids, itemID)
+                end
             end
         end
         -- Sort the list
@@ -239,31 +241,33 @@ MTSL_LOGIC_PROFESSION = {
     ------------------------------------------------------------------------------------------------
     GetSkillIdsCurrentTradeSkill = function(self, profession_name)
         local learned_skill_ids = {}
-        local localised_profession_name, _, _ = GetTradeSkillLine()
-        if profession_name and localised_profession_name == profession_name and TradeSkillFrame then
-            -- Loop all known skills
-            for i = 1, GetNumTradeSkills() do
-                local skill_name, skill_type = GetTradeSkillInfo(i)
-                -- Skip the headers, only check real skills
-                if skill_name ~= nil and skill_type ~= "header" then
-                    local crafted_item_id = GetTradeSkillItemLink(i):match("item:(%d+)")
-                    if crafted_item_id then
-                        local skill_id = MTSL_LOGIC_SKILL:GetSkillIdForProfessionByCraftedItemId(crafted_item_id, profession_name)
-                        if skill_id ~= 0 then
-                            table.insert(learned_skill_ids, skill_id)
-                        else
-                            local skill_id = MTSL_LOGIC_SKILL:GetSkillIdForProfessionByLocalisedName(skill_name, profession_name)
+        if TradeSkillFrame then
+            local localise_profession_name, _, _ = GetTradeSkillLine()
+            local localised_profession_name = MTSL_LOGIC_PROFESSION:GetEnglishProfessionNameFromLocalisedName(localise_profession_name)
+            -- make sure we try to get the skills for the openeed tradeskill window
+            if profession_name and localised_profession_name == profession_name then
+                -- Loop all known skills
+                for i = 1, GetNumTradeSkills() do
+                    local skill_name, skill_type = GetTradeSkillInfo(i)
+                    -- Skip the headers, only check real skills
+                    if skill_name and skill_type ~= "header" then
+                        local crafted_item_id = GetTradeSkillItemLink(i):match("item:(%d+)")
+                        if crafted_item_id then
+                            local skill_id = MTSL_LOGIC_SKILL:GetSkillIdForProfessionByCraftedItemId(crafted_item_id, profession_name)
                             if skill_id ~= 0 then
                                 table.insert(learned_skill_ids, skill_id)
                             else
-                                print("Could not find the skill id of '" .. skill_name .."' (" .. profession_name .. ')')
+                                local skill_id = MTSL_LOGIC_SKILL:GetSkillIdForProfessionByLocalisedName(skill_name, profession_name)
+                                if skill_id ~= 0 then
+                                    table.insert(learned_skill_ids, skill_id)
+                                end
                             end
                         end
                     end
                 end
+                -- Sort the list
+                learned_skill_ids = MTSL_TOOLS:SortArrayNumeric(learned_skill_ids)
             end
-            -- Sort the list
-            learned_skill_ids = MTSL_TOOLS:SortArrayNumeric(learned_skill_ids)
         end
         -- return the found list
         return learned_skill_ids

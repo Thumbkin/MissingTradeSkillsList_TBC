@@ -1,5 +1,17 @@
 ## Version History
 
+### v2.5.08 (June 19, 2021)
+
+* Optimised the way the addon scans for missing skills
+* Optimised code for scanning skills when swapping TradeSkillFrame & CraftFrame and rehooking MTSL button
+* Added all upcoming patches as filter possibility to the regular MTSL window as well
+* Fixed data:
+  * All professions should now have their correct localised name
+  * Cooking recipe "Ravager dogs" is now also sold by Alliance vendor
+  * All skills should now have the correct phase (if you find any mistake, create an isssue)
+* Added data:
+  * Added item_id for each skill that represents the id of the item that is created when executing the spell
+  
 ### v2.5.07 (June 17, 2021)
 
 * All professions should now have all the correct data

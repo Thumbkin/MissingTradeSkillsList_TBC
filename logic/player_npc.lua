@@ -566,34 +566,35 @@ MTSL_LOGIC_PLAYER_NPC = {
     -- @max_level               Number      Maximum number of skilllevel that can be achieved for current rank
     ------------------------------------------------------------------------------------------------
     UpdateMissingSkillsForProfessionCurrentPlayer = function(self, profession_name, current_skill_level, max_level)
-        -- Reset any previously saved skills
-        MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name] = {
-            ["NAME"] = profession_name,
-            ["AMOUNT_MISSING"] = 0,
-            ["SKILL_LEVEL"] = current_skill_level,
-            ["SPELLID_HIGHEST_KNOWN_RANK"] = 0,
-            -- Array because you can learn 2 specialisations as Blacksmith
-            ["SPELLIDS_SPECIALISATION"] = {},
-            ["HIGHEST_KNOWN_RANK"] = 0,
-            ["AMOUNT_LEARNED"] = 0,
-            ["MISSING_SKILLS"] = {},
-            ["LEARNED_SKILLS"] = {},
-        }
+        if profession_name then
+            -- Reset any previously saved skills
+            MTSL_CURRENT_PLAYER.TRADESKILLS[profession_name] = {
+                ["NAME"] = profession_name,
+                ["AMOUNT_MISSING"] = 0,
+                ["SKILL_LEVEL"] = current_skill_level,
+                ["SPELLID_HIGHEST_KNOWN_RANK"] = 0,
+                -- Array because you can learn 2 specialisations as Blacksmith
+                ["SPELLIDS_SPECIALISATION"] = {},
+                ["HIGHEST_KNOWN_RANK"] = 0,
+                ["AMOUNT_LEARNED"] = 0,
+                ["MISSING_SKILLS"] = {},
+                ["LEARNED_SKILLS"] = {},
+            }
 
-        -- only scan for missing skills if it has a tradeskill/craft frame
-        local amount_specs_learned = 0
-        local known_skill_ids = {}
-        if profession_name == "Enchanting" then
-            known_skill_ids = MTSL_LOGIC_PROFESSION:GetSkillIdsCurrentCraft(profession_name)
-        else
-            amount_specs_learned = self:UpdateSpecialisations(profession_name)
-            known_skill_ids = MTSL_LOGIC_PROFESSION:GetSkillIdsCurrentTradeSkill(profession_name)
+            -- only scan for missing skills if it has a tradeskill/craft frame
+            local amount_specs_learned = 0
+            local known_skill_ids = {}
+            if profession_name == "Enchanting" then
+                known_skill_ids = MTSL_LOGIC_PROFESSION:GetSkillIdsCurrentCraft(profession_name)
+            else
+                amount_specs_learned = self:UpdateSpecialisations(profession_name)
+                known_skill_ids = MTSL_LOGIC_PROFESSION:GetSkillIdsCurrentTradeSkill(profession_name)
+            end
+
+            self:UpdateMissingSkillsForProfession(known_skill_ids, profession_name, amount_specs_learned)
+
+            self:UpdateMissingLevelsForProfessionCurrentPlayer(profession_name, max_level)
         end
-        print("Swapped to " .. profession_name)
-        print("Found " .. #known_skill_ids .. " known skills")
-        self:UpdateMissingSkillsForProfession(known_skill_ids, profession_name, amount_specs_learned)
-
-        self:UpdateMissingLevelsForProfessionCurrentPlayer(profession_name, max_level)
     end,
 
     UpdateSpecialisations = function(self, profession_name)

@@ -256,7 +256,7 @@ MTSLUI_TOOLS = {
 	-- Prints info about newest additions to the addon to chat
 	----------------------------------------------------------------------------------------
 	PrintPatchMessage = function (self)
-		print(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_ADDON.NAME .. ": New in  version " .. MTSLUI_FONTS.COLORS.TEXT.NORMAL .. MTSLUI_ADDON.VERSION)
+		print(MTSLUI_FONTS.COLORS.TEXT.TITLE .. MTSLUI_ADDON.NAME .. ": New in version " .. MTSLUI_FONTS.COLORS.TEXT.NORMAL .. MTSLUI_ADDON.VERSION)
 		print(MTSLUI_ADDON.PATCH_TEXT)
 	end,
 	----------------------------------------------------------------------------------------

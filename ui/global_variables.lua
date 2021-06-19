@@ -6,14 +6,17 @@
 MTSLUI_ADDON = {
     AUTHOR = "Thumbkin",
     NAME = "Missing TradeSkills List (TBC)",
-    VERSION = "2.5.07",
-    PATCH_TEXT = '* All professions should now have all the correct data\n' ..
-                '* Fixed bug when showing the details of a Quest with NPCs lead to "nil" error\n' ..
-                '* Fixed bug where skills learned in spellbook still showed as unlearned\n' ..
-                '* Added the reputation needed for all items sold by any TBC faction quartermaster\n' ..
-                '* Added the TBC factions to the filter frame\n' ..
-                '* Addded racial bonus for Enchanting (Blood Elf) & Jewelcrafting (Draenei)\n' ..
-                '* Added ability to show the 2nd vendor using reputation when available\n',
+    VERSION = "2.5.08",
+    PATCH_TEXT =
+'* Optimised the way the addon scans for missing skills\n' ..
+'* Optimised code for scanning skills when swapping TradeSkillFrame & CraftFrame and rehooking MTSL button\n' ..
+'* Added all upcoming patches as filter possibility to the regular MTSL window as well\n' ..
+'* Fixed data:\n' ..
+'     * All professions should now have their correct localised name\n' ..
+'     * Cooking recipe "Ravager dogs" is now also sold by Alliance vendor\n' ..
+'     * All skills should now have the correct phase \n' ..
+'* Added data:\n' ..
+'     * Added item_id for each skill that represents the id of the item that is created when executing the spell',
 
     SERVER_VERSION_PHASES = {
         -- max build number from server for phase 1,
@@ -40,7 +43,8 @@ MTSLUI_ADDON = {
     }
 }
 
-MTSL_PREVIOUS_OPENED_PROFESSION = nil
+MTSL_CURRENT_OPENED_CRAFT = nil
+MTSL_CURRENT_OPENED_TRADESKILL = nil
 MTSL_CURRENT_OPENED_PROFESSION = nil
 
 -- holds the icons of the professions
