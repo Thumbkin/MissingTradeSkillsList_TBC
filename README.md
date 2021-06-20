@@ -60,6 +60,12 @@ Minimap button & Enhanced tooltip
 
 Found a bug? Want to report wrong data?  
 Make an issue here: https://github.com/Thumbkin/MissingTradeSkillsList_TBC/issues
+Make sure to include the following details when making an issue:
+- Locale you play the game in (a.k.a. the language of your game)
+- Brief description of the problem
+- The error message, if its a bugreport, 
+- The saved content of MissingTradeSkillsList_TBC.lua in \_classic\_/WTF/Account/<your account name>/SavedVariables/
+- Add screenshot(s) to describe the problem or from the errror (optional)
 
 **Make sure you have the latest version of the addon installed and checked current opened issues before reporting a new issue!**
 
