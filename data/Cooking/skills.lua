@@ -2421,7 +2421,7 @@ MTSL_DATA["skills"]["Cooking"] =
 			["Spanish"] = "Estofado de trucha",
 			["Taiwanese"] = "炖鲑魚",
 		},
-		["phase"] = 4,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -2446,7 +2446,7 @@ MTSL_DATA["skills"]["Cooking"] =
 			["Spanish"] = "Festín de pescador",
 			["Taiwanese"] = "漁夫的美味",
 		},
-		["phase"] = 4,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 60000,
 			["sources"] = {
@@ -2471,7 +2471,7 @@ MTSL_DATA["skills"]["Cooking"] =
 			["Spanish"] = "Trucha con mantequilla caliente",
 			["Taiwanese"] = "黃油鲑魚",
 		},
-		["phase"] = 4,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 60000,
 			["sources"] = {
