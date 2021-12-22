@@ -590,7 +590,7 @@ MTSLUI_SAVED_VARIABLES = {
         local _, _, _, tocversion = GetBuildInfo()
         if tocversion then
             for _, v in pairs(MTSLUI_ADDON.SERVER_VERSION_PHASES) do
-                if v.max_tocversion <= tocversion then
+                if v.max_tocversion >= tocversion then
                     return v.id
                 end
             end
