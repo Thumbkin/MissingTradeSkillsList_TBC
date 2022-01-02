@@ -5344,7 +5344,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Collar de las profundidades",
 			["Taiwanese"] = "深淵項鍊",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 10000,
 			["sources"] = {
@@ -5426,7 +5426,7 @@ MTSL_DATA["skills"]["Jewelcrafting"] =
 			["Spanish"] = "Corona de la Bruja del Mar",
 			["Taiwanese"] = "海巫之冠",
 		},
-		["phase"] = 3,
+		["phase"] = 2,
 		["trainers"] = {
 			["price"] = 10000,
 			["sources"] = {
