@@ -2246,7 +2246,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["quality"] = "uncommon",
 		["reputation"] = {
 			["faction_id"] = 935,
-			["level_id"] = 6,
+			["level_id"] = 7,
 		},
 		["vendors"] = {
 			["price"] = 80000,
