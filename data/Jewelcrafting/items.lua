@@ -1854,7 +1854,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "rare",
 		["reputation"] = {
 			["faction_id"] = 935,
-			["level_id"] = 6,
+			["level_id"] = 7,
 		},
 		["vendors"] = {
 			["price"] = 120000,
@@ -2968,6 +2968,10 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		},
 		["phase"] = 1,
 		["quality"] = "epic",
+		["reputation"] = {
+			["faction_id"] = 967,
+			["level_id"] = 6,
+		},		
 		["vendors"] = {
 			["price"] = 120000,
 			["sources"] = {
@@ -4367,7 +4371,7 @@ MTSL_DATA["items"]["Jewelcrafting"] =
 		["quality"] = "common",
 		["reputation"] = {
 			["faction_id"] = 935,
-			["level_id"] = 6,
+			["level_id"] = 7,
 		},
 		["vendors"] = {
 			["price"] = 120000,
