@@ -4301,7 +4301,7 @@ MTSL_DATA["skills"]["Alchemy"] =
 			["Spanish"] = "Frasco de Maravilla cromática",
 			["Taiwanese"] = "炫彩驚奇精煉藥劑",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 	},
 	{
 		["expansion"] = 2,
