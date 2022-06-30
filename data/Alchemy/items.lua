@@ -2246,7 +2246,7 @@ MTSL_DATA["items"]["Alchemy"] =
 		["quality"] = "uncommon",
 		["reputation"] = {
 			["faction_id"] = 935,
-			["level_id"] = 6,
+			["level_id"] = 7,
 		},
 		["vendors"] = {
 			["price"] = 80000,
@@ -2972,8 +2972,12 @@ MTSL_DATA["items"]["Alchemy"] =
 			["Spanish"] = "Receta: frasco de Maravilla cromática",
 			["Taiwanese"] = "配方:炫彩驚奇精煉藥劑",
 		},
-		["phase"] = 1,
+		["phase"] = 3,
 		["quality"] = "uncommon",
+		["reputation"] = {
+			["faction_id"] = 967,
+			["level_id"] = 6,
+		},		
 		["vendors"] = {
 			["price"] = 40000,
 			["sources"] = {
